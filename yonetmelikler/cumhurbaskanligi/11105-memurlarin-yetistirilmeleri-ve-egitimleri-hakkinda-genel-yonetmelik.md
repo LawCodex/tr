@@ -516,7 +516,7 @@ kapsayacak şekilde kurum ve kuruluşların eğitim planlarında yer verilen eğ
 
 ### MADDE 31 — Uzaktan eğitim
 
-*******(1) Bu Yönetmelik kapsamındaki eğitimlerin gerçekleştirilmesinde, hızlı ve eşit erişim sağlanması, bireyselleştirilmiş öğrenmenin desteklenmesi, veri temelli izleme ve raporlama ile kamu kaynaklarının etkin, verimli ve sürdürülebilir kullanımı esaslarından hareketle uzaktan eğitim yönteminden faydalanılabilir.*
+(1) Bu Yönetmelik kapsamındaki eğitimlerin gerçekleştirilmesinde, hızlı ve eşit erişim sağlanması, bireyselleştirilmiş öğrenmenin desteklenmesi, veri temelli izleme ve raporlama ile kamu kaynaklarının etkin, verimli ve sürdürülebilir kullanımı esaslarından hareketle uzaktan eğitim yönteminden faydalanılabilir.*
 
 *(2) Uzaktan eğitimler, içeriğin niteliği ve hedeflenen yetkinlikler doğrultusunda eş zamanlı veya eş zamansız olarak gerçekleştirilebilir. Uzaktan eğitim yönteminin kullanımı, eğitim ihtiyaç analizi ve yıllık eğitim planı çerçevesinde belirlenir.*
 

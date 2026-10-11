@@ -590,7 +590,7 @@ b) Harcama birimlerinin bünyesinde bulunan ambarlara harcama yetkililerince bir
 
 ### MADDE 39 — Kayıt hatalarının düzeltilmesi
 
-********(1) Taşınırın kodunda, birim maliyet bedelinde**, **miktarında** *ve benzeri kayıt hatalarının bulunması* **durumunda, harcama yetkilisinin onayı üzerine düzenlenecek yeni** *Varlık* **İşlem Fişiyle hatalı kaydın çıkış işlemi yapılır. Daha sonra düzenlenecek** *Varlık* **İşlem Fişiyle de doğru verinin girişi yapılmak suretiyle hata düzeltilir. Muhasebe kayıtlarını etkileyen düzeltmelere ilişkin** *Varlık* **İşlem Fişlerinin bir nüshası muhasebe birimine gönderilir.**
+**(1) Taşınırın kodunda, birim maliyet bedelinde**, **miktarında** *ve benzeri kayıt hatalarının bulunması* **durumunda, harcama yetkilisinin onayı üzerine düzenlenecek yeni** *Varlık* **İşlem Fişiyle hatalı kaydın çıkış işlemi yapılır. Daha sonra düzenlenecek** *Varlık* **İşlem Fişiyle de doğru verinin girişi yapılmak suretiyle hata düzeltilir. Muhasebe kayıtlarını etkileyen düzeltmelere ilişkin** *Varlık* **İşlem Fişlerinin bir nüshası muhasebe birimine gönderilir.**
 
 **(2) Mahsup dönemi sonuna kadar tespit edilen kayıt hataları, ilgili olduğu yılın hesaplarına; daha sonra tespit edilen kayıt hataları ise cari yıl hesaplarına** *kaydedilerek* **düzeltilir.**
 
@@ -610,20 +610,20 @@ yetkilidir.
 
 ### MADDE 41 — Yürürlükten kaldırılan yönetmelik ve mevzuattaki atıflar
 
-*******(1) 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliği yürürlükten kaldırılmıştır.*
+(1) 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliği yürürlükten kaldırılmıştır.*
 
 *(2) Mevzuatta, birinci fıkra ile yürürlükten kaldırılan Taşınır Mal Yönetmeliğine ve Ayniyat Talimatnamesine yapılan atıflar bu Yönetmeliğe, taşınır kayıt ve kontrol yetkilisine yapılan atıflar taşınır kayıt yetkilisine, Taşınır Kesin Hesabına yapılan atıflar İdare Taşınır Mal Yönetimi Hesabına, Taşınır İşlem Fişine yapılan atıflar Varlık İşlem Fişine yapılmış sayılır.*
 
 ### GEÇİCİ MADDE 1 — Taşınır bilişim sistemlerinde yapılacak işlemler ve geçiş dönemi
 
-*******(1) Kamu idarelerinin kullandığı taşınır bilişim sistemlerinde, 31/12/2025 tarihine kadar bu Yönetmeliğin uygulanmasında kullanılacak olan fiş, belge, liste, alındı belgesi, tutanak ve cetveller, Bakanlık internet sitesinin ilgili bölümünde yayımlanan şekle uygun hâle getirilerek kullanılmaya başlanılır.*
+(1) Kamu idarelerinin kullandığı taşınır bilişim sistemlerinde, 31/12/2025 tarihine kadar bu Yönetmeliğin uygulanmasında kullanılacak olan fiş, belge, liste, alındı belgesi, tutanak ve cetveller, Bakanlık internet sitesinin ilgili bölümünde yayımlanan şekle uygun hâle getirilerek kullanılmaya başlanılır.*
 
 *(2) Kamu idarelerince, taşınır bilişim sistemlerinin bu Yönetmelikte belirlenen usul ve esaslara uygun h*â*le getirilinceye kadar 41 inci madde ile yürürlükten kaldırılan yönetmeliğin eki defter, belge ve cetvellerin kullanılmasına devam edilir.*
 
 ### MADDE 42 — Yürürlük
 
-**********(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
 ### MADDE 43 — Yürütme
 
-**********(1) Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.
+(1) Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.

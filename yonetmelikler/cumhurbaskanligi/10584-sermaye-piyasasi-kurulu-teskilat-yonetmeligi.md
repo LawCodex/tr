@@ -30,7 +30,7 @@ retrieved: 2026-10-12
 
 ### MADDE 2 — Kapsam
 
-*******(1) Bu Yönetmelik,* Sermaye Piyasası Kurulu *teşkilatı ile görev yapanları kapsar.*
+(1) Bu Yönetmelik,* Sermaye Piyasası Kurulu *teşkilatı ile görev yapanları kapsar.*
 
 ### MADDE 3 — Dayanak
 

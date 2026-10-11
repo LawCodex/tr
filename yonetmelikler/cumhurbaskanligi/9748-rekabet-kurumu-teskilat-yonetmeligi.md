@@ -30,7 +30,7 @@ retrieved: 2026-10-12
 
 ### MADDE 2 — Kapsam
 
-*******(1) Bu Yönetmelik,* Rekabet Kurumu *teşkilatı ile görev yapan personeli kapsar.*
+(1) Bu Yönetmelik,* Rekabet Kurumu *teşkilatı ile görev yapan personeli kapsar.*
 
 ### MADDE 3 — Dayanak
 
@@ -122,7 +122,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 10 — Kurul toplantıları
 
-*******(1) Kurul toplantılarını, Başkan veya yokluğunda ikinci başkan yönetir.*
+(1) Kurul toplantılarını, Başkan veya yokluğunda ikinci başkan yönetir.*
 
 *(2) Kurul toplantısının zamanı ve gündemi, Başkan tarafından, yokluğunda ikinci başkan tarafından belirlenir. Toplantı tarih ve saati ile gündem, toplantıdan önce Kurul üyelerine bildirilir.*
 
@@ -134,19 +134,19 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 11 — Toplantılara katılım
 
-********(1) Başkan,** *ikinci başkan* **ve** *Kurul* **üyelerinin bütün toplantılarda bulunmaları esastır.**
+**(1) Başkan,** *ikinci başkan* **ve** *Kurul* **üyelerinin bütün toplantılarda bulunmaları esastır.**
 
 **(2) Mazeretli olanların, mazeretlerini yazılı olarak Başkanlığa bildirmeleri gereklidir.**
 
 ### MADDE 12 — Kurul kararları
 
-********(1) Kurul kararları**, **gizli görüşme sonucu alınır ve alenen tefhim edilir. Hiçbir Kurul üyesinin oyu çekimser olamaz.**
+**(1) Kurul kararları**, **gizli görüşme sonucu alınır ve alenen tefhim edilir. Hiçbir Kurul üyesinin oyu çekimser olamaz.**
 
 *(2) Gündemde yer alan konular, toplantıya katılanlar arasında serbestçe tartışıldıktan sonra Başkan oyları toplar ve en son kendi oyunu verir. Kurul, oylamanın kapalı yapılmasını kararlaştırabilir.*
 
 ### MADDE 13 — Toplantı ve karar yeter sayıları
 
-********(1) Kurul, nihai kararlarında Başkan ya da** *i***kinci** *b***aşkan dâhil en az beş üyenin katılımı ile toplanır ve en az dört üyenin aynı yönde oy kullanması ile karar verir.**
+**(1) Kurul, nihai kararlarında Başkan ya da** *i***kinci** *b***aşkan dâhil en az beş üyenin katılımı ile toplanır ve en az dört üyenin aynı yönde oy kullanması ile karar verir.**
 
 **(2) İlk toplantıda karar için gerekli nisabın sağlanamadığı durumlarda Başkan, ikinci toplantıya tüm üyelerin iştirakini sağlar. Ancak bunun mümkün olmaması hâlinde karar, toplantıya katılanların salt çoğunluğu ile alınır. Bu durumda da toplantı nisabı birinci fıkrada belirtilenden az olamaz. İkinci toplantıda oylarda eşitlik olması hâlinde Başkanın bulunduğu tarafın oyu üstün sayılır.**
 
@@ -156,7 +156,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 14 — Kararların yazılması ve kararlarda bulunması gereken hususlar
 
-********(1)** *Kararlar, Başkan veya onun görevlendireceği bir üye tarafından yazılır.*
+**(1)** *Kararlar, Başkan veya onun görevlendireceği bir üye tarafından yazılır.*
 
 *(2)* **Kararlarda aşağıdaki hususlar yer alır:**
 
@@ -196,7 +196,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 15 — Tutanaklar
 
-********(1)** *Alınan kararlar tutanakla tespit edilir. Kararların yazıldığı tutanakların her sayfası, toplantı esnasında veya en geç toplantıyı izleyen iş günü toplantıya katılan Başkan ve/veya ikinci başkan ile üyeler tarafından imzalanır.*
+**(1)** *Alınan kararlar tutanakla tespit edilir. Kararların yazıldığı tutanakların her sayfası, toplantı esnasında veya en geç toplantıyı izleyen iş günü toplantıya katılan Başkan ve/veya ikinci başkan ile üyeler tarafından imzalanır.*
 
 **(2) Karara aykırı görüşte olanlar, ayrı veya birlikte karşı oy yazısını tutanağa yazdırır.**
 
@@ -208,7 +208,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 17 — Kararların saklanması, gönderilmesi ve yayımlanması
 
-********(1)** *Kararların aslı arşivde saklanır. Birer nüshası taraflara tebliğ edilir.* **Kararların onaylı örnekleri, gereği yapılmak üzere ilgili hizmet birimlerine veya Kanunda öngörülen hâllerde ilgili kuruluşlara gönderilir.**
+**(1)** *Kararların aslı arşivde saklanır. Birer nüshası taraflara tebliğ edilir.* **Kararların onaylı örnekleri, gereği yapılmak üzere ilgili hizmet birimlerine veya Kanunda öngörülen hâllerde ilgili kuruluşlara gönderilir.**
 
 **(2) Hizmet birimlerine gönderilecek onaylı karar örneklerinde, farklı görüş ve açıklamalar bulunmaz.**
 
@@ -216,7 +216,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 18 — Kararların açıklanması
 
-********(1) Kurul kararları**, **tarafların ticari nitelikli sırlarını ifşa etmeyecek şekilde Kurum internet sayfasında yayınlanır.**
+**(1) Kurul kararları**, **tarafların ticari nitelikli sırlarını ifşa etmeyecek şekilde Kurum internet sayfasında yayınlanır.**
 
 **(2) Toplantılarda görüşülen konular ve alınan kararlar hakkında ve Kurumun her türlü çalışmaları ile ilgili olarak gerektiğinde basın ve yayın organlarına ancak Başkan tarafından açıklama yapılır.**
 
@@ -224,11 +224,11 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 19 — Başkanlığın teşekkülü
 
-********(1) Başkanlık; Başkan,** *i***kinci** *b***aşkan ve Kurul** *b***aşkan** *y***ardımcılarından teşekkül eder.**
+**(1) Başkanlık; Başkan,** *i***kinci** *b***aşkan ve Kurul** *b***aşkan** *y***ardımcılarından teşekkül eder.**
 
 ### MADDE 20 — Başkan
 
-*******(1) Kurul Başkanı aynı zamanda Kurumun da Başkanı olup Kurumun en üst amiridir. Başkan, Kurumun genel yönetim ve temsilinden sorumludur. Bu sorumluluk, Kurumun çalışmalarının genel çerçevede düzenlenmesi, denetlenmesi, değerlendirilmesi ve gerektiğinde kamuya duyurulması görev ve yetkilerini kapsar.*
+(1) Kurul Başkanı aynı zamanda Kurumun da Başkanı olup Kurumun en üst amiridir. Başkan, Kurumun genel yönetim ve temsilinden sorumludur. Bu sorumluluk, Kurumun çalışmalarının genel çerçevede düzenlenmesi, denetlenmesi, değerlendirilmesi ve gerektiğinde kamuya duyurulması görev ve yetkilerini kapsar.*
 
 *(2) Başkanın izin, hastalık, yurt içi ve yurt dışı görevlendirme ve görevde bulunmadığı diğer hâller ile görevden alınması durumunda ikinci başkan, Başkana vekâlet eder.*
 
@@ -238,7 +238,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 21 — Başkan yardımcıları
 
-********(1) Başkanlık hizmetlerinin yürütülmesinde Başkana yardımcı olmak üzere üç başkan** *y***ardımcısı görevlendirilebilir.**
+**(1) Başkanlık hizmetlerinin yürütülmesinde Başkana yardımcı olmak üzere üç başkan** *y***ardımcısı görevlendirilebilir.**
 
 *(2) Başkan yardımcıları, Başkanın teklifi üzerine Kurul tarafından atanır.*
 
@@ -250,7 +250,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 22 — Başkanlığın görev ve yetkileri
 
-********(1)** *Başka***nlığın görev ve yetkileri şunlardır:**
+**(1)** *Başka***nlığın görev ve yetkileri şunlardır:**
 
 *a) Kurumun karar organı olan Kurul ile hizmet birimlerinin uyumlu, verimli, disiplinli ve düzenli bir biçimde çalışmasının en üst düzeyde organizasyonu ve koordinasyonunu sağlamak, Kurum hizmet birimleri arasında çıkabilecek görev ve yetki sorunlarını çözmek.*
 
@@ -278,7 +278,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 23 — Hizmet birimleri
 
-********(1) Kurumun hizmet birimleri; Daire Başkanlıkları şeklinde teşkilatlanmış ana hizmet birimleri, danışma birimleri ve yardımcı hizmet birimlerinden oluşur.**
+**(1) Kurumun hizmet birimleri; Daire Başkanlıkları şeklinde teşkilatlanmış ana hizmet birimleri, danışma birimleri ve yardımcı hizmet birimlerinden oluşur.**
 
 **(2) Doğrudan Başkana bağlı birimler ile başkan yardımcılarının sorumlu olacakları hizmet birimleri Başkan tarafından belirlenir.**
 
@@ -324,7 +324,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 24 — Bilişim Teknolojileri Daire Başkanlığı
 
-********(1)** *Kurumun ana hizmet birimlerinden olan* **Bilişim Teknolojileri Daire Başkanlığının görevleri şunlardır:**
+**(1)** *Kurumun ana hizmet birimlerinden olan* **Bilişim Teknolojileri Daire Başkanlığının görevleri şunlardır:**
 
 **a) Bilişim teknolojileri konusundaki gelişmeleri takip ederek Kurumun bilişim sistemleri ile bilgi yönetimine ilişkin politika önerilerinde bulunmak, belirlenen politikalar çerçevesinde ilgili birimin koordinasyonunda prosedürler geliştirmek ve uygulamak.**
 
@@ -374,7 +374,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 25 — Denetim ve Uygulama Daire Başkanlıkları
 
-********(1) Başkan, Denetim ve Uygulama Daire Başkanlıkları arasındaki görev dağılımı ile bu Daire Başkanlıklarının isimlendirilmesini belirler.**
+**(1) Başkan, Denetim ve Uygulama Daire Başkanlıkları arasındaki görev dağılımı ile bu Daire Başkanlıklarının isimlendirilmesini belirler.**
 
 **(2)** *Kurumun ana hizmet birimlerinden olan* **Denetim ve Uygulama Daire Başkanlıklarının görevleri şunlardır:**
 
@@ -410,7 +410,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 26 — Dış İlişkiler ve Rekabet Savunuculuğu Daire Başkanlığı
 
-********(1)** *Kurumun ana hizmet birimlerinden olan* **Dış İlişkiler ve Rekabet Savunuculuğu Daire Başkanlığının görevleri şunlardır:**
+**(1)** *Kurumun ana hizmet birimlerinden olan* **Dış İlişkiler ve Rekabet Savunuculuğu Daire Başkanlığının görevleri şunlardır:**
 
 **a) Kurumun faaliyet alanı ile ilgili olarak; kamu kurum ve kuruluşlarıyla, yurt içindeki ve yurt dışındaki kurum ve kuruluşlarla, iş dünyasıyla, medyayla, vatandaşlarla veya uluslararası kuruluşlarla ilişkileri, gerektiğinde Kurumun ilgili birimleri ile gerekli bilgilendirme, koordinasyon ve temaslarda bulunmak suretiyle yürütmek.**
 
@@ -458,7 +458,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 27 — Ekonomik Analiz ve Araştırma Daire Başkanlığı
 
-********(1)** *Kurumun ana hizmet birimlerinden olan* **Ekonomik Analiz ve Araştırma Daire Başkanlığının görevleri şunlardır:** [^1]
+**(1)** *Kurumun ana hizmet birimlerinden olan* **Ekonomik Analiz ve Araştırma Daire Başkanlığının görevleri şunlardır:** [^1]
 
 **a) Kurul kararlarında öngörülen veya tespiti yapılan sektörlerde ve piyasalarda araştırma ve analiz yapmak.**
 
@@ -486,7 +486,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 28 — Kararlar Daire Başkanlığı
 
-********(1)** *Kurumun ana hizmet birimlerinden olan* **Kararlar Daire Başkanlığının görevleri şunlardır:**
+**(1)** *Kurumun ana hizmet birimlerinden olan* **Kararlar Daire Başkanlığının görevleri şunlardır:**
 
 **a) Başkan tarafından gündeme alınması uygun görülen konuları içeren toplantı gündemini hazırlamak, gündem ve gündemdeki konulara ilişkin rapor ve ekleri ile bunlara ilişkin varsa görüş ve değerlendirmeleri toplantıdan önce Kurul üyelerine ve ilgililere sunmak ve varsa eksiklikleri ilgili birimlerle iş birliği içinde tamamlamak.**
 
@@ -518,7 +518,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 29 — Strateji Geliştirme Daire Başkanlığı
 
-********(1)** *Kurumun ana hizmet birimlerinden olan* **Strateji Geliştirme Daire Başkanlığının görevleri şunlardır:**
+**(1)** *Kurumun ana hizmet birimlerinden olan* **Strateji Geliştirme Daire Başkanlığının görevleri şunlardır:**
 
 **a) Kurumun strateji, politika, amaç ve hedeflerinin belirlenmesine yönelik çalışmaları yapmak, stratejik planını hazırlamak, uygulamayı izlemek, değerlendirmek, üst yönetime iyileştirici önerilerde bulunmak, ilerleme raporlarını düzenlemek ve bunları ilgililerle paylaşmak.**
 
@@ -554,7 +554,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 30 — Hukuk Müşavirliği
 
-********(1)** *Kurumun danışma birimlerinden olan* **Hukuk Müşavirliğinin görevleri şunlardır:**
+**(1)** *Kurumun danışma birimlerinden olan* **Hukuk Müşavirliğinin görevleri şunlardır:**
 
 **a) Başkanlığa ve Başkanlık Oluru ile Daire Başkanlıkları ve diğer hizmet birimlerine hukuki danışma hizmeti vermek**.
 
@@ -580,7 +580,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 31 — Basın ve Halkla İlişkiler Müşavirliği
 
-********(1)** *Kurumun danışma birimlerinden olan* **Basın ve Halkla İlişkiler Müşavirliğinin görevleri şunlardır:**
+**(1)** *Kurumun danışma birimlerinden olan* **Basın ve Halkla İlişkiler Müşavirliğinin görevleri şunlardır:**
 
 **a) Medyanın Kurum faaliyetleri hakkındaki değerlendirmelerini izlemek, Başkanın gerekli gördüklerine cevap vermek ve Kurumun ilgili birimlerini bilgilendirmek**.
 
@@ -598,7 +598,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 32 — Kurum Başdanışmanları
 
-********(1)** *Kurumun danışma birimlerinden olan* **Kurum Baş***d***anışmanlarının görevleri şunlardır:**
+**(1)** *Kurumun danışma birimlerinden olan* **Kurum Baş***d***anışmanlarının görevleri şunlardır:**
 
 **a) Görevlerinde yardımcı olmak üzere doğrudan Başkana ya da Başkanlık Oluru ile Kurul** *ü***yelerine danışmanlık yapmak, görüş vermek, talep edilen konularla ilgili olarak raporlar ve bilgi notları hazırlamak ve benzeri faaliyetlerde bulunmak.**
 
@@ -612,7 +612,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 33 — İnsan Kaynakları Daire Başkanlığı
 
-********(1)** *Kurumun yardımcı hizmet birimlerinden olan* **İnsan Kaynakları Daire Başkanlığının görevleri şunlardır:**
+**(1)** *Kurumun yardımcı hizmet birimlerinden olan* **İnsan Kaynakları Daire Başkanlığının görevleri şunlardır:**
 
 **a) Kurumun insan kaynağı planlaması ve personel politikasıyla ilgili çalışmalar yapmak ve gerekli hâllerde konuya ilişkin mevzuat taslaklarını hazırlayarak Kurula sunmak.**
 
@@ -636,7 +636,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 34 — Yönetim Hizmetleri Daire Başkanlığı
 
-********(1)** *Kurumun yardımcı hizmet birimlerinden olan* **Yönetim Hizmetleri Daire Başkanlığının görevleri şunlardır:**
+**(1)** *Kurumun yardımcı hizmet birimlerinden olan* **Yönetim Hizmetleri Daire Başkanlığının görevleri şunlardır:**
 
 **a) Kurum hizmetleri için gerekli taşınır ve taşınmazlar ile araç, gereç ve malzeme ihtiyaçlarını,** *ilgili mevzuatına uygun olarak* **satın alma veya kiralama yoluyla zamanında karşılamak.**
 
@@ -696,7 +696,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 36 — Başkan Özel Kalem Müdürlüğü
 
-********(1)** *Kurumun yardımcı hizmet birimlerinden olan* **Başkan Özel Kalem Müdürlüğünün görevleri şunlardır:**
+**(1)** *Kurumun yardımcı hizmet birimlerinden olan* **Başkan Özel Kalem Müdürlüğünün görevleri şunlardır:**
 
 **a) Başkanın yazılı ve sözlü haberleşmesiyle ilgili Kurum içi ve dışı görüşme ve toplantılarını düzenleyerek iletişimini sağlamak.**
 
@@ -714,7 +714,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 37 — Başkan Mesleki Bürosu
 
-********(1)** *Başkan Mesleki Bürosunda çalışmak üzere yeterli sayıda meslek personeli ile Kurum personeli görevlendirilebilir.*
+**(1)** *Başkan Mesleki Bürosunda çalışmak üzere yeterli sayıda meslek personeli ile Kurum personeli görevlendirilebilir.*
 
 **(2)** *Kurumun yardımcı hizmet birimlerinden olan* **Başkan Mesleki Bürosunun görevleri şunlardır:**
 
@@ -726,7 +726,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 38 — İç Denetim Birimi
 
-********(1) İç Denetim Biriminde görevlendirilecek personel, meslek personeli arasından Başkan tarafından seçilir.**
+**(1) İç Denetim Biriminde görevlendirilecek personel, meslek personeli arasından Başkan tarafından seçilir.**
 
 **(2)** *Kurumun yardımcı hizmet birimlerinden olan* **İç Denetim Biriminin görevleri şunlardır:**
 
@@ -750,7 +750,7 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 39 — Kartel ve Yerinde İnceleme Destek Birimi
 
-********(1)** *Kurumun yardımcı hizmet birimlerinden olan* **Kartel ve Yerinde İnceleme Destek Biriminin görevleri şunlardır:**
+**(1)** *Kurumun yardımcı hizmet birimlerinden olan* **Kartel ve Yerinde İnceleme Destek Biriminin görevleri şunlardır:**
 
 **a) Kartellerle mücadelede koordinasyonu sağlamak.**
 
@@ -772,11 +772,11 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 40 — Görevlendirme ve izinler
 
-*******(1) İkinci başkan ve üyelerin, yurt içi ve yurt dışı görevlendirmeleri ile izinlerini kullanma tarihleri, toplantı ve karar sayısı bakımından sakınca yaratmamak kaydıyla Başkan tarafından düzenlenir.*
+(1) İkinci başkan ve üyelerin, yurt içi ve yurt dışı görevlendirmeleri ile izinlerini kullanma tarihleri, toplantı ve karar sayısı bakımından sakınca yaratmamak kaydıyla Başkan tarafından düzenlenir.*
 
 ### MADDE 41 — Yasaklar
 
-*******(1) Başkan, ikinci başkan ve üyeler, özel bir kanuna dayanmadıkça resmi veya özel hiçbir görev alamaz, ticaretle uğraşamaz, ortaklıklarda pay sahibi olamazlar.*
+(1) Başkan, ikinci başkan ve üyeler, özel bir kanuna dayanmadıkça resmi veya özel hiçbir görev alamaz, ticaretle uğraşamaz, ortaklıklarda pay sahibi olamazlar.*
 
 *(2) Başkan, ikinci başkan ve üyeler, göreve başlamadan önce maliki oldukları Hazine tarafından çıkarılan borçlanmaya ilişkin menkul kıymetlerin dışındaki her türlü sermaye piyasası mevzuatı anlamındaki menkul kıymetlerini üçüncü dereceye kadar kan ve ikinci dereceye kadar sıhri hısımları dışındakilere satmak veya devretmek suretiyle elden çıkarmak zorundadır. 30 gün içinde bu hükme uygun hareket etmeyen üyeler üyelikten çekilmiş sayılır.*
 
@@ -790,15 +790,15 @@ j) Kanunla verilen diğer görevleri yerine getirmek.
 
 ### MADDE 42 — Yürürlükten kaldırılan yönetmelik
 
-********(1) 23/5/1997 tarihli ve 97/9468 sayılı** Bakanlar Kurulu Kararı ile yürürlüğe konulan **Rekabet Kurumu Çalışma Usul ve Esasları Hakkında Yönetmelik yürürlükten kaldırılmıştır.**
+**(1) 23/5/1997 tarihli ve 97/9468 sayılı** Bakanlar Kurulu Kararı ile yürürlüğe konulan **Rekabet Kurumu Çalışma Usul ve Esasları Hakkında Yönetmelik yürürlükten kaldırılmıştır.**
 
 ### MADDE 43 — Yürürlük
 
-********(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.**
+**(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.**
 
 ### MADDE 44 — Yürütme
 
-********(1) Bu Yönetmeliği Rekabet Kurumu Başkanı yürütür.**
+**(1) Bu Yönetmeliği Rekabet Kurumu Başkanı yürütür.**
 
 <table>
 <tr><td colspan="4">17/4/2025 TARİHLİ VE 9748 SAYILI CUMHURBAŞKANI KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN TABLO</td><td></td></tr>

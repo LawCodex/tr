@@ -750,7 +750,7 @@ Bu Yönetmelik yürürlüğe girmeden önce yapılmış bulunan işyeri açma ve
 
 #### Geçici Madde 2
 
-***(Ek:5/11/2012-2012/3986 K.)***
+**(Ek:5/11/2012-2012/3986 K.)***
 
 *Bu maddenin yayımı tarihinden itibaren bir ay içinde güzellik salonlarında bulunan epilasyon ve depilasyon amaçlı cihazlar ile bu cihazların taşıdığı teknik özellikler sorumlu müdür tarafından yetkili idareye ve valilik aracılığıyla il sağlık müdürlüğüne bildirilir.(1)*
 

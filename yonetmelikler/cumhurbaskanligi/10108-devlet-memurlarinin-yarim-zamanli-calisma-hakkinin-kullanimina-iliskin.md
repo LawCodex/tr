@@ -156,11 +156,11 @@ teklifi üzerine Cumhurbaşkanlığının onayı ile belirlenir.
 
 ### MADDE 12 — Mali ve sosyal haklar
 
-********(1) Yarım zamanlı çalışan memura, yarım zamanlı çalışmaya başladığı tarihi izleyen ay başından itibaren mali haklar ile sosyal yardımlarına ilişkin her bir ödeme unsurunun yarısı esas alınarak ödeme yapılır. Bunların fiili çalışmaya bağlı ödemeleri hakkında ilgili mevzuat hükümleri uygulanmaya devam olunur.**
+**(1) Yarım zamanlı çalışan memura, yarım zamanlı çalışmaya başladığı tarihi izleyen ay başından itibaren mali haklar ile sosyal yardımlarına ilişkin her bir ödeme unsurunun yarısı esas alınarak ödeme yapılır. Bunların fiili çalışmaya bağlı ödemeleri hakkında ilgili mevzuat hükümleri uygulanmaya devam olunur.**
 
 ### MADDE 13 — Hizmet değerlendirmesi
 
-********(1) Derece yükselmesi ve kademe ilerlemesi ile ilgili mevzuatı** *gereğince* **aranan hizmet süreleri açısından yarım zamanlı çalışılan dönemdeki hizmet süreleri**, **yarım olarak dikkate alınır.**
+**(1) Derece yükselmesi ve kademe ilerlemesi ile ilgili mevzuatı** *gereğince* **aranan hizmet süreleri açısından yarım zamanlı çalışılan dönemdeki hizmet süreleri**, **yarım olarak dikkate alınır.**
 
 ### MADDE 14 — Yarım zamanlı çalışma döneminde yer değiştirme suretiyle veya naklen atanma ile geçici görevlendirme hâlleri
 
