@@ -147,6 +147,7 @@ def main():
     ap.add_argument("--only", default="")
     ap.add_argument("--refresh-lists", action="store_true")
     ap.add_argument("--list-only", action="store_true")
+    ap.add_argument("--tur", default="", help="only these MevzuatTur codes (comma list)")
     a = ap.parse_args()
     raw = os.path.abspath(a.raw)
     keys = a.only.split(",") if a.only else list(CATEGORIES)
@@ -154,6 +155,8 @@ def main():
     for k in keys:
         for it in list_category(k, raw, a.refresh_lists):
             key = (it["mevzuatTur"], it["mevzuatTertip"], it["mevzuatNo"])
+            if a.tur and str(it["mevzuatTur"]) not in a.tur.split(","):
+                continue
             if key not in seen:
                 seen.add(key)
                 todo.append(it)

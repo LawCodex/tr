@@ -345,7 +345,8 @@ def blocks_of(body):
     def is_layout(t):
         if id(t) not in layout:
             rows = [tr for tr in t.find_all("tr") if tr.find_parent("table") is t]
-            layout[id(t)] = len(rows) == 1 and len(rows[0].find_all(["td", "th"], recursive=False)) == 1
+            layout[id(t)] = bool(rows) and all(
+                len(r.find_all(["td", "th"], recursive=False)) == 1 for r in rows)
         return layout[id(t)]
 
     for el in body.find_all(["p", "h1", "h2", "h3", "h4", "h5", "h6", "table", "li", "pre"]):
@@ -418,7 +419,7 @@ def convert_html(html, title):
         kind = it[0]
         if kind == "table":
             txt = it[1].get_text(" ", strip=True)
-            if idx <= 3 and re.search(r"Numarası|Resm[îi] Gazete|Kabul Tarihi|Sayısı|Tertip", txt) \
+            if idx <= 3 and len(txt) < 2500 and re.search(r"Numarası|Resm[îi] Gazete|Kabul Tarihi|Sayısı|Tertip", txt) \
                     and not MADDE_RE.match(norm_ws(txt).strip()):
                 title_fns += re.findall(r"\[(\d+)\]", txt[:600])
                 start = idx + 1

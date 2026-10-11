@@ -361,17 +361,23 @@ Müddet
 
 Nakliyat İrsalat
 
-| Yevm. Yevm. Yevm. Kilometro hesabile buudu mesafe |
-| --- |
-|  |
-| 2 1 1 000 den 150 kilometroya kadar |
-| 3 2 1 150 ” 275 ” ” |
-| 4 3 1 275 ” 400 ” ” |
-| 5 4 1 400 ” 525 ” ” |
-| 6 5 1 525 ” 650 ” ” |
-| 7 6 1 650 ” 775 ” ” |
-| 8 7 1 775 ” 900 ” ” |
-| 9 8 1 900 ” 1025 ” ” |
+Yevm. Yevm. Yevm. Kilometro hesabile buudu mesafe
+
+2 1 1 000 den 150 kilometroya kadar
+
+3 2 1 150 ” 275 ” ”
+
+4 3 1 275 ” 400 ” ”
+
+5 4 1 400 ” 525 ” ”
+
+6 5 1 525 ” 650 ” ”
+
+7 6 1 650 ” 775 ” ”
+
+8 7 1 775 ” 900 ” ”
+
+9 8 1 900 ” 1025 ” ”
 
 Bundan ziyade olan mesafeler dahi bu nisbet üzerine hesab olunur.
 
@@ -379,17 +385,23 @@ Zikrolunan müddetler hamule senedine kumpanya tarafından damga vazolunduğu ta
 
 **Seyriseri**
 
-| Mülahazat  Yevm. Kilometro hesabile buudu mesafe |
-| --- |
-|  |
-| Emtia ve eşyanın 1 000 dan 150 kilometroya kadar |
-| teslimi ile alın 2 150 ” 257 ” ” |
-| dığı gün dahil he 3 257 ” 400 ” ” |
-| sab edilecekdir. 4 400 ” 525 ” ” |
-| 5 525 ” 650 ” ” |
-| 6 650 ” 775 ” ” |
-| 7 775 ” 900 ” ” |
-| 8 900 ” 1025 ” ” |
+Mülahazat  Yevm. Kilometro hesabile buudu mesafe
+
+Emtia ve eşyanın 1 000 dan 150 kilometroya kadar
+
+teslimi ile alın 2 150 ” 257 ” ”
+
+dığı gün dahil he 3 257 ” 400 ” ”
+
+sab edilecekdir. 4 400 ” 525 ” ”
+
+5 525 ” 650 ” ”
+
+6 650 ” 775 ” ”
+
+7 775 ” 900 ” ”
+
+8 900 ” 1025 ” ”
 
 ### Madde 12 — Emtia ve eşya
 
@@ -547,37 +559,59 @@ Müddeiye verilecek tazminat eşyanın tesliminde vukubulan teahhur kırk sekiz 
 
 **Akmak ile vukubulan tenakus**
 
-| Bundan |
-| --- |
-| Nihayet sonra İki yüz kilo |
-| mikdar beher kilo metroya Emtia ve eşyanın esamisi |
-| metroda kadar |
-| Yüzde Yüzde Yüzde |
-| 5 Yazın 1 2 Fıçı ile naklolunan rakı ve müskirat ve arpa |
-| 4 Kışın meyve şarabı ve adi şarab ve sirke suyu |
-| 6 Yazın 1 2 Yağ ve Hülasalar |
-| 4 Kışın |
-| 5 Yazın 1 1 Şeker pekmezi ve bal |
-| 4 Kışın |
-| 3 Yazın 1 1 İçyağı ve domuzyağı ve şarab ve müskirat ve |
-| 3 Kışın katran |
+Bundan
+
+Nihayet sonra İki yüz kilo
+
+mikdar beher kilo metroya Emtia ve eşyanın esamisi
+
+metroda kadar
+
+Yüzde Yüzde Yüzde
+
+5 Yazın 1 2 Fıçı ile naklolunan rakı ve müskirat ve arpa
+
+4 Kışın meyve şarabı ve adi şarab ve sirke suyu
+
+6 Yazın 1 2 Yağ ve Hülasalar
+
+4 Kışın
+
+5 Yazın 1 1 Şeker pekmezi ve bal
+
+4 Kışın
+
+3 Yazın 1 1 İçyağı ve domuzyağı ve şarab ve müskirat ve
+
+3 Kışın katran
 
 **Kurumak ile hasıl olan tenakus**
 
-| 4 Yazın 1 2 Boya ağacı ve bunun tozu ve kök ve harib |
-| --- |
-| 3 Kışın ağacı sünger mantar ve denkedilmiş paçavra |
-| ve boynuz |
-| 4 Yazın 1 2 Yulaf ve yağlı hububat |
-| 5 Kışın |
-| 4 Yazın 2 2 Hublon ve kaba kenevir kabaşeker yün kö- |
-| 3 Kışın herçile zamğ |
-| 3 Yazın 1 1 Buğday, arpa, çavdar, pirinç iki kat torba- |
-| lar içinde yağlı hububat dakik, kuru sebze, |
-| kuru zift, malzemei bakkaliye, ve aktariye ve |
-| fıçıya bastırılmış şikore ve recvaz ve denkle |
-| re basdırılmış pamuk, dökme demir, kaba demir |
-| ve müstamel kurşunlar |
+4 Yazın 1 2 Boya ağacı ve bunun tozu ve kök ve harib
+
+3 Kışın ağacı sünger mantar ve denkedilmiş paçavra
+
+ve boynuz
+
+4 Yazın 1 2 Yulaf ve yağlı hububat
+
+5 Kışın
+
+4 Yazın 2 2 Hublon ve kaba kenevir kabaşeker yün kö-
+
+3 Kışın herçile zamğ
+
+3 Yazın 1 1 Buğday, arpa, çavdar, pirinç iki kat torba-
+
+lar içinde yağlı hububat dakik, kuru sebze,
+
+kuru zift, malzemei bakkaliye, ve aktariye ve
+
+fıçıya bastırılmış şikore ve recvaz ve denkle
+
+re basdırılmış pamuk, dökme demir, kaba demir
+
+ve müstamel kurşunlar
 
 2 Kışın
 

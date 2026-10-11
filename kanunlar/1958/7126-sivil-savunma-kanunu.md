@@ -500,18 +500,27 @@ Bu Kanun hükümlerini icraya İcra Vekilleri Heyeti memurdur.
 
 **I SAYILI LİSTE (Ek: 8/10/1999 - KHK/586-2 md)**
 
-| 1. ADANA |
-| --- |
-| 2. AFYON |
-| 3. ANKARA |
-| 4. BURSA |
-| 5. DİYARBAKIR |
-| 6. ERZURUM |
-| 7. İSTANBUL |
-| 8. İZMİR |
-| 9. SAKARYA |
-| 10. SAMSUN |
-| 11. VAN |
+1. ADANA
+
+2. AFYON
+
+3. ANKARA
+
+4. BURSA
+
+5. DİYARBAKIR
+
+6. ERZURUM
+
+7. İSTANBUL
+
+8. İZMİR
+
+9. SAKARYA
+
+10. SAMSUN
+
+11. VAN
 
 **EK LİSTE: (Ek: 1/3/2000 - KHK/596-1 mad.)**
 

@@ -1,0 +1,403 @@
+---
+title: "KAMU KURUM VE KURULUŞLARINA AİT SAĞLIK İŞLETMELİRİNİN YÖNETİMİ İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK"
+identifier: "3.5.946407"
+number: "946407"
+type: regulation
+category: "Bakanlar Kurulu Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 1994-11-29
+official_gazette_date: 1995-01-11
+official_gazette_number: "22168"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=946407&MevzuatTur=3&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KAMU KURUM VE KURULUŞLARINA AİT SAĞLIK İŞLETMELİRİNİN YÖNETİMİ İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK
+
+KAMU KURUM VE KURULUŞLARINA AİT SAĞLIK İŞLETMELERİNİN
+
+YÖNETİMİ İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA
+
+YÖNETMELİK
+
+**BİRİNCİBÖLÜM**
+
+**Amaç, Kapsam, Dayanak ve Tanımlar**
+
+Bakanlar Kurulu Kararının Tarihi : 29/11/1994 No : 94/6407
+
+Dayandığı Kanunun Tarihi : 7/5/1987 No : 3359
+
+Yayımlandığı Resmî Gazetenin Tarihi : 11/1/1995 No : 22168
+
+Yayımlandığı Düsturun Tertibi : 5 Cildi : 34
+
+### Madde 1 — Amaç ve kapsam
+
+Bu yönetmeliğin amacı,3359 sayılı Sağlık Hizmetleri Temel Kanunu kapsamındaki kamu kurum ve kuruluşlarına ait sağlık işletmelerinin yönetimi ve çalışmaları ile ilgili usul ve esasları düzenlemektir.
+
+### Madde 2 — Dayanak
+
+Bu yönetmelik,7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (a) fıkrasına dayanılarak hazırlanmıştır.
+
+### Madde 3 — Tanımlar
+
+Bu Yönetmelikte geçen;
+
+a) Kanun:3359 sayılı Sağlık Hizmetleri Temel Kanununu,
+
+b) Bakanlık: Sağlık Bakanlığına bağlı sağlık kuruluşları bakımından Sağlık Bakanlığını, diğer bakanlıklara bağlı sağlık kuruluşları bakımından bu bakanlıkları ve diğer kamu kurum ve kuruluşlarına bağlı sağlık kuruluşları bakımından da bu kurum ve kuruluşların bağlı veya ilgili bulunduğu bakanlıkları,
+
+c) Bakan: (b) bendindeki açıklamalara göre ilgili bakanı,
+
+d) Sağlık İşletmesi veya işletme: Kanunun 5 inci maddesi uyarınca sağlık işletmesine dönüştürülen ve yönetimi ile çalışma usul ve esasları bu Yönetmelikte düzenlenen kamuya ait sağlık kuruluşlarını,
+
+e) Yönetim Kurulu: Sağlık işletmesine ait yönetim kurulunu,
+
+f) Baştabip: Sağlık işletmesinin tıbbi ve sağlık hizmetleri bakımından idari yönetiminden en üst seviyede sorumlu olan görevliyi,
+
+g) İşletme Müdürü: Sağlık işletmesinin işletmecilik açısından sevk ve idaresi ile ilgili iş ve işlemlerinden sorumlu görevliyi,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Kuruluş, Statü, Faaliyet, Görev ve İlkeler
+
+### Madde 4 — Sağlık işletmesinin kuruluşu
+
+1 inci madde kapsamında olan kamu kurum ve kuruluşlarına ait sağlık kurum ve kuruluşlarından işletmecilik esaslarına göre işletilmesi ilgili bakanlıkça teklif edilen ve durumu Sağlık Bakanlığı tarafından uygun görülenler Bakanlar Kurulu kararı ile "Sağlık işletmesi" haline dönüştürülürler.
+
+Kuruluş teklifinde, sağlık kuruluşunun yeterli işletme büyüklüğünde olduğunu gösteren mali ve teknik gerekçelere yer verilmesi şarttır.
+
+Yeterli işletme büyüklüğünde bulunmayan sağlık kuruluşları, aynı kamu kurum ve kuruluşuna ait aynı veya başka mahallerdeki sağlık kuruluşları ile tek bir sağlık işletmesi halinde toplanıp organize edilebilirler.
+
+Sağlık işletmeleri, verimli hizmet vermediklerinin ve kuruluş amaçlarının gerçekleşmeyeceğinin anlaşılması üzerine kurulduğu usul ile kapatılabilir.
+
+### Madde 5 — Statü
+
+Sağlık işletmeleri; sağlık hizmeti üretmek amacıyla kurulmuş, kamu tüzel kişiliğini haiz, idari ve mali bakımdan özerk ve bu Yönetmelikte belirlenen usul ve esaslara tabi kamu kurumlarıdırlar.
+
+### Madde 6 — Faaliyet alanı
+
+Sağlık işletmeleri: koruyucu sağlık hizmetleri ile teşhis, tedavi, rehabilitasyon ve uzmanlık eğitimi hizmetlerinin tamamını veya birkaçını vermekle yükümlüdürler. Sağlık işletmelerinin bu hizmetlerden hangileri ile yükümlü olacakları Bakanlıkça tespit edilir.
+
+### Madde 7 — Görevler
+
+Sağlık işletmelerinin görevleri şunlardır:
+
+a) Koruyucu ve tedavi edici sağlık hizmetlerini eşit, kaliteli, kaynak israfına yol açmaksızın gerektiğinde kurum dışından hizmet satın alarak halka sunmak,
+
+b) Tesis edilecek eğitim, denetim, değerlendirme ve oto-kontrol sistemi ile verimli sağlık hizmeti ve Sağlık Bakanlığının izin ve denetiminde uzmanlık eğitimi vermek ve hizmet alanında örnek olmak,
+
+c) Modern teşhis ve tedavi metod ve teknolojilerini takip etmek ve gecikmeksizin uygulamak,
+
+d) Tıp ve sağlık işletmeciliği sahalarında araştırma ve geliştirme faaliyetlerinde bulunmak,
+
+e) Toplumun sağlık seviyesinin yükseltilmesine katkıda bulunmak.
+
+### Madde 8 — İlkeler
+
+Sağlık işletmelerinin faaliyet ve görevlerinde aşağıdaki ilkeler gözönünde bulundurulur:
+
+a) Katılımcılık ve işletmecilik esaslarına göre sevk ve idare,
+
+b) Desentralizasyon ve oto-kontrol,
+
+c) Hizmette rekabet,
+
+d) Modern tıbbi bilgi, metot ve teknolojinin takibi,
+
+e) İşletme gelirleri ile giderlerin karşılanması,
+
+f) Rutin hizmet üretimi yanında, modern eğitim ve faaliyet alanıyla ilgili araştırma ve geliştirme faaliyetlerinde bulunma.
+
+**ÜÇÜNCÜBÖLÜM**
+
+**Yönetim Organları, Yöneticiler, Görevleri ve Nitelikleri**
+
+### Madde 9 — Sağlık işletmesinin yönetim organları
+
+Sağlık işletmelerinin yönetim organları aşağıda gösterilmiştir:
+
+a) Yönetim kurulu,
+
+b) Baştabiplik,
+
+c) İşletme müdürlüğü,
+
+d) Başhemşirelik,
+
+e) Tıbbi konsey,
+
+### Madde 10 — Yönetim kurulunun teşekkülü
+
+Sağlık işletmelerinin en üst karar organı olan yönetim kurulu;
+
+a) Baştabip,
+
+b) İşletme müdürü,
+
+c) Sağlık işletmesi tıbbi konseyinin kendi üyeleri arasından seçeceği bir üye,
+
+d) Sağlık işletmesinin tıbbi konsey üyesi olmayan tabip ve uzmanlarının kendi aralarından seçeceği bir üye,
+
+e) Sağlık işletmesinin (tıbbi konsey üyeleri, tabip ve uzmanları ile yardımcı hizmetlileri hariç olmak üzere) diğer sağlık, teknik ve idari personelinin kendi aralarından seçeceği bir üye,
+
+olmak üzere beş üyeden teşekkül eder.
+
+Seçimle belirlenecek üyelikler için birer yedek üye seçilir.
+
+### Madde 11 — Yönetim kurulu üyelerinin görev süresi
+
+Yönetim kurulunun seçilmiş üyelerinin görev süresi iki yıldır. Diğer üyelerin sağlık işletmesindeki üyeliğe esas görevleri sürdüğü müddetçe üyelikleri devam eder. Ölüm, istifa, seçilmeye esas olan görevin sona ermesi, başka kurumlara ve işletme dışına nakil ve kamu görevlisi olma niteliklerinin olma niteliklerinin kaybedilmesi gibi durumlarda yönetim kurulu üyeliği sona erer.
+
+Üyeliğin sona ermesi halinde bir önceki üyenin geri kalan süresini tamamlamak üzere yeni üye seçilir veya atanır. Görev süresi dolan üyenin yeniden seçilmesi mümkündür.
+
+Yönetim kurulu başkanlığının ve üyeliklerinin herhangi bir sebeple görev süresinden önce boşalması halinde, yeni başkan ve üyelerin en geç bir ay içerisinde tespiti ve seçilip atanması mecburidir. Yönetim kurulu başkanının bu şekilde tayinine kadar, yönetim kurulu üyelerinden başkan olarak seçilme niteliklerini haiz en kıdemlisi başkanlığı vekaleten yürütür.
+
+Yönetim kurulu başkanı, geçici ayrılışlarında kendisine vekalet edecek kurul üyesini tayin eder.
+
+### Madde 12 — Yönetim kurulunun görev ve yetkileri
+
+Yönetim kurulunun görev ve yetkileri şunlardır:
+
+a) Sağlık işletmesinin mevzuat, kalkınma planı, yıllık programlar, emirler ve prensipler çerçevesinde işletilmesini, çağdaş ilim ve teknoloji seviyesine getirilmesini ve geliştirilmesini sağlamak, tespit edilen standart esaslar içerisinde kaliteli ve verimli hizmet ve eğitim arzını sağlayacak hedefleri tespit ve bu konudaki ilke ve politikaları tayin etmek ve gerekli kararları almak,
+
+b) Sağlık işletmesi müdürlüğünce hazırlanan işletme bütçesini müzakere etmek ve onaylamak,
+
+c) Sağlık işletmesinin bir yıl önceki bilanço, faaliyet raporu ve kesin hesaplarını müzakere etmek ve onaylamak,
+
+d) Personel ile ilgili teklifleri karara bağlamak,
+
+e) Tıpta uzmanlık eğitimi verilen işletmelerde birim açılması ve kapatılması, Tababet Uzmanlık Tüzüğü ve Yönetmeliği hükümlerine göre Sağlık Bakanlığının iznine tabi olmak kaydı ile işletmede yeni birim açılmasına ve mevcut birimlerin kapatılmasına karar vermek,
+
+f) Mevzuatla verilen ve sağlık işletmesi yönetimi ile ilgili bulunan diğer işleri yapmak.
+
+### Madde 13 — Yönetim kurulunun toplanması, toplantı ve karar yeter sayısı
+
+Yönetim kurulu, başkanın daveti üzerine ayda en az bir defa olmak üzere olağan olarak veya Başkanın gerek görmesi halinde olağanüstü olarak üye tam sayısının yarıdan bir fazlasının iştiraki ile toplanır.
+
+Kararlar, üye tam sayısının salt çoğunluğu ile alınır. Oylarda eşitlik halinde başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
+
+### Madde 14 — Baştabip
+
+Baştabip, eğitim sınıfına dahil sağlık işletmelerinde klinik şefleri ve diğer işletmelerde uzman tabipler arasından bakan tarafından seçilip atanır. İşletmenin ita amiri baştabiptir.
+
+Baştabibin görevleri şunlardır:
+
+a) Yönetim kuruluna başkanlık etmek,
+
+b) Sağlık işletmesini, tıbbi iş ve işlemler ile sağlık hizmetleri yönünden temsil etmek,
+
+c) İşletmenin sağlık hizmetlerini çağdaş ve verimli bir şekilde planlamak ve ilmi esaslara uygun olarak yürütmek,
+
+d) Sağlık işletmesinin sağlık hizmetleri ile ilgili her türlü iş ve işlemlerine dair iç hizmet yönergelerini ve diğer mevzuatı hazırlamak, yönetim kurulunun onayına sunmak ve bunları yürütmek.
+
+### Madde 15 — Sağlık işletmesi müdürü
+
+Sağlık işletmesi müdürü, müfredatında işletmecilik bulunan en az dört yıllık yüksekokul mezunu ve işletmecilik veya idarecilikte en az on yıl iş tecrübesi bulananlar arasından, baştabibin teklifi ve yönetim kurulunun kararı üzerine bakanlıkça atanır.
+
+Sağlık işletmesi müdürünün görevleri şunlardar:
+
+a) Sağlık işletmesinin tıbbi bürokrasi, idari, mali, personel, otelcilik, lokantacılık, teknik ve işletmecilik ile benzeri yönetim iş ve işlemlerini yönetim kuruluna karşı sorumlu olarak bizzat veya yardımcıları ve bağlı birimler vasıtası ile yürütmek,
+
+b) Sağlık işletmesini işletmecilik yönünden temsil etmek,
+
+c) İşletmenin işletmecilik hizmetlerini verimlilik ve karlılık esaslarına uygun bir şekilde planlamak, yürütmek,
+
+d) Sağlık işletmesinin işletmecilik ile ilgili her türlü iş ve işlemlerine dair iç hizmet yönergelerini ve diğer mevzuatı hazırlamak, yönetim kurulunun onayına sunmak ve bunları yürütmek.
+
+### Madde 16 — Başhemşire
+
+Sağlık işletmesinin başhemşiresi, en az on yıl hastane tecrübesi olan hemşireler arasından baştabibin teklifi üzerine yönetim kurulu kararı ile atanır.
+
+Başhemşire sağlık işletmesinin hemşirelik hizmetlerinden baştabibe ve işletme müdürüne karşı sorumludur.
+
+### Madde 17 — Saymanlık işlemleri ve mali sorumluluğu bulunan personel
+
+Sağlık işletmesine müfredatında iktisat, muhasebe ve işletmecilik olan yüksek okul mezunu ve bu alanlarda en az beş yıl iş tecrübesi bulunanlar arasından, yönetim kurulu kararı ve bakanlığın teklifi üzerine Maliye Bakanlığınca bir sayman atanır.
+
+Sayman, yönetim kurulu ve işletme müdürüne karşı sorumlu olarak sağlık işletmesinin bütçe ve finansman hizmetlerini ve genel hükümler çerçevesinde işletmenin saymanlık işlemlerini yürütür.
+
+Sağlık işletmesinin mali sorumluluğu bulunan diğer personeli ve bunların görevleri aşağıda gösterilmiştir.
+
+A) Veznedar: Sağlık işletmesinde para alımı ve kasadan yapılan ödemelere ilişkin işler kefalete tabi veznedarlar tarafından yapılır. Veznedar, yönetim kurulu kararı ile atanır. Veznedar, vezne mevcudunun defter ve kayıtlara göre noksan olmasından, veznedeki kıymetlerin ziyan ve eksilmesinden doğrudan sorumludur. Veznedarın izin ve hastalık gibi sebeplerden dolayı geçici olarak ayrılması halinde bu görev kefalete tabi muhasebe memurlarından veya kefalete tabi tutulacak diğer memurlardan birisine verilir.
+
+Veznedarın görevleri şunlardır:
+
+a) Tamamlanmış belgelere dayanarak ve usulüne uygun olarak ödeme ve tahsilat yapmak,
+
+b) Tahsil edilen paralar ile ödemeleri günü gününe kasa defterine kaydetmek ve bu kayıtların belgelere ve muhasebe kayıtlarına uygunluğunu sağlamak,
+
+c) İşletmeye ait para ve kıymetli evrakı işletmenin kasasında saklamak,
+
+d) Tahsilata ve ödemeye ilişkin belgelerin dip koçanları ile kasa defterini ve sair belgeleri saklamak,
+
+e) Saymanın vereceği sair işleri yapmak.
+
+B) Ayniyat memuru: Sağlık işletmesinin ayniyat işleri saymana karşı sorumlu olan kefalete tabi ayniyat memuru tarafından yapılır. Ayniyat memuru yönetim kurulu kararı ile atanır. Ayniyat memurunun izin veya hastalık gibi sebeplerle görevi başında bulunmadığı zamanlar bu görev işletmenin kefalete tabi diğer memurlarından birisi tarafından yerine getirilir.
+
+Ayniyat memurunun görevleri şunlardır:
+
+a) İşletmenin ayniyat işlerini yürütmek, bunlarla ilgili kayıt ve defteri tutmak,
+
+b) Ayniyat kayıtlarına ilişkin defter ve belgeleri saklamak,
+
+c) Saymana ayniyat hesabı vermek,
+
+d) Ambar memuru bulunmadığı hallerde ambar memurunun görevlerini yapmak,
+
+e) Ambar işlemlerini kontrol etmek,
+
+f) İşletme yetkililerince verilecek diğer işleri yapmak.
+
+C) Ambar memuru: Sağlık işletmesinin çalışma konusu ve ambar işlemlerinin hacmi gözönünde tutularak gerekli görülen hallerde aşağıda belirtilen işlerin yürütülmesi için yönetim kurulu kararı ile ayrıca ambar memuru atanabilir.
+
+Ambar memurunun görevleri şunlardır:
+
+a) Ambarın sevk ve idaresini sağlamak,
+
+b) Gerek hariçten satın alınarak ve gerekse işletme tarafından üretilerek veya imal edilerek ambara giren her türlü madde, eşya, makina, taşıt, malzeme ve benzeri şeylerin kaydını tutmak, muhafaza etmek, bunları yangın, çürüme, bozulma akma gibi her türlü tehlike ve zararlardan korumak, kendisinin alamayacağı koruma tedbirleri için ilgililere yazılı olarak bilgi vermek,
+
+c) Ambar stok kartlarının kartoteks usulü ile tutulmasını sağlamak,
+
+d) Ambara giren malzeme ve malları tasnifli ve iyi bir durumda muhafaza etmek,
+
+e) Ambara giren ve (b) bendinde sayılan malzeme ve eşyayı yetkililerin yazılı emirlerine dayanarak belge karşılığında ilgililere vermek,
+
+f) Başka yerlerden gelen veya satın alınan malları muayene komisyonlarına muayene ettirmek ve ambara girişlerini düzenlemek,
+
+g) Ambardan sevk edilecek mal ve malzemenin sevk ve belgelerini düzenlemek,
+
+h) Ambar mizanlarını çıkarmak ve bunların muhasebe ile uygunluğunu sağlamak,
+
+i) Ambarda saklanan malzeme ve eşyada meydana gelen hasarlar için gerekli tutanakları düzenlemek, kayıtlardan çıkarılacak veya imha edilecek malzeme ve eşya için gerekli işlemleri yaparak ayniyat memuruna vermek,
+
+j) Saymanın ve diğer yetkililerin verecekleri işleri yapmak.
+
+### Madde 18 — Tıbbi konsey ve birleşik tıp konseyi
+
+Tıbbi konsey, sağlık işletmesinin klinik ve laboratuvar şeflerinden veya servis sorumlularından oluşur. Baştabibin başkanlığında üye tam sayısının yarıdan bir fazlasının iştiraki ile toplanır ve üye tam sayısının salt çoğunluğu ile karar alır.
+
+Tıbbi konsey, yönetim kurulu için, sağlık işletmesinin tıbbi iş, işlem ve problemleri ile ilgili her konu ve durumu değerlendirir, sağlık personeli hakkında yapılacak her türlü tasarrufa dayanak teşkil etmek üzere tıp ilmi ve uygulaması yönünden değerlendirme ve danışmanlık yapar, görüşlerini yazılı olarak bildirir.
+
+Sağlık işletmelerinin aynı branştan olanlarının tıbbi konseylerinden meydana gelen birleşik tıp konseyleri, bakanlık için referans tıp konseyi olarak iştişari görev yapar.
+
+Birleşik tıp konseyi, bakanlıkça uygun görülen zamanlarda ve bakanlıkça belirlenecek bir baştabibin başkanlığında, üye tam sayısının yarıdan bir fazlasının iştiraki ile toplanır ve üye tam sayısının salt çoğunluğu ile karar alır. Oylarda eşitlik halinde başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
+
+### Madde 19 — Personel ve statüsü
+
+Sağlık işletmeleri, faaliyetlerini yürütebilmek için 3359 sayılı Sağlık Hizmetleri Temel Kanunu, 657 sayılı Devlet Memurları Kanunu ve 1475 sayılı İş Kanununa tabi olarak personel istihdam edebilirler.
+
+Sağlık işletmesinde görev alacak olan ve bu Yönetmelikte atanma usulü belirtilmeyen personelden sağlık işletmesi hizmetlerinde görevlendirilecek olanlar, baştabibin; teknik, idari, mali ve yardımcı hizmetler gibi diğer alanlarda görev alacak olanlar, işletme müdürünün teklifi üzerine yönetim kurulu kararı ile atanırlar.
+
+## DÖRDÜNCÜ BÖLÜM — Mali Hükümler
+
+### Madde 20 — Sermaye
+
+Sağlık işletmesinin sermayesi, işletmenin kuruluşu ile ilgili Bakanlar Kurulu karınında belirtilen miktardır. Karlar, işletme sermayesine eklenir.
+
+Sağlık işletmesinin kapatılması halinde ilgililerin sorumluluğu saklı kalmak kaydı ile işletme tasfiye edilerek bütün mal varlığı ilgili kamu kurumuna intikal eder.
+
+### Madde 21 — Bütçe, bilanço ve kesin hesap
+
+İşletme bütçesi, her hesap dönemi için yatırım ve finansman programındaki hedefler dikkate alınarak yıllık olarak hazırlanır ve yönetim kurulunca onaylanır.
+
+Sağlık işletmesinin yatırım ve işletme faaliyetleri, plan ve programları, işletme bütçesine dayalı olarak yürütülür.
+
+Sağlık işletmesi, Maliye Bakanlığınca belirlenen "Tek Düzen Hesap Çerçevesi"ne göre hazırlanmış hesap planı usul ve esaslarına tabi olup, hesap dönemi takvim yılıdır. Bilançolar ve Faaliyet raporları, ait oldukları hesap dönemini izleyen üç ay içerisinde bakanlığa ve Maliye Bakanlığı ile Sayıştaya gönderilir.
+
+### Madde 22 — İşletmenin gelirleri
+
+Sağlık işletmelirinin gelirleri şunlardır:
+
+a) Sağlık hizmetleri karşılığında elde edilen gelirler,
+
+b) Bağış ve yardımlar,
+
+c) Gerek görüldüğünde yapılacak Devlet desteği,
+
+d) Bağlı oldukları bakanlığın veya kurumun bütçesine konulan personel ve yatırım ödeneği,
+
+e) Diğer gelirler.
+
+### Madde 23 — İşletmenin giderleri
+
+Sağlık işletmelerinin giderleri şunlardır:
+
+a) Kadrolu, sözleşmeli ve diğer personel ücretleri,
+
+b) Kurum dışından satın alınacak her türlü sağlık ve laboratuvar hizmeti için sözleşmeli personel ve hizmet ücreti,
+
+c) Sağlık kuruluşunun tevsii, modernizasyonu, her türlü cihaz ve malzeme tedariki, kurum cihazlarının bakım ve onarımı ile personelin yurt içinde ve yurt dışında eğitimi ve araştırma için gerekli harcamalar,
+
+d) Sağlık işletmesinin işletilmesi ile ilgili diğer harcamalar.
+
+### Madde 24 — Sağlık işletmelerinden elde edilecek karların kullanımı
+
+Sağlık işletmelerinin yıl sonu bilançolarındaki karlarının en fazla % 20'si, sağlık işletmelerinin büyüklükleri, özellikleri ve içinde bulundukları şartlar dikkate alınarak, Bakanlar Kurulunca belirlenecek esaslara göre, Sağlık Hizmetlerini Destekleme ve Geliştirme Fonuna yatırıldıktan sonra geri kalan kısmı işletme sermayesine eklenir.
+
+### Madde 25 — Vergi muafiyeti
+
+Sağlık işletmeleri;
+
+a) Kurumlar vergisinden,
+
+b) Yapılacak bağış ve yardımlar sebebiyle veraset ve intikal vergisinden,
+
+c) Yapılacak her türlü muameleler dolayısı ile damga vergisinden,
+
+muaftır.
+
+Sağlık işletmelerine yapılacak bağış ve yardımlar, her türlü vergi, resim ve harçtan muaf olup; bu bağış ve yardımlar, kurumlar ve gelir vergisi matrahından indirilebilir.
+
+### Madde 26 — Fiyat tarifesi
+
+Sağlık işletmeleri tarafından verilen her türlü muayene, tetkik, tahlil, aşı, serum, tedavi ve ameliyat gibi hizmetlerin ücret ve bedeli maliyet ve işletmecilik esaslarına göre yönetim kurulu kararı ile belirlenir ve Sağlık Bakanlığınca onaylanarak uygulanır.
+
+### Madde 27 — Ücret ve bedel alma mecburiyeti ve tahsilat
+
+Sağlık işletmelerinde, koruyucu sağlık hizmetleri dışında kalan her türlü tedavi ve rehabilite edici hizmetlerden ücret ve bedel alınması mecburidir.
+
+Verilen hizmetlerin ücret ve bedellerinin tahsilinde Kanunun 8 inci maddesinde öngörülen usuller uygulanır.
+
+Tahakkuk ettirilen tedavi masrafları, ilgili kurum tarafından herhangi bir kısıtlamaya tabi tutulmaksızın, öncelik ve ivedilikle ödeme emri beklenilmeksizin ödenir.
+
+## BEŞİNCİ BÖLÜM — Çeşitli ve Son Hükümler
+
+### Madde 28 — Denetim
+
+Sağlık işletmeleri, işletmecilik bakımından;
+
+a) Bakan tarafından, baştabib olma niteliğini haiz kişiler arasından seçilmiş bir üye,
+
+b) Maliye Bakanlığınca seçilmiş bir üye,
+
+c) Sağlık işletmesinin yönetim kurulu üyesi olmayan mensupları arasından bakan tarafından seçilmiş bir üye,
+
+olmak ve iki yıl görev yapmak üzere teşkil edilen üç kişilik bir denetim kurulu tarafından en az altı ayda bir denetime tabi tutulur.
+
+Ayrıca, işletmeler; tıbbi, idari, mali ve teknik yönden bakanlığın; sermaye, bütçe ve mali işlemler yönünden genel hükümlere göre Sayıştayın ve Maliye Bakanlığının denetimine tabidirler.
+
+### Madde 29 — İşletmede özel teşhis ve tedavi
+
+Sağlık işletmelerinde görevli olan ve mesleklerini serbest icra etmeyen tabipler, Sağlık Bakanlığının tesbit edeceği usul ve esaslar çerçevesinde ve yönetim kurulunun uygun görmesi halinde, mesai saatleri dışında, kuruluşta özel teşhis ve tedavi yapabilirler.
+
+### Geçici Madde 1
+
+Sağlık işletmesine dönüştürülen sağlık kuruluşlarının yönetim kurullarının göreve bağlı üyelikleri, bu Yönetmelik hükümlerine göre bu görevlere atama yapılıncaya kadar, bu kuruluşların mevcut görevlileri (baştabib ve hastane müdürleri) tarafından yürütülür. Tıbbi konseyi temsilen seçilecek ilk üyeyi bakan belirler; diğer üyeler ise, en geç bir ay içinde seçilip atanırlar. Saymanlık görevi ise, yeni atama yapılıncaya kadar mevcut döner sermaye sorumlu saymanları tarafından yürütülür.
+
+### Geçici Madde 2
+
+Sağlık işletmeleri ile ilgili diğer yönetmelikler düzenlenip yürürlüğe konuluncaya kadar bu Yönetmeliğe aykırı olmayan mevzuat hükümlerinin uygulanmasına devam olunur.
+
+### Madde 30 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### Madde 31 — Yürütme
+
+Bu Yönetmelik hükümlerini Bakanlar Kurulu yürütür.
