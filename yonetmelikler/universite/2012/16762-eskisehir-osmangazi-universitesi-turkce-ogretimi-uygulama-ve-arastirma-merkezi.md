@@ -1,0 +1,180 @@
+---
+title: "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.16762"
+number: "16762"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2012-11-14
+official_gazette_date: 2012-11-14
+official_gazette_number: "28467"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16762&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Eskişehir Osmangazi Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, organlarına ve bu organların görevlerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Eskişehir Osmangazi Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, organlarına ve bu organların görevlerine ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (TÖMER): Eskişehir Osmangazi Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkez Müdürünü,
+
+ç) Rektör: Eskişehir Osmangazi Üniversitesi Rektörünü,
+
+d) Üniversite: Eskişehir Osmangazi Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; Türkiye dışındaki akraba topluluklar ve Türk Cumhuriyetleri mensupları ile yabancılara Türkçe öğretimi vermek ve bu konuda kuramsal ve uygulamalı çalışmalar yapmak, bunların yapılmasını özendirmek, başlatmak, desteklemek, geliştirmek ve yayınlamak için imkân sağlamak, ilgili tüm ulusal ve uluslararası kurum ve kuruluşlarla işbirliği ve koordinasyon görevini yürütmektir.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Merkezin amaçları doğrultusunda yerel, ulusal ve uluslararası diğer kurum ve kuruluşlarla işbirliği yaparak kongre, sempozyum, panel, yüksek lisans programları ve kurslar düzenlemek, özel veya resmi kuruluşlardan gelecek istekler doğrultusunda projeler ve projelerle ilgili uygulama birimlerini oluşturmak, bunlara katılmak, bunları desteklemek ve yürütmek.
+
+b) Yabancılara Türkçe öğretiminin faaliyet alanlarına yönelerek bu alanlara özgü araştırma ve uygulamalar yapmak.
+
+c) Yabancılara Türkçe öğretimi konusunda ülke politikalarının geliştirilmesinde yardımcı olmak.
+
+ç) Öğrencilerin ve araştırmacıların; Merkezin amacıyla ilgili konularda eğitim, araştırma ve öğretim yapmalarını sağlamak, bu konuda yardımcı olmak.
+
+d) Amaçta belirtilen konularda dergi, broşür, araştırma raporu ve kitaplar yayımlamak, sosyal-kültürel, sanatsal ve bilimsel etkinlikler düzenlemek, yabancılara Türkçe öğretimi arşivi ve kitaplığı oluşturmak.
+
+e) İşbirliği yapılan bilim alanlarında kamu veya özel sektörün her düzeydeki personelinin eğitimi için, kurs, seminer, konferans, kongre, sempozyum, panel ve her türlü bilimsel toplantı ile benzeri faaliyetler düzenlemek.
+
+f) Yurt içindeki ve yurt dışındaki benzer merkezlerle işbirliği yapmak ve bu amaçla bilimsel toplantılar düzenlemek, öğrenci ve öğretim üyesi alışverişinde bulunmak, ortak çalışmalar, projeler ve araştırmalar geliştirmek, bunlarda yer almak ve desteklemek.
+
+g) Akraba Topluluklar ve Türk Cumhuriyetleriyle ortak projeler düzenlemek.
+
+ğ) Merkezin amacına uygun diğer etkinlikleri düzenlemek ve etkinliklere katılmak.
+
+h) **(Ek:RG-12/3/2023-32130)** Yurt içi ve yurt dışında Türkçe seviye tespit, yeterlilik ve muafiyet dil sınavları yapmak.
+
+(2) **(Ek:RG-1/1/2018-30288)** Üniversitenin fakültelerindeki/yüksekokullarındaki ve diğer birimlerindeki Türk Dili I ve Türk Dili II derslerini yürütmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Organları ve Görevleri
+
+### MADDE 7 — Merkezin organları
+
+(1) Merkezin organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür; Rektör tarafından Üniversitede görevli öğretim üyeleri arasından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdürün görevi başında bulunmama süresi altı ayı geçtiği takdirde yeni Müdür görevlendirilir.
+
+(2) Üniversitede görevli öğretim üyelerinden, Müdürün teklif edeceği dört aday arasından Rektör tarafından iki müdür yardımcısı görevlendirilir. Müdürün bulunmadığı zamanlarda müdür yardımcılarından biri Müdüre vekâlet eder. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer.
+
+(3) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Müdür yardımcıları arasında görev paylaşımı yapmak ve yapılan işleri denetlemek.
+
+c) Yönetim Kurulu ile Danışma Kuruluna başkanlık etmek ve Merkezin çalışmalarını amaçlarına uygun olarak yürütmek.
+
+ç) Yönetim Kurulu ve Danışma Kurulunu toplantıya çağırmak ve toplantı gündemini hazırlamak, toplantıları yönetmek.
+
+d) Merkezin yıllık faaliyet raporunu her yılın aralık ayında hazırlayarak Rektörün onayına sunmak.
+
+e) Yönetim Kurulu tarafından kendisine verilen diğer görevleri yapmak.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, müdür yardımcıları ve Üniversitede Merkezin çalışma alanlarında faaliyet gösteren ve Müdürün önereceği sekiz öğretim elemanı arasından Rektörün onayı ile görevlendirilen dört öğretim elemanı olmak üzere toplam yedi kişiden oluşur. Üyeler üç yıl için görevlendirilir. Süresi biten Yönetim Kurulu üyeleri aynı şekilde Rektör tarafından üç yıllık süre için yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya altı aydan fazla Üniversite dışında görevlendirilenlerin yerine yeni üyeler görevlendirilebilir. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+
+(2) Yönetim Kurulunun görevleri şunlardır:
+
+a) Ayda en az bir kez ve gerektiğinde Müdürün çağrısı üzerine Müdürün başkanlığında toplanmak.
+
+b) Merkezin amacına uygun çalışma politikalarını belirlemek.
+
+c) Bir sonraki takvim yılı içinde yapılacak her türlü bilimsel, eğitsel ve uygulamalı toplantı ve faaliyetleri belirlemek.
+
+ç) Proje konularını tespit etmek.
+
+d) Merkezin araştırma, uygulama birimlerinin kurulmasına karar vermek, Müdürün teklifine göre bu birimlerin başkanlarını görevlendirmek ve birimlere ait çalışma esaslarını inceleyip onaylamak.
+
+e) Merkezin yıllık faaliyet raporunu inceleyip onaylamak.
+
+f) Danışma Kurulu üyelerini seçmek.
+
+g) Yönetim Kurulunun karar vermesi gereken diğer işleri sonuçlandırmak.
+
+### MADDE 10 — Danışma Kurulu ve görevleri
+
+(1) **(Değişik:RG-1/1/2018-30288)** Danışma Kurulu; Müdür, müdür yardımcıları ve Yönetim Kurulunun diğer üyeleri ile Yönetim Kurulu tarafından, Merkezin faaliyetleriyle ilgili alanlarda bilgi ve deneyime sahip Üniversite öğretim elemanları ve istekleri halinde kamu ve özel kuruluşlardaki kişiler arasından görevlendirilen dört kişi olmak üzere toplam on bir kişiden oluşur. Altı ayda bir Müdürün çağrısı üzerine Müdür başkanlığında toplanır. Toplantılarda salt çoğunluk koşulu aranmaz.
+
+(2) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışmalarına uyarı ve önerileriyle katkıda bulunmak.
+
+b) Merkezin, genel faaliyetlerinin yönetimiyle ilgili konularda uyarı ve öneri geliştirmek, destek sağlamak, amaçlarına uygunluğu konusunda danışmanlık yapmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 11 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 12 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini uygun gördüğü ölçüde Müdüre devredebilir.
+
+### MADDE 13 — Demirbaş, alet, ekipman
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaşlar Merkezin kullanımına tahsis edilir.
+
+### MADDE 14 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 15 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Eskişehir Osmangazi Üniversitesi Rektörü yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>14/11/2012</td><td>28467</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1</td><td>1/1/2018</td><td>30288</td></tr>
+<tr><td>2</td><td>12/3/2023</td><td>32130</td></tr>
+<tr><td>3</td><td></td><td></td></tr>
+</table>

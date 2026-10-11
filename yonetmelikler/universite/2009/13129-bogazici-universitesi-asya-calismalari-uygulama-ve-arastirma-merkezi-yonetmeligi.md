@@ -1,0 +1,167 @@
+---
+title: "BOĞAZİÇİ ÜNİVERSİTESİ ASYA ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.13129"
+number: "13129"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2009-06-18
+official_gazette_date: 2009-06-18
+official_gazette_number: "27262"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13129&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BOĞAZİÇİ ÜNİVERSİTESİ ASYA ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Boğaziçi Üniversitesi Rektörlüğüne bağlı olarak kurulan Boğaziçi Üniversitesi Asya Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Boğaziçi Üniversitesi Asya Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına ve bu organların görevlerine ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: Boğaziçi Üniversitesi Asya Çalışmaları Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Üniversite: Boğaziçi Üniversitesini,
+
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amaçları şunlardır;
+
+a) Asya ülkeleri ile Türkiye arasında araştırma ve eğitim alanındaki işbirliğini güçlendirmek, Asya bölgeleri ile ilgili çalışmaları geliştirmek,
+
+b) Asya dilleri konusunda halen Boğaziçi Üniversitesinde verilen Japonca, Çince eğitiminin geliştirilmesini desteklemek ve teşvik etmek, gelecekte Asya ülkelerinin diğer dillerinin ve kültürlerinin eğitiminin araştırılmasını teşvik etmek,
+
+c) Asya halkları ve Türk halkı arasındaki sosyal ve kültürel ilişkileri arttırmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez, bu Yönetmeliğin 5 inci maddesinde belirtilen amaçları gerçekleştirmek için aşağıdaki faaliyetlerde bulunur:
+
+a) Asya bölgeleri ile ilgili çalışmaları desteklemek,
+
+b) Asyadaki üniversiteler ile Üniversite arasında bilimsel ve akademik işbirliğinin gelişmesini teşvik etmek; bu amaçla yüksek lisans ve doktora öğrencilerinin, doktora sonrası araştırmacıların ve öğretim üyelerinin iki ülke arasındaki hareketliliğinin artmasına katkıda bulunmak,
+
+c) Asya ülkeleri ile ilgili filmler ve tv programları yayımlamak,
+
+ç) Asya bölgelerindeki ülkelerle ilgili eğitim almak isteyen kişilere danışmanlık hizmeti vermek,
+
+d) Konuyla ilgili araştırma ve inceleme çalışmaları yapacak eğitimcilere ve profesyonellere kaynak sağlamak,
+
+e) Konferanslar, seminerler, yarışmalar, kongreler, sempozyumlar düzenlemek ve ödüller vermek,
+
+f) Merkezin amaçları doğrultusunda ulusal ve uluslar arası kuruluşlarla işbirliği yapmak,
+
+g) Yer bilimleri ve afet yönetimi konularında Türkiye ve Asya ülkeleri arasında karşılıklı eğitim ve araştırma çalışmaları yapılmasını desteklemek ve geliştirmek,
+
+ğ) Eğitim Fakültesi ile Japon üniversiteleri arasında halen yürütülmekte olan kültürel iletişim çalışmalarını desteklemek ve geliştirmek,
+
+h) Kamu ve özel sektördeki kurum ve kuruluşlara Merkezin çalışma alanına giren ihtiyaç duydukları alanlarda araştırma, inceleme, danışmanlık ve benzeri hizmetleri sağlamak,
+
+ı) Yönetim Kurulunca istenilen Merkez amaçlarına uygun diğer çalışmaları yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+**(**1) Merkezin yönetim organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu,
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür; Yönetim Kurulunun önerisi üzerine, Üniversitede tam zamanlı görev yapan öğretim üyeleri arasından ve Rektör tarafından üç yıl süre için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Göreve vekalet dört aydan fazla sürerse yeni bir Müdür görevlendirilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesi ve geliştirilmesinden Rektöre karşı sorumludur.
+
+(2) Müdürün önerisi üzerine, Üniversitede alanında uzman öğretim elemanlarından en çok iki kişi müdür yardımcısı olarak Rektör tarafından üç yıl süre ile görevlendirilir. Müdür yardımcıları, Müdürün kendilerine vereceği görevleri yaparlar. Müdür, görevi başında bulunmadığı zaman yardımcılarından birisini vekil bırakır.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek,
+
+b) Merkezin çalışmalarının düzenli olarak yürütülmesini ve geliştirilmesini sağlamak,
+
+c) Yönetim Kurulunu toplantıya çağırmak, bu toplantıların gündemini hazırlamak ve toplantılara başkanlık etmek, Yönetim Kurulu kararlarını uygulamak,
+
+ç) Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait yıllık çalışma programını hazırlamak ve onaylanmış şekli ile Rektörlüğe sunmak,
+
+d) Danışma Kurulunu olağan ve olağanüstü toplantıya çağırmak.
+
+### MADDE 10 — Yönetim kurulu
+
+(1) Yönetim Kurulu; Müdür ve en az üçü Üniversitede tam zamanlı olarak görev yapan öğretim üyeleri arasından dört kişi olmak üzere toplam beş kişiden oluşur. Yönetim Kurulu üyeleri Rektör tarafından üç yıl süreyle görevlendirilir. Süresi biten üyeler yeniden görevlendirilebilir.
+
+(2) Yönetim Kurulu ayda en az iki kez toplanır. Yönetim Kurulu tutanakları Danışma kurulu üyelerinin incelemesine açık tutulur, ayrıca bu tutanakların birer nüshası Rektörlüğe ve ilgili akademik birimlere yönlendirilir.
+
+### MADDE 11 — Yönetim kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışma ve yönetimi ile ilgili konularda kararlar almak,
+
+b) Merkezin yıllık faaliyet raporunu ve yıllık çalışma programını görüşerek karara bağlamak,
+
+c) Araştırma, yayın, öğretim ve diğer çalışma alanlarına ilişkin konularda karar almak,
+
+ç) Merkezin bünyesinde kurulacak olan bilimsel çalışma gruplarını ve komisyonları belirlemek,
+
+d) Merkezin uzun vadeli bilimsel ve idari plan ve programını hazırlamak ve Rektörlüğe sunmak.
+
+### MADDE 12 — Danışma kurulu
+
+(1) Danışma Kurulu; Merkezin faaliyet alanları doğrultusunda çalışmalar yürüten veya çalışma alanlarının Merkeze katkısı olacağı düşünülen Üniversite ile diğer kişi kurum ve kuruluşların temsilcilerinden olmak üzere en fazla on üyeden oluşur. Danışma Kurulu üyeleri, Rektör tarafından üç yıllığına görevlendirilir. Süresi biten üyeler yeniden görevlendirilebilir.
+
+(2) Danışma Kurulu yılda bir kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
+
+### MADDE 13 — Danışma kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri şunlardır:
+
+a) Uzun vadeli bilimsel faaliyet planlarını değerlendirerek, Yönetim Kuruluna önerilerde bulunmak,
+
+b) Merkeze çalışmalarında bilimsel ve idari açıdan bilgi, deneyim ve önerilerde bulunmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, Müdürün önerisi üzerine 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Boğaziçi Üniversitesi Rektörü yürütür.

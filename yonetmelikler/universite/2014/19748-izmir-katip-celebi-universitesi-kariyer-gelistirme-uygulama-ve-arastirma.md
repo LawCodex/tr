@@ -1,0 +1,145 @@
+---
+title: "İZMİR KÂTİP ÇELEBİ ÜNİVERSİTESİ KARİYER GELİŞTİRME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.19748"
+number: "19748"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2014-06-05
+official_gazette_date: 2014-06-05
+official_gazette_number: "29021"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19748&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İZMİR KÂTİP ÇELEBİ ÜNİVERSİTESİ KARİYER GELİŞTİRME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; İzmir Kâtip Çelebi Üniversitesi Kariyer Geliştirme Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, organlarına, bu organların görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, İzmir Kâtip Çelebi Üniversitesi Kariyer Geliştirme Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, organlarına, bu organların görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (İKÇÜ-KAGEM): İzmir Kâtip Çelebi Üniversitesi Kariyer Geliştirme Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: İzmir Kâtip Çelebi Üniversitesi Rektörünü,
+
+d) Üniversite: İzmir Kâtip Çelebi Üniversitesi,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; İzmir Kâtip Çelebi Üniversitesi öğrenci adayları, öğrencileri, mezunları ve çalışanlarını kapsayacak biçimde kariyer planlaması, uygulaması ve geliştirilmesine yönelik çalışmalar yaparak; ülkemizin insan kaynakları performansının ve potansiyelinin gelişmesine katkıda bulunmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır;
+
+a) Kariyer planlama ve geliştirmeyi üniversiteye giriş öncesi, öğrencilik, mezuniyet sonrasını kapsayan; aday, öğrenci, mezun, çalışan ve aileleri ile diğer paydaşları içerecek bütünsel yaklaşımla ele alarak; amaçlar doğrultusunda gerekli faaliyetleri gerçekleştirmek,
+
+b) Üniversite öğrencilerinin, mezunlarının ve çalışanlarının bireysel kariyer planlamalarına yönelik yetkinliklerinin kazandırılması için kurs, seminer, sertifika programı gibi eğitim ve yayın faaliyetlerini organize etmek,
+
+c) İlgili özel ve kamu kurum ve kuruluşları ile işbirlikleri kurarak staj programları, kariyer geliştirme, iş ve iş gören sağlama proje ve programlarının yürütülmesine destek vermek,
+
+ç) Üniversite öğrenci adayları ve öğrencileri ile mezunları arasında kurumsal bağlılığa hizmet edecek biçimde sosyal ağlar kurulmasına imkân verecek organizasyonlar gerçekleştirmek,
+
+d) Üniversite öğrencilerinin, öğrencilik süreci içerisinde iş hayatına hazırlanmasını sağlayacak çeşitli uygulamaları iş eğitim programları düzenlemek,
+
+e) Öğrencilerimizin tez, proje, ödev yazma ve sunma konusundaki sözlü ve yazılı iletişim yetkinliklerini artıracak eğitim programları düzenlemek ve çalışma grupları oluşturmak,
+
+f) Bölgedeki işletmelerin üniversiteden daha fazla faydalanmasını sağlamak amacıyla toplantı, eğitim ve çalıştay gibi faaliyetler düzenlemek suretiyle iş birliği ve karşılıklı bilgi paylaşımı platformu oluşturmak,
+
+g) İşletmelere ihtiyaç duydukları alanlarda danışmanlık hizmetleri vermek, proje desteği sağlayan kuruluşlar nezdinde şirketlere proje desteği ve danışmanlık hizmetleri sağlamak,
+
+ğ) Kamu ve özel kurumlara yönelik hizmet içi eğitim programları düzenlemek,
+
+h) Merkezin amaçları doğrultusunda ulusal veya uluslararası resmi veya özel çeşitli kuruluşlarla işbirliği gerçekleştirmek,
+
+ı) Rektör tarafından önerilen diğer faaliyetleri gerçekleştirmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Organları ve Görevleri
+
+### MADDE 7 — Merkezin organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu.
+
+(2) Merkezin diğer organları şunlardır:
+
+a) Danışma Kurulu,
+
+b) Merkez proje koordinatörlükleri,
+
+c) Kariyer temsilcileri.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür, Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi dolan Müdür aynı yöntemle tekrar görevlendirilebilir.
+
+(2) Müdür kendisine yardımcı olmak üzere Üniversite öğretim elemanları arasından iki kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar.Müdürün görevi sona erdiğinde müdür yardımcılarının görevi de kendiliğinden sona erer. Müdürün görevi başında bulunmadığı zamanlarda müdür yardımcısı kendisine vekâlet eder. Görevi başında bulunmama süresinin altı ayı aşması durumunda yeni Müdür görevlendirilir. Müdür; faaliyetlerin düzenli bir şekilde yürütülmesinden, gözetim ve denetiminden Rektöre karşı sorumludur.
+
+(3) Müdürün görevleri; Merkezi temsil etmek ve Yönetim Kuruluna başkanlık yapmak, Merkez çalışmalarının düzenli ve etkin bir şekilde yürütülmesini sağlamak, Yönetim Kurulu kararlarının bu Yönetmelik çerçevesinde uygulanmasını sağlamak ve gerektiğinde çalışma grupları oluşturmak, yurt içinde ve yurt dışında ilgili diğer kariyer merkezleri ve kamu/özel kesim kuruluşlarının insan kaynakları birimleri ile işbirliği ve koordinasyon sağlamak, merkez bünyesinde gerekli hizmet birimleri oluşturmak, bu birimlerin faaliyetlerini düzenlemek, koordine ve kontrol etmektir.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu; Müdür, müdür yardımcıları ile Müdürün önereceği ve Rektör tarafından Üniversite öğretim elemanları arasından görevlendirilecek üç üye ile birlikte toplam altı üyeden oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıl olup, süresi biten üyeler yeniden görevlendirilebilir. Görev süresi dolmadan ayrılan üyelerin yerine, kalan süreyi tamamlamak üzere yenileri Rektör tarafından görevlendirilir. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+
+(2) Yönetim Kurulu, Merkezin karar organıdır. Yönetim Kurulunun görevleri; Müdür tarafından sunulan işleri görüşmek ve karara bağlamak, diğer çalışmalarda Müdüre yardımcı olmaktır.
+
+### MADDE 10 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; Üniversitenin mezunlar derneği başkanı ile Yönetim Kurulunca öğretim üyeleri arasından önerilen ve Rektör tarafından üç yıl süre ile görevlendirilen en az yedi kişiden oluşur.
+
+(2) Danışma Kurulunun görevi; Üniversite mezunlarının istihdamını yönlendiren kamu ve özel sektör yöneticilerinin Merkezin çalışmalarını etkinleştirmesi yönünde kararlar almak, Merkez çalışmalarında görev almak, uzmanlık alanlarında ve mali konularda Merkez çalışmalarını desteklemek, her yıl Merkezin faaliyetlerine ilişkin gözlemleri yansıtan danışma raporunu hazırlamaktır.
+
+### MADDE 11 — Merkez proje koordinatörlükleri ve görevleri
+
+(1) Merkez bünyesinde yürütülen faaliyetlerin sağlıklı bir şekilde takibi ve sonuçlandırılması için her bir faaliyet için o faaliyetle ilgili uzmanlık alanlarında bulunan Üniversite öğretim elemanlarından bir kişi proje koordinatörü olarak belirlenir. Yapılan çalışmalar proje koordinatörünün sorumluluğunda yürütülür. Proje koordinatörü Müdürün önerisi ve Yönetim Kurulunun kararı ile belirlenir. Müdür ve Yönetim Kurulu üyeleri ayrıca proje koordinatörü olarak da görev alabilirler. Proje kapsamında yürütülen çalışmalar sona erdiğinde koordinatörlük görevi bitmiş sayılır.
+
+### MADDE 12 — Kariyer temsilcileri ve görevleri
+
+(1) Merkezin işlevselliğini artırmak, öğrenci ve mezunlarla doğrudan iletişim kurabilmek amacı ile Üniversitenin tüm akademik birimlerinden birer öğretim elemanı Müdürün teklifi ile kariyer temsilcisi olarak akademik birim amirleri tarafından görevlendirilir.
+
+(2) Kariyer temsilcileri, görev yaptıkları akademik birimlerde merkezin faaliyetlerine kendi uzmanlık alanlarında öğrencilere gerekli kariyer yönlendirmesi için destek verir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı Müdürün önerisi üzerine 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilir.
+
+### MADDE 14 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 15 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İzmir Kâtip Çelebi Üniversitesi Rektörü yürütür.

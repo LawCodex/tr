@@ -1,0 +1,123 @@
+---
+title: "IĞDIR ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ"
+identifier: "8.5.38628"
+number: "38628"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-05-28
+official_gazette_date: 2021-05-28
+official_gazette_number: "31494"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38628&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# IĞDIR ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Yönetmeliğin amacı; Iğdır Üniversitesi Döner Sermaye İşletmesinin faaliyet alanlarına, yönetim organlarına, sermaye limitine ve işleyişine ilişkin esasları düzenlemektir.
+
+(2) Bu Yönetmelik; Iğdır Üniversitesinin eğitim, öğretim, araştırma ve uygulama birimlerinin döner sermaye faaliyetlerine ilişkin hükümleri kapsar.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 58 inci maddeleri ile 18/6/2020 tarihli ve 31159 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Döner Sermaye İşletmelerinin Kurulmasına İlişkin Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) İşletme: Iğdır Üniversitesi Döner Sermaye İşletmesini,
+
+b) Rektör: Iğdır Üniversitesi Rektörünü,
+
+c) Üniversite: Iğdır Üniversitesini,
+
+ç) Yönetim Kurulu: Iğdır Üniversitesi Yönetim Kurulunu,
+
+d) Yürütme Kurulu: Iğdır Üniversitesi Yönetim Kurulunca İşletmeyi idare etmek üzere kurulan Yürütme Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM
+
+**İşletmenin Faaliyet Alanları, Yönetim Organları,**
+
+**Harcama Yetkilisi ve Sermaye Limiti**
+
+### MADDE 4 — İşletmenin faaliyet alanları
+
+(1) İşletme; çalışmaları sırasında eğitim ve öğretim ile bunlara katkıda bulunan uygulamaları ön planda tutmak ve Üniversitenin esas faaliyetlerini aksatmamak kaydıyla aşağıda belirtilen faaliyetlerde bulunur:
+
+a) Yükseköğretim kurumları dışındaki kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerce istenilecek bilimsel görüş, proje, araştırma ve benzeri hizmetlerde bulunmak; kurslar, hizmet içi eğitim programları ve sınavlar hazırlamak ve uygulamak, seminer, konferans, sempozyum düzenlemek.
+
+b) Üniversitenin faaliyet alanları ile ilgili her türlü analiz, anket, bakım, danışmanlık, değerleme, deney, ekspertiz, fizibilite, fotoğraflama, harita, kalibrasyon, kontrol, modelleme, muayene, onarım, ölçüm, planlama, programlama, projelendirme, prototip geliştirme, sentez, tahlil, tasarım, test, tetkik, uygulama, üretim ve yazılım işlerini ve hizmetlerini yapmak ve bunlara ilişkin raporlar düzenlemek.
+
+c) Bireylerin bilgi toplumuna uyum sağlamaları ve bu toplumda yaşamlarını daha iyi kontrol edebilmeleri için ekonomik ve sosyal hayatın tüm evrelerine aktif bir şekilde katılımlarına imkân vermek amacıyla ihtiyaç duyulacak alanlarda kurslar düzenlemek, bu amaçla gerekirse ulusal ve uluslararası kuruluşlarla işbirliği içinde projeler hazırlamak ve uygulamak.
+
+ç) Güzel sanatlarla ilgili senaryo, prodüksiyon, tiyatro, film, video, slayt, fotoğraf, reklam, ilan, yayın röleve, sergi, fuar, restorasyon, peyzaj, deney, analiz-tetkik faaliyetlerinde bulunmak, eğitim ve benzeri programları yapmak ve bunlarla ilgili rapor düzenlemek.
+
+d) Bilgisayar destekli tasarım üretim ve eğitim etkileşimli programlar hazırlamak, yazılım desteği sağlamak, bilgisayar montajı mikro işlemcili kontrol sistemleri ve ölçü aletleri üretimleri yapmak, Üniversite bünyesinde kurulmuş bulunan televizyon ve radyo yayın sistemini işletmek, televizyon ve radyo programları hazırlamak, yerel ve ulusal medya için eğitim amaçlı programları pazarlamak.
+
+e) Diğer yükseköğretim kurumları, kamu kurum ve kuruluşları ile gerçek ve tüzel kişilere yönelik veya işbirliği halinde, teknik bilimlerle ilgili olarak tasarım, modelleme, denetim, basım, tekstil, mekanik deneyler, kalite kontrol hizmetleri ve her türlü mekanik, elektrik ve elektronik makine ve cihazlarla ilgili bakım-onarım, proje ve üretim işlerini ifa etmek, bunlarla ilgili raporlar hazırlamak ve gerekli faaliyetlerde bulunmak.
+
+f) Beden eğitimi, spor ve antrenörlük alanlarında; seminerler, eğitim programları, yarışmalar düzenlemek, organizasyon yapmak ve sportif alanda bireysel ve takım olarak performans değerlendirmesi, psikolojik danışmanlık, diyet analiz ve kontrolü, antrenman planlaması, sporcu sağlığını koruma ve geliştirme, alana ilişkin yetenek belirleme, bu kapsamda yapılacak değerlendirme çalışmaları ile özel yetenek sınavlarını organize etmek, yürütmek ve benzeri hizmetlerde bulunmak.
+
+g) Faaliyet alanına giren işlere ait oluşan patent, faydalı model, marka veya fikri ve sınai haklar konusuna giren eserler tescil ettirmek, bunları tamamen ya da kısmen kiralamak, satmak ya da kullandırmak.
+
+ğ) Yetiştirilecek veya üretilecek her türlü bitkisel, hayvansal ve mineral nitelikte ürünlerle ilgili mal ve hizmet üretimi, etolonaj, tarla ve bahçe bitkilerinin muayenesi ve gerektiğinde bunların tedavisi, plan proje, tarımsal sorunlara çözüm getirecek uygulamaya yönelik araştırmalar, elde edilen sonuçların yaygın ve etkin kullanımının sağlanması yönündeki faaliyetler ve bu yolla elde edilecek ürünleri pazarlamak.
+
+h) Üniversite-sanayi işbirliği kapsamında çalışmalar yapmak, sanayi kuruluşlarınca üretilen çeşitli malların standartlara uygunluğu konusunda raporlar düzenlemek, analiz ve ölçümler yapmak, projeler hazırlamak veya uygulamak.
+
+ı) Klinik, poliklinik, ameliyathane, laboratuvar ve atölyelerde, insan, hayvan, bitki ve her türlü madde, malzeme üzerinde yapılacak her çeşit muayene, analiz, deney, tahlil, ameliyat, ölçme, tetkik, tedavi, hemşirelik, hastabakıcılık, bakım, üretim ile ilgili iş ve benzeri hizmetleri yapmak ve bu amaçla yataklı, yataksız, sabit, geçici, gezici sağlık tesisleri, uygulama eczanesi, balneolojik (doğal iyileştirici) sağlık hizmetlerini yapmak ile ilaç üreticilerinin çeşitli nedenlerle imha etmek istedikleri ilaçları, kimyasalları ilgili mevzuat hükümlerine göre imha etmek, gerektiğinde bu ve benzeri konularda kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerle işbirliği yapmak.
+
+i) Eğitim, öğretim ve uygulama ile sınırlı olmak üzere, akaryakıt, ısıtma ve aydınlatma sistemlerinin ihtiyaçlarını karşılamak amacıyla kurulmuş bulunan tesisleri işletmek.
+
+j) Turizm işletmeciliği ve otelcilik eğitiminin uygulama alanlarında; yiyecek, içecek, konaklama hizmetleri vermek ve bu amaç doğrultusunda ilgili tesisleri işletmek.
+
+k) Pedagojik formasyon, yabancı dil, yabancılara Türkçe öğretimi, bilgi işlem, yazılım, donanım ve yetkili makamlar tarafından verilen izin çerçevesinde bilirkişilik ile arabuluculuk gibi konularda elektronik ortamda veya yüzyüze sertifikalı eğitim hizmetleri faaliyetlerinde bulunmak.
+
+l) Her türlü ağaç, metal, çini, seramik, model, tasarım, denetim, mekanik deneyler, tekstil, dericilik ve halı atölyeleri hizmetleri, kalite kontrolü, her çeşit cihaz, makine, alet-edevat, tesisat ve benzerlerinin üretim, bakım ve onarımlarını yapmak, her türlü gıda, kozmetik temizlik, dezenfektan ve hijyen ürünlerini üretmek, bu konularda raporlar düzenlemek.
+
+m) Mevcut fiziksel kapasiteyi değerlendirerek, hizmet birimlerinin faaliyet alanı ile sınırlı olmak üzere, yukarıda sayılanlar dışında her türlü mal ve hizmet üretiminde bulunmak ve yönetim kurulunun izni alınmak koşuluyla üretilen mal ve hizmetleri pazarlamak, satmak, satış yerleri açmak ve işletmek.
+
+### MADDE 5 — Yönetim organları
+
+(1) İşletmenin Yönetim Kurulu, Üniversite Yönetim Kuruludur.
+
+(2) Yönetim Kurulu, işletmeyi idare etmek üzere Yürütme Kurulu oluşturabilir ve yetkilerini uygun gördüğü ölçüde; sınırları belirli olmak ve yazılı olmak kaydıyla Yürütme Kuruluna devredebilir. Yürütme Kurulu, Üniversite Yönetim Kurulu tarafından seçilecek bir rektör yardımcısı, üç öğretim elemanı (dekan ve yüksekokul müdürü de olabilir) ve döner sermaye işletme müdürü olmak üzere beş kişiden oluşur.
+
+(3) Yürütme Kurulu, Başkanın çağrısı ile en az üç üyenin katılımı ile toplanır ve kararlar üye tamsayısının salt çoğunluğuyla alınır.
+
+### MADDE 6 — Harcama yetkilisi
+
+(1) Harcama yetkilisi, bütçe ile ödenek tahsis edilen her bir birimin en üst yöneticisi veya anılan görevi yürütmekle görevlendirilen kişidir. İlgili mevzuat hükümleri kapsamında; harcama yetkilileri, yazılı olarak ve sınırları açıkça belirtilmek şartıyla yetkilerini yardımcılarına veya hiyerarşik olarak kendilerine en yakın Üniversite personeline devredebilirler.
+
+### MADDE 7 — Sermaye limiti
+
+(1) İşletmenin sermaye limiti; 1.000,00 (Bin) TL’dir.
+
+## ÜÇÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 8 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 1/5/2007 tarihli ve 26509 sayılı Resmî Gazete’de yayımlanan Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği, Yükseköğretim Kurumları Döner Sermaye İşletmelerinin Kurulmasına İlişkin Yönetmelik ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 9 — Yürürlükten kaldırılan yönetmelik
+
+(1) 30/12/2010 tarihli ve 27801 sayılı Resmî Gazete’de yayımlanan Iğdır Üniversitesi Döner Sermaye İşletmesi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 10 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 11 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Iğdır Üniversitesi Rektör yürütür.

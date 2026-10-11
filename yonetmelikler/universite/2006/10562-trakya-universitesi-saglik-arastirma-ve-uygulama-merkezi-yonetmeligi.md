@@ -1,0 +1,181 @@
+---
+title: "TRAKYA ÜNİVERSİTESİ SAĞLIK ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.10562"
+number: "10562"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2006-08-07
+official_gazette_date: 2006-08-07
+official_gazette_number: "26252"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10562&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TRAKYA ÜNİVERSİTESİ SAĞLIK ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Trakya Üniversitesine bağlı olarak kurulan Trakya Üniversitesi Sağlık Araştırma ve Uygulama Merkezinin teşkilat, yönetim, çalışma usul ve esaslarını düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Trakya Üniversitesi Sağlık Araştırma ve Uygulama Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma esaslarına ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Üniversite: Trakya Üniversitesini,
+
+b) Senato: Trakya Üniversitesi Senatosunu,
+
+c) Rektör: Trakya Üniversitesi Rektörünü,
+
+ç) Rektörlük: Trakya Üniversitesi Rektörlüğünü,
+
+d) Tıp Fakültesi: Trakya Üniversitesi Tıp Fakültesini,
+
+e) Dekan: Tıp Fakültesi Dekanını,
+
+f) Dekanlık: Tıp Fakültesi Dekanlığını,
+
+g) Merkez (Hastane): Trakya Üniversitesi Sağlık Araştırma ve Uygulama Merkezini,
+
+ğ) Merkez Müdürü (Başhekim): Merkezin Müdürünü,
+
+h) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ı) Danışma Kurulu: Merkezin Danışma Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; sağlık hizmetleriyle ilgili tüm alanlarda eğitim-öğretim, araştırma ve uygulama yapma olanağı sağlamak, her düzeyde tıp ve sağlık personeli yetiştirmek amacıyla Tıp Fakültesi başta olmak üzere, Üniversite bünyesindeki diğer fakülte, enstitü, yüksekokullar, araştırma ve eğitim merkezleri ile yurt içinde ve yurt dışındaki diğer kurumlarla işbirliği yaparak sağlık hizmetlerinin kaliteli ve verimli düzeyde yürütülmesini sağlamaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez, amacını gerçekleştirmek üzere aşağıdaki faaliyetlerde bulunur:
+
+a) Sağlıklı yaşam için sağlık hizmeti sunumu ve bu konu ile ilgili araştırma ve uygulamalarda bulunmak,
+
+b) Klinik dalları ve diğer disiplinlerle toplum sağlığına yönelik araştırmalar konusunda işbirliğini sağlamak,
+
+c) Amacı ile ilgili kamu kurum ve kuruluşlarıyla ortak projelerin geliştirilmesine imkan sağlamak,
+
+ç) Toplumun sağlıklı yaşam konusundaki bilgi, davranış ve eksikliklerini tespit ederek bunların giderilmesine yönelik projeler geliştirmek,
+
+d) Üniversite öğrencilerinin sağlıklı yaşam bilinci kazanmalarını ve Merkez projelerinde etkin görev almalarını sağlamak, bu amaçla özendirici eğitsel faaliyetlerde bulunmak ve bu alanda çalışmak isteyenleri desteklemek,
+
+e) Sağlıklı bir toplumun geliştirilmesi için gerektiğinde kamu ve özel sektör kurum ve kuruluşları ile işbirliği yaparak ülke düzeyinde bilim ve toplum arasında köprü görevini üstlenmek,
+
+f) Ulusal ve uluslar arası kamu ve özel sektör kurum ve kuruluşlarına Merkezin amaçları doğrultusunda projeler hazırlamak, eğitim programları düzenlemek, bilimsel mütalaada bulunmak ve benzeri hizmetleri vermek,
+
+g) Toplumun sağlıklı yaşam konusunda bilgilendirilmesi ve eğitilmesi amacıyla, kitap, dergi, broşür ve benzeri basımları yapmak, yazılı ve görsel basın organlarında programlar düzenlemek,
+
+ğ) Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Merkez Müdürü,
+
+b) Yönetim Kurulu,
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Merkez müdürü
+
+(1) Tıp Fakültesi öğretim üyeleri arasından devamlı statüde çalışan profesör veya doçentlerden biri, Rektör tarafından Dekanın görüşü alınarak dört yıl süre ile Merkez Müdürü olarak görevlendirilir. Süresi biten Merkez Müdürü yeniden görevlendirilebilir veya süresinden önce aynı usulle görevine son verilebilir. Merkez Müdürü devamlı statüde çalışan öğretim üyeleri arasından en çok altı öğretim üyesini müdür yardımcısı (başhekim yardımcısı) olarak seçerek Rektörün onayına sunar. Müdür yardımcıları, Merkez Müdürünün yapacağı yetki devrine göre, Merkezin hizmetlerinin yürütülmesinde Merkez Müdürüne yardımcı olurlar. Merkez Müdürü görevi başında bulunmadığı zamanlarda bu yardımcılardan biri, Merkez Müdürünün teklifi ve Rektörün onayı ile Merkez Müdürüne vekâlet eder. Göreve vekâlet altı aydan fazla sürerse yeni bir Merkez Müdürü görevlendirilir. Müdür yardımcılarının süresi, Merkez Müdürünün görev süresi bittiğinde kendiliğinden sona erer.
+
+### MADDE 9 — Merkez müdürünün görevleri
+
+(1) Merkez Müdürünün görevleri şunlardır;
+
+a) Merkez ve Merkeze bağlı ünite, birim ve çalışma gruplarının en iyi şekilde çalışması için gerekli tedbirleri almak,
+
+b) Yönetim Kurulu kararlarını uygulamak,
+
+c) Merkezin yıllık faaliyet raporunu hazırlamak, Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunmak,
+
+ç) Merkezin amaçları doğrultusunda oluşturulan çalışma grup ve birimlerinin programlarını hazırlamak ve Yönetim Kuruluna önermek,
+
+d) Yurt içi ve yurt dışında benzer faaliyetlerde bulunan kuruluşlarla işbirliği yapmak,
+
+e) Merkezin yönetim, denetim ve gözetim görevini yürütmek,
+
+f) Sağlık alanlarındaki hizmetlerin koordinasyonunu sağlamak,
+
+g) Merkezin ödenek, kadro ihtiyaçlarını, bütçe ile ilgili önerilerini ve görüşülecek diğer konuları tespit ederek gerekçesi ile birlikte Yönetim Kuruluna sunmak.
+
+### MADDE 10 — Yönetim kurulu
+
+(1) Yönetim Kurulu; Rektörün başkanlığında, Döner sermayeden sorumlu Rektör Yardımcısı, Dekan, Merkez Müdürü, Tıp Fakültesi Cerrahi, Dâhili ve Temel Bilimler Bölüm başkanları, Döner Sermaye İşletme Müdürü ve Hastane Başmüdüründen oluşur. Yönetim Kurulu karar organıdır.
+
+(2) Yönetim Kurulu; Rektörün başkanlığında, yılda en az iki kere toplanır. Rektörün bulunmadığı zamanlarda Yönetim Kuruluna, Rektör yardımcısı başkanlık eder. Kurulun sekretaryasını Hastane Başmüdürü yürütür. Yönetim Kurulu, Rektör tarafından gerek görüldüğünde gündemli olarak her zaman toplantıya çağrılabilir. Toplantılar üye tam sayısının salt çoğunluğu ile yapılır ve kararlar oy çokluğu ile alınır.
+
+### MADDE 11 — Yönetim kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır;
+
+a) Merkezin amaçları doğrultusunda Merkezin yönetimi ile ilgili kararlar almak,
+
+b) Merkez bünyesinde kurulan birimler ile idari ünitelerin rasyonel çalışması için çalışma plan ve programlarını hazırlamak, bunlar arasında koordinasyonu sağlamak,
+
+c) Merkezin çalışma plan ve programını hazırlamak,
+
+ç) Rektörlüğe sunulacak faaliyet raporunu görüşmek,
+
+d) Personel ihtiyacını belirlemek,
+
+e) Merkezle ilgili hazırlanan projeler hakkında kararlar almak.
+
+### MADDE 12 — Danışma kurulu ve görevleri
+
+(1) Danışma Kurulu; Merkez Müdürü, Tıp Fakültesi Dahili, Cerrahi ve Temel Bilimler Bölümlerinin her birinde devamlı statüde çalışan profesörlerin, doçentlerin ve yardımcı doçentlerin kendi aralarından seçtikleri birer kişi olmak üzere üç profesör, üç doçent ve üç yardımcı doçentten, Tıp Fakültesinde görevli uzmanlık öğrencilerinin kendi aralarından seçtikleri bir kişiden ve Genel İdari Hizmetler, Sağlık Hizmetleri, Teknik Hizmetler ve Yardımcı Hizmetler Sınıfında görev yapanların kendi aralarında seçtikleri birer kişi olmak üzere dört kişiden oluşur. Rektör tarafından görevlendirilen bu üyelerin görev süresi iki yıldır. Süresi dolan üyeler yeniden görevlendirilebilirler. Danışma Kurulu Merkezin danışma organıdır.
+
+(2) Danışma Kurulu, Merkez Müdürünün başkanlığında yılda en az iki kez toplanır. Rektör veya Dekan isterse bu toplantılara katılabilirler. Rektörün toplantıya katılması durumunda ise, Kurula Rektör başkanlık eder. Toplantılar üye tam sayısının salt çoğunluğu ile yapılır ve kararlar oy çokluğu ile alınır. Kurulun sekretaryasını Merkez Müdürü yürütür.
+
+(3) Danışma Kurulunun görevi; Merkezin amaçları ile ilgili konularda görüşlerin açıklanıp tartışılması, her kesimden gelen istekleri ve önerileri değerlendirerek yeni çalışma konularının gündeme getirilmesi ve sorunların çözüme bağlanmasına yönelik öneriler getirmektir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Merkez ünitelerinin ve birimlerinin çalışma usul ve esasları
+
+(1) Merkezde ve Merkeze bağlı olarak çalışan sağlık hizmetleriyle görevli ünitelerde bulunan servis, poliklinik veya laboratuvar birimleri ile Merkezin idari işlerinde görevli diğer idari birimler yürüttükleri hizmetler açısından Merkez Müdürüne karşı sorumludur.
+
+(2) Anabilim dalı başkanları, bilim dalı başkanları ve laboratuvar ve poliklinik sorumluları sorumluk alanlarına giren bölgelerde hizmetlerin en verimli ve en iyi şekilde gerçekleştirilmesi açısından Merkez yönetimi ile işbirliği ve koordinasyon içinde bulunur ve Merkez yönetimine karşı sorumludur.
+
+(3) Birinci fıkrada yer alan idari ünite ve birimlerin; görevleri, buralarda görevlendirilecek kişilerin görev, yetki ve sorumlulukları ve çalışma şekline ilişkin esaslar Senatoca belirlenir.
+
+### MADDE 14 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 15 — Yürürlükten kaldırılan yönetmelik
+
+(1) 22/12/1992 tarihli ve 21443 sayılı Resmî Gazete’de yayımlanan Trakya Üniversitesi Eğitim-Araştırma-Uygulama Merkezi-Hastanesi İşletme Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Trakya Üniversitesi Rektörü yürütür.

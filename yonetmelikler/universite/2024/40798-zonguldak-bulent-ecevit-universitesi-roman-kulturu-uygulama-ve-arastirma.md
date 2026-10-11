@@ -1,0 +1,173 @@
+---
+title: "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ ROMAN KÜLTÜRÜ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.40798"
+number: "40798"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2024-05-20
+official_gazette_date: 2024-05-20
+official_gazette_number: "32551"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40798&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ ROMAN KÜLTÜRÜ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Zonguldak Bülent Ecevit Üniversitesi Roman Kültürü Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Zonguldak Bülent Ecevit Üniversitesi Roman Kültürü Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: Zonguldak Bülent Ecevit Üniversitesi Roman Kültürü Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Zonguldak Bülent Ecevit Üniversitesi Rektörünü,
+
+d) Üniversite: Zonguldak Bülent Ecevit Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; Romanlar hakkında politik, ekonomik, sosyal, hukuki ve kültürel konularda teorik-uygulamalı araştırma ve incelemeler yapmak, kısa, orta ve uzun vadeli planlar çerçevesinde Romanların yaşam kalitesinin artırılması için önerilerde bulunmak, sosyal dışlanma ve sosyal içerme konularında çalışmalar yapmak, sosyal-ekonomik, çevresel sorunlarını tespit etmek ve çözümler üretmek, insan hakları bilincini geliştirmek, kültür ve dil araştırmaları yapmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Romanlar konusunda bilimsel araştırma, inceleme ve yayın yapmak, bu nitelikteki çalışmaları koordine etmek, teşvik ve desteklemek amacıyla ulusal, uluslararası kurum ve kuruluşlarla ortak projeler üretmek.
+
+b) Romanlar ile ilgili sektörler arası planlama, şehir, bölge ve ülke düzeyinde ortaklık, toplum katılımı konularında çalışmalar yapmak; eğitim ve danışmanlık hizmetleri vermek.
+
+c) Romanlar konusunda toplumsal farkındalığın artırılmasına yönelik çalışmalar yapmak.
+
+ç) Ulusal ve uluslararası kongre, konferans, seminer, sempozyum, çalıştay ve eğitim toplantıları düzenlemek ve bu faaliyetlere katılmak.
+
+d) Sosyal uyum projeleri geliştirmek.
+
+e) Romanlar konusunda görsel, işitsel ve yazılı yayınlar yapmak.
+
+f) Yönetim Kurulu tarafından karar verilen diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanı ile ilgili Üniversite öğretim elemanları arasından Rektör tarafından üç yıl süreyle görevlendirilir. Görev süresi dolan Müdür tekrar görevlendirilebilir.
+
+(2) Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere, Üniversitede görevli öğretim elemanları arasından iki kişi, üç yıl süreyle Rektör tarafından müdür yardımcısı olarak görevlendirilir. Rektör gerektiğinde aynı usulle müdür yardımcılarını değiştirebilir. Müdürün görev süresi sona erdiğinde yardımcılarının da görevi sona erer.
+
+(3) Müdür yardımcıları Merkezin faaliyetleri ile ilgili olarak Müdürün kendilerine verdiği görevleri yerine getirirler. Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kuruluna ve Danışma Kuruluna başkanlık etmek.
+
+c) Yönetim Kurulu ve Danışma Kurulu üyelerini toplantıya davet etmek.
+
+ç) Yönetim Kurulunun toplantı gündemini belirlemek.
+
+d) Yönetim Kurulu kararlarının uygulanmasını sağlamak.
+
+e) Merkezin çalışmalarının düzenli bir biçimde yürütülmesini sağlamak.
+
+f) Merkezin hazırladığı araştırma, uygulama, çalışma, plan ve projelerini değerlendirmek üzere Yönetim Kuruluna sunmak.
+
+g) Merkezin verimli çalışması için ilgili birimler arasındaki koordinasyonu sağlamak.
+
+ğ) Merkezin faaliyet raporunu ve bir sonraki yıla ait çalışma programını hazırlamak ve Yönetim Kurulunda onaylanmış şekli ile Rektöre sunmak.
+
+h) Merkezin amacına uygun ve ilgili mevzuatla verilen diğer görevleri yürütmek.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, Üniversitenin öğretim elemanları arasından Rektör tarafından üç yıllığına görevlendirilen altı üye olmak üzere toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu, Müdürün daveti üzerine üye tam sayısının salt çoğunluğuyla toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır. Toplantılara Müdürün daveti üzerine müdür yardımcıları oy hakları olmaksızın katılabilir.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışma ve yönetimi ile ilgili konularda kararlar almak.
+
+b) Müdürün her faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek, sunulan raporu değerlendirmek, bir sonraki döneme ait çalışma programını düzenlemek.
+
+c) Araştırma, yayın, öğretim ve diğer çalışma alanlarına ilişkin konularda kararlar almak.
+
+ç) Müdürün, Merkezin yönetimi ile ilgili getireceği konuları değerlendirerek karara bağlamak.
+
+d) Gerekli hallerde Merkezin faaliyetleri ile ilgili geçici çalışma grupları kurmak ve bunların görevlerini düzenlemek.
+
+e) İlgili mevzuat hükümleriyle verilen diğer görevleri yapmak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu, Merkezin faaliyetleri ile ilgili konularda değerlendirmeler yapmak, görüş ve önerilerde bulunmak üzere oluşturulan kuruldur.
+
+(2) Danışma Kurulu; Müdür, müdür yardımcıları ve Yönetim Kurulunun önerisi ile Rektör tarafından seçilen Merkez faaliyetleri ile ilgili kamu veya özel sektörden dört üye olmak üzere toplam yedi üyeden oluşur.
+
+(3) Danışma Kurulu üyeleri üç yıllığına görevlendirilir. Danışma Kurulu üyeliği sona eren kişi tekrar görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine aynı usulle yeni üyeler görevlendirilir.
+
+(4) Danışma Kurulu, yılda iki defadan az olmamak üzere ve gerekli durumlarda Müdürün daveti üzerine üyelerinin salt çoğunluğu ile toplanır. Kararlar toplantıya katılanların salt çoğunluğu ile alınır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilen personel ile karşılanır.
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Müdürdür.
+
+### MADDE 15 — Yürürlükten kaldırılan yönetmelik
+
+(1) 6/7/2015 tarihli ve 29408 sayılı Resmî Gazete’de yayımlanan Bülent Ecevit Üniversitesi Roman Kültürü Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Zonguldak Bülent Ecevit Üniversitesi Rektörü yürütür.

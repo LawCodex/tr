@@ -1,0 +1,165 @@
+---
+title: "KIRIKKALE ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.16380"
+number: "16380"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2012-07-18
+official_gazette_date: 2012-07-18
+official_gazette_number: "28357"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16380&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KIRIKKALE ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Yönetmeliğin amacı ve kapsamı; Kırıkkale Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez (KIRIKKALE-TÖMER): Kırıkkale Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Kırıkkale Üniversitesi Rektörünü,
+
+ç) Üniversite: Kırıkkale Üniversitesini,
+
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 4 — Merkezin amacı
+
+(1) Merkezin amacı; yükseköğretim kurumlarında öğrenim görmek için yurt dışından gelecek yabancı uyruklu öğrencilere Türkçe öğretmek, yabancılara Türkçe öğretmek amacıyla Türkiye’den yurt dışına gidecek öğretim elemanlarının yetiştirilmesini sağlamak, gerekli dokümantasyon ve materyal çalışmaları yapmak, ilgili ulusal ve uluslararası kurum ve kuruluşlarla işbirliği yaparak ortak projeler hazırlamak ve oluşturulan bilgi birikiminin ulusal ve uluslararası alanda çeşitli etkinliklerle paylaşılmasını sağlamaktır.
+
+### MADDE 5 — Merkezin faaliyet alanları
+
+(1) Merkez, bu Yönetmeliğin 4 üncü maddesinde belirtilen amacını gerçekleştirmek için aşağıdaki faaliyetlerde bulunur:
+
+a) Türkçeyi bir dünya dili olarak yabancılara öğretmek, Türkiye’yi ve Türk kültürünü tanıtmak amacıyla ilgili mevzuat hükümlerine uygun olarak birimler oluşturmak,
+
+b) Yabancılara Türkçe öğretimi alanında öğretim elemanlarının yetiştirilmesini sağlamak ve bu amaç doğrultusunda kurs ve seminerler düzenlemek,
+
+c) Türkçenin yabancılara öğretimi alanında bilimsel araştırmalar yapmak, yaptırmak ve bu konularla ilgili raporlar hazırlamak,
+
+ç) Türkçe ve yabancı dil öğretimi alanında faaliyet gösteren ulusal ve uluslararası kurum ve kuruluşlarla işbirliğinde bulunarak, ortak araştırma ve eğitim programları gerçekleştirmek; Merkezin amaçları doğrultusunda ulusal ve uluslararası düzeyde ortak kongre, seminer, çalıştay, toplantı, eğitim ve benzeri etkinliklerle sertifikalı veya sertifikasız eğitim programları düzenlemek ve yürütmek,
+
+d) Türkçenin yaygınlaştırılması amacıyla ulusal ve uluslararası araştırma projelerinin hazırlanması ve yürütülmesi faaliyetlerini gerçekleştirmek; ulusal ve uluslararası kuruluşlar ile ortak proje faaliyetlerinde bulunmak veya bu tür projelere katkıda bulunmak,
+
+e) Üniversitenin ilgili birimleri ve uygulama ve araştırma merkezleriyle işbirliği yaparak, yerel, bölgesel, ulusal ve uluslararası düzeyde kurslar, seminerler, konferanslar, kongreler, toplantılar ile sertifikalı ve sertifikasız eğitim programları düzenlemek,
+
+f) Üniversitenin ilgili bölümlerinin lisans ve lisansüstü programlarında öğrenim gören öğrencileri, Türkçenin yabancılara öğretilmesi alanında araştırma yapmaya yöneltmek ve araştırmalarına destek olmak,
+
+g) Yabancılara Türkçe öğretiminin gerçekleşmesine hizmet edecek şekilde görsel, işitsel yayınlar hazırlamak, yaptırılacak araştırma sonuçlarını kitap, dergi, broşür, internet ve benzeri yayın araçları vasıtasıyla duyurmak,
+
+ğ) Türkiye’ye gelme imkânı bulunmayan, ancak Türkçe öğrenmek isteyen ilgililere internet üzerinden uzaktan eğitim vermek suretiyle Türkiye Türkçesini öğretmek,
+
+h) Kamu kurum ve kuruluşları ile işbirliği yapmak suretiyle projeler geliştirerek, Türkçeyi öğreten ve Türkiye’yi tanıtan film ses ve görüntülü kasetler, broşürler hazırlamak, kitap, dergi, bülten, raporlar yayınlamak,
+
+ı) Yurt dışındaki üniversitelerin Türkoloji bölümü öğrencilerine ve Türkiye’deki üniversitelerin yabancı dil bölümlerindeki son sınıf öğrencilerine ve mezunlarına meslekî tecrübeye yönelik uygulama programları düzenlemek, staj yaptırmak, gerektiğinde bu çalışmalar ile ilgili sertifikalar vermek,
+
+i) Merkez faaliyetleri ile ilgili arşiv birimi oluşturmak,
+
+j) Merkez faaliyetlerini yürütmek üzere gerekli nitelikte ve yeterli sayıda personel çalıştırmak, çalışma birimleri ile çalışma ve proje grupları oluşturmak,
+
+k) Talep halinde özel veya resmi kurum ve kuruluşların personeline sözlü ve yazılı anlatım kursları düzenlemek,
+
+l) Merkezin amacı ile ilgili diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM
+
+Merkezin Yönetim Organları ve Görevleri, Çalışma Birimleri,
+
+Çalışma ve Proje Grupları
+
+### MADDE 6 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu.
+
+### MADDE 7 — Müdür
+
+(1) Müdür; Rektör tarafından, tercihen Üniversitenin ilgili bölümlerinin öğretim üyeleri arasından üç yıl süreyle görevlendirilir. Görev süresi sona eren Müdür tekrar görevlendirilebilir. Müdürün önerisi üzerine, Merkez faaliyetlerinde Müdüre yardımcı olmak üzere Üniversite öğretim elemanları arasından en çok iki kişi Rektör tarafından üç yıl süreyle müdür yardımcısı olarak görevlendirilir. Müdürün görevi başında bulunmadığı durumlarda, müdür yardımcıları veya Yönetim Kurulu üyelerinden biri Müdüre vekâlet eder. Herhangi bir sebeple Müdürün altı aydan fazla bir süreyle görevi başında bulunamadığı durumlarda görevi sona erer. Görevi sona eren Müdürün yerine aynı usulle yeni bir Müdür görevlendirilir.
+
+### MADDE 8 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi yönetmek ve temsil etmek,
+
+b) Merkez faaliyetlerinin, bu Yönetmeliğin 4 üncü maddesinde belirtilen amaçlar doğrultusunda yürütülmesini ve gerekli koordinasyonu sağlamak,
+
+c) Yönetim Kurulunu toplantıya çağırmak ve toplantı gündemini hazırlamak, toplantıları yönetmek,
+
+ç) Yönetim Kuruluna başkanlık etmek ve Yönetim Kurulunda alınan kararları uygulamak,
+
+d) Merkezin araştırma, proje, eğitim-öğretim ve diğer faaliyetleriyle ilgili olarak ulusal ve uluslararası kuruluşlarla ilişkilerini yürütmek,
+
+e) Merkezin yıllık faaliyet raporları ile bir sonraki yıla ait çalışma programını Yönetim Kuruluna sunmak; Yönetim Kurulunca kabul edilen faaliyet raporu ile çalışma programını Rektörlüğe iletmek, onaylanan çalışma programının uygulanmasını sağlamak ve izlemek,
+
+f) Merkez faaliyetlerini yürütmek üzere gerekli personel ihtiyacını tespit etmek, görevlendirmeler için Rektörlüğe teklifte bulunmak, çalışma birimleri ile çalışma ve proje gruplarını oluşturmak,
+
+g) Merkez çalışanları arasından uygun nitelikteki kişileri çalışma birimlerinin koordinasyonundan sorumlu olarak görevlendirmek.
+
+### MADDE 9 — Yönetim kurulu
+
+(1) Yönetim Kurulu; Müdür ve Üniversitenin ilgili bölümlerindeki öğretim elemanları arasından, Müdürün önerisi üzerine, Rektör tarafından görevlendirilen dört üyeden oluşur.
+
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üyeler tekrar görevlendirilebilir. Süreleri bitmeden ayrılan üyelerin yerine, Müdürün teklifi üzerine yenileri görevlendirilir.
+
+(3) Yönetim Kurulu, Müdürün çağrısıyla ayda en az bir kez olağan olarak toplanır. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
+
+### MADDE 10 — Yönetim kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Bu Yönetmeliğin 5 inci maddesinde belirtilen faaliyet alanlarına ilişkin konularda kararlar almak,
+
+b) Müdürün her faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek, sunulan raporu değerlendirmek,
+
+c) Müdürün hazırladığı bir sonraki döneme ilişkin yıllık çalışma programını görüşmek,
+
+ç) Merkez faaliyetlerini yürütmek üzere gerekli personel ihtiyacının belirlenmesinde, çalışma birimleri ile çalışma ve proje gruplarının oluşturulmasında Müdüre önerilerde bulunmak.
+
+### MADDE 11 — Çalışma birimleri, çalışma ve proje grupları
+
+(1) Merkezin araştırma, proje, eğitim ve benzeri faaliyetlerine paralel olarak Müdürün önerisi ile çalışma birimi, çalışma ve proje grupları oluşturulabilir. Oluşturulan birimlerde çalıştırılmak üzere yeterli sayıda personel, Müdürün teklifi üzerine Rektör tarafından görevlendirilir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, Müdürün önerisi üzerine 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 13 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde; ilgili diğer mevzuat hükümleri ile Üniversite Senatosunun ve Üniversite Yönetim Kurulunun kararları uygulanır.
+
+### MADDE 14 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 15 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Kırıkkale Üniversitesi Rektörü yürütür.

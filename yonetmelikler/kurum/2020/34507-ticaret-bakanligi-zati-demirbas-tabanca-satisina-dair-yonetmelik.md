@@ -1,0 +1,173 @@
+---
+title: "TİCARET BAKANLIĞI ZATİ DEMİRBAŞ TABANCA SATIŞINA DAİR YÖNETMELİK"
+identifier: "7.5.34507"
+number: "34507"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2020-05-09
+official_gazette_date: 2020-05-09
+official_gazette_number: "31122"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34507&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TİCARET BAKANLIĞI ZATİ DEMİRBAŞ TABANCA SATIŞINA DAİR YÖNETMELİK
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Yönetmelik, Ticaret Bakanlığınca satın alınan tabanca ve mermilerin silah taşıma yetkisini haiz personele görevlerinde kullanılmak üzere, bedeli mukabilinde zati demirbaş tabanca olarak satılması, bu tabancaların personelin görevi bırakması, devlet memurluğundan çıkarılması ve benzeri sebeplerle görevden ayrılmaları halinde geri alınması usul ve esasları ile satılma şekli ve şartları, zayi, hasar, onarım, kadro standardı dışına bırakılması, eğitim ve görevde kullanılan mermilerin bedelli veya bedelsiz temini esas ve usullerini belirlemek amacıyla hazırlanmıştır.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Yönetmelik, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunun ek 8 inci maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Bakanlık: Ticaret Bakanlığını,
+
+b) Genel Müdür: Gümrükler Muhafaza Genel Müdürünü,
+
+c) Genel Müdürlük: Gümrükler Muhafaza Genel Müdürlüğünü,
+
+ç) Hizmet yılı: Bakanlık birimlerinde silah taşıma yetkisini haiz bir kadroda geçirilen hizmet sürelerinin toplamını,
+
+d) İdare: Merkezde Gümrükler Muhafaza Genel Müdürlüğünü, taşrada Gümrük ve Dış Ticaret Bölge Müdürlüklerini,
+
+e) İdare Amiri: Merkezde Gümrükler Muhafaza Genel Müdürünü, taşrada Gümrük ve Dış Ticaret Bölge Müdürünü,
+
+f) Personel: 8/6/2011 tarihli ve 27958 sayılı Resmî Gazete’de yayımlanan 640 sayılı Gümrük Personeli ile Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 39 uncu maddesinde sayılan ve silah taşıma yetkisini haiz olan Bakanlık personelini,
+
+g) Silah: Bakanlığın (Genel Müdürlük) envanterinde kayıtlı demirbaş tabanca ile Genel Müdürlükçe yurt içi ve yurt dışından satın alınacak tabancaları,
+
+ğ) Zati Demirbaş Tabanca: Bakanlığın (Genel Müdürlük) envanterinde kayıtlı devlet malı silah iken, bu Yönetmelik hükümleri gereği silah taşıma yetkisini haiz personele bedeli mukabili satışı yapılarak kayıt ve takip işlemleri Silah Takip Programında izlenilen, personelin memuriyet görevi süresince taşınmak ve kullanılmak zorunluluğu olan üçüncü kişilere satış, devir ve hibesi yapılamayan, emeklilik suretiyle memuriyetten ayrılma durumunda envanter kaydından çıkarılarak personelin zati malı olacak silahı,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Personele Satışı Yapılacak Tabancaların Cins ve Fiyatlarının Belirlenmesi
+
+### MADDE 4 — Personele satışı yapılacak tabancaların fiyatlarının belirlenmesi
+
+(1) Bakanlık tarafından satın alınarak personele satılacak tabancaların cinsi, satışı yapılacak tabanca ve mermilerin satış bedelleri, Genel Müdürlük genel müdür yardımcısının başkanlığında, iki daire başkanı ve ilgili daire personelinden oluşacak en az 5 kişilik bir komisyonca belirlenir.
+
+(2) Tespit edilen fiyatlar maliyet bedelinin altında olamaz. 6136 sayılı Kanunun yürürlük tarihinden önce hizmette kullanılan tabancaların fiyatları her yıl için %6 amortisman payı düşülerek belirlenir. Bu suretle belirlenen amortisman oranı %90’dan fazla olamaz.
+
+(3) Komisyonca alınan kararlar Genel Müdürün onayı ile yürürlüğe girer.
+
+### MADDE 5 — Tabanca ve mermi satışı
+
+(1) Her personele cinsi ve markası idarece belirlenen bir tabanca ile bu tabancaya ait en fazla 100 adet mermi satılır.
+
+(2) Satılan tabanca, personelin çalıştığı yerin ve yaptığı görevin özelliği göz önünde bulundurularak hizmetin gerekli kıldığı hallerde Genel Müdürün onayı ile değiştirilebilir. Tabancanın değiştirilmesi halinde aradaki fiyat farkı tek seferde, nakden veya mahsuben tahsil edilir.
+
+(3) Satışı yapılan mermilerin görev gereği sarf edilmesi halinde, sarf edilen miktar kadar mermi bedelsiz olarak yeniden verilir. Bu şekilde sarf edilen mermilerin envanter kayıtlarından düşümü 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliği hükümlerine göre yapılır.
+
+(4) Personel, özel eğitim amacıyla mermi talep ettiği takdirde, idarece belirlenecek miktarda ve verilecek belgeye istinaden ücretini de kendisinin ödemesi şartıyla mermi satın alabilir.
+
+### MADDE 6 — Tabanca ve mermi bedellerinin tahsilatı
+
+(1) Satışı yapılacak tabanca ve mermilerin bedelleri, satışı yapan idarece düzenlenecek ödeme listelerine göre, tahakkuk birimlerince personelin aylık bordrosundan kesilir.
+
+(2) Bu kesintiler, kesintiyi yapan muhasebe birimince genel bütçeye gelir kaydedilir.
+
+(3) Satışı yapan idarece üç nüsha olarak düzenlenen kesinti listesinin bir nüshası kesintiyi yapacak olan tahakkuk birimine, bir nüshası Genel Müdürlüğe gönderilir. Bir nüshası da ilgili idarece saklanır. Tabanca ve mermi bedellerinin tahsili; teslimi takip eden aydan itibaren başlar. Tabanca bedelini peşin ödemek istediğini bildiren personelden tabanca bedelinin tamamı teslimi takip eden aybaşında personelin aylık bordrosundan kesilir. Taksitli alım tercihinde ise silah bedeli aylık eşit taksitler halinde personelin aylık bordrosundan kesilmek suretiyle 12 ay içerisinde tahsil edilir. Mermi bedeli ise teslimi takip eden aybaşında personelin aylık bordrosundan kesilir.
+
+(4) Borç ödemesi devam ederken emekli olanların bakiye borçları tek seferde ve nakden ödenmedikçe kesin satış işlemi yapılamaz, silahı geri alınır. Yapılmış kesintiler ilgiliye ödenir.
+
+(5) Borç ödemesi tamamlandıktan sonra görevine devam ederken vefat edenlerin silahı muhafaza kaydıyla geri alınır. Veraset ilamına göre mirasçılarından eş, anne, baba ve çocuklardan birinin talebi ve diğerlerinin de noterden tasdikli muvafakatleri halinde, vefat tarihinden itibaren bir yıl içerisinde talepte bulunana, 6136 sayılı Kanuna göre silah bulundurmaya veya taşımaya mani hali bulunmaması halinde umumi hükümler içerisinde 21/3/1991 tarihli ve 91/1779 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmeliğe göre bu silah verilir. Mirasçılardan biri tarafından bu tabanca alınmadığı veya alınamadığı takdirde silah için yapılmış olan kesintiler hak sahiplerine tek seferde ödenir.
+
+(6) Borç ödemesi tamamlanmadan görevine devam ederken vefat edenlerin silahları geri alınır. Veraset ilamına göre mirasçılarından eş, anne, baba ve çocuklarından birinin talebi ve diğerlerinin de noterden tasdikli muvafakatleriyle, vefat tarihinden itibaren bir yıl içerisinde talepte bulunan şahsın 6136 sayılı Kanuna göre silah taşıma ve bulundurmaya mani hali bulunmaması ve Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmelik ile umumi hükümlere göre silah bulundurma veya taşıma izni aldığı takdirde, borcun geri kalanının ödenmesi koşuluyla vefat edenin silahı talepte bulunan şahsa verilir. Vefat edenin silahının hak sahipleri tarafından alınmaması veya alınamaması halinde yapılmış olan kesintiler, hak sahiplerine tek seferde ödenir.
+
+(7) Görev anında vefat eden veya şehit edilen personelin zati demirbaş tabancasının vefat veya şehit düşme esnasında zayi veya gasp edilmiş olması hallerinde, veraset ilamına göre mirasçılarından birinin vefat tarihinden itibaren bir yıl içerisinde talebi halinde, zayi veya gasp edilmiş olan tabanca bedeli için 4 üncü madde uyarınca ödeme yılı için belirlenen bedel üzerinden hak sahiplerine tek seferde ödeme yapılır.
+
+## ÜÇÜNCÜ BÖLÜM — Personele Satışı Yapılan Tabancaların Bakım ve Onarımı ile
+
+**Zayi Halinde Yapılacak İşlem**
+
+### MADDE 7 — Personele satışı yapılan tabancaların bakım ve onarımı
+
+(1) Personele satışı yapılan tabanca üzerinde, Genel Müdürlüğün müsaadesi dışında tadilat, iz, işaret ve bunun gibi değişiklikler yapılamaz. Tabancaların hasara uğraması halinde, personelin kusurlu olup olmadığı yapılacak idari tahkikat neticesinde belirlenir.
+
+(2) Personelin kusuru olmadan arızalanan tabancaların tamiri Genel Müdürlükçe bedelsiz olarak yapılır. Tamirinin mümkün olmadığı anlaşılan tabancalar, Genel Müdürlükçe teslim alınır ve yerine yeniden tabanca verilir. Yeniden verilen tabancanın fiyat farkı tek seferde ve peşin olarak tahsil edilir. Fiyat farkının tespitinde o yıl içinde belirlenmiş fiyatlar esas alınır.
+
+(3) Personelin kasıt, kusur, ihmal, tedbirsizlik ve benzeri halleri sebebiyle hasara uğratılan tabancaların bakım ve onarımı bedeli mukabil yaptırılır. Tabanca tamiri mümkün olmayacak hale gelmiş ise personele yeni tabanca satışı iki kat fiyat üzerinden yapılır. Bu personel hakkında uygulanacak disiplin hükümleri saklıdır.
+
+(4) Tamirat faturaları tek seferde ve nakden ödenmek üzere personelin aylık almakta olduğu birimin bağlı bulunduğu muhasebe birimince tahsil edilerek genel bütçeye gelir kaydedilir.
+
+### MADDE 8 — Tabancanın zayi
+
+(1) Tabancanın zayi halinde, personelin kusurlu olup olmadığı yapılacak idari tahkikat neticesinde belirlenir.
+
+(2) Kusursuz zayinde yeniden tabanca satışı yapılır. Kusurlu bulunan personele yeni tabanca satışında tabanca bedeli iki kat fiyatla satılır.
+
+(3) Kusurlu veya kusursuz olarak birden fazla tabanca zayi halinde (mükerrer zayi) yeniden tabanca satışı yapılmaz, ancak bu personele demirbaş tabanca verilir.
+
+### MADDE 9 — Tabancaların geçici olarak alınması
+
+(1) Zati demirbaş tabancanın herhangi bir nedenle adli mercilerce zapt edilmesi; bakım, onarım ve benzeri nedenlerle alınması hallerinde geçici olarak zimmetle demirbaş tabanca verilir. Bu tabancanın zayi veya hasar görmesi halinde genel hükümlere göre işlem yapılır.
+
+## DÖRDÜNCÜ BÖLÜM — Satışı Yapılan Tabancaların Geri Alınması
+
+### MADDE 10 — Tabancanın geri alınması
+
+(1) Personel; görevde bulunduğu sürece kendisine satışı yapılan zati demirbaş tabancasını başkasına devredemez, satamaz ve hibe edemez.
+
+(2) Devlet memurluğundan çıkarılan personel ile asaleti tasdik olmadan herhangi bir nedenle meslekten veya memuriyetten ayrılan personelden satışı yapılan zati demirbaş tabanca geri alınır.
+
+(3) Tutuklanma, gözaltına alınma, görevden uzaklaştırma ve benzeri hallerde personelin tabancası, birimlerince geçici olarak alınıp muhafaza edilir. Bu hallerin sonunda, personelin meslekten çıkarılması gerektiği sonucuna varılması halinde, bu şekilde geri alınan tabanca ile ilgili olarak Ateşli Silâhlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmeliğin 17 nci maddesi hükümlerine göre işlem tesis edilir.
+
+### MADDE 11 — Tabancanın geri alınmayacağı haller
+
+(1) Devlet memurluğundan çıkarılma hali hariç;
+
+a) 20 hizmet yılını tamamladıktan sonra görevden veya memuriyetten ayrılanlardan, görev esnasında veya görevden doğan sakatlanma halleri ile kadrosu başka hizmet sınıflarına aktarılanlardan, silahı geri alınmaz.
+
+b) 10 hizmet yılını tamamladıktan sonra meslekten veya memuriyetten ayrılanlar, ayrılış tarihindeki tabanca satış bedelinin %50’sini tek seferde ödedikleri takdirde satışı yapılanlardan, tabanca geri alınmaz.
+
+c) Asaleti tasdik olduktan sonra silah kullanma yetkisini haiz bir unvandan başka bir unvana aktarılanlardan, ayrılış tarihindeki tabanca satış bedelinin %100’ünü daha peşin olarak ödeyenlerden, silahı geri alınmaz.
+
+### MADDE 12 — Geri alınan tabancanın bedelinin iadesi
+
+(1) 6 ncı ve 10 uncu maddelerde belirtilen hallerde tabancanın geri alınması ve bedelinin ilgiliye ödenmesi idare amirinin onayı ile olur.
+
+(2) Silahın geri alınması halinde ödeme, ödemenin yapılacağı tarihteki silahın satış fiyatı üzerinden yapılır. Borç ödemesi devam ederken silahın geri alınması halinde ise, silahın geri alma tarihindeki satış fiyatından bakiye borç miktarı düşüldükten sonra geriye kalan meblağ personele tek seferde ödenir.
+
+(3) Ödeme, Genel Müdürlük bütçesinden personelin bağlı bulunduğu muhasebe birimince yapılır.
+
+## BEŞİNCİ BÖLÜM — Tabancaların Kayıt, Ruhsat ve Takip İşlemleri
+
+### MADDE 13 — Kayıt işlemi
+
+(1) Personele satılan tabancaların satış işlemleri yapılıp ödeme tamamlandığında satış senedi 4 nüsha olarak düzenlenir. Senedin birinci nüshası personelin özlük dosyasına takılır, ikinci nüshası ise personele verilir. Satış senedine ilişkin bilgiler Silah Takip Programına kaydedilir.
+
+### MADDE 14 — Ruhsat işlemi
+
+(1) Tabancanın cinsi, tipi, markası, çapı ve seri numarası, personelin özlük dosyasındaki sicil kartına ve personelin kimlik kartına işlenir. Zati silahın ruhsat işlemleri, 6136 sayılı Kanun ile Ateşli Silâhlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmelik esaslarına göre yürütülür.
+
+(2) Bu Yönetmelik hükümleri gereği silah taşıma yetkisini haiz personele bedeli mukabili satışı yapılarak kayıt ve takip işlemleri Silah Takip Programında izlenilen tabancaların ruhsatlarına “Ticaret Bakanlığının müsaadesi olmadan satılamaz, devredilemez ve hibe edilemez” şerhi işlenir.
+
+### MADDE 15 — Takip işlemi
+
+(1) Satışı yapılan tabancaların zati demirbaş silâh adı altında envanter işlemleri, ruhsat ve takip işleri, ilgili idare tarafından yürütülür.
+
+## ALTINCI BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 16 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte belirtilmeyen hususlarda genel hükümler uygulanır. İdari, mali ve cezai hükümler saklıdır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Ticaret Bakanı yürütür.

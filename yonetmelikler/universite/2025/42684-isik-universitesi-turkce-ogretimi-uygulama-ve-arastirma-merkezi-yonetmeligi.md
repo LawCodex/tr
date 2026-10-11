@@ -1,0 +1,163 @@
+---
+title: "IŞIK ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.42684"
+number: "42684"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2025-11-03
+official_gazette_date: 2025-11-03
+official_gazette_number: "33066"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42684&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# IŞIK ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Işık Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Işık Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez (IŞIK-TÖMER): Işık Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Işık Üniversitesi Rektörünü,
+
+ç) Senato: Işık Üniversitesi Senatosunu,
+
+d) Üniversite: Işık Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Yurt içinde ve yurt dışında Türkçe öğretmek, bu maksatla kurslar düzenlemek, Türkiye’yi ve Türk kültürünü tanıtmak amacıyla yurt içinde ve yurt dışında ilgili mevzuat hükümlerine göre birimler açmak.
+
+b) Türkçeyi daha iyi şekilde öğretmeye, Türkiye’yi ve Türk kültürünü en güzel şekilde tanıtmaya teşvik amacıyla yurt içi ve yurt dışında geziler düzenlemek ve ödüller vermek.
+
+c) Türkçe öğretiminin daha verimli hale getirilmesi için Türkçe ile diğer dillerin öğretimi arasında karşılaştırmalı çalışmalar yapmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Ulusal ve uluslararası ikili anlaşmalar çerçevesinde ilgili kamu kurum ve kuruluşları ile Türkçe ve yabancı dillerin öğretimi konusunda çalışmalar yaparak ortak eğitim-öğretim, araştırma, uygulama ve yayın faaliyetlerinde bulunmak.
+
+b) İlgili kamu kurum ve kuruluşları tarafından yurt içinde ve yurt dışında Türkçeyi ve yabancı dilleri öğretmek için görevlendirilen öğretim elemanları ve öğretmenler için kurslar açmak, onlara staj yaptırmak, görev yapılacak ülkelerle ilgili tanıtıcı ve rehber yayınlar hazırlamak.
+
+c) Türkçe ve yabancı dil öğretimi yöntemleri konusunda araştırma ve uygulamalar yapmak, materyaller hazırlamak, yapılmakta olan çalışmaları desteklemek ve teşvik etmek.
+
+ç) Türkçe’nin anadili olarak veya yabancılara öğretimi konusunda programlar hazırlayıp yöntemler geliştirmek, bu konu ile ilgili yurt içi ve yurt dışındaki çeşitli kurum ve kuruluşlarla ortak çalışmalar yapmak.
+
+d) Yurt içi ve yurt dışında Türkçe dil sınavları düzenlemek ve sertifika vermek.
+
+e) İlköğretim, ortaöğretim ve üniversite öğrencilerinin yabancı dillerini veya diksiyon, okuma ve benzeri Türkçe dil becerilerini geliştirmeye yönelik sosyal ve kültürel destekli kurslar açmak.
+
+f) Türkçe ve dil öğretimi alanlarında yurt içinde ve yurt dışında hizmet içi kurslar düzenlemek.
+
+g) Türkçe öğretim elemanları ve yurt içi ve yurt dışındaki üniversitelerin Türkoloji ile ilgili bölüm öğrencileri ve mezunları için mesleki tecrübeye yönelik çalıştay, toplantı, eğitim ve staj programları düzenlemek, sertifikalar vermek.
+
+ğ) Eğitim programları sonunda katılım belgesi, sertifika ve benzeri belgelerin verilmesine ilişkin esasları belirlemek ve bu esasları Senatoya sunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanlarıyla ilgili Üniversite öğretim elemanları arasından üç yıl için Rektör tarafından görevlendirilir. Görev süresi biten Müdür yeniden görevlendirilebilir.
+
+(2) Müdür, Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin tüm etkinliklerinin gözetim ve denetiminden ve bu konularda gerekli önlemlerin alınmasından Rektöre karşı sorumludur.
+
+(3) Müdürün önerisi ile kendisine çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanlarıyla ilgili Üniversitede görevli öğretim elemanları arasından en çok üç kişi üç yıl için Rektör tarafından müdür yardımcısı olarak görevlendirilir. Rektör gerektiğinde aynı usulle müdür yardımcılarını değiştirebilir.
+
+(4) Müdürün, görevi başında bulunmadığı zamanlarda yerine müdür yardımcılarından biri vekâlet eder. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kuruluna başkanlık etmek.
+
+c) Merkez çalışmalarının gerektirdiği görevlendirmeleri yapmak.
+
+ç) Her öğretim yılı sonunda ve gerekli görüldüğünde Merkezin genel durumu ve işleyişi hakkında faaliyet raporunu Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, müdür yardımcıları ve Merkezin faaliyet alanlarıyla ilgili Üniversitenin öğretim elemanları arasından, Müdürün önerisi ile üç yıl için Rektör tarafından görevlendirilen üç üye dahil olmak üzere toplam en fazla yedi üyeden oluşur. Görev süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu; Müdürün çağrısı üzerine salt çoğunlukla ayda en az bir kez toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyetleri ve yönetimi ile ilgili konularda karar almak.
+
+b) Merkezde görevlendirilecek öğretim elemanlarının tespiti ve tayini ile ilgili konularda Müdürün tekliflerini incelemek ve Rektörlüğe önerilmesine karar vermek.
+
+c) Müdürün her faaliyet yılı sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek ve bir sonraki yıla ait çalışma programını hazırlamak.
+
+ç) Merkezde görev yapan öğretim elemanlarının eğitim, uygulama, araştırma, danışmanlık ve yayım konularındaki isteklerini değerlendirip karara bağlamak, hizmet içi eğitim programlarının düzenlenmesine karar vermek.
+
+d) Gerekli hallerde Merkezin faaliyetleri ile ilgili geçici çalışma grupları kurmak ve bunların görevlerini düzenlemek.
+
+e) Merkez birimlerinin kuruluşu ve işleyişi hakkında ilkeleri belirlemek ve Üniversite Yönetim Kurulunun onayına sunmak.
+
+f) Merkeze bağlı birim açılması ve kapatılması ile ilgili usul ve esasları belirlemek ve bu konuda Rektöre öneride bulunmak.
+
+g) Yurt içi ve yurt dışındaki kamu ve özel kuruluşlar ile ortaklaşa yürütülecek çalışmaların usul ve esaslarını tespit etmek.
+
+ğ) Müdürün Merkezin yönetimi ile ilgili getireceği konuları değerlendirerek karara bağlamak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilen personel ile karşılanır.
+
+### MADDE 13 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 14 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 15 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Işık Üniversitesi Rektörü yürütür.

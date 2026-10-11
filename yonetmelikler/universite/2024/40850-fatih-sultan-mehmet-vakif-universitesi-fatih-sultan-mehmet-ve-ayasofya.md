@@ -1,0 +1,209 @@
+---
+title: "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ FATİH SULTAN MEHMET VE AYASOFYA ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.40850"
+number: "40850"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2024-06-30
+official_gazette_date: 2024-06-30
+official_gazette_number: "32588"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40850&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ FATİH SULTAN MEHMET VE AYASOFYA ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Fatih Sultan Mehmet Vakıf Üniversitesi Fatih Sultan Mehmet ve Ayasofya Çalışmaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Fatih Sultan Mehmet Vakıf Üniversitesi Fatih Sultan Mehmet ve Ayasofya Çalışmaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Araştırma birimi: Merkez içinde yer alan araştırma birimlerini,
+
+b) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+c) Merkez: Fatih Sultan Mehmet Vakıf Üniversitesi Fatih Sultan Mehmet ve Ayasofya Çalışmaları Uygulama ve Araştırma Merkezini,
+
+ç) Müdür: Merkezin Müdürünü,
+
+d) Rektör: Fatih Sultan Mehmet Vakıf Üniversitesi Rektörünü,
+
+e) Senato: Fatih Sultan Mehmet Vakıf Üniversitesi Senatosunu,
+
+f) Üniversite: Fatih Sultan Mehmet Vakıf Üniversitesini,
+
+g) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı, Fatih Sultan Mehmet dönemi ile ülkemizin en büyük kültürel miraslarından ve vakıf eserlerinden biri olan Ayasofya Külliyesi ve İstanbul tarihi hakkında her türlü ulusal ve uluslararası bilimsel ve kültürel çalışmalar yapmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Fatih Sultan Mehmet ve dönemi kapsamında araştırma, inceleme, bilimsel toplantı ve yayımlar yapmak ve projeler üretmek.
+
+b) Ayasofya Külliyesinin bir kültür mirası olarak Türkiye Cumhuriyeti tarafından bugüne kadar korunup yaşatıldığı gibi bundan sonra da bir vakıf mabet olarak korunup yaşatılmasına yönelik tarihî, sosyal, kültürel, edebî, iktisadî, mimarî, hukukî ve diğer alanlarda araştırma, inceleme, çalışma, etkinlik, yayım ve projeler yapmak, yapılan çalışma ve etkinlikleri desteklemek.
+
+c) İlgili mevzuat hükümleri kapsamında yerli ve yabancı araştırmacılara açık, uluslararası nitelikte kolektif çalışmalara ev sahipliği yapan bir cazibe merkezi olması hasebiyle uluslararası alanlarda bilimsel çalışmaları değerlendirmek, gelişmeleri izlemek, kongre, sempozyum, seminer, panel ve konferanslar düzenlemek, projeler geliştirmek ve yürütmek.
+
+ç) Ayasofya ve parçası olduğu İstanbul’un tarihi, vakıf eserleri ile kültür ve medeniyeti alanında ulusal ve uluslararası nitelikte akademik çalışmalar, yayımlar, etkinlikler, seminer, konferans, çalıştaylar gerçekleştirmek, sanatsal ve kültürel faaliyetlerde bulunmak, lisansüstü çalışmalara destek vermek.
+
+d) Merkezin faaliyet alanları ile ilgili yayımlar ve projeler için yurt içindeki veya yurt dışındaki üniversitelerde ilgili hususlarda çalışma yapan veya yapmak isteyen Üniversite, merkez, vakıf, dernek ve benzeri kamu kurum ve kuruluşları ve özel kurum ve kuruluşları ve araştırmacılar ile iş birliği yapmak.
+
+e) Fatih Sultan Mehmet Vakıf Üniversitesi bünyesindeki akademisyen ve araştırmacıların Merkezin amaç ve faaliyetleri doğrultusundaki araştırmalarının koordinasyonunu sağlamak ve ortak çalışmalar yürütmek.
+
+f) Merkezde yürütülecek çalışma ve projelerle ilgili alt araştırma ve eğitim birimleri kurmak.
+
+g) İlgili mevzuat hükümleri kapsamında yerel, bölgesel, ulusal veya uluslararası düzeyde eğitim programları, kurslar düzenlemek, eğitim programları sonunda katılım belgesi, sertifika vermek ve bu tür faaliyetlere katılmak.
+
+ğ) Yazılı, görsel veya dijital yayım yapmak, kitap, dergi, film, kısa film, tanıtım filmi hazırlamak, hazırlatmak, yayımlamak ve yayımlatmak.
+
+h) Veri tabanı kurmak, arşiv, kütüphane oluşturmak, araştırmacılara ve ilgililere bu alanlarda hizmet sunmak.
+
+ı) Merkezin amacı kapsamındaki konulara ilgi duyan araştırmacıları, bu konularla ilgili başlıklarda yüksek lisans ve doktora tez çalışmaları ile araştırmalar yapmaya teşvik etmek, yapılan çalışmalara burs fonu oluşturmak, burs vermek.
+
+i) İlgili mevzuat hükümleri kapsamında kamu kurum ve kuruluşaları veya özel kurum ve kuruluşlarına ve kişilere danışmanlık, raporlama ve benzeri hizmetleri vermek.
+
+j) Merkezin amacı kapsamında kapalı veya açık alanlarda müze kurmak, sergi düzenlemek.
+
+k) Üniversitenin yüksekokulları, fakülteleri, enstitüleri ve diğer araştırma merkezleriyle iş birliği yapmak, ortak programlar düzenlemek, projeler üretmek ve araştırmalar yapmak.
+
+l) Ayasofya’nın dünya çapında tanıtımını yapmak için ilgili mevzuat kapsamında her türlü faaliyet ve organizasyonlar yapmak.
+
+m) Merkez faaliyetleriyle ilgili çalışmalarda bulunan kişi veya grupların ulusal ve uluslararası hakemli veya hakemsiz dergilerde konuya yönelik bilimsel makale ve kitap yayımlamalarını teşvik etmek, Merkezde inceleme yayımları serisi başlatarak bilimsel incelemelerin sistemli bir şekilde yayın organlarında yayıma hazırlanmasını sağlamak.
+
+n) Merkezin kuruluş amacına ve 2547 sayılı Kanunun amaç ve ilkelerine uygun diğer çalışmaları yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin kadrolu öğretim elemanları arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi sona eren Müdür aynı usulle yeniden görevlendirilebilir. Müdürün altı aydan daha fazla süreyle görevi başında bulunamaması durumunda görevi sona erer. Süresi dolmadan görevinden ayrılan Müdürün yerine Rektör aynı yöntemle yeniden görevlendirme yapar.
+
+(2) Müdür, Merkezin çalışmalarından ve bunlardan beklenen sonuçların alınmasından Rektöre karşı birinci derecede sorumludur.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Merkez çalışmalarının düzenli olarak yürütülmesini ve geliştirilmesini sağlamak.
+
+c) Merkezi, amacı doğrultusunda yönetmek.
+
+ç) Yönetim Kurulunu toplantıya çağırmak, toplantı gündemini hazırlamak ve toplantıya başkanlık etmek.
+
+d) Çalışma programlarını hazırlamak ve Yönetim Kuruluna önermek, Yönetim Kurulunca karara bağlanan çalışma programını yürütmek.
+
+e) Fakülteler, enstitüler, yüksekokullar, meslek yüksekokulları, diğer uygulama ve araştırma merkezleri ve Rektörlüğe bağlı bölümlerde uygulanan Merkeze ilişkin programlar ve faaliyetler ile ilgili koordinasyonu sağlamak.
+
+f) Birimler ve araştırma grupları arasında düzenli çalışmayı sağlamak.
+
+g) Oluşturulan araştırma birimlerinin ve araştırma gruplarının çalışmaları ve sonuçlarıyla ilgili olarak Yönetim Kurulunu bilgilendirmek.
+
+ğ) Merkezin yıllık faaliyet raporunu hazırlamak, Yönetim Kurulunun görüşünü aldıktan sonra raporu Rektöre sunmak.
+
+h) Eğitim, kurs, seminer ve benzeri program, faaliyet ve projelerin düzenlenmesini, yürütülmesini, yönlendirilmesini ve denetimini sağlamak.
+
+ı) Merkezin kadro ihtiyaçlarını tespit edip Yönetim Kurulunun görüşlerini aldıktan sonra Rektörlüğe sunmak.
+
+### MADDE 10 — Müdür yardımcısı
+
+(1) Müdürün önerisi üzerine, çalışmalarında kendisine yardımcı olmak için, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanları arasından bir kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir.
+
+(2) Müdürün katılamadığı toplantılara müdür yardımcısı katılır ve Müdüre altı aya kadar vekâlet edebilir.
+
+(3) Müdür yardımcısının görev süresi en çok üç yıldır. Müdürün görevi sona erdiğinde müdür yardımcısının da görevi sona erer. Görevinden ayrılan müdür yardımcısının yerine, kalan süreyi tamamlamak üzere aynı usulle yenisi görevlendirilebilir.
+
+### MADDE 11 — Yönetim Kurulu
+
+(1) Yönetim Kurulu, Müdürün başkanlığında, müdür yardımcısı ile Müdürün önereceği Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilecek üç kişi olmak üzere en fazla beş kişiden oluşur. Görev süresi dolan üyeler yeniden görevlendirilebilir. Süresi dolmadan ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni üye görevlendirilebilir.
+
+(2) Yönetim Kurulu, Müdürün daveti üzerine ayda bir defa toplanır ve Merkezin faaliyetlerini gözden geçirerek ilgili konularda kararlar alır. Müdür, gerekli hallerde Yönetim Kurulunu her zaman toplantıya çağırabilir. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Üst üste üç kez izinsiz ve mazeretsiz Yönetim Kurulu toplantısına katılmayan üyenin üyeliği Yönetim Kurulu kararı ile sona erdirilir.
+
+### MADDE 12 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin amacının gerçekleşmesi ve yapacağı çalışmaların yürütülmesi için gerekli gördüğü hallerde görüşlerinden yararlanmak üzere, danışma ve özel ihtisas komisyonları oluşturmak.
+
+b) Merkeze bağlı inceleme, araştırma, uygulama birimleri kurmak, koordinatörlük ihdas ederek görev, yetki ve sorumluluklarını belirlemek.
+
+c) Müdürün faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek, sunulan raporu değerlendirmek, bir sonraki döneme ait çalışma programını düzenlemek.
+
+ç) Gündemde bulunan araştırma ve eğitim projelerini, programlarını ve faaliyetlerini karara bağlamak, bunların uygulanışını denetlemek, gerekli gördüğü durumlarda uzmanlık komisyonları kurarak çalışmaları yürütmek.
+
+d) Merkezin faaliyetlerini gözden geçirerek Merkezin amacı doğrultusunda Merkezin çalışma ve yönetimi ile ilgili konularda kararlar almak.
+
+### MADDE 13 — Danışma Kurulu
+
+(1) Danışma Kurulu, Müdür başkanlığında, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanlarından veya istekleri halinde Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite dışından Müdürün önerisi üzerine Rektör tarafından görevlendirilecek en fazla on bir üyeden oluşur. Danışma Kurulu üyelerinin görev süresi bir yıldır. Görev süresi dolan üyeler yeniden görevlendirilebilir. Süreleri bitmeden ayrılan üyelerin yerine, kalan süreyi doldurmak üzere yenileri aynı yöntemle görevlendirilir.
+
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir defa toplanır.
+
+(3) Danışma Kurulu, üyelerinin salt çoğunluğuyla toplanır ve toplantıya katılanların oy çokluğuyla tavsiye kararı alır.
+
+### MADDE 14 — Danışma Kurulunun görevi
+
+(1) Danışma Kurulunun görevi, Merkezin faaliyetlerini değerlendirerek faaliyet alanlarıyla ilgili konularda görüş ve tavsiyelerde bulunmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 15 — Merkezin araştırma birimleri
+
+(1) Merkezde Müdürün önerisi ve Yönetim Kurulunun onayı ile verimlilik ve etkinliğin arttırılması, değerlendirilmesi amacıyla araştırma birimleri oluşturulabilir. Araştırma birimlerinin isim, görev ve çalışma şekline ilişkin esaslar Müdür tarafından belirlenir ve Yönetim Kuruluna sunulur.
+
+(2) Araştırma birimleri doğrudan Müdür tarafından yönetilip koordine edilir. Proje ve faaliyetlerin yoğunluğuna bağlı olarak araştırma birimlerine Müdürün teklifi ve Rektörün onayı ile koordinatör görevlendirilebilir.
+
+(3) Araştırma birimlerinde Merkezin faaliyet alanlarıyla ilgili araştırma ve çalışmalarda bulunmak isteyen Üniversite öğretim elemanları ve lisansüstü öğrenciler ile farklı üniversiteler, kamu kurum ve kuruluşları veya özel kurum ve kuruluşlardan araştırmacılar talep etmeleri halinde ve Müdürün teklifi ve Rektörün onayıyla görevlendirebilir.
+
+### MADDE 16 — Hüküm bulunmayan hâller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hâllerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 17 — Yürürlükten kaldırılan yönetmelik
+
+(1) 16/4/2014 tarihli ve 28974 sayılı Resmî Gazete’de yayımlanan Fatih Sultan Mehmet Vakıf Üniversitesi Fatih Sultan Mehmet ve Dönemi Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Fatih Sultan Mehmet Vakıf Üniversitesi Rektörü yürütür.

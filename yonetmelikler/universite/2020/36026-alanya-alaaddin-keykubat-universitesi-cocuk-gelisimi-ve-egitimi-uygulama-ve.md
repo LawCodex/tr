@@ -1,0 +1,181 @@
+---
+title: "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ ÇOCUK GELİŞİMİ VE EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.36026"
+number: "36026"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2020-11-30
+official_gazette_date: 2020-11-30
+official_gazette_number: "31320"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=36026&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ ÇOCUK GELİŞİMİ VE EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Alanya Alaaddin Keykubat Üniversitesi Çocuk Gelişimi ve Eğitimi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Alanya Alaaddin Keykubat Üniversitesi Çocuk Gelişimi ve Eğitimi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Çocuk: 0-18 yaş arasındaki normal gelişim gösteren, özel gereksinimi olan veya özel gereksinimli olup kurumda yaşayan, çalışan, mülteci ve suça itilmiş, istismara uğramış veya ihmal edilen, korunmaya muhtaç çocuklar ve hastanede yatan, süreğen hastalığı olan bireyleri,
+
+b) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+c) Merkez: Alanya Alaaddin Keykubat Üniversitesi Çocuk Gelişimi ve Eğitimi Uygulama ve Araştırma Merkezini,
+
+ç) Müdür: Merkezin Müdürünü,
+
+d) Rektör: Alanya Alaaddin Keykubat Üniversitesi Rektörünü,
+
+e) Üniversite: Alanya Alaaddin Keykubat Üniversitesini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; Üniversitenin ilgili bölüm, anabilim dalı ve uygulama ve araştırma merkezlerinin iş birliği ile ulusal ve uluslararası düzeyde, çocukla ilgili disiplinler arası bilimsel uygulama, proje ve araştırmalar yapmak, eğitim faaliyetlerinde bulunmak, izleme, değerlendirme ve danışmanlık hizmeti vermek, çocukla ilgili her alanda eğitim gören ön lisans, lisans ve lisansüstü öğrencilerine uygulama olanağı sağlamaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Disiplinler arası bir uygulama ve araştırma alanı olan çocuk çalışmalarıyla ilgili Üniversitenin ilgili akademik birimlerinin eğitim, öğretim, araştırma ve geliştirme faaliyetlerine katılımını sağlamak.
+
+b) 0-18 yaşlar arasındaki; normal gelişim gösteren, özel gereksinimi olan veya özel gereksinimli olup kurumda yaşayan, çalışan, mülteci ve suça itilmiş korunmaya muhtaç çocuklar ve hastanede yatan çocukların eğitim, psikolojik, sosyolojik, sağlık ve hukuki gereklerine uygun tüm gelişim alanlarını destekleyici programlar geliştirmek, aileye, profesyonellere ve topluma hizmet sunmak amacıyla çocuk gelişimi alanında; eğitim, uygulama ve araştırma hizmeti vermek.
+
+c) Merkezin amacı doğrultusunda ilgili kamu kurumları ve sivil toplum kuruluşlarıyla ilgili mevzuat hükümleri kapsamında bilimsel işbirliği çerçevesinde danışmanlık faaliyetlerini sürdürmek.
+
+ç) İlgili mevzuat hükümleri kapsamında çocukla ilgili farklı disiplinlerden bilim insanları ile uzmanları bir araya getirerek, ulusal ve/veya uluslararası araştırma/geliştirme/eğitim projeleri oluşturmak ve yürütülmesini sağlamak.
+
+d) Merkezde yürütülen çalışmaların sonuçlarını, çocukların yüksek yararını gözeterek çeşitli platformlarda ilgili profesyoneller, sivil toplum kuruluşları ve kurumlarla paylaşmak.
+
+e) İlgili mevzuat hükümleri kapsamında çocuk ile ilgili ulusal ve uluslararası katılımlı kongre, panel, sempozyum, konferans gibi bilimsel aktiviteler düzenlemek, kitap, dergi, broşür yayımlamak, yazılı ve görsel basın organlarında programlar düzenlemek.
+
+f) Çocuk ile ilgili konularda aydınlatıcı, bilimsel nitelikte bilgilerin sözlü ve/veya yazılı olarak kamuoyuna ulaştırılmasını ve toplumsal bilincin geliştirilmesini sağlamak.
+
+g) Bebeklik, erken çocukluk, okul öncesi, okul çağı ve ergenlik dönemlerindeki normal gelişim gösteren ve/veya özel gereksinimli tüm çocukların sağlık, gelişim ve eğitim hizmetlerine daha rahat ulaşmasını sağlamak amacıyla Merkez bünyesinde gerekli birimleri kurmak ve çalışmalarını takip etmek.
+
+ğ) Üniversitenin çocukla ilgili her alanda öğrenim gören ön lisans, lisans ve lisansüstü öğrencileri ile Üniversitede ilgili alanda çalışan öğretim elemanları için araştırma ve bilimsel çalışma ortamları hazırlamak ve öğrencilere uygulama olanağı sağlamak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanları ile ilgili Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur.
+
+(2) Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanları ile ilgili Üniversitede görevli öğretim elemanları arasından iki kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+(3) Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek Yönetim Kuruluna ve Danışma Kuruluna başkanlık etmek.
+
+b) Merkezin ihtiyaçlarını Rektörlüğe bildirmek.
+
+c) Merkez çalışmalarının ve iş bölümünün gerektirdiği görev dağılımlarını yapmak.
+
+ç) Her öğretim yılı sonunda ve istenildiğinde Merkezin genel durumu ve işleyişi hakkındaki raporunu Yönetim Kurulunun görüşünü de aldıktan sonra Rektöre sunmak.
+
+d) Merkezin her düzeydeki personeli üzerinde genel gözetim ve denetim görevini yapmak.
+
+e) Merkez hizmetlerinin etkin ve verimli şekilde sürdürülebilmesi için gerekli tedbirleri almak ve denetlemek.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, iki müdür yardımcısı ile Merkezin faaliyet alanı ile ilgili Üniversite öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilen iki üye olmak üzere toplam beş üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu yılda en az dört kez olağan ve gerektiğinde olağanüstü olarak Müdürün çağrısı üzerine salt çoğunlukla toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin eğitim, öğretim, bilimsel araştırma, danışmanlık, yayın faaliyetleri ve bu faaliyetlerle ilgili esasları kararlaştırmak.
+
+b) Merkezin çalışmalarıyla ilgili plan ve programların hazırlanmasını ve uygulanmasını sağlamak.
+
+c) Merkezin yatırım ve plan tasarısını hazırlamak ve Rektörün onayına sunulmak üzere karara bağlamak.
+
+ç) Merkez elemanlarının eğitim, uygulama, araştırma, danışmanlık ve yayım konularındaki isteklerini değerlendirip karara bağlamak.
+
+d) Gerekli hallerde Merkezin faaliyetleri ile ilgili geçici çalışma grupları kurmak ve bunların görevlerini düzenlemek.
+
+e) Yurt içi ve yurt dışındaki kamu ve özel kuruluşlar ile ortaklaşa yürütülecek çalışmaların temel ilke, esas ve usullerini tespit etmek.
+
+f) Müdürün, Merkezin yönetimi ile ilgili getireceği konuları değerlendirerek karara bağlamak.
+
+g) Merkezin yıllık faaliyet raporunu görüşerek onaylamak.
+
+ğ) Merkezde ilgili birimlerce yapılacak bilimsel uygulamalarda Merkez Yönetimi ile ilgili koordinasyonu sağlamak.
+
+h) Müdürün önereceği konuları görüşmek ve karara bağlamak.
+
+ı) Öğretim ve uygulama amaçlı faaliyetlerde verilecek katılım belgelerini düzenlemek.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Müdürün başkanlığında, Müdür yardımcıları ile Merkezin faaliyet alanlarında deneyimli, Üniversitenin veya istekleri halinde diğer üniversitelerin öğretim elemanları ile ilgili kurum ve kuruluşlardaki uzman kişiler arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına görevlendirilen on üye olmak üzere toplam on üç üyeden oluşur. Boşalan üyeliklerin yerine kalan süreyi tamamlamak için aynı usulle yeni üye görevlendirilir. Süresi biten üyeler yeniden görevlendirilebilir.
+
+(2) Danışma Kurulu Müdürün çağrısı üzerine yılda en az bir kez salt çoğunlukla olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü olarak da toplantıya çağırabilir.
+
+### MADDE 13 — Danışma Kurulunun görevi
+
+(1) Danışma Kurulunun görevi; Merkezin faaliyetleri ile ilgili olarak Yönetim Kurulunun ihtiyaç duyduğu konularda değerlendirmeler yapmak ve istişari nitelikte görüş ve önerilerde bulunmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 15 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+
+### MADDE 16 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Alanya Alaaddin Keykubat Üniversitesi Rektörü yürütür.

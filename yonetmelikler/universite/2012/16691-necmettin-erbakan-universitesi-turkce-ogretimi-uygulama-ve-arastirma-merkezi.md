@@ -1,0 +1,177 @@
+---
+title: "NECMETTİN ERBAKAN ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.16691"
+number: "16691"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2012-10-12
+official_gazette_date: 2012-10-12
+official_gazette_number: "28439"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16691&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# NECMETTİN ERBAKAN ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Necmettin Erbakan Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin görevlerine, organlarına, yönetimine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Necmettin Erbakan Üniversitesi Rektörlüğüne bağlı olarak kurulan Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amaçlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez (TÖMER): Necmettin Erbakan Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezini,
+
+b) Merkez Müdürü: Merkez Müdürünü,
+
+c) Rektör: Necmettin Erbakan Üniversitesi Rektörünü,
+
+ç) Üniversite: Necmettin Erbakan Üniversitesini,
+
+d) Yönetim Kurulu: Merkez Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amaçları şunlardır:
+
+a) Türkçenin yabancılara öğretilmesi konusunda araştırma, eğitim ve uygulamalar yapmak,
+
+b) Dil öğretimi alanında çalışan yurt içi ve yurt dışındaki kurum ve kuruluşlarla işbirliği yaparak bu alandaki uluslararası tecrübeden faydalanmak ve bunları uygulamak,
+
+c) Dil eğitimi alanında yeni yöntemler ve materyaller geliştirmektir.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Necmettin Erbakan Üniversitesine kayıt yaptıran uluslararası öğrencilere ilgili programlardaki bölüm derslerini takip etmeye yetecek düzeyde Türkçe öğretmek üzere Türk dili eğitimi vermek,
+
+b) Yabancı ülkelerden gelen ve Üniversitede öğrenim gören öğrencilerin Türkçe seviye tespit sınavlarını yapmak, ön lisans ve lisans düzeyindeki öğrencilerin öğrenimleri sırasında karşılaştıkları dil sorunlarını çözme konusunda yardımcı olmak amacıyla kurslar açmak ve projeler geliştirmek; eğitim programı, kurs ve seminerleri başarıyla bitirenlere belge ve sertifika vermek,
+
+c) Türkiye’de ve yurt dışında dil eğitimi veren diğer kamu ve özel kuruluşlarla işbirliği yapmak ve yaşayan Türk dilinin ve kültürünün yaygınlaştırılmasına hizmet etmek,
+
+ç) İhtiyaç duyulması halinde Yönetim Kurulunun kararıyla İngilizce, Almanca, Fransızca, İtalyanca, Rusça, Arapça, Farsça ve diğer dillerde araştırma ve uygulama, eğitim ve öğretim yapmak,
+
+d) Merkezin amaçlarına yönelik basılı veya elektronik ortamda ders materyalleri hazırlamak,
+
+e) Diğer ülkelerle yapılan anlaşmalar çerçevesinde, üniversiteler başta olmak üzere ilgili kamu ve özel kurum ve kuruluşları ile dil eğitim-öğretimi, araştırma ve yayın faaliyetleri alanında işbirliği yapmak,
+
+f) İlgili kamu kurum ve kuruluşları tarafından yurt içinde ve yurt dışında Türkçeyi veya diğer dilleri öğretmek üzere görevlendirilen öğretim elemanları ve öğretmenler için kurslar açmak, görev yapacakları ülkeler ile ilgili rehberlik hizmetleri vermek,
+
+g) Üniversitelerin Türkçe ve dilbilim bölümlerinde uygulanan dil öğretimi yöntemlerini geliştirmeye yönelik ortak çalışmalar yapmak,
+
+ğ) Yurt dışında yaşayan Türk çocuklarına, Türk dilini öğrenebilmeleri için dil ve kültürel uyum kursları düzenlemek,
+
+h) Başta Almanya olmak üzere yabancı ülkelere gidecek Türk vatandaşlarına yönelik dil ve kültürel uyum kursları düzenlemek,
+
+ı) Üniversite eğitim-öğretim birimlerinde 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (i) bendine göre verilmekte olan zorunlu Türk Dili derslerinin eğitim ve öğretimini koordine etmek, bu amaçla ders materyalleri hazırlamak,
+
+i) Rektörün vereceği diğer görevleri yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Organları ve Görevleri
+
+### MADDE 7 — Merkezin organları
+
+(1) Merkezin organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Rektör tarafından Üniversitenin ilgili bölümlerinin öğretim elemanları arasından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdürün görevi başında bulunmaması durumunda, yetkili müdür yardımcısı vekâlet eder. Müdürün altı aydan fazla görevinin başında bulunmaması durumunda Müdürlük görevi kendiliğinden sona erer. Merkez Müdürü, çalışmalarında kendisine yardımcı olmak üzere en fazla iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Merkez Müdürünün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Merkez Müdürünün görevleri şunlardır:
+
+a) Yönetim Kurulunun aldığı kararları ve hazırladığı çalışma programını uygulamak,
+
+b) Merkez içinde hazırlanan projeleri, Merkezin amaçları doğrultusunda yönetmek,
+
+c) Her faaliyet dönemi sonunda, tamamlanan faaliyetle ilgili rapor düzenlemek ve Yönetim Kuruluna sunmak,
+
+ç) Merkezin sürekli biçimde gelişmesini sağlayacak tedbirleri almak, uygun programlar açılmasını temin etmek,
+
+d) Merkez bünyesinde sürdürülen proje, kurs ve diğer etkinliklerin en iyi biçimde yürütülmesi için gerekli her türlü iletişim ve eşgüdümü sağlamak,
+
+e) Merkezin yürüttüğü ve projelendirdiği faaliyetler konusunda ilgililerle görüşmeler yapmak, ihalelere katılmak, sözleşmeler yapmak,
+
+f) Personelin görevlendirilmesi ile ilgili teklifleri Rektörlüğe sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Rektör tarafından üç yıl için görevlendirilen Üniversitenin kadrolu dört öğretim elemanı ile Merkez Müdürü ve Müdür yardımcıları olmak üzere 7 üyeden oluşur. Yönetim Kurulu üyeleri Rektör tarafından 3 yıl süre ile görevlendirilir. Süresi biten üyeler aynı usulle yeniden görevlendirilebilir. Yönetim Kurulu, Merkez Müdürünün çağrısı üzerine salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Müdürün çağrısı üzerine toplanarak Merkezin faaliyetleri ve yönetimi ile ilgili konularda karar almak,
+
+b) Merkez Müdürü tarafından sunulan, Merkezin idari ve bilimsel çalışmalarını incelemek ve karara bağlamak,
+
+c) Üniversite dışı ulusal ve uluslararası kurum ve kuruluşlarla işbirliği esaslarını belirlemek, protokol taslaklarını hazırlamak ve Rektörlüğe sunmak,
+
+ç) Merkezin yıllık faaliyet raporunu hazırlamak ve değerlendirmek, ileriye dönük projeler geliştirmek, hangi eğitim programlarının açılacağını, bu programlarda görevlendirilecek öğretim elemanlarını belirlemek ve merkezin bütçesini hazırlamak,
+
+d) Merkezde görevlendirilecek personelin tespiti ve tayini ile ilgili konularda Müdürün tekliflerini incelemek ve Rektörlüğe önerilmesine karar vermek,
+
+e) Müdürün her faaliyet yılı sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek ve bir sonraki yıla ait çalışma programını hazırlamak,
+
+f) Merkezin bütçe tasarısını karara bağlamak,
+
+g) Eğitim programları sonunda verilecek gerekli belgelerin hazırlanması ve katılımcılara verilmesi ile ilgili ilkeleri ve şartları belirlemek ve Senatoya önermek,
+
+ğ) Araştırma, yayın ve öğretimle ilgili konularda karar vermek.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Eğitim-öğretim planlamacısı
+
+(1) Müdür, Merkezde görevli öğretim elemanları arasından, eğitim ve öğretim ile ilgili plân ve programları yapmak, eğitim ve öğretim işleriyle ilgilenmek üzere bir eğitim-öğretim planlamacısı belirleyebilir.
+
+### MADDE 13 — Dil kursları
+
+(1) Merkezde öğretilen dillere ait kursların türü, süreleri ve içerikleri, bu kurslara ait dönemler, düzeyler, kurlar, kurların haftalık ders saati ağırlıkları, kurslara ait kayıt koşulları, kurslarda kullanılacak materyallerin hazırlanması ve seçimi, kurs dönemlerinin sonlarında veya bağımsızca uygulanacak sınavların türü, içerikleri ve uygulanma süreçleri, kurslarda görev alacak okutmanların seçimi, bu okutmanların eğitimi ve kurslara hazırlanması gibi eğitim konuları Yönetim Kurulu tarafından belirlenir.
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, idari ve teknik personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 15 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör, bu yetkisini Müdüre devredebilir.
+
+### MADDE 16 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri, Üniversite Senatosu ve Yönetim Kurulu kararları uygulanır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Necmettin Erbakan Üniversitesi Rektörü yürütür.

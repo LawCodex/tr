@@ -1,0 +1,169 @@
+---
+title: "ONDOKUZ MAYIS ÜNİVERSİTESİ ASTRONOMİ EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.31294"
+number: "31294"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-02-28
+official_gazette_date: 2019-02-28
+official_gazette_number: "30700"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31294&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ONDOKUZ MAYIS ÜNİVERSİTESİ ASTRONOMİ EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Ondokuz Mayıs Üniversitesi Astronomi Eğitimi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyetlerine, yönetim organlarına ve yönetim organlarının görevlerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Ondokuz Mayıs Üniversitesine bağlı olarak kurulan Ondokuz Mayıs Üniversitesi Astronomi Eğitimi Uygulama ve Araştırma Merkezinin faaliyetlerine, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Birim: Üniversiteye bağlı fakülte, enstitü, yüksekokul, meslek yüksekokulu, uygulama ve araştırma merkezlerini,
+
+b) Deneysel Sergi Alanı: Ondokuz Mayıs Üniversitesi Bilim Eğitimi Sergi Alanını,
+
+c) Gözlemevi: Ondokuz Mayıs Üniversitesi Gözlemevini,
+
+ç) Merkez: Ondokuz Mayıs Üniversitesi Astronomi Eğitimi Uygulama ve Araştırma Merkezini,
+
+d) Müdür: Merkezin Müdürünü,
+
+e) Planetaryum: Ondokuz Mayıs Üniversitesi Planetaryumunu,
+
+f) Rektör: Ondokuz Mayıs Üniversitesi Rektörünü,
+
+g) Üniversite: Ondokuz Mayıs Üniversitesini,
+
+ğ) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Astronomi ve uzay bilimleri alanlarında bilimsel araştırma ve uygulama çalışmaları için gerekli altyapı ve hizmeti sunmak, Üniversitenin ilgili öğretim programlarına destek vermek.
+
+b) Bilim-toplum projeler çerçevesinde eğitim-öğretim kurumlarına ve halka yönelik eğitim ve bilgilendirme çalışmaları ve özel günler düzenlemek ve bunun için ilgili alanda faaliyet gösteren ulusal ve uluslararası kurum ve kuruluşlarla işbirliği yapmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez aşağıdaki faaliyetlerde bulunur:
+
+a) Lisans ve lisansüstü düzeyde radyo astronomi, optik astronomi, teorik astrofizik, uzaktan algılama, uydu teknolojileri, elektrik-elektronik gibi astronomi ve uzay bilimleri ile ilgili alanlarda eğitim-öğretimi, tez çalışmalarını ve bilimsel araştırmaları desteklemek ve geliştirmek, gerekli olan gözlem verilerinin üretilmesi için gözlem ve deney aletlerini temin etmek, kurmak, işletmek, bakım ve onarımlarını sağlamak; gözlemevi ve gezegenevi vb. ihtiyaç duyulan veya kendisine tahsis edilen her türlü tesisi kurmak, yeniden yapılandırmak.
+
+b) Etkinlik alanı için arşiv, veri tabanı ve kitaplık oluşturmak.
+
+c) Üniversitenin ve diğer üniversitelerin bünyesindeki ilgili fakülte ve birimler ile işbirliği yapmak, lisans ve lisansüstü öğrencilerinin öğrenimine katkıda bulunmak.
+
+ç) Ulusal ve uluslararası kongre, konferans, sempozyum, seminer ve benzer bilimsel toplantıları düzenlemek veya katılmak.
+
+d) Ülkemizdeki eğitim-öğretim kurumlarına ve halka yönelik eğitim ve bilgilendirme faaliyetlerinde bulunmak, özel günler düzenlemek.
+
+e) Bilimsel, teknik bulgu ve verileri açıklayan rapor, bülten, dergi ve benzeri yayınlar yapmak, kamuoyunu yazılı ve/veya sözlü olarak bilgilendirmek ve görüş bildirmek, ilgili kurum ve kuruluşlara danışmanlık yapmak.
+
+f) Kurs, yaz okulu, gözlem şenlikleri ve eğitim programları düzenlemek, katılımcılara katılım belgesi vermek.
+
+g) Yurt içinde ve yurt dışında araştırma, inceleme ve geliştirme çalışmaları yapmak ve yaptırmak, bu tür çalışmalara katılmak ve bunları desteklemek.
+
+ğ) Rektörlük tarafından önerilen, Merkezin amaçlarına uygun diğer faaliyetlerde bulunmak.
+
+h) Planetaryum, Gözlemevi ve Deneysel Sergi alanlarından oluşan Ondokuz Mayıs Üniversitesi Astronomi Eğitimi Uygulama ve Araştırma Merkezinde yapılacak her türlü araştırma, projeler ve proje uygulamaları yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Üniversitenin aylıklı ve devamlı statüdeki öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir.
+
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere Üniversitenin aylıklı ve devamlı statüdeki öğretim elemanları arasından en fazla iki kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer. Müdürün geçici olarak görevinden ayrılması halinde yerine müdür yardımcılarından biri vekâlet eder. Müdür yardımcılarının da bulunmadığı durumlarda Yönetim Kurulu üyelerinden en kıdemli olan üye vekâlet eder. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdür, merkezin öğretim kapasitesinin verimli bir şekilde kullanılmasından, geliştirilmesinden, eğitim-öğretim, araştırma, uygulama, yayın faaliyetlerinin düzenli bir şekilde yürütülmesinden, bütün faaliyetlerin gözetim ve denetiminin yapılmasından ve sonuçlarının alınmasından Rektöre karşı sorumlu olup görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kurulunu toplantıya çağırmak, gündemi oluşturmak, başkanlık etmek.
+
+c) Yönetim Kurulunda alınan kararları uygulamak.
+
+ç) Merkezin çalışmalarını ve işleyişini düzenlemek.
+
+d) Yapılan çalışmalar hakkında Yönetim Kurulunu bilgilendirmek.
+
+e) Merkezin ödenek, idari ve akademik personel ihtiyaçlarını gerekçesi ile birlikte Rektörlüğe bildirmek.
+
+### MADDE 10 — Yönetim kurulu
+
+(1) Yönetim Kurulu; Müdür ve müdür yardımcıları dâhil en az üç, en fazla yedi kişiden oluşur. Diğer üyeler, Merkezin faaliyet alanı ile ilgili çalışmaları bulunan Üniversitenin aylıklı ve devamlı statüde görevli öğretim elemanları arasından Rektör tarafından üç yıl süre ile görevlendirilir. Görev süresi biten üyeler tekrar görevlendirilebilir. Boşalan üyeliklerin yerine aynı usulle yeni üyeler görevlendirilir.
+
+(2) Yönetim Kurulu, Müdürün daveti üzerine toplanır. Gerekli durumlarda Müdürün ya da üyelerin salt çoğunluğunun yazılı talebi üzerine Yönetim Kurulu olağanüstü toplantıya çağrılır. Kurul, salt çoğunlukla toplanır ve oy çokluğu ile karar alır. Üst üste üç Yönetim Kurulu toplantısına özürsüz katılmayan üyenin Yönetim Kurulu üyeliği kendiliğinden düşer.
+
+(3) Müdürün önerisi üzerine, gerektiğinde Üniversite içinden ve dışından konu ile ilgili bilgi, beceri ve deneyim sahibi kişiler de görüş bildirmek amacı ile oy hakkı olmaksızın Yönetim Kurulu toplantılarına katılabilirler.
+
+### MADDE 11 — Yönetim kurulunun görevleri
+
+(1) Yönetim Kurulu, Merkezin yönetimi ile ilgili konularda aşağıdaki görevleri yapar:
+
+a) Merkezin eğitim-öğretim, bilimsel araştırma ve yayın faaliyetleri ile ilgili kararlar almak, bu faaliyetlere ilişkin esasları belirlemek.
+
+b) Merkezle ilgili düzenleyici işlemleri hazırlamak.
+
+c) Merkezin yıllık eğitim-öğretim program ve takvimini inceleyerek karara bağlamak.
+
+ç) Merkezde görev yapacak öğretim elemanlarının görevlendirilmesini teklif etmek ve eğitim programları ile ilgili esasları düzenlemek.
+
+d) Eğitim, araştırma ve yayın çalışmaları için geçici çalışma grupları, eğitim koordinatörlükleri oluşturmak.
+
+e) Merkezin bütçesini hazırlamak ve Merkezin öğretim programlarından alınacak ücretleri belirlemek.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 13 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Müdürdür.
+
+### MADDE 14 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Ondokuz Mayıs Üniversitesi Rektörü yürütür.

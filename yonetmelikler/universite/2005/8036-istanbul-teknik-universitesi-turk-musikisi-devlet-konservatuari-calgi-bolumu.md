@@ -1,0 +1,709 @@
+---
+title: "İSTANBUL TEKNİK ÜNİVERSİTESİ TÜRK MUSİKİSİ DEVLET KONSERVATUARI ÇALGI BÖLÜMÜ HAZIRLAYICI BİRİM LİSE DEVRESİ YÖNETMELİĞİ"
+identifier: "8.5.8036"
+number: "8036"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2005-03-27
+official_gazette_date: 2005-03-27
+official_gazette_number: "25768"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8036&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTANBUL TEKNİK ÜNİVERSİTESİ TÜRK MUSİKİSİ DEVLET KONSERVATUARI ÇALGI BÖLÜMÜ HAZIRLAYICI BİRİM LİSE DEVRESİ YÖNETMELİĞİ
+
+**İSTANBUL TEKNİK ÜNİVERSİTESİ TÜRK MUSİKİSİ DEVLET KONSERVATUARI ÇALGI BÖLÜMÜ HAZIRLAYICI BİRİM LİSE DEVRESİ YÖNETMELİĞİ(1)**
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak, Tanımlar
+
+### Madde 1 — Amaç
+
+Bu Yönetmeliğin amacı; İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarı Çalgı Bölümü Hazırlayıcı Birim Lise Devresinde eğitim-öğretim ve sınıf geçme ile ilgili esas ve usûlleri düzenlemektir.
+
+### Madde 2 — Kapsam
+
+Bu Yönetmelik, İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarı Çalgı Bölümü Hazırlayıcı Birim Lise Devresi öğrencilerinin kabul, kayıt, eğitim-öğretim, sınıf geçme ve sınavlar ile devam - devamsızlıklarına ilişkin esasları kapsar.
+
+### Madde 3 — Dayanak
+
+Bu Yönetmelik, 1739 sayılı Milli Eğitim Temel Kanunu’nun 33 üncü maddesi ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi hükümlerine dayanılarak hazırlanmıştır.
+
+### Madde 4 — Tanımlar
+
+Bu Yönetmelikte geçen;
+
+Bakanlık: Millî Eğitim Bakanlığını,
+
+Kurul: Millî Eğitim Bakanlığı Talim ve Terbiye Kurulunu,
+
+Başkanlık: Millî Eğitim Bakanlığı Talim ve Terbiye Kurulu Başkanlığını,
+
+Üniversite: İstanbul Teknik Üniversitesini,
+
+Rektörlük: İstanbul Teknik Üniversitesi Rektörlüğünü,
+
+Senato: İstanbul Teknik Üniversitesi Senatosunu,
+
+Üniversite Yönetim Kurulu: İstanbul Teknik Üniversitesi Yönetim Kurulunu,
+
+Konservatuar (İTÜ.TMDK): İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarını,
+
+Müdür: İstanbul Teknik Üniversitesi, Türk Musikisi Devlet Konservatuarı Müdürünü,
+
+Müdürlük: İstanbul Teknik Üniversitesi, Türk Musikisi Devlet Konservatuarı Müdürlüğünü,
+
+Bölüm Başkanlığı: Çalgı bölümü başkanlığını,
+
+Konservatuar Kurulu: İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuarı; müdür, müdür yardımcıları, bölüm başkanları ve anasanat/anabilim dalı başkanlarından oluşan kurulu,
+
+Konservatuar Yönetim Kurulu: Konservatuar müdürü başkanlığında, müdür yardımcıları ve "Konservatuar Kurulu" tarafından seçilen üyelerden oluşan kurulu,
+
+Bölüm **(Ek:RG-29/07/2006-26243)**: Çalgı bölümünü,
+
+Bölüm Başkanı: Çalgı bölümü başkanını,
+
+Başkan Yardımcısı: Çalgı bölümü başkan yardımcılarını,
+
+Bölüm Yönetimi: Çalgı bölümü başkanı ve bölüm başkan yardımcılarını,
+
+Bölüm Kurulu **(Ek:RG-29/07/2006-26243)**: Bölüm başkanı, başkan yardımcıları ve ana sanat dalları başkanlarından oluşan kurulu,
+
+Hazırlayıcı Birim: Çalgı bölümü hazırlayıcı birim lise devresini,
+
+Dönem: Ders yılının başladığı tarihten dinlenme tatiline; dinlenme tatili bitiminden, ders kesimine kadar geçen süreyi,
+
+Ders Yılı: Derslerin başladığı tarihten, kesildiği tarihe kadar geçen ve iki dönemi kapsayan süreyi,
+
+Öğretim Yılı: Ders yılının başladığı tarihten, ertesi ders yılının başladığı tarihe kadar geçen süreyi,
+
+Ölçme Araçları: Öğrencilerin bilgi, beceri ve davranışlarının değerlendirilmesinde başvurulacak yazılı, sözlü, uygulamalı sınavlar ile ödev ve projeleri,
+
+Dönem Sonu Sınavı: Her dönemin bitiminde yapılan sınavları,
+
+Yıl Sonu Sınavı **(Ek:RG-29/07/2006-26243)**: İkinci dönemin sonunda yapılan sınavı,
+
+Eleme Sınavı: Dokuzuncu sınıf öğrencilerinin alan derslerinden birinci yılın sonunda girecekleri sınavı,
+
+Ortalama Yükseltme Sınavı **(Değişik:RG-29/07/2006-26243)**: Öğrencilerin ortak dersler ve seçmeli derslerden yıl sonu başarı ortalamalarını yükseltmek amacıyla yapılan sınavı,
+
+Not Yükseltme Sınavı **(Değişik:RG-29/07/2006-26243)**: Öğrencilerin, başarısız oldukları alan derslerinden notlarını yükseltmek amacı ile yapılan sınavı,
+
+Öğretim Elemanı: Yükseköğretim Kurumlarında görevli öğretim üyeleri, öğretim görevlileri, okutmanlar ile öğretim yardımcılarını,
+
+Öğretmen: Ulusal ve evrensel değerleri benimseyen, sorunlara çözüm üreten, milli eğitimin ve alanı ile ilgili ders programlarının amaçlarını davranışa dönüştüren, öğrenmeyi öğrenen bireyleri, her bireyin gereksinimlerini de dikkate alarak, çalgı bölümü hazırlayıcı birim lise devresinde öğrenci yetiştiren elemanını,
+
+**(Değişik:RG-29/07/2006-26243)** Sınıf Danışman Öğretim Elemanı veya Öğretmeni: Konservatuvar müdürü veya bölüm başkanı tarafından kendisine verilen sınıf öğrencilerinin yönlendirilmesine yardımcı olan, öğrenci velileri ile yakın iş birliği yapan, öğrencilerin konservatuvar yönetimi, öğretim elemanları, öğretmen ve çevre ile ilişkilerini sağlıklı bir şekilde düzenleyip yürüten öğretim elemanı veya öğretmeni,
+
+Sınıf Öğretim Elemanları Kurulu: Aynı sınıfta ders okutan öğretim elemanı ve öğretmenlerden oluşan kurulu,
+
+Öğretim Elemanları Kurulu: Konservatuarın hazırlayıcı birimi lise devresinde ders okutan öğretmenler dahil, bütün öğretim elemanlarından oluşan kurulu,
+
+**(Değişik:RG-29/07/2006-26243)** Kültür Dersleri: Alan ve seçmeli derslerin dışındaki dersleri,
+
+**(Değişik:RG-29/07/2006-26243)** Alan Dersleri: Hazırlayıcı birimin sanat derslerini,
+
+Seçmeli Dersler **(Değişik:RG-29/07/2006-26243)**: Kültür ve alan dersleri dışındaki dersleri,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Hazırlayıcı Birimin Amacı ve İlkeler
+
+### Madde 5 — Hazırlayıcı birimin amacı
+
+Hazırlayıcı birimin amacı, öğrencilerin;
+
+a) Çalgı eğitiminde metotla yetişmiş, Türk Müziği eserlerini gerektiği gibi icra edebilecek bilgi ve becerileri kazanmalarına,
+
+b) Hedeflenen müzik bilgisi ve kültürü yanında, müzik ile ilişkili disiplinlere ait bilgileri almalarına, Türk Müziğinin temel karakterini kavramalarına ve müzik kültürünü gereği gibi anlamalarına,
+
+c) Eserleri, Türk Müziği’nin klâsik ve yenilikçi tarzları içinde, kişisel üslup ve yöresel tavırları da dikkate alarak, dizi, seyir, makam, ritim ve usûl özelliklerine uygun olarak icra edebilme yeteneğini kazanmalarına,
+
+d)Yorum bilinci ve kavramının yeterli derecede gelişmesine ve eserlerin özünü kavrayabilmelerine,
+
+e) Genel kültür yanında araştırma teknikleri hakkında bilgi edinmelerine,
+
+f) Türk Müziği ve genel müzik eğitimini özümseyip milli kültürünü korumalarına, takdir etmelerine, benimsemelerine ve genel müzik kültürü ile Türk toplumunun sosyo–kültürel gelişimine katkıda bulunabilmelerine,
+
+g) Sanatçı, eğitici-öğretici, uygulayıcı, yapımcı, yorumcu ve/veya araştırmacı kişiler olarak, ilgi ve yetenekleri doğrultusunda mesleğe ve alanlarında da yüksek öğretime hazırlanmalarını sağlamak için gelişmelerine
+
+yardımcı olmaktır.
+
+### MADDE 6 — İlkeler
+
+**(Değişik:RG-29/07/2006-26243)**
+
+Hazırlayıcı birimde eğitim-öğretim sistem ve sürecine ilişkin tüm etkinliklerde, toplam kalite yönetimi anlayışına uygun olarak yeni bilimsel ve çağdaş yaklaşımları da içeren aşağıdaki ilkeler göz önünde bulundurulur:
+
+a) Her öğrencinin alanında gelişmesine ve ilerlemesine imkân sağlanır.
+
+b) Alan derslerinin her birinden başarılı olmak esastır. Başarı, çeşitli yöntemlerle sürekli olarak izlenir.
+
+c) Seçmeli derslerin seçiminde, sınıf danışman öğretmeni veya öğretim elemanının rehberliğinde öğrenci ve velisinin ortak görüşü alınır.
+
+ç) Sınıf danışman öğretmeni veya öğretim elemanının Konservatuvar rehberlik servisi ile yakın iş birliği içinde çalışması esas alınır.
+
+d) Öğrencinin sınıf geçmesi, o sınıfta aldığı alan derslerinden ayrı ayrı başarılı olmasına, ortak ve seçmeli derslerde ise bu derslerin tümünden başarılı olmasına veya yıl sonu başarı ortalamasına göre belirlenir.
+
+e) Ölçme ve değerlendirmede; programlarda belirtilen özel ve genel amaçlar, davranışlar, açıklamalar ve konular esas alınır.
+
+f) Öğrenci başarısının ölçülmesinde kullanılan ölçme araçları; geçerli, güvenilir, objektif, örnekleyici, kullanışlı ve ayırt edici özelliklere sahip olmalıdır.
+
+g) Öğrenci başarısının belirlenmesi amacıyla hazırlanan ölçme araçlarında bilginin yanında kavrama, uygulama, analiz, sentez ve değerlendirme düzeylerindeki davranışların da ölçülmesine ağırlık verilir.
+
+ğ) Ölçme ve değerlendirmede, okul ve yurt düzeyinde birlik, beraberlik ön planda tutulur.
+
+h) Eğitim-öğretim etkinliklerinde demokrasi ve insan hakları ile ilgili kurallara uyulur.
+
+ı) Eğitim-öğretim etkinlikleri; öğretim ilkeleri, öğrenci düzeyi, çevre özellikleri ve programda belirtilen esaslar dikkate alınarak, okulun amaçlarını gerçekleştirecek şekilde düzenlenir ve uygulanır.
+
+i) Öğrencilerin estetik ve etik değerlere duyarlı olmaları, duygusal yönden gelişmeleri sağlanır.
+
+## ÜÇÜNCÜ BÖLÜM — Programlarla İlgili Esaslar
+
+### MADDE 7 — Program çeşitleri
+
+**(Değişik:RG-29/07/2006-26243)**
+
+Hazırlayıcı birimde, mesleğe ve çalgı bölümü lisans öğretim devresine hazırlayan programlar uygulanır. Çalgı Bölümü Hazırlayıcı Birim Lise Devresinde tam zamanlı statüde dört yıllık eğitim ve öğretim verilir.
+
+Öğrenciler, genel ve meslekî öğrenimlerini Konservatuvarda sürdürürler. Konservatuvar Kurulunca çalışma takvimine uygun olarak belirlenen ortak dersler, alan dersleri ve seçmeli derslere ait eğitim programları ve haftalık ders çizelgeleri, Başkanlığın uygun bulmasından sonra yürürlüğe girer.
+
+Söz konusu derslerden;
+
+a) Ortak derslerde öğrencilere;
+
+1) Asgarî ortak kültür vermek, toplum sorunlarının farkına varmaları sağlanarak, ekonomik, sosyo-kültürel kalkınmaya katkıda bulunma bilinci,
+
+2) Atatürk İlke ve İnkılâpları doğrultusunda Türk Milletinin millî, ahlaki, insani, manevi ve kültürel değerlerini özümseyerek, Türkiye Cumhuriyeti Anayasası’na ve demokrasinin ilkelerine uygun olarak haklarını kullanabilme, görevlerini yapabilme ve sorumluluklarını taşıyabilme bilinci
+
+kazandırılır.
+
+b) Alan dersleri, öğrencileri mesleğe ve bölümün yüksek öğretim programlarına hazırlayan ve onlara bu yönde gelişme imkânı sağlayan derslerdir.
+
+c) Seçmeli dersler; ortak dersler ve alan dersleri dışında, öğrencilerin ilgi ve istekleri doğrultusunda ders seçerek kişisel yeteneklerini geliştirmelerini sağlayıcı derslerdir.
+
+### MADDE 8 — Derslerin duyurusu ve seçimi
+
+**(Değişik:RG-29/07/2006-26243)**
+
+Konservatuvar Müdürlüğünce; ders yılı sonunda okulun derslik sayısı ve kullanılabilme durumları ile mevcut branş öğretim elemanlarının aylık karşılığı okutmak zorunda oldukları veya ücret karşılığı okutabilecekleri dersler göz önünde bulundurularak, izleyen ders yılında öğretime açılabilecek olan seçmeli derslerin tümü ilan edilir. Ders kesiminin on gün öncesinden on gün sonrasına kadarki yirmi gün içinde, ilan edilen bu dersler arasından, sınıf danışman öğretim elemanı veya öğretmen, veli ve öğrencinin katılımı ile öğrencinin okumak istediği seçmeli dersler belirlenir. Belirlenen dersler öğrenci velisi tarafından bölüm başkanlığına yazılı olarak bildirilir. Bölüm başkanlığı seçmeli dersler ve bu derslerin eğitimini verecek öğretmen veya öğretim elemanını belirleyerek Konservatuvar Müdürlüğünün onayına sunar.
+
+Ancak okulun yeni imkânlara kavuşması durumunda derslerin başladığı hafta içinde de bazı derslerin seçimi yapılabilir.
+
+Seçmeli derslerin seçiminde;
+
+a) Gelişim dosyasındaki bilgiler dikkate alınarak, öğrencinin önceki yıllara ait başarısı ve derslerdeki performansı,
+
+b) Yöneldiği alanda alması gereken derslerin seçimi,
+
+c) Hangi sınıflarda hangi derslerin alınmasının uygun olacağı
+
+göz önünde bulundurulur.
+
+Bu değerlendirmeler her sınıf için tekrar edilir.
+
+### MADDE 9 — Çalışma takvimi
+
+**(Değişik:RG-29/07/2006-26243)**
+
+Hazırlayıcı birimde ders yılı süresi en az yüzseksen iş günüdür. Ders yılının süresi, derslerin başladığı günden kesildiği güne kadar okulun açık bulunduğu günler ile öğrencilerin törenlere katıldıkları resmî ve mahalli bayram günleri sayılarak hesaplanır.
+
+Ders yılı iki döneme ayrılır. Birinci dönem ile ikinci dönem arasında dinlenme tatili verilir. Öğretim yılının başlangıç-bitiş ve sınav dönemi tarihlerinin yer aldığı çalışma takvimi, bölüm yönetiminin önerisi üzerine Konservatuvar Kurulunca belirlenir ve Senato tarafından onaylandıktan sonra Müdürlükçe uygulamaya konulur.
+
+### MADDE 10 — Eğitim programları
+
+**(Değişik:RG-29/07/2006-26243)**
+
+Eğitim programları, Bölüm Yönetimi ve Bölüm Kurulunun önerisi üzerine Konservatuvar Kurulunca belirlenerek Bakanlığa sunulmak üzere Rektörlüğe gönderilir. Alan dersleri ve seçmeli derslerde öngörülen değişiklikler, Başkanlığın uygun bulmasından sonra uygulamaya konulur.
+
+## DÖRDÜNCÜ BÖLÜM — Kayıt ve Kabul
+
+### MADDE 11 — Kabul şartları
+
+**(Değişik:RG-29/07/2006-26243)**
+
+Hazırlayıcı birime alınacak öğrencilerde aranacak genel ve özel koşullar, Bölüm Yönetimi ve Bölüm Kurulunun önerisi üzerine Konservatuvar Kurulunca belirlenir ve Senato tarafından onaylandıktan sonra Müdürlükçe uygulamaya konulur.
+
+### Madde 12 — Kontenjanların saptanması
+
+Hazırlayıcı birime alınacak öğrenci sayısı, çalgı kontenjanları, bölüm yönetiminin önerisi üzerine konservatuar kurulu tarafından saptanır.
+
+### Madde 13 — Aday kaydı
+
+Hazırlayıcı birime başvuruda bulunan öğrenciler için saptanacak aday kayıt süreleri ve sınav tarihleri, Konservatuar Kurulunun önerisi ile Rektörlük tarafından ilân edilir.
+
+Adaylar ilân edilen süre içinde "Hazırlayıcı Birime Alınacak Öğrencilerde Aranacak Genel ve Özel Şartlara İlişkin Yönerge" de belirtilen esaslara göre başvurularını yapmak, "Öğrenci Aday Kayıt Formu" ve tam teşekküllü devlet hastanesinden alınacak **(Değişik ibare: RG-29/07/2006-26243)** almak istediği müzik eğitimine engel bir hâlinin bulunmadığını gösteren sağlık raporu (heyet raporu) ile istenilen diğer belgeleri eksiksiz olarak hazırlayıp süresi içinde Müdürlüğe teslim etmek zorundadırlar.
+
+Devamsızlık ve sağlık nedeni dışında, başarısızlık nedeni ile konservatuar ile ilişkisi kesilenler yeniden başvuramazlar.
+
+Öğrenci aday kayıt formunda veya istenilen diğer belgelerde yanlış beyanda bulunanlar ile belgelerinde tahrifat yapanların sınavlarda başarılı olsalar dahi kayıtları yapılmaz. Gerçek dışı bilgi ve belgelere göre aday kaydı veya kesin kaydı yapılmış olan öğrencilerin kayıtları silinir. Bu durumda oluşan kontenjan açığı, ilgili çalgının yedek listesinden tamamlanır.
+
+### Madde 14 — Kabul sınavları
+
+Hazırlayıcı birime öğrenci olarak kabul edilebilmek için kabul ve kayıt koşullarını taşıdıklarını belgeleyen adaylar, bölüm yönetiminin önerisi üzerine Konservatuar Yönetim Kurulunun saptayacağı komisyonlar ve/veya komisyon tarafından yapılacak eleme sınavı ile kesin kabul sınavında başarılı olmak zorundadırlar.
+
+Adaylar Müdürlükçe ilân edilen gün ve saatlerde sınavlara girmek zorundadırlar. Sınava girmeyenler haklarından vazgeçmiş sayılırlar.
+
+### Madde 15 — Kabul sınavlarının özellikleri
+
+Kabul sınavları; "Eleme Sınavı" ve "Kesin Kabul Sınavı" olmak üzere iki aşamada yapılır.
+
+Hazırlayıcı Birime öğrenci olarak kabul edilebilmek için öngörülen kayıt koşullarını taşıyan adaylar, önce eleme sınavına girmek zorundadırlar.
+
+Eleme ve kesin kabul sınavları, bölüm yönetiminin önerisi üzerine Konservatuar Kurulunun saptayacağı kriterler doğrultusunda yapılır.
+
+Kesin kabul sınavına girmeye hak kazanan aday öğrenciler, eleme sınavının ilânından sonra, en çok üç çalgı tercihinde bulunurlar.
+
+Eleme sınavı ve kesin kabul sınavında başarı puanı yüz tam puan üzerinden yetmiş puandır. Kesin kabul sınavında başarılı olan adayların o yıl için belirlenen kontenjan dikkate alınarak, puan sıralaması ve çalgıya fiziksel uygunluğu da göz önünde bulundurulup, tercih ettiği üç çalgı içerisinden, kesin kabul sınav komisyonunun belirleyeceği uygun bir çalgıya kaydı yapılır. Puanların eşitliği durumunda adayın eleme sınavındaki notu esas alınarak, yüksek puan alan aday tercih edilir. Yedek öğrencilerin yerleştirilmelerinde de aynı esaslar doğrultusunda işlem uygulanır.
+
+### Madde 16 — Kayıt
+
+Kesin kabul sınavları sonuçlarına göre hazırlayıcı birime girme hakkını kazanan öğrencilerin kayıt işlemleri, Müdürlükçe ilân edilen tarihlerde yapılır.
+
+## BEŞİNCİ BÖLÜM — Öğrenci Başarısını Ölçme ve Değerlendirme
+
+### MADDE 17 — Başarının tespiti
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Hazırlayıcı birimde her dönem sonunda öğrenci başarısının tespiti ders gruplarına göre aşağıdaki şekilde yapılır:
+
+a) Ortak dersler ve seçmeli derslerde;
+
+1) Öğrencilerin her dönemde ulaşmaları amaçlanan genel başarı düzeyi dikkate alınır. Her dersin dönem notu o döneme ait yazılı, sözlü, uygulamalı sınavlarla varsa ödev veya projelere verilen puanlara göre dersin öğretim elemanı ve/veya öğretmeni tarafından takdir edilir.
+
+2) Öğrencinin başarısı; dersin özelliğine göre yazılı, sözlü ve uygulamalı sınavlar, varsa ödev ve projeler ile ders içi ve ders dışı eğitim-öğretim etkinlikleri değerlendirilerek belirlenir.
+
+3) Öğretim elemanı veya öğretmen her türlü sınav, ödev, proje, ders içi ve ders dışı eğitim-öğretim etkinlikleriyle öğrencilerin programlarda amaçlanan bilgi, beceri ve davranışları kazanıp kazanamadıklarını sürekli olarak kontrol eder.
+
+4) Yapılacak yazılı ve sözlü sınav sayısı; haftalık ders saati sayısı üç ve daha çok olan dersler için üçten az, bir ve iki saat olan dersler için ikiden az olamaz. Zorunlu hâllerde bir yazılı sınav eksiği ile dönem notu verilebilir.
+
+b) Alan derslerinde; öğrenciler her dönemde, bu gruba giren her dersten en az iki ara sınavına ve bir yıl sonu sınavına alınır. Ara sınavlar, dersin öğretim elemanı tarafından, yıl sonu sınavları ise Konservatuvar Yönetim Kurulunun belirleyeceği komisyonlar tarafından dersin özelliğine göre yazılı, sözlü, uygulamalı ya da yalnızca bunlardan biri ile yapılır. Lise son sınıfların yıl sonu sınavları, mezuniyet sınavı şeklinde ve dinleyiciye açık olarak yapılabilir.
+
+### Madde 18 — Yazılı, uygulamalı sınavların niteliği ve zamanı
+
+Yazılı ve uygulamalı sınavların zamanı, en az bir hafta önceden öğrencilere duyurulur. Bir sınıfta bir günde uygulanacak yazılı ve uygulamalı sınavların sayısı ikiyi geçemez.
+
+Yazılı sınavlar, genellikle çok sorulu kısa cevaplı ölçme araçları ile yapılır. Derslerin özelliklerine göre gerektiğinde az sorulu uzun cevaplı ölçme araçlarına da başvurulabilir.
+
+Yazılı sınavların süresinin bir ders saatini aşmaması esastır.
+
+### MADDE 19 — Soruların yıllık plân ve öğretim programlarına uygunluğu
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Öğretim elemanları veya öğretmenler yazılı ve uygulamalı sınav sorularını düzenlerken, dersin programına uygun olarak hazırlanan yıllık planlarındaki ders konularını ve amaçlarını göz önünde bulundururlar.
+
+### Madde 20 — Dönem notu
+
+Bir dersin dönem notu; o döneme ait yazılı, sözlü ve uygulamalı sınavlarla, varsa ödev ve projelere verilen puanların aritmetik ortalamaları alınarak nota çevrilip belirlenir. Öğretim elemanı ve/veya öğretmen, öğrencinin sınıf içi etkinlik ve başarı durumunu dikkate alarak takdir hakkını kullanabilir.
+
+Bir dönemde, öğrenciye her dersten bir dönem notu verilir.
+
+Takdir edilen not; yazılı sözlü ve uygulamalı sınavlar ile ödev ve projelere verilen puanlarla açıklanabilmeli ve bu puanların aritmetik ortalamasının nota çevrilmesi ile elde edilen nottan aşağı olmamalıdır.
+
+Ancak;
+
+a) **(Değişik: RG-29/07/2006-26243)** Yabancı dil dersinde yazılı, sözlü, ödev ve proje puanlarının aritmetik ortalaması nota çevrilerek dönem notu tespit edilir.
+
+b) **(Değişik: RG-29/07/2006-26243)** Beden eğitimi-milli oyunlar dersinde sağlık durumları veya engelleri nedeniyle derse veya bazı etkinliklere katılamayacak durumda olan öğrenciler, resmi/özel sağlık kurum veya kuruluşlarından sağlık kurulu raporu almak zorundadır.
+
+c) Öğretim elemanı ve/veya öğretmenin raporlu ve izinli olması, göreve geç başlaması, dönem bitmeden ayrılmasının kesin olduğu; doğal afet, salgın hastalık ve benzeri olağanüstü durumlardan dolayı yapılamayan dersler yoğunlaştırılmış programlar ile tamamlanır. Ders yılının uzatılması yönüne gidilmez. Bu programlarda ayrılacak ders saati sayısı, dönem içinde devam edilmeyen ders saati sayısından az olmayacak şekilde düzenlenir.
+
+### Madde 21 — Dönem sonu notlarının tespiti
+
+Birinci ve ikinci dönemlerde her öğrenciye değişik ders gruplarındaki derslerden ayrı ayrı dönem sonu notu verilir.
+
+**(Değişik ikinci fıkra: RG-29/07/2006-26243)** Dönem notlarının tespiti, ders gruplarına göre aşağıda belirtilmiştir:
+
+a) Alan derslerinde bir dersin dönem sonu notu, o dönem içinde alınan ara sınav puanlarının aritmetik ortalamasından elde edilen nottur.
+
+b) Seçmeli derslerde bir dersin dönem sonu notu, o dönem içinde alınan puanların aritmetik ortalamasından elde edilen nottur.
+
+c) Ortak derslerde bir dersin dönem sonu notu, o dönem içinde alınan puanların aritmetik ortalamasından elde edilen nottur.
+
+### MADDE 22 — Sınava katılmayanlar
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Öğrenciler, ders yılı içinde yapılan bütün sınavlara katılmak zorundadır. Sınavlara özürsüz olarak katılamayan öğrenciye sıfır (0) verilir ve öğrenci bu sınav hakkını kullanmış sayılır. Ancak Bölüm Başkanlığı tarafından özrü kabul edilmiş olan öğrenci, dersin öğretim elemanı veya öğretmeni tarafından sınava alınır. Bu sınav, önceki sınavla denk olabilecek sorularla öğretim elemanı veya öğretmenin belirteceği bir zamanda yapılır. Bu yöntem, ara sınavlar için geçerli olup, yıl sonu sınavlarına özürlü olarak giremeyen öğrencilerin sınavları ise Konservatuvar Yönetim Kurulunca kabul edildikten sonra yapılır.
+
+Ancak, sınavlara girmesini engelleyici hastalığının olması veya sınavlarda başarısını engelleyecek sakatlık durumunu, resmi/özel bir sağlık kurum veya kuruluşlarından alacağı raporla belgelendiren öğrenciler ile ülkeyi uluslararası düzeyde temsil etmesi Konservatuvar Yönetim Kurulunca kabul edilenler ve özürleri Müdürlükçe onaylananlar, Müdürlüğün belirleyeceği gün ve saatte sınava alınırlar.
+
+### MADDE 23 — Ders yılı sonunda öğrenci başarısının tespiti
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Öğretim yılı süresince okutulan derslerde ders yılı sonunda öğrenci başarısının tespiti, değişik ders gruplarına göre aşağıda belirtilmiştir:
+
+a) Onuncu, onbirinci ve onikinci sınıf öğrencilerinin alan derslerinde; devam koşulunu yerine getirmiş olması kaydıyla birinci ve ikinci dönem notlarının aritmetik ortalaması ile yıl sonu sınavlarında alınan notun aritmetik ortalaması, o dersin yıl sonu başarı notudur. Bu not, aynı zamanda o derse ait sınıf geçme notudur. Ancak alan derslerinden yıl sonu sınavında 100 tam puan üzerinden en az 70 puan alamayan öğrenciler, aritmetik ortalamasına bakılmaksızın başarısız sayılır. Bir sınıfın yıl sonu başarı ortalamasıyla başarılı sayılamayacak alan derslerinin herhangi birinden başarılı olamayan öğrenci, bir üst sınıfa devam edemez ve sınıf tekrar eder.
+
+b) Dokuzuncu sınıf öğrencileri, alan derslerinden ders yılı sonunda eleme sınavına girerler. Dokuzuncu sınıf öğrencilerinin alan derslerinde; devam koşulunu yerine getirmiş olması şartıyla birinci ve ikinci dönem notlarının aritmetik ortalaması ile eleme sınavlarında alınan notun aritmetik ortalaması, o dersin yıl sonu başarı notudur. Bu not, aynı zamanda o derse ait sınıf geçme notudur. Alan derslerinde eleme sınavı başarı puanı ise 100 tam puan üzerinden en az 70 puandır. Bu puanı alamayan öğrencilerin, aritmetik ortalamasına bakılmaksızın Konservatuvarla ilişiği kesilir.
+
+c) Seçmeli derslerde bir dersin yıl sonu başarı notu, devam koşulunu da yerine getirmiş olmak kaydıyla öğrencinin birinci ve ikinci dönem notlarının aritmetik ortalamasıdır.
+
+ç) Ortak derslerde bir dersin yıl sonu başarı notu, devam koşulunu da yerine getirmiş olmak kaydıyla öğrencinin birinci ve ikinci dönem notlarının aritmetik ortalamasıdır.
+
+### Madde 24 — Ders yılı sonunda bir dersten başarılı sayılma
+
+**(Değişik birinci fıkra: RG-29/07/2006-26243)** Öğrencinin ders yılı sonunda herhangi bir ortak ve seçmeli dersten başarılı sayılması için; ikinci dönem notunun en az Geçer, ancak birinci dönem notu Etkisiz ise ikinci dönem notunun en az Orta olması gerekir.
+
+Yalnız bir dönem notu aldığı derste, dönem notunun en az "Geçer" olması gerekir.
+
+### Madde 25 — Ders yılı sonunda doğrudan geçme
+
+Ders yılı sonunda;
+
+a) Her dersten başarılı sayılan,
+
+b) **(Değişik: RG-29/07/2006-26243)** Dil ve Anlatım dersi ile haftalık ders çizelgesinde yer alan yıl sonu başarı ortalamasıyla başarılı sayılamayacak alan dersleri dışındaki ders veya derslerden başarısızlığı olanların, yıl sonu ortalaması 2.50 ve daha yukarı olan öğrenciler, doğrudan sınıf geçer.
+
+### Madde 26 — Eleme sınavı
+
+Konservatuarın dokuzuncu sınıfına alınan öğrenciler, alan derslerinden birinci yılın sonunda eleme sınavına alınırlar.
+
+Hazırlayıcı birimin çalışma takviminde belirlenerek ilan edilen gün ve saatlerde bölüm yönetiminin önerisi üzerine Konservatuar Kurulunca oluşturulan komisyonlarca yapılır.
+
+Öğrenciler, belirtilen gün ve saatlerde sınavlara girmek zorundadırlar. Eleme sınavlarında alan derslerinin birinden başarılı olamayan öğrencinin, konservatuar ile ilişkisi kesilir.
+
+### Madde 27 — Not yükseltme sınavı
+
+**(Değişik birinci fıkra: RG-29/07/2006-26243)** Not yükseltme sınavları, ikinci dönemin bitiminden sonra yapılan yıl sonu sınavlarını izleyen, en erken onbeş gün içinde Müdürlükçe belirlenen tarihte yapılır. Öğrencinin bu sınavlarda başarılı sayılabilmesi için, başarısız olduğu alan derslerinden en az 70 puan alması zorunludur. Bu puan, yıl sonu sınav notu yerine geçer.
+
+Bu sınavlara özürsüz olarak girmeyen öğrenciye sıfır (0) puan verilir.
+
+### MADDE 28 — Not yükseltme sınavları sonuçlarına göre öğrencinin durumu
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Not yükseltme sınavları sonunda; yıl sonu başarı ortalamasıyla başarılı sayılamayacak alan derslerinin herhangi birinden başarılı olamayan öğrenci, bir üst sınıfa devam edemez ve aynı sınıfı tekrar eder.
+
+Bir üst sınıfa devam etme hakkını kazanamayan öğrenciler, bir defaya mahsus olmak üzere daha önce başarılı oldukları alan derslerini de kapsamak koşuluyla sınıf tekrar ederler.
+
+Öğrencilerin tekrarladıkları sınıftaki başarı durumu, bir yıllık öğrenciler gibi tespit edilir. Aynı sınıfta iki yıl üst üste başarısız duruma düşen öğrencilerin Konservatuvar ile ilişikleri kesilir.
+
+Son sınıf öğrencilerine, yıl sonu başarı ortalamasıyla başarılı sayılamayacak alan derslerinde başarısız olmaları hâlinde sınıf tekrarı yaptırılmaz. Ancak bu öğrenciler, takip eden yılda başarısız oldukları alan derslerinden sorumluluk sınavlarına girerler. Bu derslerin sorumluluk sınavından 100 tam puan üzerinden en az 70 puan alınması zorunludur.
+
+### Madde 29 — Ortak ve seçmeli derslerde ortalama yükseltme sınavı ile sınıf geçme (Değişik başlık: RG-29/07/2006-26243)
+
+Ortalama yükseltme sınavı sonunda; başarısız olduğu derslerin her birinden en az "Geçer" not alan veya bu sınavlar sonunda bu derslere ait ağırlıklı yıl sonu başarı ortalaması 2.50 ve daha yukarı olanlar bu derslerden başarılı sayılırlar.
+
+### MADDE 30 — Ortalama yükseltme sınavı
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Ders kesiminde, yıl sonu başarı ortalaması 2.50’den aşağı olan öğrenciler, yıl sonu sınavlarını izleyen 15 gün içinde öğrenim gördükleri sınıfta başarılı veya başarısız oldukları en fazla üç ortak ders veya seçmeli dersten ortalama yükseltme sınavına girerler.
+
+Ortalama yükseltme ve sorumluluk sınavlarına alınacak öğrenciler ve sınavlara girecekleri derslerin listeleri, Konservatuvar Müdürlüğünün onayıyla sınavların başlangıç tarihinden yedi iş günü önce Bölüm Başkanlığı tarafından ilan edilir.
+
+Ortalama yükseltme sınavına girecek öğrenci, sınava gireceği ders veya dersleri velisi ve sınıf danışman öğretim elemanı veya öğretmeni ile birlikte belirler, yazılı olarak Bölüm Başkanlığına bildirir.
+
+Hazırlayıcı birim son sınıfında okuyan, ortak dersler ve seçmeli derslerden ortalama yükseltme sınavında başarısız olduğu için mezun olamayan öğrenciler, ayrıca ders yılının başlamasından önceki hafta içinde aynı koşullarda ikinci bir ortalama yükseltme sınavına alınırlar. Bu sınavlarda da başarısız olmaları hâlinde sınıf tekrarı yapmayıp bir sonraki yıl sorumluluk sınavlarına alınırlar.
+
+### MADDE 31 — Sınıf tekrar etme
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Sınıf tekrarı, ortaöğretim süresince bir defa yapılır. Son sınıf öğrencileri, başarısız oldukları takdirde sınıf tekrarı yapmayıp sorumluluk sınavlarına girerler.
+
+Ortalama yükseltme ve not yükseltme sınavları sonunda;
+
+a) Dokuzuncu sınıflarda;
+
+1) Ortalama yükseltme sınavı sonunda, yıl sonu başarı ortalaması 2.00’ın altında olanlardan birden fazla dersten; 2.00-2.49 arasında olanlardan ikiden fazla dersten başarısız ortak dersi bulunan,
+
+2) Devamsızlık nedeniyle başarısız sayılan,
+
+b) Diğer sınıflarda;
+
+1) Not yükseltme sınavı sonunda başarısız olduğu alan dersi bulunan,
+
+2) Sorumlu olarak sınıf geçemeyenler ile sorumlu olduğu dersten sorumluluk sınavında geçemeyen,
+
+3) Devamsızlık nedeniyle başarısız sayılan
+
+öğrenciler sınıf tekrar ederler.
+
+### MADDE 32 — Sorumlu olarak sınıf geçme
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Dokuzuncu sınıfta; ortak derslerden, yıl sonu başarı ortalaması ile başarılı sayılmayan dersler de dahil olmak üzere;
+
+a) Başarısız oldukları ders sayısını tek derse indirenler bu dersten,
+
+b) Yıl sonu başarı ortalaması 2.00-2.49 arasında olanlardan başarısız oldukları ders sayısını en fazla iki derse indirenler bu derslerden
+
+sorumlu olarak onuncu sınıfa geçerler.
+
+Onuncu ve onbirinci sınıflarda başarısız olduğu seçmeli ders veya ortak ders bulunmasına rağmen yıl sonu başarı ortalaması 2.50’den aşağı olanlar, başarısız oldukları en fazla iki ders/derslerden sorumlu olarak bir üst sınıfa geçerler. Ancak başarısız olduğu ders sayısı ikiden fazla ise öğrenci başarısız sayılır ve sınıf tekrarı yapar.
+
+Sorumlu olarak bir üst sınıfa geçen öğrencinin sorumluluğu; o dersin sorumluluk sınavında başarılı olması veya o dersin üst sınıfta uygulanan programından başarılı olması hâlinde kalkar.
+
+Onikinci sınıf öğrencileri yıl sonu başarı ortalamasıyla başarılı sayılamayacak alan derslerinde başarısız ise, sınıf tekrarı yapmayıp sorumluluk sınavlarına girerler. Seçmeli veya ortak derslerden başarısız ve yıl sonu başarı ortalaması 2.50 den aşağı ise başarısız olduğu tüm derslerden sorumluluk sınavlarına girerler ve sınıf tekrarı yapmazlar.
+
+### MADDE 33 — Sorumluluk sınavları
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Sorumluluk sınavları; yeni ders yılının başlamasından bir hafta önce bitecek ve üç haftayı geçmeyecek şekilde yapılır. Mezun olamayan ve sınav hakkı bulunan son sınıf öğrencileri, ayrıca ders kesimini takip eden ilk hafta içinde de sorumluluk sınavlarına alınır.
+
+### MADDE 34 — Yıl sonu başarı ortalaması ile başarılı sayılmayacak dersler
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Öğrenciler, Dil ve Anlatım dersi ile yıl sonu başarı ortalamasıyla başarılı sayılamayacak alan derslerinden başarılı olmadıkça, bu derslerden yıl sonu başarı ortalaması ile başarılı sayılamaz.
+
+### Madde 35 — Bir dersin ağırlığı ve ağırlıklı notu
+
+Bir dersin ağırlığı, o dersin haftalık ders saati sayısına eşittir. Bir dersin yıl sonu notu ile o dersin haftalık ders saati sayısı çarpılır. Çıkan sayı o dersin ağırlıklı notudur.
+
+### Madde 36 — Yıl sonu başarı ortalaması
+
+Aynı yılda okunan bütün derslerin ağırlıklı notları toplamı, aynı derslerin haftalık ders saatleri toplamına bölünür. Çıkan sayı öğrencinin "Yıl Sonu Başarı Ortalaması" dır.
+
+Yıl sonu başarı ortalaması hesaplanırken, bölme işlemi virgülden sonra iki basamak yürütülür.
+
+Yıl sonu başarı ortalaması ile sınıf geçen öğrencilerin notları değiştirilmez. "Yıl sonu Başarı Ortalaması ile Başarılı Sayıldı" yazılır.
+
+Yıl sonu başarı ortalaması öğrencinin dosyasına, sınıf geçme ve diploma defterine yazılır ve mezuniyet notunun hesaplanmasında esas alınır.
+
+## ALTINCI BÖLÜM — Not Düzeni
+
+### Madde 37 — Notlar
+
+Öğrenci başarısının değerlendirilmesinde "Beşli not düzeni" kullanılır. Dersler iki ayrı kategoride değerlendirilir. Puanların aritmetik ortalaması alınırken, yarım ve yarımdan büyük kesirler tama yükseltilir. Yarımdan küçük kesirler dikkate alınmaz. Öğrenci başarısının tespitinde aşağıdaki esaslara uyulur:
+
+a) **(Değişik ibare: RG-29/07/2006-26243)** Ortak dersler ve seçmeli derslerde; bütün sınavlar ile ödev ve projeler yüz tam puan üzerinden değerlendirilir. Bir dönem notu, o dersten alınan puanların aritmetik ortalamasına göre takdir edilir ve başarı derecesinin karşılığı olan nota çevrilir.
+
+Puanların not değerleri ve derecesi aşağıdaki gibidir:
+
+Puan Not Derece
+
+85-100 5 Pekiyi
+
+70-84 4 İyi
+
+55-69 3 Orta
+
+45-54 2 Geçer
+
+25-44 1 Geçmez
+
+0-24 0 Etkisiz
+
+b) **(Değişik: RG-29/07/2006-26243)** Alan derslerinde; öğrenci başarısı 100 tam puan üzerinden değerlendirilir. Bir dönem notu, o dersten alınan puanların aritmetik ortalamasına göre takdir edilir ve başarı derecesinin karşılığı olan nota çevrilir. Puanların not değerleri ve derecesi aşağıdaki gibidir:
+
+Puan Not Derece
+
+90-100 5 Pekiyi
+
+80-89 4 İyi
+
+70-79 3 Orta
+
+60-69 2 Geçer
+
+25-59 1 Geçmez
+
+0-24 0 Etkisiz
+
+## YEDİNCİ BÖLÜM — Devam - Devamsızlık
+
+### Madde 38 — Ders yılı süresi ve devamsızlığın hesaplanması
+
+Ders yılının süresi, derslerin başladığı günden kesildiği güne kadar, hazırlayıcı birimin açık bulunduğu günler ile öğrencilerin törenlere katıldıkları resmi ve yerel bayram günleri sayılarak hesaplanır.
+
+Hazırlayıcı birimde tam zamanlı eğitim-öğretim yapılır. Sabah veya öğleden sonraki derslere katılan öğrencilerin devamı yarım gün sayılır.
+
+Geç kalan öğrenci, birinci ders süresince Bölüm Başkanlığından alacağı izin belgesi ile derse alınır.
+
+Birinci dersten sonra derse gelen öğrenci, Bölüm Başkanlığından alacağı izin belgesi ile derse alınır. Ancak devamı yarım gün sayılır.
+
+Birinci derse girdiği halde arada bir veya daha fazla derse özürsüz olarak girmeyen öğrencinin devamsızlığı yarım gün sayılır ve bu Yönetmeliğin 40 ıncı maddesine göre işlem yapılır.
+
+### Madde 39 — Devam zorunluluğu
+
+Öğrenciler hazırlayıcı birime devam etmek zorundadırlar.
+
+Ancak;
+
+a) Bir ders yılı içinde toplam yirmi gün okula özürsüz olarak devam etmeyen öğrenci, notları ne olursa olsun başarısız sayılır.
+
+b) **(Değişik: RG-29/07/2006-26243)** Özürlü ve özürsüz devamsızlıklar ile bölüm yönetimince verilen izinlerin toplamı kırkbeş günü aşamaz. Kaza, ölüm, doğal afet, yangın, göz altına alınma, tutuklanma ve hastalık nedeniyle yapılan devamsızlıkların özürlü devamsızlıktan sayılabilmesi için özrün, resmi kurumdan alınacak belge veya resmi/özel sağlık kurum veya kuruluşlarınca düzenlenecek raporla belgelendirilmesi ve özrü takip eden yedi iş günü içinde konservatuvar yönetimine bildirilmesi gerekir. Zorunluluk hallerinde özrün bildirim süresi konservatuvar yönetimince uzatılabilir.
+
+c) Bir ders yılı içinde her alan **(Mülga ibare: RG-29/07/2006-26243)** (…) dersinin % 80’ine, özürsüz olarak girmeyen öğrenciler, o dersten yıl sonu notları ne olursa olsun başarısız sayılırlar ve o yıl için sınav haklarını kaybederek sınıf tekrarı yaparlar.
+
+d) Yurt içinde ve yurt dışında, müzik, spor, folklor ve benzeri eğitici kültürel etkinliklere katılmaları uygun görülen öğrenciler okula devam edemedikleri süre için izinli sayılırlar.Yurt içindeki ve yurt dışındaki etkinliklere katılan öğrencilere Konservatuar Müdürlüğünce izin verilir. Uluslararası, yurt içi ve yurt dışı yarışmalarla bunların hazırlık çalışmalarına katılan öğrencilerin bu organizasyonun devamı süresince izinli sayıldıkları süreler, devamsızlık süresinin hesabında dikkate alınmaz. Bu öğrencilerin başarı durumlarının belirlenebilmesi için en az iki dönem notu almış olmaları gerekir.
+
+### Madde 40 — Geç gelme
+
+Derslere zamanında gelmeyen öğrenciler, özürleri bölüm yönetimi tarafından kabul edildiği takdirde derslere alınırlar. Geç gelmeyi alışkanlık edinenler ile izinsiz olarak sınıftan ve bölümden ayrılanlar için disiplin işlemi yapılır.
+
+### Madde 41 — Özel durumlar
+
+Okula devam ederken yangın, deprem gibi doğal afet veya ana, baba, kardeş gibi yakınlarından birinin ağır hastalığı, ölümü gibi sebeplerle kendilerine izin verilenler; sürekli tedaviyi gerektiren bir hastalıktan dolayı yataklı tedavi kurumlarında yatarak tedavi gören ve sonrasında tedavisi devam ettiğinden sağlık kurulu raporuna dayalı olarak devam edemeyen öğrenciler ile tutuklanıp serbest bırakılan veya tutuklandıktan sonra serbest bırakılarak yargılaması devam eden veya beraat eden öğrenciler;
+
+a) Devam süresinin en az yarısını doldurmuş ve **(Değişik ibare: RG-29/07/2006-26243)** iki dönem notu almış bulunmak,
+
+b) **(Değişik: RG-29/07/2006-26243)** Özürleri resmi/özel sağlık kurumu veya kuruluşlarından alınmış ve zamanında bölüm yönetimine teslim edilmiş; bir rapor veya belge ile tespit edilmiş; özür belgesini özrün sona erdiği tarihten itibaren yedi gün içinde vermiş olmak.
+
+koşulu ile, devam süresini dolduran öğrenciler gibi işleme tâbi tutulurlar.
+
+Ancak; kaza, ölüm, yangın ve benzeri durumlarda yedi günlük süre, bölüm yönetiminin takdirine bırakılır.
+
+### MADDE 42 — Okulu bitirme süresi ve öğrenim hakkı
+
+**(Başlığıyla birlikte değişik: RG-29/07/2006-26243)**
+
+Çalgı bölümü hazırlayıcı birim devresinde öğrenim süresi, öğrencinin kayıt olduğu tarihten itibaren en fazla altı yıldır.
+
+Özürleri nedeniyle okula devam edemeyen, okula devam ettikleri halde iki dönem notu alamayan öğrenciler ile ikinci dönem okula hiç devam etmeyen öğrenciler, o yıla ait öğrenim haklarını kullanmamış sayılır. Ancak öğrenim hakkının kullanılmamış sayılması hali, orta öğretim süresince iki öğretim yılı ile sınırlıdır.
+
+Öğrenim süresi içinde ikinci defa sınıf tekrarı durumuna düşen öğrencilerin öğretim yılı sonunda okulla ilişiği kesilir.
+
+## SEKİZİNCİ BÖLÜM — Özürler, Çalgı Değiştirme ve Sınav Komisyonu
+
+### MADDE 43 — Özürler
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Bu Yönetmeliğin 22 nci maddesi dışında, genel kural olarak sınavlara girmemenin özrü yoktur. Ancak, ortalama yükseltme ve not yükseltme sınavları sırasında hastalık nedeniyle bu sınavlara girecek durumda olmadıklarını resmi/özel sağlık kurum veya kuruluşlarından alacakları raporla belgeleyenlere ve yangın, deprem ve benzeri afet ya da ana, baba, kardeş gibi yakınlarından birinin ölümü nedeniyle sınavlara giremeyenlere Konservatuvar Yönetim Kurulu tarafından sınav hakkı tanınır. Bu sınav, ortalama yükseltme ve not yükseltme sınavlarının bitiminden itibaren en geç onbeş gün içinde Müdürlükçe belirlenen tarihte yapılır. Bu sürenin dışında özre dayalı bir sınav yapılamaz.
+
+### Madde 44 — Çalgı değiştirme
+
+İTÜ. TMDK hazırlayıcı birim öğrencisi hangi nedenle olursa olsun çalgı değiştiremez.
+
+### MADDE 45 — Sınav komisyonu
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Alan derslerinin yıl sonu sınav komisyonları, Bölüm Başkanlığının önerisi ve Konservatuvar Yönetim Kurulunun kararı ile belirlenir. Her komisyon en az üç asıl, bir yedek üyeden oluşur.
+
+## DOKUZUNCU BÖLÜM — Öğretim Elemanı ve Öğretmen Not Defteri, Öğrenci Karnesi
+
+### Madde 46 — Öğretim elemanı ve öğretmen not defteri
+
+Her öğretim elemanı, bir not defteri tutar ve deftere bu Yönetmelikte yer alan esaslara göre tespit ettiği puanları ve dönem notlarını yazar.
+
+Öğretim yılı başında Bölüm Başkanlığı tarafından sağlanan not defterleri, imza karşılığında öğretim elemanına verilir.
+
+Puan ve notları mürekkepli kalemle yazılır. Silinti ve kazıntı yapılmaz.
+
+Öğretim elemanı ve öğretmen, not defterini ve not cetvellerini istendiği zaman Konservatuar Müdürüne veya denetleme yetkisi olanlara göstermekle yükümlüdür.
+
+Ders yılı sonunda not defterleri Bölüm Başkanlığına teslim edilir. Bu defterler Bölüm Başkanlığınca bir öğretim yılı saklanır. Ders yılı içinde çeşitli nedenlerle Konservatuardan ayrılan öğretim elemanları da not defterlerini tutanak karşılığında Bölüm Başkanlığına teslim etmek zorundadırlar.
+
+Not defterlerinde; dönemlere ait yazılı, sözlü ve uygulamalı sınavlarla, varsa ödev ve projelere verilen puanlar ve bu puanların aritmetik ortalamasına göre takdir edilen dönem notu rakamla yazılır.
+
+### Madde 47 — Öğrenci karnesi
+
+Her dönem sonunda öğrencilere, velilerine duyurulmak üzere başarı, gelişme ve devam durumlarını gösteren bir karne verilir.
+
+Karneler, Bölüm Başkanlığı tarafından düzenlenir ve Konservatuar Müdürü ile Bölüm Başkanı tarafından imzalanır.
+
+## ONUNCU BÖLÜM — Diploma Düzenlenmesi ile İlgili Esaslar
+
+### Madde 48 — Diploma
+
+Hazırlayıcı birim devresi eğitim-öğretim programını başarı ile tamamlayan öğrencilere "Hazırlayıcı Birim Lise Devresi Diploması" verilir.
+
+### Madde 49 — Öğrenim belgesi
+
+Diploma almaya hak kazanan öğrenciye; kimliğini, diploma bilgilerini, okul öğrenimi boyunca aldığı dersleri, ders notlarını ve mezuniyet notunu gösteren bir öğrenim belgesi verilir.
+
+### Madde 50 — Mezuniyet notu
+
+Mezuniyet notu; öğrenim süresince alınan yıl sonu başarı not ortalamalarının aritmetik ortalamasından elde edilen nottur.
+
+Mezuniyet notu tespit edilirken bölme işlemi, virgülden sonra iki basamak yürütülür. Ayrıca çalgı adı diplomada belirtilir.
+
+### Madde 51 — Diploma tarihi
+
+Diplomaların tarihi;
+
+a) Doğrudan mezun olanlarla, ders kesimini izleyen on beş gün içinde yapılan "Ortalama Yükseltme Sınavı"nda mezun olanlar için, derslerin kesildiği tarih,
+
+b) Ders yılının başlama tarihinden önceki haftada yapılan "Ortalama Yükseltme Sınavı" nda mezun olanlar için, bu sınavın sona erdiği tarih,
+
+c) Not yükseltme sınavı sonunda mezun olanlar için, bu sınav veya sınavların sona erdiği tarih
+
+olarak tespit edilir.
+
+### Madde 52 — Diplomaların düzenlenmesi ile ilgili diğer hususlar
+
+Diplomalarda, Hazırlayıcı Birim Lise Devresine yönelik diploma bilgileri ile İ.T.Ü. filigranı ve İ.T.Ü. TMDK soğuk damgası kullanılır.
+
+Mezun olan öğrencilerin listesi, Konservatuar Müdürlüğü tarafından İlçe Milli Eğitim Müdürlüğü’ne gönderilir.
+
+**ONBİRİNCİ BÖLÜM**
+
+**Okul Birincisi, Not Çizelgeleri ve Karne Verilme Zamanı**
+
+### Madde 53 — Okul birincilerinin seçimi
+
+**(Değişik birinci fıkra: RG-29/07/2006-26243)** Konservatuvarın son sınıflarında, bir ders yılı sonunda çalgı ayırımı yapılmaksızın mezuniyet notu en yüksek olan öğrenciler arasından; Bölüm Yönetimi ve Bölüm Kurulu tarafından oluşturulan bir komisyonca okul birincisi seçilir. Ancak, kısa süreli uzaklaştırma ve daha ağır ceza almış öğrenciler okul birincisi seçilemez.
+
+Mezuniyet notlarının eşit olması halinde, son sınıf yıl sonu başarı ortalaması yüksek olan öğrenci okul birincisi seçilir. Eşitlik bozulmadığı takdirde, bir alt sınıftan başlanarak geriye doğru eşitlik bozuluncaya kadar yıl sonu başarı notları incelenerek okul birincisi tespit edilir. Bu şekilde de eşitlik bozulmuyorsa ; son ders yılından başlanarak derslerin dönem notlarına esas olan puanlarının ağırlıklı ortalaması alınır. Bu değerlendirme sonunda da eşitliğin bozulmaması halinde, öğretim elemanları kurulunda, ilgili öğrenci ve velilerin de katılımı ile Konservatuar Yönetim Kurulu tarafından kura çekilerek okul birincisi tespit edilir.
+
+Belirlenen okul birincileri, Konservatuar Müdürlüğünce zamanında "Öğrenci Seçme ve Yerleştirme Merkezi" ne bildirilir.
+
+### Madde 54 — Not çizelgelerinin teslimi
+
+Birinci ve ikinci döneme ait not çizelgeleri dönem sona ermeden en geç bir hafta önce öğretim elemanları tarafından Bölüm Başkanlığına verilir. Bu çizelgelerde, o döneme ait yazılı, sözlü, uygulamalı sınavlarla ödev ve projelere verilen puanlar belirtilir ve puanların aritmetik ortalamasına göre takdir edilen dönem notu rakamla yazılır.
+
+Gerek sözlü, gerekse uygulamalı bütün dersler ile eleme ve dönem sonu sınavlarının not çizelgeleri, sınavın bitimini takiben, ilgili öğretim elemanları tarafından geciktirilmeksizin en geç sınavın yapıldığı gün Bölüm Başkanlığına teslim edilir.
+
+### Madde 55 — Karnelerin verilme zamanı
+
+Birinci döneme ait karneler dinlenme tatilinden önce verilir ve öğrenci velisi tarafından imzalandıktan sonra, dinlenme tatili sonunda sınıf danışman öğretim elemanına iade edilir. İkinci dönem sonunda verilen karneler okula iade edilmez.
+
+**ONİKİNCİ BÖLÜM**
+
+**Çeşitli ve Son Hükümler**
+
+### Madde 56 — Kitaplar, eğitim araçları ve basılı evrak
+
+**(Değişik birinci cümle: RG-29/07/2006-26243)** Konservatuvarda ortak derslerde, Bakanlıkça kabul edilen kitaplar ve öğretmenler tarafından seçilen eğitim araçları kullanılır. Bölüm derslerinde okutulacak kitap ve diğer eğitim araçları ise hazırlayıcı birimin bünyesinde branş elemanlarından oluşturulacak en az üç kişilik bir komisyona incelettirilerek, hazırlatılacak raporla birlikte Bölüm Başkanlığına gönderilir. Bu kitaplar Bölüm Başkanlığınca onaylandıktan sonra kullanılır.
+
+Kullanılan diploma, karne, öğrenim belgesi ve benzeri basılı evrak, Bakanlığa bağlı ortaöğretim kurumlarında kullanılan standartlara uygun olarak hazırlanır.
+
+### MADDE 57 — Yöneticilerin nitelikleri
+
+**(Değişik: RG-29/07/2006-26243)**
+
+Ders ve uygulamalarda görevlendirilen kişilerin, 2547 sayılı Yükseköğretim Kanununda belirtilen öğretim elemanı niteliğini taşıması gerekir. Ortak dersler için atanacak öğretim elemanları veya öğretmenler ile yöneticiliğe atanacakların Bakanlıkça belirlenen öğretmenlerde ve benzeri kurumların yöneticilerinde öngörülen nitelikleri taşımaları gerekir.
+
+### Madde 58 — Ödül
+
+Hazırlayıcı birimde ödüllendirilecek davranışlar, ödül takdirinde dikkat edilecek hususlar ve onur kurullarının oluşturulması ile ilgili çalışmalar, "Millî Eğitim Bakanlığı Ortaöğretim Kurumları Ödül ve Disiplin Yönetmeliği" hükümleri çerçevesinde yürütülür.
+
+### Madde 59 — Denetim
+
+Denetim görevi, Milli Eğitim Bakanlığı ve İstanbul Teknik Üniversitesi Rektörlüğü iş birliği ile yürütülür.
+
+### Madde 60 — Disiplin
+
+Hazırlayıcı birimdeki disiplin işlemlerinde, "Devlet Konservatuarları Orta ve Lise Devreleri Öğrenci Disiplin Yönetmeliği" hükümleri uygulanır.
+
+### Madde 61 — Yönetmelikte hüküm bulunmayan haller
+
+Bu Yönetmelikte hüküm bulunmayan hallerde, Milli Eğitim Bakanlığınca çıkarılan ortaöğretim kurumlarına ilişkin ilgili mevzuat hükümleri uygulanır.
+
+### Madde 62 — Yürürlük
+
+Bu Yönetmelik, 2004 – 2005 eğitim-öğretim yılından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+
+### Madde 63 — Yürütme
+
+Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) (Bu Yönetmeliğe, 29/07/2006 tarihli ve 26243 sayılı Resmi Gazete’de yayımlanan Yönetmelikle getirilen değişiklikler, 2005-2006 öğretim yılından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.*

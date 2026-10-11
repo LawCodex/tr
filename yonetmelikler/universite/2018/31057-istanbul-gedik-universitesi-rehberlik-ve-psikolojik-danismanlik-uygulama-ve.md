@@ -1,0 +1,203 @@
+---
+title: "İSTANBUL GEDİK ÜNİVERSİTESİ REHBERLİK VE PSİKOLOJİK DANIŞMANLIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.31057"
+number: "31057"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2018-12-19
+official_gazette_date: 2018-12-19
+official_gazette_number: "30630"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31057&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTANBUL GEDİK ÜNİVERSİTESİ REHBERLİK VE PSİKOLOJİK DANIŞMANLIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; İstanbul Gedik Üniversitesi Rehberlik ve Psikolojik Danışmanlık Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma alanlarına ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; İstanbul Gedik Üniversitesi Rehberlik ve Psikolojik Danışmanlık Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışman: Merkezde görevlendirilmiş ilgili akademik personeli,
+
+b) Merkez: İstanbul Gedik Üniversitesi Rehberlik ve Psikolojik Danışmanlık Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: İstanbul Gedik Üniversitesi Rektörünü,
+
+d) Stajyer öğrenci: Merkezde sunulan hizmetleri yetkinlik düzeyine göre gerçekleştiren, psikoloji ya da klinik psikoloji alanında lisans, yüksek lisans ya da doktora öğrenimi gören öğrencileri,
+
+e) Uzman: Merkez kadrosunda görevlendirilmiş uygulamalı/klinik psikoloji ve/veya rehberlik alanında uzmanlığa sahip Üniversite çalışanını,
+
+f) Üniversite: İstanbul Gedik Üniversitesini,
+
+g) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ğ) **(Ek:RG-24/5/2024-32555)** Danışan: Merkeze başvuran bireyleri,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+**(Değişik:RG-24/5/2024-32555)**
+
+(1) Merkezin amacı; Üniversite öğrencilerinin, personelinin ve Üniversite dışından danışanların yaşadıkları duygusal, zihinsel ve sosyal sorunlar karşısında onlara yardım etmek, rehberlik ve danışmanlık hizmetleri sağlamaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) **(Değişik:RG-24/5/2024-32555)** Sağlıklı insan modelinden hareket ederek öğrencilerin ve danışanların var olan içsel potansiyellerinin farkına varmalarını sağlamak, içsel potansiyellerini var olan kaynakları en iyi şekilde kullanarak kendilerini gerçekleştirmelerine ve hedeflerine ulaşmalarına yardım etmek.
+
+b) Öğrencilerin genç ve yetişkinlik dönemlerinde karşılaşabilecekleri sorunlar konusunda eğitim ve farkındalık yaratmak.
+
+c) Öğrenci merkezli yaklaşımı temel alarak, akademik başarı ve gündelik sorunlarıyla ilgili olarak öğrencilerin ilişki içerisinde bulunduğu öğretim üyeleri, idari personel, yurt müdürleri ve öğrenci ailelerine eğitim vermek, bu kişilere müşavirlik hizmetleri sunmak.
+
+ç) **(Değişik:RG-24/5/2024-32555)** Gündelik yaşamında sorun yaşayan, zorlanan öğrenciler ve danışanlar için bireysel danışmanlık hizmetleri vermek, gerektiğinde öğrencileri ve danışanları daha ileri düzeyde yardım alabilecekleri kurum ve kişilere yönlendirmek.
+
+d) **(Değişik:RG-24/5/2024-32555)** Merkeze gelen öğrencileri ve danışanları tanımak ve sorunlarına daha net bir bakış açısı getirmek, iyileştirme planı hazırlamak ve ihtiyaçlarını belirlemek için psikolojik testler, ölçekler, tarama anketleri, test dışı teknikler kullanmak, psikolojik testler kullanılarak yapılan değerlendirmeyi bu alanda eğitim almış psikolojik danışman ve psikologlar vasıtasıyla yapmak.
+
+e) **(Değişik:RG-24/5/2024-32555)** Öğrencilere ve danışanlara sunulacak hizmetleri, sorunun doğasına bağlı olarak bireysel görüşmeler, bireysel rehberlik ya da grup danışmanı ve grup rehberliği formatında yürütmek.
+
+f) Merkezde çalışan uzmanlarca tüm öğrenci profili hedef alınarak, öğrencilerin entelektüel, duygusal, sosyal, milli ve manevi ihtiyaçlarını göz önüne alarak onlara eğitim, seminer ve psiko-eğitim programları hazırlamak.
+
+g) Öğrencilerin kendilerini daha üst düzeyde eğitmeleri, başarılarını arttırmaları ve sanat, spor alanlarında kendilerini geliştirmeleri için Üniversite içindeki ya da dışındaki kaynakları belirlemek, gerektiğinde bu kaynaklarla iletişime geçerek öğrencilerin bu kaynakları kullanmasını sağlamak.
+
+ğ) **(Değişik:RG-24/5/2024-32555)** İleri düzeyde ruh sağlığı sorunları yaşayan öğrencileri ve danışanları tedavi ve takibinin sağlanabilmesi için ilgili psikiyatrist-hekimlere yönlendirmek, bu hekimlerle iş birliği içerisinde gerektiğinde eş zamanlı olarak psikososyal destek sağlamak ve tedavilerini takip ederek izleme çalışması yapmak.
+
+h) Üniversiteyi yeni kazanan öğrencilerin Üniversiteye uyumunu kolaylaştırmak için uyum çalışmaları yapmak ve yapılan çalışmalara destek vermek.
+
+ı) Ülkemize ve Üniversiteye yeni gelen uluslararası öğrencilere uyumlarını kolaylaştıracak sosyokültürel eğitim ve etkinlikler düzenlemek, belli aralıklarla gözlem, görüşme ve anketler yapmak, onların ihtiyaçlarını ve sorun alanlarını belirlemeye çalışmak ve bunların giderilmesi için yetkililere bilgi vermek ve sorunların çözümüne katkı sağlamak.
+
+i) Merkezde yapılan çalışma ve eğitimleri değerlendirmek amacıyla memnuniyet anketleri düzenlemek ve buna göre yeniden yapılanma sağlamak.
+
+j) İhtiyaç duyulduğunda ve talep edildiğinde Üniversite personeline yönelik eğitim ve bilgilendirme seminerleri düzenlemek.
+
+k) Sunulan hizmetlerin kalitesini artırmak ve son gelişmeleri takip etmek için yapılan ulusal/uluslararası bilimsel toplantı, konferans, kongre, sempozyum ve eğitim gibi faaliyetleri takip etmek ve katılmak.
+
+l) Tüm görüşmeleri, yazışmaları, iletişim biçimlerini bireylerin mahremiyetine zarar vermeyecek şekilde, gizlilik ilkesine bağlı kalınarak yapmak, bireyden elde edilen tüm sözlü ve yazılı bilgileri, test ve anket sonuçlarını, arşiv bilgilerini gizli kayıtlar olarak tutmak ve saklamak.
+
+m) Psikoloji alanında eğitim alan lisans ve yüksek lisans öğrencilerinin öğretim üyelerinin denetiminde ve onların istekleri doğrultusunda, öğrendikleri teorik bilgileri uygulamaları ve deneyim kazanmaları için ortam ve şartlar oluşturmak.
+
+n) Merkez bünyesinde bir gönüllülük birimi kurarak, lisans ve yüksek lisans öğrencilerinin, kamu ve özel kurumlarda haftanın belli günlerinde gönüllü olarak çalışmasını, kamu ve özel kurumlar arasında bir bağlantı görevi yapmasını sağlamak, toplumda gönüllülük kültürünün gelişmesine katkıda bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin çalışma alanında uzmanlığını almış bir öğretim elemanı/idari çalışan Rektör tarafından üç yıl süre ile görevlendirilir. Müdür, Rektör tarafından görevden alınabilir. Görev süresi sona eren Müdür tekrar görevlendirilebilir. Müdür, Merkezin çalışmalarından Rektöre karşı sorumludur.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Birimlerde bireysel rehberlik, danışma ve kariyer danışmanlığı hizmetlerinin amacına uygun olarak düzenlenmesi ve yürütülmesi ile ilgili olarak birimlerin çalışanlarını denetlemek.
+
+b) Merkezde sunulacak hizmetlerin en üst düzeyde bilimsel verilere dayanarak, kültürel değerleri ve öğrenci ihtiyaçlarını da göz önüne alarak hazırlanmasını ve yapılmasını sağlamak.
+
+c) Merkezin bir yıllık çalışma ve değerlendirme raporlarını ve istatistiklerini her yıl Ocak ayı sonuna kadar Rektörlüğe sunmak.
+
+ç) İdari ve akademik toplantılarda Merkezi temsil etmek.
+
+d) Merkezde çalışan idari personelin ve uzmanların yıllık ve idari izinlerini düzenlemek ve onaylamak.
+
+e) Merkezde çalışanlar arasında uyum ve birlikteliğin sağlanması için personele destek olmak. Merkezde çalışan uzmanların profesyonel gelişimlerini desteklemek, bilgi alışverişinde bulunulması ve profesyonel konularda ekip çalışmasının etkili olabilmesi için haftalık toplantılar düzenlemek.
+
+f) Yönetim Kuruluyla beraber, Merkezde görev yapan tam zamanlı ve yarı zamanlı uzmanların görev, yetki ve sorumluluklarını belirlemek, gerekli görülen durumlarda çalışanlar arasında rotasyon yapmak.
+
+g) Rektörlük ve idari birimlerin isteği doğrultusunda öğrenci ihtiyaç ve beklentilerini dikkate alarak, sunulan hizmetlerin çeşitlendirilmesi ve etkililiğinin artırılmasına yönelik çalışmaları yönlendirmek ve geleceğe yönelik planlamaları gerçekleştirmek.
+
+ğ) Yönetim Kurulunun görüşünü alarak birimlerin çalışma standartlarını geliştirmeye yönelik bilimsel temelli stratejiler geliştirmek, uygulamak ve değerlendirmek.
+
+h) Yönetim Kurulunun görüşünü alarak birimlerin kadro ihtiyaçlarını mevcut stratejilere göre planlamak ve gerekçeleriyle beraber Rektörlüğe bildirmek.
+
+ı) Merkeze alınacak uzman adaylarının ilgili mevzuat çerçevesinde seçimlerini gerçekleştirerek, seçilen personel adaylarını Yönetim Kurulunda görüştükten sonra Rektörlüğe bildirmek.
+
+i) Merkezde görev yapan stajyer öğrencilerin sayısını, görev alanlarını ve çalışma takvimini belirleyerek Yönetim Kuruluna sunmak.
+
+j) Merkezde çalışan personelin, mesleki alanlarından seçilen bir öğretim üyesinden danışmanlık almalarını sağlamak, danışmanlık süresini planlamak ve işleyişini denetlemek.
+
+k) Gerekli gördüğü durumlarda ve ihtiyaç halinde psikoloji bölümü öğretim üyelerinin, araştırma görevlilerinin, yüksek lisans ve doktora öğrencilerinin Merkezde görevlendirilmesi için çalışmalarda bulunmak. Üniversitede hizmet içi eğitim, seminer ve bilgilendirici toplantılar düzenlemek.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür dâhil 5 kişiden oluşur. Müdür dâhil, üyelerin en az üçü psikoloji bölümünde görev yapan öğretim üyeleri arasından üç yıllık süre için görevlendirilir. Diğer üyeler de Üniversitede görev yapan öğretim üyeleri arasından seçilir. Süreleri dolan Yönetim Kurulu üyeleri yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen Yönetim Kurulu üyelerinin yerine, kalan süreyi doldurmak üzere yenileri görevlendirilir.
+
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine en az üç ayda bir kere üyelerin salt çoğunluğu ile toplanır ve toplantıya katılan üyelerin salt çoğunluğu ile karar alır. Toplantı günü ve yeri üyelere toplantı tarihinden en az bir hafta önce yazı ile bildirilir. Toplantı kararlarına ilişkin oyların eşitliği halinde, başkanın oyu yönünde çoğunluk sağlanmış sayılır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezde görev yapan tam zamanlı ve yarı zamanlı çalışanların görev, yetki ve sorumluluklarını belirlemek.
+
+b) Merkezde sunulan hizmetlerin öğrenci ihtiyaç ve beklentileri doğrultusunda çeşitlendirilmesine ve etkililiğinin artırılmasına destek sağlamak.
+
+c) Gelecekte verilmesi planlanan yeni hizmetlerin planlamasını yapmak.
+
+ç) Merkezin çalışma standartlarını geliştirmeye yönelik bilimsel temelli stratejiler belirlemek.
+
+d) Merkezde görev yapan stajyer öğrencilerin sayısını ve faaliyet alanlarını belirlemek.
+
+e) Merkezin kadro ihtiyaçlarının planlanmasını yapmak ve çalışan personelin danışmanlık alma gereksinimlerinin karşılanması konusunda destek sağlamak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Merkez birimleri
+
+(1) Merkez çalışmalarına katkıda bulunmak üzere Yönetim Kurulu kararıyla çeşitli birimler oluşturulabilir. Bu birimlerin kurulması ve çalışanların görev, yetki ve sorumlulukları Yönetim Kurulunca belirlenir.
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, Müdürün önerisi üzerine, 2547 sayılı Yükseköğretim Kanununun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İstanbul Gedik Üniversitesi Rektörü yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>19/12/2018</td><td>30630</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>24/5/2024</td><td>32555</td></tr>
+<tr><td>2.</td><td></td><td></td></tr>
+</table>

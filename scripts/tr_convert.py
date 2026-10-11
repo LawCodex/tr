@@ -121,7 +121,7 @@ DIV_RE = re.compile(r"^" + ORD + r"\s+(KİTAP|KITAP|KISIM|BAP|BÖLÜM|AYIRIM|KES
 MADDE_RE = re.compile(
     r"^((?:(?:Ek|EK|Geçici|GEÇİCİ|Mükerrer|MÜKERRER|Ek\s+Geçici|EK\s+GEÇİCİ|Geçici\s+Ek|GEÇİCİ\s+EK)\s+)?"
     r"(?:Madde|MADDE)\s+\d+(?:\s*/\s*[A-ZÇĞİÖŞÜa-z]+|\s*\(?[A-Z]\)?(?=\s*[-‐‑‒–—―−])|\s+[a-zçğıöşü](?=\s*[-‐‑‒–—―−]))?)"
-    r"\s*(?:[-‐‑‒–—―−]|\.(?=\s)|$)\s*")
+    r"\s*(?:[-‐‑‒–—―−]|:|\.(?=\s)|$)\s*")
 META_RE = re.compile(
     r"^(?:Kanun\s+Numarası|Kabul\s+Tarihi|Yayımlandığı|Yayımlandığı|Yetki\s+Kanun|Dayandığı|"
     r"Kanun\s+Hükmünde\s+Kararnamenin|Cumhurbaşkanlığı\s+Kararnamesinin|Bakanlar\s+Kurulu\s+Kararının|"
@@ -394,6 +394,9 @@ def classify_div(word):
 
 def convert_html(html, title):
     ctx = Ctx()
+    # some documents have tag names mangled by Turkish case mapping (e.g. "<dıv")
+    html = re.sub(r"<(/?)([A-Za-zıİ]*[ıİ][A-Za-zıİ]*)",
+                  lambda m: "<" + m[1] + m[2].replace("ı", "i").replace("İ", "I"), html)
     soup = BeautifulSoup(html, "lxml")
     body = soup.body or soup
     for t in body.find_all(["script", "style"]):
@@ -409,6 +412,24 @@ def convert_html(html, title):
             continue
         cls = " ".join(el.get("class") or []).lower()
         items.append(("p", md, plain, (b / tot if tot else 0, i / tot if tot else 0, cls)))
+
+    # fallback for documents whose text is not in block elements (e.g. <br>-separated)
+    covered = sum(len(it[2]) for it in items if it[0] == "p") + sum(
+        len(it[1].get_text()) for it in items if it[0] == "table")
+    full = norm_ws(body.get_text(" ")).strip()
+    if len(full) > 200 and covered < 0.5 * len(full):
+        for br in body.find_all("br"):
+            br.replace_with("\n")
+        for blk in body.find_all(["p", "div", "tr", "li", "h1", "h2", "h3", "h4", "h5", "h6"]):
+            blk.insert_before("\n")
+            blk.insert_after("\n")
+        for fn in body.find_all("div", id=re.compile(r"^ftn\d+$")):
+            fn.extract()
+        items = []
+        for line in body.get_text().split("\n"):
+            line = norm_ws(line).strip()
+            if line:
+                items.append(("p", md_escape(line), line, (0, 0, "")))
 
     # ---- header (title + metadata) removal
     title_fns = []

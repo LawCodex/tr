@@ -1,0 +1,183 @@
+---
+title: "FIRAT ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.41278"
+number: "41278"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2025-02-05
+official_gazette_date: 2025-02-05
+official_gazette_number: "32804"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41278&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# FIRAT ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Fırat Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına ve yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Fırat Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez: Fırat Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Fırat Üniversitesi Rektörünü,
+
+ç) Üniversite: Fırat Üniversitesini,
+
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; çeşitli kurs ve seminerler düzenlemek suretiyle isteyenlere başta Türkçe olmak üzere diğer dünya dillerinden ihtiyaç duyulanları öğretmek, Türkiye'yi, Türk kültürünü ve Türk dilini tanıtmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Yurt içinde ve yurt dışında Türkçe öğretmek.
+
+b) Üniversiteler ve ilgili kamu kurum ve kuruluşlarıyla Türkçe öğretimi konusunda çalışmalar yaparak ortak eğitim-öğretim, araştırma, uygulama ve yayın faaliyetlerinde bulunmak.
+
+c) Merkezin amacı doğrultusunda araştırma ve uygulamaları teşvik etmek, seminer, kurs ve toplantılar düzenlemek.
+
+ç) Türkiye'yi ve Türk kültürünü tanıtmak amacıyla yurt içi ve yurt dışı geziler düzenlemek.
+
+d) Türkçe öğretimi konusunda programlar hazırlayıp yöntemler geliştirmek, bu konu ile ilgili yurt içindeki ve yurt dışındaki çeşitli kurum ve kuruluşlarla ortak çalışmalar yapmak.
+
+e) Öğretim sürecinde kullanmak üzere Türkiye'yi ve Türk kültürünü tanıtan film, ses ve görüntülü kasetler hazırlamak; kitap, dergi, bülten, rapor, proje ve broşür yayımlamak.
+
+f) Yurt dışındaki üniversitelerin Türkoloji bölümü öğrencilerine ve Türkiye'deki üniversitelerin Türk dili ve edebiyatı ile dilbilim gibi bölümlerinin son sınıf öğrencilerine ve mezunlarına mesleki tecrübeye yönelik uygulama programları düzenlemek, staj yaptırmak, gerektiğinde bu çalışmalarla ilgili sertifikalar vermek.
+
+g) Yurt dışında yaşayan Türkleri ve akraba topluluklarını yurt içinde ve/veya yurt dışında temsil eden kurum ve kuruluşlarla iş birliği yaparak Türk dilinin ve Türk kültürünün zenginleşmesine katkıda bulunmak.
+
+ğ) Yurt dışında Türkçe öğretimi yapan veya bünyesinde ilgili bölümler bulunan üniversitelerle ve diğer akademik kuruluşlarla iş birliği yapmak.
+
+h) Türkiye'de yaşayan yabancıların çocuklarına ve Türkiye dışına çıkacak Türk vatandaşlarının yaşadıkları topluma uyum sağlayabilmeleri ve okullarında başarılı olabilmeleri amacıyla Türkçeyi ve ihtiyaç duyulan diğer dünya dillerini öğretmek.
+
+ı) Diğer ülkelerde yaşayan Türk vatandaşlarına ve soydaşların, gerekirse uzaktan eğitim yoluyla Türk dili ve kültürünü kazandırmak ve bu amaçla ihtiyaç duyulabilecek ders materyallerini sağlamak.
+
+i) Türkçe öğretiminin daha verimli hale getirilmesi için Türkçe ile diğer dillerin öğretimi arasında karşılaştırmalı çalışmalar yapmak.
+
+j) Üniversiteler arası iş birliği protokolleri kapsamında, yurt dışından gelen öğrenci ve akademisyenler ile Türkiye dışına çıkacak öğrenci ve akademisyenlere ilgili ülkelerin dilini öğretmek.
+
+k) Türkçenin eğitimi ve öğretimiyle ilgili bilimsel çalışmaları desteklemek amacıyla diğer dillerden çeviriler yapmak.
+
+l) İlgili mevzuat hükümleri çerçevesinde Türkçe ve diğer dünya dillerine yönelik dil sınavları düzenlemek, dil yeterlilik belgesi vermek.
+
+m) Türkçeye ve Türk kültürünün tanıtımına hizmet eden başarılı kişilere ödüller vermek.
+
+n) Dil kursları düzenlemek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Rektör tarafından Merkezin faaliyet alanında belirtilen konularla ilgili anabilim dallarında görevli Üniversitenin öğretim üyeleri arasından üç yıl süreyle görevlendirilir. Süresi biten Müdür yeniden aynı usulle en çok iki dönem için görevlendirilebilir.
+
+(2) Müdür çalışmalarında kendisine yardımcı olmak üzere Üniversitede görevli öğretim elemanları arasından en fazla iki öğretim elemanını müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür yardımcılarının görevi Müdürün görev süresiyle sınırlıdır.
+
+(3) Müdürün geçici olarak ayrılması halinde yerine yardımcılarından biri vekalet eder. Müdür yardımcılarının da bulunmadığı durumlarda Yönetim Kurulu üyelerinin en kıdemli olanından başlamak üzere bir Yönetim Kurulu üyesi Müdüre vekalet eder. Vekalet altı aydan fazla sürerse yeni Müdür aynı usulle görevlendirilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdür, Merkezin öğretim kapasitesinin verimli bir şekilde kullanılmasından, geliştirilmesinden, eğitim-öğretim, araştırma, uygulama, yayın faaliyetlerinin düzenli bir şekilde yürütülmesinden, bütün faaliyetlerin gözetim ve denetiminin yapılmasından ve sonuçlarının alınmasından Rektöre karşı sorumlu olup görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Merkezin kurullarına başkanlık etmek, bu kurullarda alınan kararları uygulamak ve birimler arasında düzenli çalışmayı sağlamak.
+
+c) Merkezin ödenek ve kadro ihtiyaçlarını gerekçesi ile birlikte Rektörlüğe bildirmek.
+
+ç) Merkezin birimleri ve her düzeyde personeli üzerinde genel gözetim ve denetim görevini yapmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür, müdür yardımcısı/yardımcıları ve Üniversite öğretim elemanları arasından üç kişi olmak üzere en fazla altı üyeden oluşur. Öğretim elemanları üç yıllığına Müdürün önerisi üzerine Rektör tarafından görevlendirilir. Süresi dolan üye aynı usulle yeniden görevlendirilebilir. Yönetim Kurulu üyeleri en çok iki dönem görev yapabilirler. Herhangi bir nedenle görevinden ayrılan üyenin yerine aynı yöntemle kalan süreyi tamamlamak üzere yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu, Müdürün davetiyle ayda bir olağan olarak toplanır. Müdür gerekli gördüğü durumlarda ya da üyelerden üçte ikisinin yazılı talebi üzerine Yönetim Kurulunu olağanüstü toplantıya çağırabilir. Yönetim Kurulu üye tam sayısının salt çoğunluğuyla toplanır ve oy çokluğuyla karar alır. Oyların eşitliği halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır. Üst üste üç toplantıya özürsüz katılmayan üyenin Yönetim Kurulu üyeliği kendiliğinden düşer.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin eğitim-öğretim, bilimsel araştırma ve yayın faaliyetleri ile ilgili kararlar almak, bu faaliyetlere ilişkin esasları belirlemek.
+
+b) Merkezle ilgili düzenleyici işlemleri hazırlamak.
+
+c) Merkezin yıllık eğitim-öğretim program ve takvimini inceleyerek karara bağlamak.
+
+ç) Merkezde görev yapan okutmanların yetiştirilmesi için planlar hazırlamak ve eğitim programları ile ilgili esasları düzenlemek.
+
+d) Merkezde birimler oluşturulması ile ilgili esasları belirlemek.
+
+e) Eğitim, araştırma ve yayın çalışmaları için geçici çalışma grupları, eğitim koordinatörlükleri oluşturmak.
+
+f) Merkezin öğretim programlarından alınacak ücretleri belirlemek.
+
+g) Yeni birimler oluşturmak ve mevcut birimlerden kapatılması gerekli görülenler konusunda önerilerde bulunmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Eğitim-öğretim planlamacısı
+
+(1) Müdür, Üniversitede görevli öğretim elemanları arasından, eğitim ve öğretim ile ilgili plan ve programları yapmak, eğitim ve öğretim işleriyle ilgilenmek üzere bir eğitim-öğretim planlamacısı belirleyebilir.
+
+### MADDE 13 — Birimler
+
+(1) Merkezin amacı ve faaliyet alanları konusunda çalışmalar yapmak üzere öğrenci sayısına göre birimler oluşturulabilir.
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilen personel ile karşılanır.
+
+### MADDE 15 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Müdürdür.
+
+### MADDE 16 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili mevzuat hükümleri uygulanır.
+
+### MADDE 17 — Yürürlükten kaldırılan yönetmelik
+
+(1) 1/10/2023 tarihli ve 28782 sayılı Resmî Gazete’de yayımlanan Fırat Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Fırat Üniversitesi Rektörü yürütür.

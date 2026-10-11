@@ -1,0 +1,180 @@
+---
+title: "İSTANBUL ÜNİVERSİTESİ VAN BÖLGESİ TARİH VE ARKEOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.40815"
+number: "40815"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2024-05-27
+official_gazette_date: 2024-05-27
+official_gazette_number: "32558"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40815&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTANBUL ÜNİVERSİTESİ VAN BÖLGESİ TARİH VE ARKEOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; İstanbul Üniversitesi Van Bölgesi Tarih ve Arkeoloji Uygulama ve Araştırma Merkezinin yönetim ve işleyişine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; İstanbul Üniversitesi Van Bölgesi Tarih ve Arkeoloji Uygulama ve Araştırma Merkezinin amaçlarına, faaliyetlerine, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (VANTAM): İstanbul Üniversitesi Van Bölgesi Tarih ve Arkeoloji Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: İstanbul Üniversitesi Rektörünü,
+
+d) Senato: İstanbul Üniversitesi Senatosunu,
+
+e) Üniversite: İstanbul Üniversitesini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; Van ili merkez olmak üzere kültürel ve doğal çevre olarak içinde bulunduğu Doğu Anadolu Bölgesi ile coğrafi olarak ilişkili bulunduğu Kafkasya ve İran’ın tarihi, kültürü ve arkeolojisi konularında çok disiplinli ve disiplinlerarası araştırmalar ile akademik çalışmalar yapmak; bölgeler arası ilişkileri sosyal, beşerî, temel ve doğa bilimleri altında kapsamlı olarak araştırmak; bölgede yürütülen benzer çalışmalara öncü olmak ve desteklemek; ilgili ulusal ve uluslararası birimlerle eşgüdüm sağlamak ve işbirliği içinde bulunmak; Doğu Anadolu, Kafkasya ve İran ile ilgili araştırma yapan akademisyenlere bilimsel faaliyetleri kapsamında mekân sağlamak; araştırma bölgelerindeki ulusal ve uluslararası akademik diyaloğun gelişmesine katkıda bulunmak; bölgeyi konu alan bilimsel araştırmaların, sosyal çalışmaların ve uygulama projelerinin daha geniş kitlelere ulaşmasını sağlamaktır.
+
+### MADDE 6 — Merkezin faaliyetleri
+
+(1) Merkez, amaçları doğrultusunda aşağıdaki faaliyetlerde bulunur:
+
+a) Toplumsal ve ekonomik tarih, arkeoloji, kültür ve kültürel miras ile ilgili ulusal ve uluslararası düzeyde araştırma, seminer, konferans, kongre, sempozyum, kolokyum, panel, sergi ve benzeri her türlü bilimsel, sanatsal ve kültürel etkinlikler düzenlemek, bu tür etkinliklere katılmak, desteklemek ve yayınlar yapmak.
+
+b) Her türlü yayın, görsel, işitsel ve yazılı belge ve arşiv malzemesini derlemek, bunları kullanıma açık hale getirmek.
+
+c) Toplumsal bilinci geliştirmek için gerekli projeler yapmak, kültürel miras çalışmalarını desteklemek ve bunları ilgili kurumlar ile paylaşmak ve danışmanlık hizmeti vermek.
+
+ç) Toplumsal ve kültürel etkinin arttırılması amacıyla eğitim ve seminerler düzenlemek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin Edebiyat Fakültesi öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Görevi sona eren Müdür yeniden görevlendirilebilir. Gerektiğinde Müdür görev süresi dolmadan da görevden alınabilir.
+
+(2) **(Değişik:RG-20/3/2025-32847)** Müdüre çalışmalarında yardımcı olmak üzere Yönetim Kurulu üyeleri arasından en çok iki kişi Müdürün önerisi üzerine Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Müdür tarafından verilen görevleri yapar ve Müdürün bulunmadığı zamanlarda ona vekâlet eder. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Merkezin faaliyetlerini yürütmek.
+
+c) Yönetim Kurulunu ve Danışma Kurulunu toplantıya çağırmak, gündemi hazırlamak, toplantıya başkanlık etmek.
+
+ç) Çalışma programı taslaklarını hazırlayarak Yönetim Kuruluna önermek ve karara bağlanan çalışma programını yürütmek.
+
+d) Merkezin yıllık faaliyet raporunu hazırlamak.
+
+e) İlgili mevzuatla verilen diğer görevleri yapmak.
+
+(2) Müdür; Merkezin çalışma kapasitesinin rasyonel bir şekilde kullanılmasından, çalışmaların düzenli bir şekilde yürütülmesinden, faaliyetlerin gözetim ve denetiminin yapılmasından Rektöre karşı sorumludur.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) **(Değişik:RG-20/3/2025-32847)** Yönetim Kurulu, Müdür ile Merkezin faaliyet alanlarında çalışmalar yapan Üniversite öğretim üyeleri arasından Müdür tarafından önerilen ve Rektör tarafından görevlendirilen altı üye olmak üzere toplam yedi kişiden oluşur. Müdürün görevi sona erdiğinde Yönetim Kurulu üyelerinin de görevi kendiliğinden sona erer.
+
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görevi sona eren üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya altı aydan fazla Üniversite dışında görevlendirilenlerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+
+(3) Yönetim Kurulu, Müdürün başkanlığında ve çağrısı üzerine en az altı ayda bir toplanır. Bunun haricinde de gerektiğinde Müdürün daveti üzerine toplanılabilir. Yönetim Kurulu, üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır. Oylar kabul veya ret şeklinde verilir. Oyların eşitliği durumunda Müdürün kullandığı oy yönünde çoğunluk sağlanmış kabul edilir.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyetlerini planlamak.
+
+b) Merkezin etkili ve verimli bir şekilde çalışması için gerekli kararları almak.
+
+c) Çalışma planı ile yıllık faaliyet raporunu onaylamak.
+
+ç) Yıllık çalışma planını karara bağlamak.
+
+d) Gerekli gördüğü durumlarda uzmanlık komisyonları kurarak çalışmaları yürütmek.
+
+e) Merkeze önerilen araştırma projelerini değerlendirmek.
+
+f) İlgili mevzuatla verilen diğer görevleri yapmak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Merkezin faaliyet alanları ile ilgili çalışmaları bulunan kişiler arasından Müdür tarafından önerilen ve Rektör tarafından seçilen en az beş, en fazla yirmi üyeden oluşur.
+
+(2) Danışma Kurulu, her yıl olağan olarak Kasım ayı içinde Müdürün daveti üzerine toplanır. Bunun haricinde de gerektiğinde Müdürün daveti üzerine toplanılabilir. Toplantılar, davete icabet etmiş üyelerle yapılır; toplantı ve karar nisabı aranmaz.
+
+(3) Danışma Kurulu, Merkezin çalışmalarıyla ilgili tavsiye ve önerilerde bulunur.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idarî personel ihtiyacı, 2547 sayılı Kanuna göre Rektör tarafından görevlendirilen personel tarafından karşılanır.
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Müdürdür.
+
+### MADDE 15 — Ekipman
+
+(1) Merkeze bağışlanan veya alınan her türlü alet ve ekipman Merkezin demirbaş listesine kaydedilir.
+
+### MADDE 16 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 17 — Yürürlükten kaldırılan yönetmelik
+
+(1) 25/5/1967 tarihli ve 12605 sayılı Resmî Gazete’de yayımlanan İstanbul Üniversitesi Edebiyat Fakültesi Van Bölgesi Tarih ve Arkeoloji Araştırmaları Merkezi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İstanbul Üniversitesi Rektörü yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>27/5/2024</td><td>32558</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>20/3/2025</td><td>32847</td></tr>
+</table>

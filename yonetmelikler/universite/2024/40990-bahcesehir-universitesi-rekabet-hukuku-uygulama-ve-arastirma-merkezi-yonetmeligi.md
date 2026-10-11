@@ -1,0 +1,187 @@
+---
+title: "BAHÇEŞEHİR ÜNİVERSİTESİ REKABET HUKUKU UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.40990"
+number: "40990"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2024-09-18
+official_gazette_date: 2024-09-18
+official_gazette_number: "32666"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40990&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BAHÇEŞEHİR ÜNİVERSİTESİ REKABET HUKUKU UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, Bahçeşehir Üniversitesi Rekabet Hukuku Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esaslarını düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Bahçeşehir Üniversitesi Rekabet Hukuku Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Dekan: Bahçeşehir Üniversitesi Hukuk Fakültesi Dekanını,
+
+c) Fakülte: Bahçeşehir Üniversitesi Hukuk Fakültesini,
+
+ç) Merkez: Bahçeşehir Üniversitesi Rekabet Hukuku Uygulama ve Araştırma Merkezini,
+
+d) Müdür: Merkezin Müdürünü,
+
+e) Rektör: Bahçeşehir Üniversitesi Rektörünü,
+
+f) Üniversite: Bahçeşehir Üniversitesini,
+
+g) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; bilimsel yöntemler ışığında rekabet hukuku ve politikası alanındaki ulusal ve uluslararası çalışmaların takip edilmesi ve bunlara katkı sağlanması, rekabet hukuku alanında teorik ve pratik çalışmalar yapılması, rekabet hukuku alanında araştırmalar yapılması, eğitimler düzenlenmesi, yayımlar yapılması, rekabet otoriteleriyle iş birliği kurulması ve ilgili diğer çalışma ve projelerin yürütülmesidir.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) İlgili mevzuat hükümleri kapsamında ulusal ve uluslararası seminer, konferans, toplantı, akademik ve toplumsal içerikli panel ve benzeri etkinlikleri ulusal ve uluslararası düzeyde gerçekleştirmek ve bunlara katılmak.
+
+b) İlgili mevzuat hükümleri kapsamında sertifika programları, kariyer günleri, çeşitli eğitimler ve benzeri etkinlikler ile öğrencilere çoklu beceriler kazandırmak.
+
+c) Rekabet hukuku ve politikası ile ilgili konularda Türkçe ve yabancı dillerde yayımlar yapmak ve bu tür çalışmalara katkıda bulunmak.
+
+ç) İzleme ve raporlama faaliyetleri yürütmek.
+
+d) Rekabet hukuku ile ilgili faaliyet gösteren ulusal ve uluslararası kurum ve kuruluşlarla ilişkiler kurmak ve geliştirmek, multidisipliner çalışmalar yapmak, teknik altyapıyı oluşturmak ve ortak faaliyetler yürütmek.
+
+e) Rekabet hukuku ile ilgili ulusal ve uluslararası yayınları bulunduran çok dilli bir kütüphane ve gerekli her tür tesisi kurmak ve arşiv oluşturmak, internet sayfası oluşturmak.
+
+f) Araştırma, inceleme, proje ve benzeri çalışmaları ve üretimi gerçekleştirmek üzere gerektiğinde geçici ya da sürekli komisyonlar kurmak, ulusal ve uluslararası alanda uzmanlardan yararlanmak ve iş birliği yapmak.
+
+g) Fakülte ve Üniversite bünyesinde verilecek olan rekabet hukuku konulu dersleri desteklemek ve ilgili alanlarda açılacak lisansüstü programlara öncü olmak, bu programları desteklemek.
+
+ğ) İlgili mevzuat hükümleri kapsamında; ulusal ve uluslararası organizasyonlar, sivil toplum kuruluşları ve ilgili kurum ve kuruluşları ile iş birliği yapmak ve Merkezin amacına uygun projeler, staj programları gibi ortak faaliyetler gerçekleştirmek.
+
+h) Rekabet hukuku ve rekabet politikası uygulamalarına ilişkin araştırmalar yapmak ve güncel uygulamaları Türk hukukuna aktarmak.
+
+ı) Rekabet hukuku ile ilgili ulusal ve uluslararası alanda projeler hazırlamak, sunmak, bu projelerde yer almak, yürütmek ve Üniversitedeki ilgili bilimlerle iş birliği yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Fakülte öğretim elemanları arasından Rektör tarafından üç yıllık süre için görevlendirilir. Görev süresi dolan Müdür aynı usulle yeniden görevlendirilebilir.
+
+(2) Müdürün altı aydan fazla süreyle görevi başında bulunamaması durumunda görevi sona erer ve yeni bir Müdür görevlendirilir. Müdür, aynı usulle görevden alınabilir. Müdür Rektöre karşı sorumludur. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden sorumludur.
+
+(3) Müdüre çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Fakülte öğretim elemanları arasından iki kişi Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için görevlendirilir. Müdür yardımcıları, Müdürün kendilerine vereceği görevleri yapar.
+
+(4) Müdür, görevi başında bulunmadığı zaman yardımcısını veya yardımcılarından birini vekil bırakır. Müdürün görevi sona erdiğinde müdür yardımcısının da görevi sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Merkez çalışmalarının düzenli olarak yürütülmesini ve geliştirilmesini sağlamak.
+
+c) Yönetim Kurulu kararları doğrultusunda alınan kararları uygulamak.
+
+ç) Yönetim Kurulunu toplantıya çağırmak, bu toplantıların gündemini hazırlamak ve toplantılara başkanlık etmek.
+
+d) Danışma Kurulunu olağan ve olağanüstü toplantıya çağırmak, bu toplantıların gündemini hazırlamak ve toplantılara başkanlık etmek.
+
+e) Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait yıllık çalışma programını hazırlamak ve Yönetim Kurulunca onaylanmış şekli ile Dekanlığa sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Müdürün başkanlığında, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin öğretim elemanları arasından Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için görevlendirilen dört kişi olmak üzere en fazla beş üyeden oluşur. Süresi biten üyeler yeniden görevlendirilebilir.
+
+(2) Yönetim Kurulu Müdürün başkanlığında, Müdürün hazır bulunmadığı hallerde Müdüre vekâlet eden kişinin başkanlığında, üye tamsayısının salt çoğunluğu ile yılda en az iki kere toplanır. Toplantı gündemi üyelerden gelen talepler dikkate alınarak Müdür tarafından belirlenir. Kararlar, toplantıya katılan üyelerin salt çoğunluğu ile alınır. Oyların eşitliği halinde Müdürün oyu yönünde karar alınmış sayılır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin amacının gerçekleştirilmesi için gerekli kararları almak ve bu kararları uygulamak.
+
+b) Merkezin faaliyetleri doğrultusunda gerekirse özel komisyon ve çalışma grupları oluşturmak ve bunların çalışma esaslarını belirlemek.
+
+c) Merkezin faaliyet alanına giren her türlü ulusal ve uluslararası bilimsel ve eğitsel toplantı ve diğer faaliyetleri belirlemek, bunların organizasyonunu yapmak.
+
+ç) Araştırma ve proje konularını tespit etmek.
+
+d) Merkezin yıllık faaliyet raporunu inceleyip onaylamak.
+
+e) Yıllık bütçeyi hazırlamak ve onaylamak.
+
+f) Müdürün önereceği konular hakkında karar almak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu Müdür başkanlığında, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanlarından veya istekleri halinde Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite dışından Müdürün önerisi üzerine, Rektör tarafından görevlendirilecek en fazla on üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten Danışma Kurulu üyeleri yeniden görevlendirilebilir. Süresi bitmeden ayrılanların, sağlık veya geçerli diğer sebeplerle görevini yerine getiremeyenlerin veya altı aydan fazla Üniversite dışından görevlendirilenlerin yerine aynı usulle yeni üyeler görevlendirilebilir.
+
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez toplanır. Toplantı yapmak ve karar almak için çoğunluk koşulu aranmaz.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyetleri ile ilgili değerlendirmeler yapmak, önerilerde bulunmak ve yıllık faaliyet raporu ile ilgili görüş bildirmek.
+
+b) Faaliyetler konusunda Yönetim Kuruluna danışmanlık yapmak.
+
+c) İlgili kuruluşlar arasında iş birliği sağlamak ve Merkez faaliyetleri hakkında önerilerde bulunmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 15 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Mütevelli Heyet Başkanıdır. Mütevelli Heyet Başkanı bu yetkisini uygun gördüğü takdirde Rektör veya Müdüre devredebilir.
+
+### MADDE 16 — Ekipman ve demirbaşlar
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaş Merkezin demirbaşına kaydedilerek kullanımına tahsis edilir.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Bahçeşehir Üniversitesi Rektörü yürütür.

@@ -1,0 +1,139 @@
+---
+title: "PAMUKKALE ÜNİVERSİTESİ ALTAY TOPLULUKLARI DİL VE KÜLTÜRLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.34521"
+number: "34521"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2020-05-15
+official_gazette_date: 2020-05-15
+official_gazette_number: "31128"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34521&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# PAMUKKALE ÜNİVERSİTESİ ALTAY TOPLULUKLARI DİL VE KÜLTÜRLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Pamukkale Üniversitesi Altay Toplulukları Dil ve Kültürleri Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetimine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Pamukkale Üniversitesi Altay Toplulukları Dil ve Kültürleri Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez (ALATAM): Pamukkale Üniversitesi Altay Toplulukları Dil ve Kültürleri Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Pamukkale Üniversitesi Rektörünü,
+
+ç) Üniversite: Pamukkale Üniversitesini,
+
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; Türkiye ile Altay toplulukları/devletleri ve Türk Devletleri, toplulukları ve diğer ülkelerde yaşayan Türklere ait dil, tarih, kültür, edebiyat, siyaset, sosyoloji, arkeoloji, iktisat, ekonomi ve bütün sosyal alanlarda araştırma, inceleme ve uygulamalar yapmak, yapılan araştırmaları desteklemek, ayrıca karşılıklı ilişkileri güçlendirmek amacıyla stratejiler geliştirmektir.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin amacı doğrultusunda yürütülecek faaliyetler şunlardır:
+
+a) Oldukça geniş bir coğrafyaya yayılan Altay toplulukları, Türk Devletleri, toplulukları ve diğer ülkelerde yaşayan Türkler arasındaki kültürel ortaklıkları keşfetmek ve Altayistik alanında gerçekleştirilen çalışmaları işbirliği ile sürdürmek, ilişkileri geliştirmek amacıyla ulusal ve uluslararası düzeyde sosyal, ekonomik ve kültürel içerikli akademik toplantılar düzenlemek ve bu tür faaliyetlere katılmak.
+
+b) Türkiye, Altay toplulukları, Türk Devletleri, toplulukları ve Türklerin yaşadığı diğer ülkelerdeki üniversitelerle ilişkileri geliştirmek amacıyla, öğrenci ve öğretim elemanı değişimine yönelik çalışmalar yapmak, bilgi paylaşımında bulunmak ve ortak sosyal, kültürel, bilimsel ve sportif etkinlikler düzenlemek ve bu tür etkinliklere katılmak.
+
+c) Yurt içinde ve yurt dışındaki benzer amaçlı kuruluşlarla işbirliği içerisinde olmak, ortak araştırma, inceleme ve uygulamalar yapmak veya yaptırmak, bu tür çalışmalara katılmak, bunları desteklemek ve karşılıklı bilgi akışını ve paylaşımını sağlamak amacıyla ortak toplantılar düzenlemek.
+
+ç) Altay topluluklarını ve Türk dünyasını ilgilendiren her konuda kısa ve uzun vadeli çeşitli stratejik planlar hazırlamak, projeler üretmek ve bunlara işlerlik kazandırmak amacıyla ilgili kurum ve kuruluşlarla işbirliğine gitmek.
+
+d) Altay topluluklarının dilleri, Türk lehçeleri, tarihi, edebiyatı ve kültürünü daha iyi özümsetmek ve tanıtmak amacıyla ulusal ve uluslararası düzeyde araştırma, derleme, yayın, konferans, panel ve sempozyum faaliyetleri gerçekleştirmek.
+
+e) Altay toplulukları, bunun içinde Türk dünyasının bir bölümü veya tamamı ile ilgili dünya üzerinde yapılmış çalışmaları mümkün olduğunca toplamak, incelemek ve gerektiğinde bu tür çalışmalara katılarak destek vermek.
+
+f) Türkçe’nin temel eserlerini diğer Türk lehçelerinden Türkiye Türkçesi’ne aktararak, bunları Türkiye Türkçesi ile yayımlamak, Altay topluluklarının Türkçe dışındaki dillerine aktararak tanıtımını sağlamak.
+
+g) Türkiye Türkçesi ile kaleme alınmış temel eserleri Altay topluluklarının dillerine ve günümüz Türk lehçelerine aktararak yayımlamak.
+
+ğ) Üniversite bünyesinde Altay toplulukları ve bu topluluğun içinde yer alan Türk dünyasındaki bütün toplulukların kültürel ve etnografik ürünlerinin toplandığı, belgelendiği ve korunduğu, sergilendiği ve eğitim amacıyla kullanıldığı müze kurmak, arşiv ve dokümantasyon merkezi oluşturmak.
+
+h) Altay toplulukları ile ilgili doküman, belge, CD, sinema filmi, belgesel ve benzerleri ile arşiv ve kütüphane oluşturulması, ayrıca dergi çıkarılması çalışmalarını yürütmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür, Altay dilleri ve bunun bir parçası olan Türk lehçeleri ve edebiyatları üzerinde yayınları ve uzmanlığı olan Üniversite öğretim elemanları arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdüre yardımcı olmak üzere Üniversite öğretim elemanları arasından Altay dilleri ve Türk dünyası alanında uzmanlığı olan en fazla iki kişi Müdürün önerisiyle, Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdürün görevi sona erdiğinde müdür yardımcılarının görevi de sona erer. Müdürün görevi başında bulunmadığı zamanlarda müdür yardımcılarından biri kendisine vekâlet eder. Görevi başında bulunmama süresi altı ayı aştığı takdirde yeni bir Müdür görevlendirilir. Müdür; faaliyetlerin düzenli bir şekilde yürütülmesinden, gözetim ve denetiminden Rektöre karşı birinci derecede sorumludur.
+
+(2) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil ve Yönetim Kuruluna başkanlık etmek.
+
+b) Merkez çalışmalarının düzenli ve etkin bir şekilde yürütülmesini sağlamak.
+
+c) Merkezin amacı doğrultusunda plan ve projeler yapılmasını sağlamak.
+
+ç) Yurt içi ve yurt dışındaki benzer uygulama ve araştırma merkezleri ile işbirliği yapmak.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Müdür, müdür yardımcılarından biri ve Rektör tarafından Üniversite öğretim elemanları arasından görevlendirilecek üç üye Yönetim Kurulunu oluşturur. Yönetim Kurulu üyelerinin görev süresi üç yıl olup, süresi biten üyeler yeniden görevlendirilebilir. Görev süresi dolmadan ayrılan üye yerine, kalan süreyi tamamlamak üzere yeni üyeler Rektör tarafından görevlendirilir. Yönetim Kurulu, Müdürün daveti üzerine en az üç ayda bir salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Yönetim Kurulu, Merkezin karar organıdır.
+
+(2) Yönetim Kurulunun görevleri şunlardır:
+
+a) Müdür tarafından sunulan işleri görüşmek ve karara bağlamak.
+
+b) Merkezin yönetimi ile ilgili kararlar almak, Merkezin çalışma programını hazırlamak, yürütmek ve faaliyet raporlarını görüşmek.
+
+c) Gerektiğinde çalışma grupları ve komisyonları oluşturmak.
+
+ç) Müdürün önereceği diğer konuları karara bağlamak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 10 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 11 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+
+### MADDE 12 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde; ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 13 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 14 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Pamukkale Üniversitesi Rektörü yürütür.

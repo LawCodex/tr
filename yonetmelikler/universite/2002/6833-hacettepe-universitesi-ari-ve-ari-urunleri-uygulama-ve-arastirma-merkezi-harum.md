@@ -1,0 +1,101 @@
+---
+title: "HACETTEPE ÜNİVERSİTESİ ARI VE ARI ÜRÜNLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ (HARÜM) YÖNETMELİĞİ"
+identifier: "8.5.6833"
+number: "6833"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2002-12-01
+official_gazette_date: 2002-12-01
+official_gazette_number: "24953"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6833&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# HACETTEPE ÜNİVERSİTESİ ARI VE ARI ÜRÜNLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ (HARÜM) YÖNETMELİĞİ
+
+## Madde 1 — Kuruluş
+
+2547 sayılı Yükseköğretim Kanununun 3/j ve 7/d-2 nci maddeleri uyarınca ve Hacettepe Üniversitesi Senatosunun 28/3/2001 tarih ve 2001/18 sayılı kararı ile önerilen "Hacettepe Üniversitesi Arı ve Arı Ürünleri Uygulama ve Araştırma Merkezi (HARÜM)" kurulması Yükseköğretim Kurulu Başkanlığının 17/10/2002 tarih ve 2151/23820 sayılı yazıları ile uygun görülmüştür.
+
+## Madde 2 — Amaç
+
+Hacettepe Üniversitesine bağlı bir birim olan Merkezin amacı; Üniversitenin ilgili bölüm ve anabilim dallarının işbirliği ile, Ülkemizde arıcılığın ve arı ürünlerinin geliştirilmesi ve tanıtımına yönelik bilimsel araştırma ve uygulama çalışmaları yapmak ve bu alanda eğitim hizmeti vermektir.
+
+## Madde 3 — Kapsam
+
+Bu Yönetmelik, Hacettepe Üniversitesi Arı ve Arı Ürünleri Uygulama ve Araştırma Merkezinin amaçlarını, organlarını, yönetim yapısını, kadrolarını ve Merkezin faaliyetleriyle ilgili çalışma esaslarını kapsar.
+
+## Madde 4 — Faaliyet Alanları
+
+Merkezin, kuruluş amacını gerçekleştirmek için başlıca faaliyet alanları aşağıda gösterilmiştir.
+
+a) Arıcılık ve arı ürünlerinin geliştirilmesi, arı hastalıkları, ana arı ve bombus arı yetiştiriciliği ve bu gibi konularda bilimsel araştırma, inceleme ve yayın yapmak ve bu alanda yapılacak çalışmalara destek vermek,
+
+b) Ülkemizin doğal bal arısı ırklarının ve önemli nektar kaynağı bitkilerinin ve diğer önemli arı ürünlerinin olanaklar ölçüsünde yurt içi ve yurt dışında tanıtımını yapmak ve değerlerini korumak, bu amaçla alınması gerekli önlemleri belirlemek,
+
+c) Arı ve arı ürünlerinin bilimsel boyutta çalışılması ile üretici ve tüketici düzeyinde yeni ürünlerin geliştirilmesine olanak sağlayacak araştırmaların geliştirilmesine olanak sağlayacak projeler üretmek ve bu projelerin çeşitli kurumlar tarafından desteklenmesini sağlamak,
+
+d) Arı ve arı ürünlerini tanıtmak amacı ile uygulama grupları kurmak ve alanla ilgili çeşitli konuların eğitimine yönelik programlar düzenlemek,
+
+e) Yurt içinde ve yurt dışında eğitici ve tanıtıcı seminer, kongre, konferans, sempozyum gibi çeşitli bilimsel toplantılar düzenlemek, yapılan toplantılara katılmak, benzer amaçlı resmi, özel kurum ve kuruluşlarla işbirliğinde bulunmak,
+
+f) Arıcılıkla ilgili her türlü yayın ve kaynak bilgilerin dokümantasyon ve arşiv sistemlerini kurmak ve ulusal arıcılık müzesinin oluşmasını sağlamak,
+
+g) Arı ve arı ürünleri ile ilgili laboratuvar ve atölyeler kurmak, Üniversitemiz ve diğer üniversitelerle bu konuda işbirliği yapmak,
+
+h) Yükseköğretim bünyesinde açılan arıcılık eğitim programında görev alan yada Türki Cumhuriyetlerde çalışan öğretim elemanlarının Üniversitemizde yapılacak olan seminer ve eğitim programlarına katılmalarını ve ilgili konularda eğitilmelerini sağlamak. Ayrıca arıcılığın çeşitli konularında akademik yada üretici düzeyinde yaz okulları açarak ilgili kişi ve kurumlara eğitim vermek,
+
+i) Merkez Yönetim Kurulunun kararlaştıracağı diğer etkinliklerde bulunmakdır.
+
+## Madde 5 — Organlar
+
+Merkezin organları;
+
+a) Merkez Müdürü,
+
+b) Merkez Yönetim Kuruludur.
+
+## Madde 6 — Merkez Müdürü
+
+a) Atanması: Merkez Müdürü, Merkezin çalışma alanı ile ilgili öğretim üyeleri arasından Rektör tarafından 3 yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+
+Merkez Müdürünün kendisine çalışmalarında yardımcı olmak üzere, Merkezi oluşturan birimlerde görevli öğretim elemanları arasından 3 yıl için görevlendireceği en fazla iki yardımcısı bulunur. Müdür gerektiğinde yardımcılarını değiştirebilir.
+
+b) Görev, Yetki ve Sorumlulukları: Merkez Müdürü, Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin bütün etkinliklerinin gözetim ve denetiminin yapılmasından ve sonuçlarının alınmasından Rektör’e karşı birinci derecede sorumludur. Merkezi temsil eden Müdür, Merkez Yönetim Kuruluna başkanlık eder. Merkez çalışmalarının düzenli ve etkin bir biçimde yürütülmesi ve denetimi ile ilgili gerekli önlemleri alır. Merkez çalışmalarının gerektirdiği görevlendirmeleri yapar. Her öğretim yılı sonunda ve istendiğinde, Merkezin genel durumu ve işleyişi hakkındaki raporunu Merkez Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunar.
+
+Müdür görevinden ayrılacağı hallerde yardımcılarından birini vekil bırakır. Merkez Müdürünün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+## Madde 7 — Merkez Yönetim Kurulu
+
+a) Kuruluş ve İşleyişi: Yönetim Kurulu, Müdürün başkanlığında Merkez Müdürünün belirleyeceği bir yardımcısı ile Merkezin çalışma alanı ile ilgili öğretim üyeleri arasından Merkez Müdürü tarafından önerilen ve Rektör tarafından üç yıl için görevlendirilen üç öğretim elemanından oluşur.
+
+Merkez Yönetim Kurulu akademik bir organ olup, Merkezin eğitim, öğretim, bilimsel araştırma ve yayın faaliyetleri ile bu faaliyetlerle ilgili esasları kararlaştırır. Yönetim Kurulu yılda en az 4 kez ve gerektiğinde Merkez Müdürünün çağrısı üzerine toplanır. Merkez Yönetim Kurulunun kararları oy çokluğu ile alınır.
+
+b) Görevleri: Merkez Yönetim Kurulu Merkezin yönetimi ile ilgili konularda aşağıdaki görevleri yapar;
+
+1- Merkezin çalışmalarıyla ilgili plan ve programların hazırlanmasını ve uygulanmasını sağlar.
+
+2- Merkez elemanlarının uygulama, araştırma ve yayım konularındaki isteklerini değerlendirip önerilerde bulunur.
+
+3- Gerekli hallerde Merkezin faaliyetleriyle ilgili geçici çalışma grupları kurar ve bunların görevlerini düzenler.
+
+4- Merkez Müdürünün, Merkezin yönetimi ile ilgili getireceği bütün işleri değerlendirerek karar alır.
+
+5- 2547 sayılı Kanun ile verilen diğer görevleri yapar.
+
+## Madde 8 — Kadrolar
+
+Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek elemanlar ile karşılanır.
+
+## Madde 9 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+## Madde 10 — Yürütme
+
+Bu Yönetmelik hükümlerini Hacettepe Üniversitesi Rektörü yürütür.

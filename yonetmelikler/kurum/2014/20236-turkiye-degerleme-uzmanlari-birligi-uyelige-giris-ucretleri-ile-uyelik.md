@@ -1,0 +1,111 @@
+---
+title: "TÜRKİYE DEĞERLEME UZMANLARI BİRLİĞİ ÜYELİĞE GİRİŞ ÜCRETLERİ İLE ÜYELİK AİDATLARININ TAHSİL ŞEKLİ VE ESASLARI HAKKINDA YÖNETMELİK"
+identifier: "7.5.20236"
+number: "20236"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2014-11-26
+official_gazette_date: 2014-11-26
+official_gazette_number: "29187"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20236&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TÜRKİYE DEĞERLEME UZMANLARI BİRLİĞİ ÜYELİĞE GİRİŞ ÜCRETLERİ İLE ÜYELİK AİDATLARININ TAHSİL ŞEKLİ VE ESASLARI HAKKINDA YÖNETMELİK
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Türkiye Değerleme Uzmanları Birliğinin bireysel ve kurumsal üyeleri olan değerleme uzmanları ve değerleme kuruluşlarının üyeliğe giriş ücretleri ile üyelik aidatlarının tahsiline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Türkiye Değerleme Uzmanları Birliğinin bireysel ve kurumsal tüm üyelerine uygulanır.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununun 76 ncı maddesi ile 2/4/2014 tarihli ve 28960 sayılı Resmî Gazete’de yayımlanan Türkiye Değerleme Uzmanları Birliği Statüsünün 30 uncu maddesinin dördüncü fıkrasına dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Bireysel üye: Türkiye Değerleme Uzmanları Birliğinin gayrimenkul ve konut değerleme uzmanı üyelerini,
+
+b) Birlik: Türkiye Değerleme Uzmanları Birliğini,
+
+c) Kanun: Sermaye Piyasası Kanununu,
+
+ç) Kurul: Sermaye Piyasası Kurulunu,
+
+d) Kurumsal üye: Türkiye Değerleme Uzmanları Birliğinin değerleme kuruluşu üyelerini,
+
+e) Statü: Türkiye Değerleme Uzmanları Birliği Statüsünü,
+
+f) Üyelik aidatı: Birlik üyelerinin her yıl verecekleri parayı,
+
+g) Üyeliğe giriş ücreti: Birliğe üye olmak zorunda olan kişi ve kuruluşların üyelik başvurusundan önce bir defaya mahsus ödemesi gereken ücreti,
+
+ğ) Yönetim kurulu: Türkiye Değerleme Uzmanları Birliği Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Üyeliğe Giriş, Üyeliğe Giriş Ücreti ve Üyelik Aidatlarının Belirlenmesi, Üyeliğe Giriş
+
+**Ücreti ve Aidatların Tahsil Şekli ve Esasları**
+
+### MADDE 5 — Üyeliğe giriş
+
+(1) Değerleme uzmanları, gayrimenkul değerleme lisansını almaya hak kazandıkları tarihten itibaren üç ay içinde Birliğe üyelik için gerekli başvuruyu yapmakla yükümlüdürler.
+
+(2) Değerleme kuruluşları Kurul tarafından yetkilendirildikleri tarihten itibaren üç ay içinde üyelik için Birliğe gerekli başvuruyu yapmakla yükümlüdürler.
+
+(3) Konut değerleme lisansına sahip olan kişiler, talep etmeleri halinde, Birliğe üye olabilirler.
+
+(4) Kamu kurum ve kuruluşları ile 4/11/2004 tarihli ve 5253 sayılı Dernekler Kanununun 27 nci maddesi çerçevesinde Bakanlar Kurulu kararıyla kamu yararına çalışan dernekler kapsamına alınan derneklerde çalışan değerleme uzmanlarının Birliğe üye olmaları ihtiyaridir. Ancak bu görevleri sona eren değerleme uzmanlarının Birliğe üye olmak için üç ay içinde Birliğe başvurmaları zorunludur.
+
+(5) Üyelik başvurusundan önce üyeliğe giriş ücretinin Birlik adına açılan hesaba yatırılması ve ödemeye ilişkin makbuzun başvuru belgeleri ile birlikte ibrazı zorunludur. Üyeliğe giriş ücretini yatırmayan değerleme uzmanları ile değerleme kuruluşlarının üyelik başvuruları kabul edilmez.
+
+(6) 14/8/2014 tarihli ve 29088 sayılı Resmî Gazete’de yayımlanan Sermaye Piyasasında Faaliyette Bulunanlar İçin Lisanslama ve Sicil Tutmaya İlişkin Esaslar Hakkında Tebliğin (VII-128.7) 10 uncu maddesinin ikinci fıkrası uyarınca gayrimenkul değerleme lisansı alanlar gayrimenkul değerleme faaliyetinde bulunmadıkları veya gayrimenkul değerleme faaliyetinde bulunan bir şirkette ortak, yönetici veya çalışan olmadıkları süre boyunca giriş ücreti ve yılık aidat ödemekle yükümlü değildirler.
+
+### MADDE 6 — Üyeliğe giriş ücreti ve üyelik aidatlarının belirlenmesi
+
+(1) Birliğin bireysel ve kurumsal üyeleri olan değerleme uzmanları ve değerleme kuruluşları için ayrı ayrı olmak üzere üyeliğe giriş ücreti ve yıllık aidat tutarları, Birlik yönetim kurulunca Kurulun uygun görüşü alınarak Birlik genel kuruluna sunulur.
+
+(2) Genel kurulca kabul edilen yıllık aidatların her yılın ocak ayı içinde tek seferde ödenmesi zorunludur. Birlik aidatlarını belirlenen süreler içinde yatırmayan üyelerin üyelikleri aidat ödemeleri tamamlanıncaya kadar askıya alınır.
+
+(3) Üyeliğe giriş ücretinin alındığı yıl ayrıca yıllık aidat alınmaz. Gayrimenkul değerleme lisansını almaya hak kazandığı veya Kurul tarafından yetkilendirildikleri tarih, yılın son üç ayına isabet eden ve giriş ücretini ödeyen, ancak diğer üyelik işlemlerini tamamlayamayan değerleme uzmanları ile değerleme kuruluşlarının, Birliğe üyeliklerinin takip eden yılda yapılması halinde, üye olunan yıl ayrıca yıllık aidat alınmaz.
+
+(4) Birlik üyeliğinin sona ermesi veya her ne sebeple olursa olsun üyelikten ayrılma halinde üyeliğe giriş ücretleri ve peşin tahsil edilen yıllık aidatlar iade edilmez.
+
+(5) Her ne sebeple olursa olsun üyelikten ayrılan Birlik üyeleri geçmiş döneme ilişkin aidat borçlarının tamamını işbu Yönetmelik uyarınca tüm faizleri ile birlikte ödememeleri durumunda yeni üyelik başvuruları kabul edilmez.
+
+### MADDE 7 — Üyelik giriş ücreti ve aidatların tahsil şekli ve esasları
+
+(1) Üyeliğe giriş ücretleri ve yıllık aidatlar Birlik yönetim kurulu tarafından karar verilen bankalarda açılan özel hesaplara yatırılır.
+
+(2) Birlik hesabına havale şeklinde yatırılabileceği gibi, elektronik altyapının uygun olması durumunda internet üzerinden kredi kartı yoluyla da yapılabilir.
+
+(3) Kurul tarafından lisansı veya yetkisi süreli iptal edilen üyeler, iptal kararı kaldırılana kadar yıllık aidat ödemezler. Faaliyete başlamaları halinde ise, süreli iptal kararı nedeniyle faaliyette bulunmadıkları dönem dâhil olmak üzere geçmiş döneme ilişkin tüm aidat borçlarını faaliyete başladıkları tarihten itibaren bir ay içinde yasal faizi ile birlikte ödemekle yükümlüdürler. Lisansın veya yetkinin süresiz iptal edilmesi durumunda ise, üyenin faaliyette bulunmadığı döneme ait aidat borçları silinir.
+
+(4) Her ne sebeple olursa olsun Birlik üyeliği sona erdikten sonra yeniden yapılacak üyelik başvurusundan önce üyeliğe giriş ücretinin Birlik adına açılan hesaba yatırılması ve ödemeye ilişkin makbuzun başvuru belgeleri ile birlikte ibrazı zorunludur. Statünün 8 inci maddesinin altıncı fıkrası hükümleri saklıdır.
+
+(5) Birlik üyeliğinin her ne sebeple olursa olsun askıya alınması durumunda askıya alınma tarihine kadar oluşmuş aidat ve diğer mali yükümlülüklerin ödenmesi zorunludur. Üyeliği askıya alınan Birlik üyesinin, tekrar gayrimenkul değerleme faaliyetinde bulunmak istemesi veya askı süresinin sona ermesi durumlarında faaliyete başlayacağı yıl için belirlenen Birlik aidatını ödemesi gerekmektedir. Aynı yıla ilişkin mükerrer tahsil yapılmaz.
+
+(6) Zamanında yapılmayan ödemeler için yasal faiz uygulanır.
+
+(7) Birliğe yapılacak ödemeler, belirlenen süre içinde yapılmadığı takdirde, Birlik tarafından icra yoluyla tahsil olunur. Birlik ödentilerinin ödenmesine dair kararlar Kanunun 76 ncı maddesinin dokuzuncu fıkrası ve 75 inci maddesinin beşinci fıkrası uyarınca 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 68 inci maddesinde yazılı resmi belge niteliğindedir.
+
+### MADDE 8 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 9 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Türkiye Değerleme Uzmanları Birliği Yönetim Kurulu yürütür.

@@ -1,0 +1,394 @@
+---
+title: "KONYA OVASI PROJESİ BÖLGE KALKINMA İDARESİ BAŞKANLIĞI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ"
+identifier: "7.5.21338"
+number: "21338"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2015-12-31
+official_gazette_date: 2015-12-31
+official_gazette_number: "29579"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=21338&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KONYA OVASI PROJESİ BÖLGE KALKINMA İDARESİ BAŞKANLIĞI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, liyâkat ve kariyer ilkeleri çerçevesinde hizmet gerekleri ve personel planlaması esas alınarak, Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı personelinin görevde yükselme ve unvan değişikliklerine ilişkin usul ve esasları belirlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığında 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapan personelden 5 inci maddede belirtilen kadrolara görevde yükselme veya unvan değişikliği suretiyle atanacakları kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 657 sayılı Devlet Memurları Kanunu ile 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Alt görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+
+c) Başkan: Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanını,
+
+ç) Başkan Yardımcısı: Konya Ovası Projesi Bölge Kalkınma İdaresi Başkan Yardımcısını,
+
+d) Başkanlık: Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığını,
+
+e) Görev grupları: Benzer ve/veya aynı düzeydeki unvanlardan oluşan grupları,
+
+f) Görevde yükselme: Bu Yönetmeliğin 5 inci maddesinde sayılan görevlere aynı veya başka hizmet gruplarından yapılacak görevde yükselme niteliğindeki atamaları,
+
+g) **(Değişik:RG-11/7/2017- 30121)** Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselme suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+
+ğ) Hizmet süresi: 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendi hükümlerine göre hesaplanan süreleri,
+
+h) İş günü: Ulusal ve dini bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+
+ı) Personel: Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı kadrolarında 657 sayılı Devlet Memurları Kanununa tabi çalışan devlet memurlarını,
+
+i) Unvan değişikliği: En az ortaöğretim düzeyinde meslekî veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+
+j) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde meslekî veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için yapılan **(Mülga:RG-11/7/2017- 30121) (…)** sınavı,
+
+k) Üst görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Görevde Yükselme ve Unvan Değişikliğine İlişkin Esaslar
+
+### MADDE 5 — Görevde yükselme ve unvan değişikliğine tabi kadrolar
+
+(1) Bu Yönetmelik kapsamında görevde yükselme ve unvan değişikliğine tabi kadrolar ikinci ve üçüncü fıkrada belirtilmiştir.
+
+(2) Görevde yükselmeye tabi kadrolar:
+
+a) Yönetim hizmetleri grubu;
+
+1) Şube Müdürü, Müdür,
+
+b) Hukuk hizmetleri grubu;
+
+1) Hukuk Müşaviri,
+
+c) Araştırma ve planlama hizmetleri grubu;
+
+1) Uzman, Eğitim Uzmanı,
+
+ç) İdari hizmetler grubu;
+
+1) Muhasebeci,
+
+2) Bilgisayar İşletmeni, Memur, Sekreter, Veri Hazırlama ve Kontrol İşletmeni,
+
+d) Destek hizmetleri grubu;
+
+1) Hizmetli.
+
+(3) Unvan değişikliğine tabi kadrolar:
+
+a) Veteriner Hekim, Sosyolog, Mühendis, Mimar, Şehir Plancısı, Bölge Plancısı, İstatistikçi, Arkeolog, Avukat, Ekonomist, Sosyal Çalışmacı, Psikolog, Matematikçi, Fizikçi, Kimyager, Jeolog, Biyolog, Programcı, Grafiker, Diyetisyen, Çocuk Gelişimcisi, Tekniker, Teknisyen.
+
+### MADDE 6 — Görevde yükselme sınavı sonucu atanacaklarda aranacak genel şartlar
+
+(1) Bu Yönetmelik kapsamında görevde yükselmeye tabi kadrolara atanabilmek için;
+
+a) 657 sayılı Devlet Memurları Kanununun 68 inci maddesinde belirtilen şartları taşımak,
+
+b) Görevde yükselme sınavında başarılı olmak,
+
+c) İlan edilen kadro için bu şartı sağlayan personel bulunmaması durumu hariç olmak üzere, Başkanlıkta en az altı ay çalışmış olmak,
+
+gerekir.
+
+### MADDE 7 — Görevde yükselme sınavı sonucu atanacaklarda aranacak özel şartlar
+
+(1) Bu Yönetmelikte belirtilen görevde yükselme sınavına tabi kadrolara atama yapılabilmesi için aşağıdaki özel şartlar aranır:
+
+a) Şube Müdürü ve Müdür kadrosuna atanabilmek için;
+
+1) En az fakülte veya dört yıllık yüksekokul mezunu olmak,
+
+2) En az sekiz yıllık hizmeti bulunmak,
+
+3) Son başvuru tarihi itibarıyla; Veteriner Hekim, Sosyolog, Mühendis, Mimar, Şehir Plancısı, Bölge Plancısı, İstatistikçi, Arkeolog, Avukat, Ekonomist, Sosyal Çalışmacı, Psikolog, Matematikçi, Fizikçi, Kimyager, Jeolog, Biyolog, Programcı, Grafiker, Diyetisyen, Çocuk Gelişimcisi, Tekniker, Teknisyen, Uzman, Eğitim Uzmanı, Şef, Memur, Sekreter, Veri Hazırlama ve Kontrol İşletmeni, Muhasebeci, Bilgisayar İşletmeni unvanlı kadrolardan herhangi birinde, ayrı ayrı veya toplamda en az beş yıl görev yapmış olmak,
+
+b) Hukuk Müşaviri kadrosuna atanabilmek için;
+
+1) Hukuk Fakültesi mezunu olmak,
+
+2) Avukatlık ruhsatına sahip olmak,
+
+3) En az on yıllık hizmeti bulunmak,
+
+4) **(Ek:RG-11/7/2017- 30121)** Son başvuru tarihi itibarıyla; Şube Müdürü, Müdür, Avukat, Uzman ve Eğitim Uzmanı unvanlı kadrolardan herhangi birinde, ayrı ayrı veya toplamda en az beş yıl görev yapmış olmak,
+
+c) Uzman ve Eğitim Uzmanı kadrosuna atanabilmek için;
+
+1) En az fakülte veya dört yıllık yüksekokul mezunu olmak,
+
+2) En az iki yıllık hizmeti bulunmak,
+
+3) Son başvuru tarihi itibarıyla; Memur, Sekreter, Veri Hazırlama ve Kontrol İşletmeni, Muhasebeci, Bilgisayar İşletmeni unvanlı kadrolardan herhangi birinde, ayrı ayrı veya toplamda en az iki yıl görev yapmış olmak,
+
+ç) Muhasebeci kadrosuna atanabilmek için;
+
+1) En az fakülte veya dört yıllık yüksekokul mezunu olmak,
+
+2) Memur, Sekreter, Veri Hazırlama ve Kontrol İşletmeni, Bilgisayar İşletmeni unvanlı kadrolardan herhangi birinde ayrı ayrı veya toplamda en az iki yıl görev yapmış olmak,
+
+d) Memur, Sekreter, Veri Hazırlama ve Kontrol İşletmeni, Bilgisayar İşletmeni kadrosuna atanabilmek için;
+
+1) En az iki yıllık yüksekokul mezunu olmak,
+
+2) Son başvuru tarihi itibarıyla; Hizmetli kadrosunda en az iki yıl görev yapmış olmak,
+
+3) Bilgisayar İşletmeni ve Veri Hazırlama ve Kontrol İşletmeni kadrolarına atanabilmek için Milli Eğitim Bakanlığınca onaylı bilgisayar kullanım sertifikasına sahip olmak,
+
+gerekir.
+
+### MADDE 8 — Unvan değişikliği suretiyle atanacaklarda aranacak genel şartlar
+
+(1) Unvan değişikliğine tabi kadrolara atanabilmek için;
+
+a) 657 sayılı Devlet Memurları Kanununun 68 inci maddesinde belirtilen şartları taşımak,
+
+b) Unvan değişikliği sınavında başarılı olmak,
+
+gerekir.
+
+### MADDE 9 — Unvan değişikliği suretiyle atanacaklarda aranacak özel şartlar
+
+(1) Unvan değişikliği suretiyle yapılacak atamalarda genel şartların yanında aşağıdaki özel şartlar aranır:
+
+a) Veteriner Hekim, Sosyolog, Mühendis, Mimar, Şehir Plancısı, Bölge Plancısı, İstatistikçi, Arkeolog, Ekonomist, Sosyal Çalışmacı, Psikolog, Matematikçi, Fizikçi, Kimyager, Jeolog, Biyolog, Grafiker, Diyetisyen ve Çocuk Gelişimcisi kadrolarına atanabilmek için;
+
+1) En az fakülte veya yüksekokulların ilgili bölümlerinden mezun olmak,
+
+b) Avukat kadrosuna atanabilmek için;
+
+1) Hukuk Fakültesi mezunu olmak,
+
+2) Avukatlık ruhsatına sahip olmak,
+
+c) Tekniker kadrolarına atanabilmek için;
+
+1) Mesleki veya teknik yüksekokulların ilgili bölümünden mezun olmak,
+
+ç) Teknisyen kadrolarına atanabilmek için;
+
+1) Mesleki veya teknik liselerin ilgili bölümünden mezun olmak,
+
+d) Programcı kadrosu için;
+
+1) Bilgisayar programcılığı alanında en az iki yıllık yüksekokul mezunu olmak,
+
+2) En az iki programlama dilini bildiğini belgelemek,
+
+gerekir.
+
+## ÜÇÜNCÜ BÖLÜM — Görevde Yükselme ve Unvan Değişikliği Sınavına İlişkin Esaslar
+
+### MADDE 10 — Duyuru ve başvuru şartları
+
+(1) Görevde yükselme ve unvan değişikliği suretiyle atama yapılacak kadroların birimi, sınıfı, unvanı, derecesi ve sayısı yazılı sınav tarihi ve yeri, son başvuru tarihi, yazılı sınav konu başlıkları, yazılı sınavdan en az kırk beş gün önce Başkanlık internet sitesinde duyurulur. Belirlenen başvuru süresinin son günü itibarıyla aranan nitelikleri taşıyan personel, başvuru şartlarını taşıdığı farklı unvanlı kadrolardan sadece biri için başvuruda bulunabilir. Sınavlara aylıksız izinde bulunan veya ilgili mevzuatı uyarınca verilen izinleri kullanmakta olan personel de başvurabilir. Diğer kurumların personeli ile aday memur statüsünde bulunanlar bu kadrolar ve sınav için başvuruda bulunamazlar.
+
+(2) Başvuru şartlarını taşıyan personelin tamamı unvan değişikliği sınavına alınır.
+
+(3) Başvuru süresi beş iş gününden az olamaz.
+
+(4) Yapılan başvurular, ilan edilen usul ve esaslar çerçevesinde personel birimince değerlendirilerek yazılı sınava katılmaya hak kazananların listesi Başkanlığın internet sitesinde ilan edilir. Başvurusu uygun görülmeyenlere durum bir yazı ile bildirilir.
+
+### MADDE 11 — Yazılı sınav
+
+(1) Yazılı sınava ilişkin belirlenen konu başlıklarına duyuruda yer verilir.
+
+(2) Yazılı sınav Başkanlık tarafından yapılabileceği gibi, Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına, Milli Eğitim Bakanlığına, Türkiye ve Orta Doğu Amme İdaresi Enstitüsü Genel Müdürlüğüne veya yükseköğretim kurumlarından birine yaptırılabilir.
+
+(3) Yazılı sınav, yüz tam puan üzerinden değerlendirilir ve en az **(Değişik ibare:RG-11/7/2017- 30121)** altmış puan alanlar bu sınavda başarılı sayılırlar. **(Mülga cümle:RG-11/7/2017- 30121) (…)**
+
+### MADDE 12 — Sözlü sınav
+
+(1) **(Değişik ibare:RG-11/7/2017- 30121)** Yazılı sınavda en yüksek puan alan adaydan başlamak üzere ilan edilen kadro sayısının beş katına kadar aday sözlü sınava alınır. Son adayla aynı puana sahip olan personelin tamamı sözlü sınava alınır.
+
+(2) İlgili personel, sınav kurulunun her bir üyesi tarafından;
+
+a) Sınav konularına ilişkin bilgi düzeyi,
+
+b) Bir konuyu kavrayıp özetleme, ifade yeteneği ve muhakeme gücü,
+
+c) Liyakati, temsil kabiliyeti, tutum ve davranışlarının göreve uygunluğu,
+
+ç) Özgüveni, ikna kabiliyeti ve inandırıcılığı,
+
+d) Genel kültürü ve genel yeteneği,
+
+e) Bilimsel ve teknolojik gelişmelere açıklığı,
+
+esas alınarak yüz tam puan üzerinden değerlendirilir. Her üyenin vermiş olduğu puanların aritmetik ortalaması alınarak personelin sözlü sınav puanı tespit edilir. Sözlü sınavda en az yetmiş puan alanlar başarılı sayılırlar.
+
+### MADDE 13 — Başarı sıralaması
+
+(1) Görevde yükselme suretiyle ilan edilen boş kadro sayısı kadar atama yapılmasında başarı puanı esas alınır. **(Değişik cümle:RG-11/7/2017- 30121)** Başarı puanı, yazılı ve sözlü sınav puanlarının aritmetik ortalaması esas alınmak suretiyle tespit edilir ve Başkanlık internet sitesinde ilan edilir.
+
+(2) Başarı puanlarının eşit olması halinde, sırasıyla;
+
+a) Hizmet süresi fazla olanlara,
+
+b) Daha üst öğrenimi bitirmiş olanlara,
+
+c) Üst öğrenim mezuniyet notu yüksek olanlara,
+
+öncelik verilmek suretiyle, en yüksek puandan başlamak üzere başarı sıralaması belirlenir.
+
+(3) Görevde yükselme sınavında başarılı olmalarına rağmen, ilan edilen kadro sayısı nedeniyle ataması yapılamayacak personelden asıl aday sayısı kadar personel, başarı sıralaması listesinde yedek olarak belirlenir.
+
+### MADDE 14 — Sınav kurulu ve görevleri
+
+(1) Görevde yükselme ve unvan değişikliği sınavlarına ilişkin işlemleri yürütmek üzere sınav kurulu teşkil edilir. Sınav kurulu, atamaya yetkili amirin görevlendireceği Başkan veya Başkan Yardımcısının başkanlığında, atamaya yetkili amirce belirlenecek personel birimi temsilcisi veya temsilcileri ile diğer üyelerin de bulunduğu toplam beş üyeden oluşur. İhtiyaç duyulması halinde kurum dışından kamu görevlileri arasından sınav kuruluna üye veya üyeler görevlendirilebilir. Ayrıca, sınav kurulunun her üyesi için birer yedek üye aynı usulle belirlenir. Sınav kurulunu teşkil eden üyeler, görevde yükselme sınavına alınacak personelden, lisansüstü öğrenimi hariç öğrenim ve ihraz ettikleri unvanlar itibarıyla daha düşük seviyede olamazlar.
+
+(2) Sınav kurulu, üye tamsayısı ile toplanır, kararlar oy çokluğuyla alınır, çekimser oy kullanılmaz. Asıl üyenin bulunmadığı toplantıya yedek üye iştirak eder.
+
+(3) Sınav kurulunun başkan ve üyelerinin görevde yükselme sınavına eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve sıhri hısımlarının katıldığının tespit edilmesi halinde, bu üye veya üyeler sınav kurulu üyeliğinden çıkartılır ve bunların yerine yeni üye veya üyeler görevlendirilir.
+
+(4) Sınava ilişkin sekretarya hizmetleri personel birimi tarafından yürütülür.
+
+(5) Sınav kurulunun görev ve yetkileri şunlardır:
+
+a) Başvuruları kabul edilenlere ilişkin olarak ilan edilen aday listesine karşı yapılan itirazları değerlendirerek karara bağlamak.
+
+b) Unvan değişikliği sınavında sorulacak sorular görev alanları ve atama yapılacak görevin niteliğine ilişkin konulardan belirlenmek kaydıyla görevde yükselme veya unvan değişikliği sınavına katılacaklar için yazılı sınav konularını belirlemek ve belirlenen sınav konularını Başkanlık internet sitesinden yapılacak duyuruyla yayınlatmak.
+
+c) Yazılı sınavın, Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı, Milli Eğitim Bakanlığı, Türkiye ve Orta Doğu Amme İdaresi Enstitüsü Genel Müdürlüğü veya yükseköğretim kurumlarından birisine yaptırılması halinde; yazılı sınavla ilgili itirazları sınavı gerçekleştiren kuruma ileterek değerlendirme sonucunu ilan etmek.
+
+ç) Sözlü sınavı gerçekleştirmek.
+
+d) Sözlü sınava ilişkin olarak yapılacak itirazları değerlendirerek karara bağlamak.
+
+e) Atanma hakkı kazanan personele ilişkin başarı sıralaması listesine ilişkin olarak yapılacak itirazları değerlendirerek karara bağlamak.
+
+f) Yazılı ve sözlü sınava ilişkin diğer iş ve işlemleri yürütmek.
+
+### MADDE 15 — Sınav sonuçlarının açıklanması
+
+(1) Sınav sonuçları, sınavların yapıldığı tarihten itibaren en geç on beş gün içinde Başkanlığın internet sitesinde ilan edilir.
+
+### MADDE 16 — Sınavların geçersiz sayılması
+
+(1) Sınavlarda kopya çekenlerin, kopya verenlerin veya bunlara teşebbüs edenlerin, sınav kâğıtlarına belirtici işaret koyanların, başvuruda gerçeğe aykırı bildirimde bulunduğu anlaşılanların veya gerekli şartları taşımadığı daha sonra saptananların sınavları geçersiz sayılarak, atamaları yapılmaz ve atamaları yapılmış olanların onayları iptal edilir. Ayrıca, bu kişiler hakkında 657 sayılı Kanunun disiplin hükümleri uygulanır.
+
+(2) Sınava girecek aday yerine başka bir kişinin sınava girdiğinin anlaşılması halinde, ilgililerin sınavı bir tutanakla tespit edilerek geçersiz sayılır ve haklarında yasal işlem yapılır.
+
+(3) Sınava her ne sebeple olursa olsun girmeyenler haklarını kaybetmiş sayılırlar.
+
+### MADDE 17 — Sınav sonuçlarına itiraz
+
+(1) Sınav sonuçlarına yazılı olarak itiraz edilebilir. İtirazlar sınav sonuçlarının ilgiliye bildirilmesinden itibaren beş iş günü içerisinde bir dilekçe ile sınav kuruluna yapılır. İtirazlar sınav kurulu tarafından on iş günü içinde karara bağlanır ve ilgililere yazı ile bildirilir. İtiraz üzerine sınav kurulunca verilen kararlar kesindir.
+
+### MADDE 18 — Sınav belgelerinin saklanması
+
+(1) Atananların sınavla ilgili belgeleri özlük dosyalarında, diğerlerinin belgeleri ise dava açma süresinden az olmamak kaydıyla bir sonraki sınav tarihine kadar personel biriminde topluca saklanır.
+
+### MADDE 19 — Görevde yükselme sınavı sonucu atanmaya ilişkin esaslar
+
+(1) Görevde yükselme sınavında başarılı olan personel başarı sıralaması listesinin kesinleşmesini müteakip en yüksek puandan başlamak üzere belirlenen başarı sıralamasındaki başarı puanlarına göre atanır. Başkanlıkça tercih alınması durumunda, başarı sıralaması esas alınarak ilgili personelin tercihlerine göre atamaları yapılır.
+
+(2) Duyurulan kadrolardan;
+
+a) Atanma şartlarını taşımadıkları için sınavların geçersiz sayılması veya bu sebeple atanmanın iptal edilmesi, atandığı göreve geçerli bir mazeret olmaksızın süresi içinde başlamaması ya da atanma hakkından vazgeçmesi,
+
+b) Emeklilik, ölüm, memurluktan çekilme veya çıkarılma, başka unvanlı kadroya ya da başka bir kuruma naklen atanması,
+
+sebepleriyle, boş kalan veya boşalan kadrolara, başarı sıralamasının kesinleştiği tarihten itibaren altı aylık süreyi aşmamak kaydıyla aynı unvanlı kadrolar için yapılacak müteakip sınava ilişkin duyuruya kadar, yedekler arasından başarı sıralamasına göre atama yapılabilir.
+
+(3) Sınavda başarılı olanlardan; görevden uzaklaştırılmış olanlar göreve iade edilinceye kadar, haklarında atama şartlarının kaybedilmesini gerektirecek nitelikteki eylemlerinden dolayı adlî veya idari bir kovuşturma veya soruşturma bulunanlar ise kovuşturma veya soruşturma sonuçlanıncaya kadar atanmaz.
+
+(4) Görevde yükselme sınavına herhangi bir sebeple katılmayanlar ile başarısız olan veya yedeklerden başarı sıralamasının kesinleştiği tarihten itibaren altı aylık süreyi aşmamak üzere, aynı unvan için yapılacak müteakip sınava ilişkin duyuruya kadar atanmamış olanlar ya da atanma haklarından herhangi bir sebeple feragat edenler aynı unvanlı kadrolara yapılacak atamalar için bu Yönetmelikte öngörülen bütün usul ve esaslara tabidir.
+
+### MADDE 20 — Unvan değişikliği sınavı
+
+(1) 5 inci maddenin üçüncü fıkrasında belirtilen unvan değişikliğine tabi kadrolara, bu unvanları en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz etmiş olanların atanmaları, **(Mülga ibare:RG-11/7/2017- 30121) (…)** bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde yapılacak unvan değişikliği sınavı sonucundaki başarı sırasına göre boş kadro sayısı dikkate alınmak suretiyle gerçekleştirilir.
+
+(2) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz edilen görevlere atanabilirler.
+
+(3) **(Değişik:RG-11/7/2017- 30121)** Unvan değişikliği yazılı sınavları, görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda yaptırılır ve bu sınavlara katılacaklarda Başkanlıkta veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz.
+
+(4) **(Mülga:RG-11/7/2017- 30121)**
+
+(5) Atama yapılacak kadroya ilişkin şartları taşımadıkları halde sınava girenlerin, sınavı kazanmış olsalar dahi atamaları yapılmaz. Bu şartları taşımadıkları sonradan tespit edilenlerin atamaları iptal edilir.
+
+(6) Geçerli mazeretleri olmaksızın, atandıkları kadroya ilişkin görevlerine süresi içinde başlamayanların atamaları iptal edilir.
+
+(7) Unvan değişikliği sınavı kapsamındaki görevlere, sadece Başkanlık personeli başvurabilir.
+
+(8) Unvan değişikliği sınavlarıyla ilgili iş ve işlemleri sınav kurulu yürütür.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 21 — Görev grupları arasında geçişler
+
+(1) 5 inci maddede belirtilen hizmet grupları arasındaki geçişler aşağıdaki esaslar çerçevesinde yapılır:
+
+a) Aynı alt grup içinde kalmak kaydıyla; ilgili personelin isteği ve atanılacak kadro için aranan nitelik ve özelliklere sahip olmak şartıyla, diğer görevlere sınavsız atama yapılabilir.
+
+b) Gruplar arası görevde yükselme niteliğindeki geçişler ve alt gruptan üst gruplara geçişler görevde yükselme sınavına tabidir. Ancak; Başkanlıkta veya diğer kamu kurum ve kuruluşlarında ihraz edilen unvanlar ile bu unvanlarla aynı düzeydeki görevlere veya alt görevlere, öğrenim ve hizmet süresi gibi mevzuatta aranan diğer şartları taşımak kaydıyla, ilgili personelin isteği üzerine görevde yükselme sınavına tabi tutulmadan atama yapılabilir.
+
+c) Unvan değişikliğine tabi kadrolara yapılacak atamalar ve bu kadrolar arasındaki geçişler ilgili unvan için düzenlenecek unvan değişikliği sınavı sonucuna göre yapılır.
+
+ç) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personelin; atanılacak görev için ilgili mevzuatta aranan toplam hizmet süresi ve öğrenim durumu gibi şartları taşımaları kaydıyla, uzman veya aynı düzeydeki görevler ile daha alt görevlere yapılacak atamalarında bu Yönetmelik hükümleri uygulanmaz.
+
+d) Avukat kadrosundan hukuk müşaviri kadrosuna yapılacak atamalarda bu Yönetmelik hükümleri uygulanmaz.
+
+### MADDE 22 — Kurum dışından yapılacak atamalar
+
+(1) Bu Yönetmeliğe tabi kadrolara, diğer kamu kurum ve kuruluşlarındaki aynı unvanlı kadrolardan veya bu kadrolarla aynı düzeyde ya da daha üst düzeydeki diğer kadrolardan, öğrenim ve hizmet süresi gibi mevzuatta aranan diğer şartları taşımak kaydıyla genel hükümlere göre sınavsız naklen atama yapılabilir.
+
+### MADDE 23 — Engellilerin sınavları
+
+(1) Başkanlık, başvuru şartlarını taşıyan ve atama yapılacak görevi yerine getirebilecek durumda bulunan engellilerin sınavlarının yapılabilmesi için gerekli tedbirleri alır.
+
+### MADDE 24 — Özelleştirilen kuruluşlardan atama
+
+(1) 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkındaki Kanunun 22 nci maddesi hükümlerine göre Başkanlığa yapılacak ilk atamalarda bu Yönetmelik hükümleri uygulanmaz.
+
+### MADDE 25 — Kazanılmış haklar
+
+(1) Bu Yönetmelikte sayılan unvanlı kadrolara ilgili mevzuatı uyarınca asaleten atanmış olanların kazanılmış hakları saklıdır.
+
+### MADDE 26 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde; 657 sayılı Devlet Memurları Kanunu ile Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik hükümleri uygulanır.
+
+### GEÇİCİ MADDE 1 — Öğrenim durumu
+
+(1) 18/4/1999 tarihinde görevde bulunan ve aynı tarih itibarıyla iki veya üç yıllık yükseköğrenim mezunu olanlar, diğer koşullara sahip oldukları takdirde, 7 nci maddenin uygulanması bakımından dört yıllık yükseköğrenim mezunu kabul edilirler.
+
+### MADDE 27 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 28 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanı yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>31/12/2015</td><td>29579</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1</td><td>11/7/2017</td><td>30121</td></tr>
+<tr><td>2</td><td></td><td></td></tr>
+<tr><td>3</td><td></td><td></td></tr>
+</table>

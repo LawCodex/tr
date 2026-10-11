@@ -1,0 +1,215 @@
+---
+title: "AYDIN ADNAN MENDERES ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.34600"
+number: "34600"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2020-06-11
+official_gazette_date: 2020-06-11
+official_gazette_number: "31152"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34600&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# AYDIN ADNAN MENDERES ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+**ARAŞTIRMA MERKEZİ YÖNETMELİĞİ(1)**
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+**(Değişik:RG-1/6/2021-31498)**
+
+(1) Bu Yönetmeliğin amacı, Aydın Adnan Menderes Üniversitesi Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+**(Değişik:RG-1/6/2021-31498)**
+
+(1) Bu Yönetmelik; Aydın Adnan Menderes Üniversitesi Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) **(Değişik:RG-1/6/2021-31498)** Merkez: Aydın Adnan Menderes Üniversitesi Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Aydın Adnan Menderes Üniversitesi Rektörünü,
+
+d) Senato: Aydın Adnan Menderes Üniversitesi Senatosunu,
+
+e) Üniversite: Aydın Adnan Menderes Üniversitesini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+**(Değişik:RG-1/6/2021-31498)**
+
+(1) Merkezin amacı, kadınların ve ailelerin karşılaştıkları her türlü sorunun en aza indirilmesi ve yaşam kalitelerinin sürdürülebilir bir şekilde iyileştirilmesi amacıyla ulusal ve uluslararası düzeyde bilimsel araştırma, inceleme ve uygulamalar yapmak, yapılan araştırmaların sonuçlarının değerlendirilmesini sağlamak, kadın ve aile çalışmaları ile ilgili konularda duyarlı, bilgili ve yeterli kadroların yetiştirilmesine yönelik eğitim faaliyetlerinde bulunmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) **(Değişik:RG-1/6/2021-31498)** Merkezin amacına uygun olarak, kadın ve aile ile ilgili konularda araştırmalar yapmak veya yaptırmak, projeler hazırlamak ve yürürlüğe koymak.
+
+b) **(Değişik:RG-1/6/2021-31498)** Dünyada ve ülkemizde kadın ve aile çalışmalarıyla ilgili konularda araştırma ve incelemelerde bulunmak ve yürütülmekte olan benzer çalışmalara katılmak ve desteklemek.
+
+c) Üniversitenin diğer birimleri ile işbirliği ve ortak çalışmalar yapmak.
+
+ç) Kadınların kişisel ve mesleki bilgi, yetenek ve becerilerini geliştirecek kurumsal yapı ve mekanizmaların kapasitelerini, niteliklerini ve erişim kolaylıklarını iyileştirecek, kadınların aile hayatı, sosyal, siyasi ve ekonomik alanda karar mekanizmalarına katılımlarını güçlendirecek, sosyal ve ekonomik kalkınmaya katkı sağlayacak çalışmalarda bulunmak.
+
+d) **(Değişik:RG-1/6/2021-31498)** Özellikle Ege Bölgesi ve Aydın ilindeki kadınlar ve ailelere yönelik ilgili konularda seminerler vermek ve halk eğitimi programlarını yürütmek.
+
+e) **(Değişik:RG-1/6/2021-31498)** Lisans, yüksek lisans ve doktora düzeyinde kadın ve aile çalışmalarıyla ilgili ders ve seminerler verilmesini sağlamak ve öğrencilerin bu konulara yönelmesini özendirici çalışmalar yapmak.
+
+f) Kuruluş amaçları doğrultusunda yayınlar yapmak.
+
+g) **(Değişik:RG-1/6/2021-31498)** Kadın ve aile çalışmalarının belirlenmesi konusundaki gelişmelerin ve yayınların izlenebilmesi amacıyla arşiv ve kitaplık oluşturmak.
+
+ğ) **(Değişik:RG-1/6/2021-31498)** Kadın ve aile çalışmaları konusunda çalışmalar yürüten ulusal ve uluslararası kuruluşlarla iletişim ağı kurmak.
+
+h) **(Değişik:RG-1/6/2021-31498)** Kadın ve aile çalışmalarıyla ilgili kurum ve kuruluşlar ile karşılıklı iş birliği içinde bulunmak, ihtiyaçlar ve talepler yönünde inceleme ve araştırma yapmak, proje hazırlamak, danışmanlık hizmeti vermek ve veri sağlamak.
+
+ı) **(Değişik:RG-1/6/2021-31498)** Sürdürülebilir ve etkin bir ulusal kalkınmayı gerçekleştirebilecek yapısal çözümleri uygulayabilmek için kadın ve aile kapsamında yaşanan birçok sorunun gerçekte toplumun sorunu olduğu ve her bireyi ilgilendirdiği inancını toplumun her kesiminde yaygınlaştırmak ve pekiştirmek suretiyle çalışmalar yapmak, kamuoyu oluşmasına yardımcı olmak.
+
+i) **(Değişik:RG-1/6/2021-31498)** İnsan hakları ile kadın ve çocuk hakları alanında Türkiye’nin taraf olduğu uluslararası sözleşmeler konusunda kamuoyunu bilgilendirmek.
+
+j) **(Değişik:RG-1/6/2021-31498)** Kadın ve aile çalışmaları konusunda; Aile ve Sosyal Hizmetler Bakanlığı başta olmak üzere, Milli Eğitim Bakanlığı, Sağlık Bakanlığı, Kültür ve Turizm Bakanlığı, Adalet Bakanlığı, İçişleri Bakanlığı, üniversiteler, belediyeler, kadın hakları alanında gönüllü çalışan gerçek ve tüzel kişiler ile iş birliği yapmak.
+
+k) Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür; Üniversitenin öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Görevi sona eren Müdür yeniden görevlendirilebilir.
+
+(2) **(Değişik:RG-6/1/2026-33129)** Yönetim Kurulu üyeleri arasından en çok iki kişi müdür yardımcısı olarak Rektör tarafından görevlendirilir. Müdür yardımcıları, Müdür tarafından kendilerine verilen görevleri yapar ve müdür yardımcılarından biri Müdürün bulunmadığı zamanlarda ona vekâlet eder.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Merkezin organlarını toplantıya çağırmak ve başkanlık etmek, toplantı gündemini hazırlamak.
+
+c) Yönetim Kurulu kararlarını bu Yönetmelik hükümleri çerçevesinde uygulamak.
+
+ç) Merkezin yıllık çalışma planı ile yıllık faaliyet raporunu hazırlamak, Yönetim Kurulunun görüşünü aldıktan sonra Rektörün bilgisine sunmak.
+
+d) Merkezin idari işlerini yürütmek.
+
+e) Merkezin çalışmalarına yönelik eğitim, araştırma ve danışmanlık ile ilgili plan ve programları hazırlamak.
+
+f) Merkezde planlanan çalışmaların yürütülmesini sağlamak.
+
+g) Araştırma ve proje çalışma ekipleri kurmak.
+
+ğ) Üniversite içi ve dışı kişi ve kuruluşlar arasındaki işbirliği ve koordinasyonu sağlamak.
+
+h) İlgili mevzuatla verilen diğer görevleri yapmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) **(Değişik:RG-1/6/2021-31498)** Yönetim Kurulu; Müdür ve iki müdür yardımcısı ile Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanları arasından Üniversite Yönetim Kurulunca önerilen ve Rektör tarafından üç yıllığına görevlendirilen altı üye olmak üzere toplam dokuz üyeden oluşur. Süresi sona eren üyeler yeniden görevlendirilebilir.
+
+(2) Yönetim Kurulu, Müdürün başkanlığında ve çağrısı üzerine yılda en az dört kez toplanır. Yönetim Kurulu, üye tam sayısının salt çoğunluğu ile toplanır. Kararlar oy çokluğu ile alınır. Oylar kabul veya ret şeklinde verilir. Oyların eşitliği durumunda Müdürün kullandığı oy yönünde çoğunluk sağlanmış kabul edilir.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin amaçları doğrultusunda gerekli faaliyetleri gerçekleştirmek.
+
+b) Merkezin plan ve bütçe tasarısını hazırlamak, onaylanmak üzere Rektöre sunmak.
+
+c) Merkezin etkili ve verimli bir şekilde çalışması için gerekli kararları almak.
+
+ç) Merkez elemanlarının eğitim, uygulama, araştırma, hizmet ve yayın konularındaki isteklerini değerlendirip önerilerde bulunmak.
+
+d) Gerekli hallerde Merkezin faaliyetleriyle ilgili geçici çalışma grupları kurmak ve bunların görevlerini düzenlemek.
+
+e) İlgili mevzuatla verilen diğer görevleri yapmak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Yönetim Kurulu tarafından önerilerek Rektör tarafından onaylanan en fazla kırk üyeden oluşur. Üyelerin görev süresi üç yıldır. Görev süreleri dolmadan görevden ayrılan üyelerin yerine yenileri seçilebilir. Görev süresi biten üye yeniden seçilebilir.
+
+(2) Danışma Kuruluna Müdür başkanlık eder. Kurul, Müdürün daveti üzerine yılda en az iki kez toplanır. Gerektiğinde Müdürün daveti üzerine olağanüstü toplanabilir. Toplantılar, davete icabet etmiş üyelerle yapılır; toplantı ve karar nisabı aranmaz. Toplantılar yazılı olarak kayıt altına alınır.
+
+(3) Danışma Kurulunun altında, çalışmaların daha profesyonelce yürütülmesi için, Merkez Yönetim Kurulu kararıyla alt birimler kurulabilir. Kurulacak alt birimlerin sayısı ve çalışma konuları Müdürün önerisi ve Yönetim Kurulu kararı ile belirlenir.
+
+### MADDE 13 — Danışma Kurulunun görevi
+
+(1) Danışma Kurulunun görevi; Merkezin çalışmalarıyla ilgili dilek, tavsiye ve önerilerde bulunmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesine göre Müdürün önerisi üzerine Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 15 — Ekipman ve demirbaşlar
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaş Merkezin demirbaşına kaydedilerek kullanımına tahsis edilir.
+
+### MADDE 16 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Üniversite Yönetim Kurulu ve Senato kararları uygulanır.
+
+### MADDE 17 — Yürürlükten kaldırılan yönetmelik
+
+(1) 15/2/2011 tarihli ve 27847 sayılı Resmî Gazete’de yayımlanan Aydın Adnan Menderes Üniversitesi Kadın Sorunları Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Aydın Adnan Menderes Üniversitesi Rektörü yürütür.
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+*1/6/2021 tarihli ve 31498 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Aydın Adnan Menderes Üniversitesi Kadın Sorunları Uygulama Ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.*
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>11/6/2020</td><td>31152</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>1/6/2021</td><td>31498</td></tr>
+<tr><td>2.</td><td>6/1/2026</td><td>33129</td></tr>
+</table>

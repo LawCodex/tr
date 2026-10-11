@@ -1,0 +1,145 @@
+---
+title: "BALIKESİR ÜNİVERSİTESİ DOWN SENDROMU ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.38358"
+number: "38358"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-02-28
+official_gazette_date: 2021-02-28
+official_gazette_number: "31409"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38358&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BALIKESİR ÜNİVERSİTESİ DOWN SENDROMU ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Balıkesir Üniversitesi Down Sendromu Çalışmaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Balıkesir Üniversitesi Down Sendorumu Çalışmaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez: Balıkesir Üniversitesi Down Sendromu Çalışmaları Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Balıkesir Üniversitesi Rektörünü,
+
+ç) Üniversite: Balıkesir Üniversitesini,
+
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; down sendromlu bireylerin sosyal hayatın içinde mevcut hizmet ve olanaklara eşit erişimlerini sağlamak ve bireysel farklılıklarına uygun şekilde gelişimlerini destekleyerek fırsat eşitliğine dayanan bir toplum yapısı oluşturmaya yönelik çalışmalar yapmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Down sendromu alanında dünyadaki sosyal, kültürel, teknolojik, bilimsel gelişmeleri izlemek, araştırma projeleri geliştirmek, desteklemek, yürütmek ve sonuçlandırmak.
+
+b) Down sendromlu bireylerin ve ailelerin yaşadığı güçlüklerin ortadan kaldırılması ya da en aza indirilmesi konusunda yapılması gereken çalışmaları planlamak ve çözüm odaklı projeler geliştirmek.
+
+c) Down sendromu alanındaki gelişme ve yenilikler ile ilgili konferans, seminer, kongre, sempozyum gibi bilimsel faaliyetleri düzenlemek ve elde edilen sonuçları kamuoyuna ve ilgili kuruluşlara duyurmak.
+
+ç) Down sendromu başta olmak üzere tüm dezavantajlı guruplar için “sosyal içerme” ve “ayrımcılıkla mücadele” konularında proje-program-eylem planı hazırlamak ve ilgili taraflarla paydaş çalışmalar yapmak.
+
+d) Down sendromu alanında çalışmalar yapan ulusal ve uluslararası kuruluşlar ile işbirliği yapmak.
+
+e) Araştırma ve geliştirme çalışmaları yapmak, uygun fonları sağlamak, down sendromu alanında çalışan kişi, kurum, kuruluş, eğitim, öğretim elemanlarına ve idarecilere hizmet ödülleri vermek.
+
+f) Kamu ve özel sektör ile down sendromu alanında toplumsal farkındalık yaratmak üzere ortak bilgilendirme ve bilinçlendirici etkinlikleri geliştirmek ve bu çalışmaları destekleyici her türlü araştırma, rapor, bülten, proje, kitap, dergi ve yayınları yapmak.
+
+g) Down sendromu alanında toplum tabanlı bilgi, bilinç ve duyarlılık düzeyini artırmak için kaynaştırma temalı sosyal, kültürel etkinlikler düzenlemek, program, seminer ve benzeri faaliyetleri düzenlemek.
+
+ğ) Down sendromlu bireylerin yaşam kalitelerini yükseltmek ve toplumsal hayata katılımlarını sağlamak üzere rehabilitasyon olanakları araştırmak ve geliştirmek.
+
+h) Down sendromluların sağlık koşullarını ve sosyal yaşamlarını sportif etkinlikler yoluyla geliştirmek, uygun spor dallarına yönlendirmek ve down sendromlu sporcular yetiştirmek üzere gereken altyapı, teknik ve idari çalışmaları yapmak.
+
+ı) Sosyal ve maddi güçlük çeken down sendromlu bireyler ve aileleri için uygun fon ve desteklere yönlendirmek konusunda ücretsiz olarak aile destek program ve etkinlikleri düzenlemek.
+
+i) Ayrımcı uygulamaları tespit ederek uygun destek, sosyal rehabilitasyon ve müdahale mekanizmalarıyla fırsat eşitliği konusunda çalışmalar yapmak.
+
+j) Üniversite personelinin ve öğrencilerin bilgi ve duyarlık düzeyini arttırmaya yönelik seminer, konferans, kısa film, yayın ve benzeri faaliyetler ile farkındalık materyalleri hazırlamak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür, Rektör tarafından Merkezin faaliyet alanları ve down sendromu, özel eğitim, ayrımcılıkla mücadele, engelliler, sosyal, kültürel ve sportif etkinlikler konusunda uzmanlığa sahip Üniversitenin tam zamanlı öğretim üyeleri arasından üç yıl süre için görevlendirilir. Görev süresi biten Müdür tekrar görevlendirilebilir.
+
+(2) Müdür, çalışmalarında yardımcı olmak üzere Üniversitede görevli öğretim elemanları arasından bir kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün görevi sona erdiğinde yardımcısının da görevi sona erer. Müdür, görevi başında bulunmadığı zamanlarda müdür yardımcısını vekil olarak bırakır. Göreve vekâletin altı aydan fazla sürmesi durumunda yeni bir Müdür görevlendirilir.
+
+(3) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek, Merkezin faaliyetlerinin düzenli bir şekilde yürütülmesi ve denetimiyle ilgili önlemleri almak.
+
+b) Yönetim Kurulunu toplantıya çağırmak, bu toplantıların gündemini belirlemek, Yönetim Kurulu kararlarını uygulamak ve toplantılara başkanlık etmek, Yönetim Kurulu kararlarını Rektöre sunmak.
+
+c) Merkez personelinin işbirliği içinde, düzenli ve verimli çalışmalar yürütmesini sağlar.
+
+ç) Merkezin yıllık çalışma raporunu Rektöre sunmak.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu; Müdür, müdür yardımcısı ve Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl süre için görevlendirilen üç üye olmak üzere toplam beş kişiden oluşur. Görev süresi dolmadan boşalan üyelik için veya Üniversite dışında altı aydan uzun süreli görevlendirilenlerin yerine kalan süreyi tamamlamak üzere aynı usul ile yeni üye görevlendirilir. Üyelik süresi sona eren Yönetim Kurulu üyeleri aynı usulle yeniden görevlendirilebilirler.
+
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine, yılda en az bir defa salt çoğunluk ile toplanır ve kararlar oy çokluğu ile alınır, çekimser oy kullanılmaz. Geçerli mazereti olmaksızın üç kez üst üste toplantıya katılmayanların Yönetim Kurulu üyeliği son bulur. Boşalan üyelik için aynı usul ile bir ay içinde yeni üye görevlendirir.
+
+(3) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışma alanıyla ilgili konularda kararlar almak.
+
+b) Müdür tarafından hazırlanan yıllık faaliyet plan ve programları ile bu faaliyetlerle ilgili esasları görüşüp karara bağlamak.
+
+c) Merkezin çalışma programının hazırlanması konusunda kararlar almak.
+
+ç) Merkezin yıllık faaliyet raporunu değerlendirmek.
+
+d) Merkezin bütçesini onaylamak.
+
+e) Müdür tarafından belirlenen diğer konuları görüşerek karara bağlamak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 10 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilen personel ile karşılanır.
+
+### MADDE 11 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 12 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Balıkesir Üniversitesi Rektörü yürütür.

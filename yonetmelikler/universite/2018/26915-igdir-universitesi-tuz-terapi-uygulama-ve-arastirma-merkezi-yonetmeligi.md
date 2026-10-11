@@ -1,0 +1,215 @@
+---
+title: "IĞDIR ÜNİVERSİTESİ TUZ TERAPİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.26915"
+number: "26915"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2018-10-30
+official_gazette_date: 2018-10-30
+official_gazette_number: "30580"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=26915&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# IĞDIR ÜNİVERSİTESİ TUZ TERAPİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Iğdır Üniversitesi Tuz Terapi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Iğdır Üniversitesi Tuz Terapi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Iğdır Üniversitesi Tuz Terapi Uygulama ve Araştırma Merkezi Danışma Kurulunu,
+
+b) Merkez: Iğdır Üniversitesi Tuz Terapi Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Iğdır Üniversitesi Tuz Terapi Uygulama ve Araştırma Merkezi Müdürünü,
+
+ç) Rektör: Iğdır Üniversitesi Rektörünü,
+
+d) Üniversite: Iğdır Üniversitesini,
+
+e) Yönetim Kurulu: Iğdır Üniversitesi Tuz Terapi Uygulama ve Araştırma Merkezi Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Balneolojik (doğal iyileştirici) sağlık ürünlerinin üretilmesine yardımcı olmak.
+
+b) Tuz Mağaralarının turizme kazandırılmasına yardımcı olmak.
+
+c) Iğdır'da sıkça görülen solunum sistemi, cilt ve psikolojik hastalıkların tedavisine yardımcı olmak.
+
+ç) Üniversitenin ilgili birimlerindeki araştırmacıların uygun bir ortamda çalışmalarını gerçekleştirmelerine yardımcı olmak ve Üniversitedeki bilimsel faaliyetlerin niteliğini artırmak.
+
+d) Kamu ve özel kişi ve kuruluşlar ile disiplinler arası ortak bilimsel ve teknolojik projeler üretilmesini sağlamak.
+
+e) Yurt içi ve yurt dışındaki üniversiteler ve araştırma kurumları ile AR-GE konularında işbirliği yaparak Avrupa Birliği, Türkiye’deki ilgili kamu kurum ve kuruluşları ve Üniversitenin bilimsel araştırma projeleri desteği ile yürütülen proje çalışmalarının Merkez bünyesinde de yürütülmesini sağlayacak bir çalışma ortamı hazırlamak.
+
+f) Üniversitenin proje yürütme potansiyelini artırmak.
+
+g) Merkezdeki cihazların teknolojik gelişmelere uygun olarak geliştirilmesini sağlamak.
+
+ğ) Merkezin amacı doğrultusunda diğer çalışmaları yapmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Araştırma, geliştirme, inceleme, uygulama ve projeler ile kamu ve özel kişi ve kuruluşların ihtiyacı olan test ve ölçümleri yapmak, danışmanlık hizmeti vermek.
+
+b) Eğitim seminerleri, konferans ve bilimsel toplantılar düzenlemek.
+
+c) Merkezin akreditasyon çalışmalarını gerçekleştirmek.
+
+ç) Öğrencilerin bilimsel konulardaki tecrübelerini artırmak için uygun fırsatlar oluşturmak.
+
+d) Merkezin amaçları doğrultusunda ulusal ve uluslararası kuruluşlarla işbirliği yapmak.
+
+e) Belgeli eğitim programları düzenlemek.
+
+f) Merkezin amaçlarına uygun diğer çalışmaları yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür; Üniversitenin aylıklı öğretim elemanları arasından Rektör tarafından üç yıl süreyle görevlendirilir. Süresi biten Müdür aynı usulle tekrar görevlendirilebilir.
+
+(2) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kuruluna başkanlık etmek, bu Kurulda alınan kararların uygulanmasını sağlamak.
+
+c) Merkezin idari işlerini yürütmek, Merkez personeli üzerinde genel gözetim ve denetim görevini yapmak.
+
+ç) Yönetim Kurulunda görev alacak öğretim elemanlarını Rektöre önermek.
+
+d) Merkezde oluşturulacak komisyon ve çalışma gruplarına başkanlık etmek, idaresini sağlamak.
+
+e) Merkezin ihtiyaçlarını ve bütçesini gerekçeleriyle birlikte Yönetim Kurulunun kararından sonra Rektörlüğe bildirmek.
+
+f) Her faaliyet yılı sonunda ve istendiğinde Merkez ile ilgili olarak Rektöre bilgi vermek.
+
+g) Yönetim Kurulunca hazırlanan ve uygulamaya konulan faaliyetler hakkında Rektöre bilgi vermek.
+
+ğ) Danışma Kurulunu yılda en az bir kez toplantıya davet etmek.
+
+h) Merkez faaliyetlerinin ilgili mevzuat hükümlerine göre denetimini yapmak.
+
+ı) İlgili mevzuat hükümleriyle kendisine verilen diğer görevleri yapmak.
+
+### MADDE 9 — Müdür yardımcıları ve görevleri
+
+(1) Müdürün, Merkezin çalışma alanları kapsamında araştırmalar yapan Üniversite öğretim elemanları arasından önereceği en fazla iki kişi, Rektör tarafından üç yıl süre için müdür yardımcısı olarak görevlendirilir.
+
+(2) Müdür yardımcılarının görevi Müdürün görev süresi ile sınırlıdır. Müdür yardımcıları görevlendirme süresinin sonunda Müdürün görüşü alınarak tekrar görevlendirilebilir veya süresinden önce görevlerine son verilebilir.
+
+(3) Müdür yardımcılarının görevleri şunlardır:
+
+a) Merkez yönetim ve işleyişinde Müdüre yardımcı olmak.
+
+b) Müdür tarafından belirlenen görevleri yürütmek.
+
+c) Gerekli durumlarda Müdüre vekâlet etmek.
+
+(4) Müdür ya da yardımcılarının Üniversite dışı görevlendirme sürelerinin altı ayı geçmesi halinde kalan süreyi tamamlamak üzere yeni bir Müdür/Müdür yardımcısı görevlendirilir.
+
+### MADDE 10 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu; Müdür ve müdür yardımcıları dâhil beş kişiden oluşur. Müdür ve müdür yardımcıları dışında kalan üyeler, Üniversitenin Merkezin çalışma alanı ile ilgili öğretim elemanları arasından Üniversite Yönetim Kurulunun önerisi üzerine Rektör tarafından görevlendirilir.
+
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler tekrar görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere yeni bir üye görevlendirilir.
+
+(3) Yönetim Kurulu, Müdürün çağrısı üzerine salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+
+(4) Yönetim Kurulu gerekli gördüğü durumlarda geçici çalışma grupları kurabilir.
+
+(5) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyetlerini gözden geçirerek bu Yönetmelikte belirtilen amaçlar doğrultusunda Merkezin çalışma ilkeleri, işleyişi ve yönetimi ile ilgili konularda kararlar almak.
+
+b) Merkezin çalışmaları ile ilgili plan ve programların hazırlanmasını ve uygulanmasını sağlamak.
+
+c) Sunulan projelerin Merkezin amaçlarına uygun olup olmadığına karar vermek ve uygun projeler için çalışma ortamı hazırlamak.
+
+ç) Müdürün faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek, sunulan raporu değerlendirmek, bir sonraki döneme ait çalışma programını düzenlemek.
+
+d) Merkezde yapılacak analiz ücretlerini tespit etmek.
+
+e) Müdür tarafından hazırlanacak program ve önerileri inceleyerek karara bağlamak.
+
+f) İlgili mevzuatla kendisine verilen diğer görevleri yerine getirmek.
+
+### MADDE 11 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; Yönetim Kurulunun önerisi ile konuyla ilgili bilimsel çalışmaları olan kişilerden oluşmak üzere, Rektör tarafından görevlendirilen en az beş, en çok on beş kişiden oluşur. Müdür ve müdür yardımcıları danışma kurulunun doğal üyesidir.
+
+(2) Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üye yeniden görevlendirilebilir. Danışma Kurulu, yılda en az iki defa toplanarak, Merkezin çalışmalarını değerlendirir ve yeni çalışmalar konusunda görüş ve önerilerini Yönetim Kuruluna bildirir. Gerek görülmesi halinde Danışma Kuruluna, Rektörün onayı ile görüş ve düşüncelerinden faydalanılacağı düşünülen Üniversite dışından kamu ve özel kişi ve kuruluş temsilcileri de davet edilebilir.
+
+(3) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyetlerini değerlendirerek, faaliyet alanları ile ilgili konularda görüş ve tavsiyelerde bulunmak.
+
+b) Bölgedeki sanayi kuruluşları ve diğer bilimsel ve teknolojik kuruluşlarla işbirliği ortamının oluşturulup geliştirilmesiyle ilgili görüş bildirmek.
+
+c) Merkez ile ilgili Üniversite dışı finans kaynaklarının değerlendirilmesi konusunda görüş bildirmek ve bu yönde girişimlerde bulunulması için öneriler geliştirmek.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik, idari ve hizmetli personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilen elemanlar tarafından karşılanır.
+
+### MADDE 13 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+
+### MADDE 14 — Ekipman ve demirbaşlar
+
+(1) Araştırma projeleri kapsamında alınan ve alınacak olan her türlü alet, ekipman ve demirbaşlar proje sonunda Merkezin kullanımına tahsis edilir.
+
+### MADDE 15 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ve Senato kararları uygulanır.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Iğdır Üniversitesi Rektörü yürütür.

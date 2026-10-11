@@ -1,0 +1,212 @@
+---
+title: "BİRUNİ ÜNİVERSİTESİ ANA YÖNETMELİĞİ"
+identifier: "8.5.20185"
+number: "20185"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2014-11-03
+official_gazette_date: 2014-11-03
+official_gazette_number: "29164"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20185&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BİRUNİ ÜNİVERSİTESİ ANA YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Biruni Üniversitesinin yönetimi, işleyişi, akademik organları ve görevlerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Biruni Üniversitesinin yönetimine, işleyişine, idari ve akademik organlarına, öğretim elemanlarına, görevlerine ve mali konulara ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu ile 28/3/1983 tarihli ve 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununun ek 156 ncı maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Başkan: Biruni Üniversitesi Mütevelli Heyeti Başkanını,
+
+b) Başkan Vekili: Biruni Üniversitesi Mütevelli Heyeti Başkan Vekilini,
+
+c) Mütevelli Heyet: Biruni Üniversitesi Mütevelli Heyetini,
+
+ç) Rektör: Biruni Üniversitesi Rektörünü,
+
+d) Senato: Biruni Üniversitesi Senatosunu,
+
+e) Üniversite: Biruni Üniversitesini,
+
+f) Vakıf: Dünya Eğitim Vakfını,
+
+g) Yönetim Kurulu: Biruni Üniversitesi Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Mütevelli Heyet, Başkan ve Görevleri
+
+### MADDE 5 — Mütevelli Heyet
+
+(1) Mütevelli Heyet, Üniversitenin en yüksek karar organı olup Üniversitenin tüzel kişiliğini temsil eder. Mütevelli Heyet, Vakıf yönetim organı tarafından, ilgili mevzuat hükümlerinde belirtilen şart ve niteliklere uygun olarak dört yıl süreyle seçilen en az yedi kişiden oluşur. Süresi dolan üye yeniden seçilebilir. Rektör Mütevelli Heyetin tabii üyesi olup, Başkanlığa veya Başkan Vekilliğine seçilemez ve kendisi ile ilgili konulardaki toplantılara katılamaz. Mütevelli Heyet toplantılarının raportörlüğünü Genel Sekreter yapar.
+
+(2) Mütevelli Heyet kendi içinden bir başkan seçer. Mütevelli Heyet üyelerinden biri görevinden ayrıldığında, yeri boşalan üyenin yerine en geç bir ay içinde dört yıl süreyle yeni bir üye seçilir. Başkan ve üyeler ile bunların birinci derece kan ve kayın hısımları ile eşlerinden Mütevelli Heyette görev alacakların sayısı ikiyi geçemez. Rektör dışındaki Üniversite mensupları Mütevelli Heyet üyeliğine seçilemez.
+
+(3) Seçilen Mütevelli Heyet üyelerinin isimleri Başkan tarafından Yükseköğretim Kuruluna bildirilir.
+
+(4) Mütevelli Heyet üyeliği fahridir. Ancak; Vakıf Yönetim Kurulu kararı ile Mütevelli Heyet üyelerine toplantıya katılma yol ve huzur hakkı verilebilir. Verilecek miktar bir yılda onikiyi geçmemek üzere katılacakları her toplantı için Yükseköğretim Genel Kurulu üyeleri için 2547 sayılı Kanunda öngörülen ücreti aşamaz. Mütevelli heyet başkan ve üyelerine bunun dışında herhangi bir suretle başkaca bir ödeme yapılamaz.
+
+(5) Mütevelli Heyet, ilgili mevzuat hükümlerine göre yılda en az dört defa toplanır ve kararlar alır.
+
+### MADDE 6 — Mütevelli heyetin görevleri
+
+(1) Mütevelli Heyetin görevleri şunlardır;
+
+a) Üniversitenin tüzel kişiliğini temsil etmek,
+
+b) Üniversitenin geliştirilmesi yönünde hedefleri belirlemek, gerekli yatırımları planlamak ve uygulamak,
+
+c) Üniversitenin verimli çalışabilmesini sağlamak amacıyla gerekli düzenleyici işlemlerin taslaklarını inceleyerek karara bağlamak,
+
+ç) Yükseköğretim Kurulunun onayıyla Üniversitenin Rektörünü seçmek ve bu Yönetmeliğe uygun olarak atamasını yapmak,
+
+d) Üniversitede akademik birimler kurulmasına, birleştirilmesine veya kapatılmasına ilişkin Yükseköğretim Kuruluna sunulacak Senato önerilerini inceleyerek karara bağlamak,
+
+e) Üniversitede görevlendirilecek yönetici, öğretim elemanları ve diğer personelin sözleşmelerini yapmak, atamalarını, öğretim elemanı dışındaki personelin terfilerini ve görevden alınmalarını onaylamak,
+
+f) Üniversite bütçesini kabul etmek ve uygulanmasını izlemek,
+
+g) Üniversiteye ait menkul ve gayrimenkulleri denetlemek ve yönetmek,
+
+ğ) Üniversitenin çeşitli organları arasındaki uyuşmazlıkların giderilmesinde son kararı vermek,
+
+h) Üniversite yetkili kurullarınca Üniversiteye alınması önerilecek öğrenci sayılarını ve öğrenci kontenjanlarını belirleyerek Yükseköğretim Kuruluna sunmak,
+
+ı) Üniversitenin yurt içindeki ve yurt dışındaki diğer yükseköğretim kurumları ile yapılacak ve Yükseköğretim Kurulunun onayına sunulacak iş birliği protokollerini değerlendirmek,
+
+i) Öğrencilerden alınacak ücretleri ve ödeme şekillerini tespit etmek,
+
+j) İlgili mevzuatla verilen diğer görevleri yapmak.
+
+(2) Mütevelli Heyet, uygun gördüğü ölçü ve sürede, yetkilerinden bir kısmını Başkana, Rektöre ve Üniversitenin diğer organlarına devredebilir.
+
+(3) Mütevelli Heyet akademik çalışmaların en üst düzeyde yürütülmesi için gerekli önlemleri alır. Akademik yönden en üst düzeydeki öğretim elemanlarının belirlenmesi, seçimi ve atanması; Devlet yükseköğretim kurumlarındaki öğretim elemanlarında aranan niteliklere ek olarak, Mütevelli Heyeti tarafından kabul edilecek diğer şartlara göre yapılır.
+
+### MADDE 7 — Başkan, başkan vekilleri ve görevleri
+
+(1) Mütevelli Heyet üyeleri kendi aralarından en fazla dört yıl için bir Başkan ve en fazla dört Başkan Vekili seçer. Süresi dolan Başkan ve Başkan Vekilleri yeniden seçilebilir.
+
+(2) Başkan; Üniversitenin harcama yetkilisi (ita amiri) olup, Mütevelli Heyetin kendisine verdiği yetkileri kullanır ve bu Yönetmelik ile ilgili diğer mevzuat hükümleriyle verilen görevleri yürütür. Başkan, yokluğunda Başkan Vekillerinden birini yerine vekil olarak görevlendirir ve gerekli görürse yetkilerinden bir bölümünü vekillerine devredebilir. Başkan Mütevelli Heyet üyeleri arasında çeşitli alanlarda ihtisas komisyonları kurabilir.
+
+## ÜÇÜNCÜ BÖLÜM — Akademik Organlar, İdari Organlar, Öğretim Elemanları ve Görevleri
+
+### MADDE 8 — Senato
+
+(1) Senato; Rektörün başkanlığında, Rektör yardımcıları, dekanlar, Rektörlüğe bağlı enstitü ve yüksekokul müdürleri ile her fakülteden kendi kurullarınca üç yıl için seçilen birer öğretim üyesinden oluşur.
+
+(2) Senatonun görevleri; Üniversitenin akademik faaliyetleri ile ilgili konularda karar vermek, Mütevelli Heyet tarafından getirilen konularda görüş bildirmek, bir sınava bağlı olmayan fahrî akademik unvanlarla ilgili önerilerini Mütevelli Heyetinin onayına sunmak, verilen diğer görevleri yapmak ve 2547 sayılı Kanunla verilen diğer görevleri yerine getirmektir.
+
+(3) Senato biri öğretim yılı başında, biri öğretim yılı sonunda olmak üzere yılda en az iki defa olağan olarak toplanır. Rektör, gerekli gördüğü hallerde Senatoyu olağanüstü de toplantıya çağırabilir. Senatonun raportörü Genel Sekreteridir.
+
+### MADDE 9 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Rektörün başkanlığında dekanlar ve Senato tarafından, Üniversite birimlerini temsil edecek şekilde dört yıl için seçilen üç profesörden oluşur.
+
+(2) Üniversite Yönetim Kurulunun görevleri; Üniversite yönetimiyle ilgili Rektörün getireceği konularda karar almak ve önerilerde bulunmak, fakülte, enstitü, yüksekokul ve diğer akademik birimlerin yönetim kurullarının kararlarına yapılacak itirazları inceleyerek kesin karara bağlamak ve ilgili mevzuatla verilen diğer görevleri yapmaktır.
+
+### MADDE 10 — Rektör
+
+(1) Rektör; Üniversite içinden veya dışından, Yükseköğretim Kurulunun olumlu görüşü alındıktan sonra, Mütevelli Heyet tarafından dört yıl için atanır. Süresi dolan Rektör, aynı usulle yeniden atanabilir. Mütevelli Heyet, yeni Rektör seçilinceye kadar eski Rektörün görevine devam etmesine veya görevin vekâleten yürütülmesine karar verir. Görevin vekâleten yürütülmesi durumunda Rektörlüğe vekâlet edecek kişi ile ilgili Yükseköğretim Kurulunun olumlu görüşü alınır. Vekâlet süresi altı aydan fazla olmaz.
+
+(2) Rektör; ilgili mevzuat hükümlerine göre Mütevelli Heyet tarafından verilen görevleri yapar ve yetkileri kullanır. Rektör; Üniversitenin öngörülen sürede öğretime açılması, planlanmış eğitim faaliyetlerinin en üst düzeyde yürütülmesi, ileriye dönük gelişmelerin sağlanması, eğitim ve öğretimin kalitesinin arttırılması konularında Mütevelli Heyete karşı sorumludur ve Mütevelli Heyet tarafından belirlenen stratejilerin ve alınan kararların uygulanmasını sağlamakla görevlidir.
+
+(3) Rektöre Mütevelli Heyetin onayı ile harcama yetkisi verilebilir. Rektör, bu yetkisini kullanır veya bu yetkisini uygun gördüğü ölçüde dekan veya enstitü müdürlerine devredebilir.
+
+(4) Rektör, 2547 sayılı Kanun ve diğer ilgili mevzuatla verilen görevleri yapar.
+
+### MADDE 11 — Rektör yardımcıları
+
+(1) **(Değişik:RG-24/1/2024-32439)** Rektör, çalışmalarında kendisine yardım etmek üzere, Üniversitenin aylıklı profesörleri arasından en çok üç kişiyi kendi rektörlük görev süresiyle sınırlı olmak kaydıyla rektör yardımcısı olarak seçer. Rektör yardımcıları aynı usulle değiştirilebilir. Rektör, görevi başında olmadığı zaman yardımcılarından birisini vekil olarak bırakır.
+
+(2) Rektör yardımcıları, Rektörün kendilerine verdiği görevleri yürütür.
+
+### MADDE 12 — Dekanlar ve enstitü müdürleri
+
+(1) Dekanlar, Rektörün önerisi üzerine Yükseköğretim Kurulunun olumlu görüşü alınarak Mütevelli Heyet tarafından atanır.
+
+(2) Rektöre bağlı enstitü ve yüksekokul müdürleri, Rektörün önerisi üzerine Mütevelli Heyet tarafından atanır. Dekanların ve enstitü müdürlerinin görev süresi üç yıldır. Görev süresi dolan dekan ve enstitü müdürleri aynı usulle yeniden atanabilir.
+
+(3) Dekanlar ve enstitü müdürleri, birimlerinin temsilcileridir ve birimlerinin öğretim kapasitesinin rasyonel bir biçimde kullanılması ve geliştirilmesinden, eğitim-öğretim, bilimsel araştırma faaliyetlerinin düzenli bir şekilde yürütülmesinden ve öğrencilere gerekli hizmetlerin sağlanmasından Rektöre karşı sorumludur.
+
+(4) Dekanlar ve enstitü müdürleri, 2547 sayılı Kanun ve diğer ilgili mevzuatla verilen görevleri yapar.
+
+### MADDE 13 — Genel Sekreter
+
+(1) Genel Sekreter, Üniversite idari teşkilatının başıdır ve Üniversitenin tüm idari işlerinden sorumlu yöneticidir. Genel Sekreterin atanması ve görevden alınması Rektörün önerisi ve Mütevelli Heyetin kararı ile olur.
+
+(2) Genel Sekreter, 2547 sayılı Kanun ve diğer ilgili mevzuatla verilen görevleri yapar.
+
+### MADDE 14 — Öğretim elemanları
+
+(1) Öğretim elemanları; öğretim üyeleri, öğretim görevlileri, okutmanlar ve öğretim yardımcılarından oluşur.
+
+(2) Öğretim üyeleri; bütün çalışmalarını Üniversiteye veren tam zamanlı profesör, doçent ve yardımcı doçentlerdir.
+
+(3) Öğretim elemanlarının atanmaları ve terfilerinde, Devlet yükseköğretim kurumlarındaki atamalarda aranan şartlara ilave olarak aranacak şartlar Mütevelli Heyet tarafından belirlenir.
+
+(4) Öğretim elemanları, 2547 sayılı Kanun ve diğer ilgili mevzuatla verilen görevleri yapar.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 15 — Araştırma-geliştirme projeleri ve danışmanlık hizmetleri
+
+(1) Öğretim elemanlarının ve yöneticilerin girişimleriyle yürütülecek araştırma ve geliştirme projeleri, Rektörlük tarafından incelenir, değerlendirilir ve karara bağlanmak üzere Mütevelli Heyetin onayına sunulur. Değerlendirme yapılırken, projenin Üniversiteye katkısı ve Üniversiteye sağlayacağı gelir göz önünde bulundurulur.
+
+(2) Tam zamanlı öğretim elemanlarının Üniversite içinde veya dışında danışmanlık yapmaları Rektörlük iznine bağlıdır.
+
+(3) Üniversitede görevli tam zamanlı personelin projelerden veya danışmanlık hizmetlerinden elde edilecek gelirlerden, telif hakları dâhil, ne ölçüde yararlandırılacakları ile ilgili esaslar, Senato tarafından belirlenir ve Rektör tarafından Mütevelli Heyetin onayına sunulur.
+
+### MADDE 16 — Gelir kaynakları
+
+(1) Üniversitenin gelir kaynakları şunlardır;
+
+a) Öğrencilerden alınacak ücretler,
+
+b) Üniversitenin yatırım ve işletmelerinden elde edilecek gelirler,
+
+c) Araştırma-geliştirme projeleri ve danışmanlık hizmetlerinden elde edilecek gelirler,
+
+ç) Devlet bütçesi, diğer kamu kurum ve kuruluşları ve kurucu vakıf tarafından yapılacak yardımlar,
+
+d) Bağışlar, vasiyetler, kira ve diğer gelirler.
+
+### MADDE 17 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde; 2547 sayılı Kanun ve 31/12/2005 tarihli ve 26040 sayılı Resmî Gazete’de yayımlanan Vakıf Yükseköğretim Kurumları Yönetmeliği ve ilgili diğer mevzuat hükümleri ile Yükseköğretim Kurulu, Mütevelli Heyet ve Senato kararları uygulanır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Mütevelli Heyeti Başkanı yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>3/11/2014</td><td>29164</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>24/1/2024</td><td>32439</td></tr>
+</table>

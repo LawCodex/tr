@@ -1,0 +1,75 @@
+---
+title: "ATATÜRK ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ AĞIZ-DİŞ-ÇENE HASTALIKLARI VE CERRAHİSİ YATAKLI SERVİS YÖNETMELİĞİ"
+identifier: "8.5.7529"
+number: "7529"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2003-11-17
+official_gazette_date: 2003-11-17
+official_gazette_number: "25292"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7529&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ATATÜRK ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ AĞIZ-DİŞ-ÇENE HASTALIKLARI VE CERRAHİSİ YATAKLI SERVİS YÖNETMELİĞİ
+
+## Madde 1 — Kuruluş ve Tanımlar
+
+Uygulamada bulunan eğitim ve ameliyat programları içinde öğrenci ve öğretim elemanlarının yetişmesine, mesleğin ilerlemesine, maksillo-fasial branşının yeniliklere takibini ve bu konuda ileri seviyede araştırmalara imkan sağlamak üzere Ağız-Diş Hastalıkları ve Çene Cerrahisi yataklı servisi kurulmuştur.
+
+Bu Yönetmelikte; Atatürk Üniversitesi Diş Hekimliği Fakültesi “Fakülte”, Ağız-Diş Çene Hastalıkları ve Cerrahisi Anabilim Dalı “Anabilim Dalı” ve Ağız-Diş Çene Hastalıkları ve Cerrahisi Anabilim Dalı Kliniği “Yataklı Servis” olarak ifade edilmiştir.
+
+## Madde 2 — İşleyiş
+
+Serviste hasta kabul, yatırma, iaşe ve nöbet hizmetleri kürsü tarafından hazırlanan bir yönerge uyarınca yapılır.
+
+Servisin her türlü yazı arşiv işleri kürsü sekreterliğince yapılır.
+
+Hasta ziyareti, genel idari nöbet, çamaşırhane, ütü ve benzeri hizmetler dekanlıkça düzenlenir.
+
+Acil ilaç ihtiyacı yönerge uyarınca ecza dolabından karşılanır.
+
+Kürsü öğretim üyeleri yönergede belirlenecek biçimde haftalık olmak üzere evlerinde “çağrılı nöbet” tutarlar.
+
+Serviste hasta yattığı sürece servise bağlı olarak 1 diş hekimi asistan veya uzman, 1 hemşire, 1 hastabakıcı, 1 bekçi ve 1 şoför nöbetçi kalırlar.
+
+## Madde 3 — Serviste Yatacak Hastalar
+
+Yataklı servise, komplike çene kırıklı, operatif çene kırıklı, dental kökenli sinüzitli, büyük çene kisti, mental geriliği olan, çeşitli ortodontik cerrahi gerektiren, selim tümör operasyonları (Pleomorfik adenoma, mixoma) gereken, dudak-damak yarıklı, çene eklemi şikayetli, postoperatif kanama, yüksek ateş, komplikasyon belirtileri olan, uzaktan gelen bir günde tedavisi tamamlanamayan, uzaktan gelip de tedavisi için gerekli aparey vesaire gibi yapılması zaman alan ve bunların dışında hekimin yatmasında yarar gördüğü hastalar yatırılır.
+
+## Madde 4 — Ücret
+
+Hastalara uygulanacak muayene ve tedavi ücretleri yetkili kurullarca saptanır ve Atatürk Üniversitesi Tıp Fakültesince uygulanan tarifeye eşdeğer olarak döner sermaye muhasebesince tahsil edilir.
+
+## Madde 5 — Raporlar
+
+Serviste tedavi görenlere verilecek raporlar Anabilim Dalı Başkanlığınca düzenlenerek Başhekimlikçe tasdik edilir. Başhekim atanıncaya kadar Dekanlık bu görevi yürütür.
+
+## Madde 6
+
+Servise yatırılan hastaların muayene ve tedavilerinde gerektiğinde fakültenin diğer servisleriyle işbirliği yapılır.
+
+## Madde 7
+
+Serviste acil müdahale, morg, gasıl gibi hizmetlerin yerine getirilmesi, Atatürk Üniversitesi Tıp Fakültesi Dekanlığı ve Sağlık Bakanlığı ile yapılacak protokole göre düzenlenir.
+
+## Madde 8
+
+Serviste yatan hastaların preoperatif ve postoperatif değerlendirmeleri protokol gereği Atatürk Üniversitesi Tıp Fakültesi doktorları tarafından yapılır.
+
+## Madde 9 — Yönetmelikte Hüküm Bulunmayan Haller
+
+Bu Yönetmelikte hüküm bulunmayan hallerde Sağlık Bakanlığı Yataklı Servis Kurumları İşletme Yönetmeliği uygulanır.
+
+## Madde 10 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+## Madde 11 — Yürütme
+
+Bu Yönetmelik hükümlerini Diş Hekimliği Fakültesi Dekanı yürütür.

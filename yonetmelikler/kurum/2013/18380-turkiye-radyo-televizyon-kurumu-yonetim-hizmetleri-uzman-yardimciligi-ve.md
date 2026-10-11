@@ -1,0 +1,473 @@
+---
+title: "TÜRKİYE RADYO-TELEVİZYON KURUMU YÖNETİM HİZMETLERİ UZMAN YARDIMCILIĞI VE UZMANLIĞI SINAVLARI İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK"
+identifier: "7.5.18380"
+number: "18380"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2013-05-18
+official_gazette_date: 2013-05-18
+official_gazette_number: "28651"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18380&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TÜRKİYE RADYO-TELEVİZYON KURUMU YÖNETİM HİZMETLERİ UZMAN YARDIMCILIĞI VE UZMANLIĞI SINAVLARI İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, Yönetim Hizmetleri Uzman Yardımcılarının mesleğe alınma, yetiştirilme, tez ve yeterlik sınavları ile Yönetim Hizmetleri Uzmanlığına atanma usul ve esaslarını; Yönetim Hizmetleri Uzmanı ve Uzman Yardımcılarının eğitimleri, çalışma usul ve esasları, görev, yetki ve sorumlulukları ile diğer hususları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik hükümleri, Türkiye Radyo-Televizyon Kurumunda istihdam edilecek Yönetim Hizmetleri Uzmanı ve Uzman Yardımcıları ile Yönetim Hizmetleri Uzman Yardımcılığı Giriş Sınavına katılacak adaylar hakkında uygulanır.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 11/11/1983 tarihli ve 2954 sayılı Türkiye Radyo ve Televizyon Kanununun 56 ncı maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar ve kısaltmalar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Birim: 20/10/2009 tarihli ve 27382 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumu Kuruluş ve Görevleri Hakkında Yönetmelik ile düzenlenen hizmet birimlerini,
+
+b) Genel Müdür: Türkiye Radyo-Televizyon Kurumu Genel Müdürünü,
+
+c) Giriş Sınavı: Yönetim Hizmetleri Uzman Yardımcılığı Giriş Sınavını,
+
+ç) Komisyon: Yönetim Hizmetleri Uzman Yardımcılığı Giriş Sınavı Komisyonunu,
+
+d) KPSS: Kamu Personel Seçme Sınavını,
+
+e) Kurul: Tez Değerlendirme ve Yeterlik Sınav Kurulunu,
+
+f) Kurum: Türkiye Radyo-Televizyon Kurumunu,
+
+g) Uzman: Yönetim Hizmetleri Uzmanını,
+
+ğ) Uzman Yardımcısı: Yönetim Hizmetleri Uzman Yardımcısını,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Uzman Yardımcılığına Giriş
+
+### MADDE 5 — Uzman yardımcılığı ve giriş sınavı
+
+(1) Uzmanlık mesleğine, giriş sınavıyla uzman yardımcısı olarak girilir. Uzman yardımcısı kadrosuna atanabilmek için giriş sınavında başarılı olmak şarttır.
+
+(2) Giriş sınavı, kadro ve ihtiyaç durumuna göre Kurum tarafından uygun görülen zamanlarda açılır.
+
+(3) Giriş sınavı, yazılı ve sözlü-mülakat şeklinde iki aşamalı yapılır.
+
+(4) Giriş sınavına çağrılacak adayların sayısı, atama yapılacak kadro sayısının yirmi katından fazla olamaz. KPSS puanı en yüksek olan adaydan başlamak üzere yapılan sıralama sonucunda son sıradaki aday ile eşit puana sahip adaylar da sınava çağrılır.
+
+### MADDE 6 — Giriş sınavı duyurusu
+
+(1) Giriş sınavına katılma şartları, sınavın yapılış şekli, değerlendirme yöntemi, atama yapılacak kadro sayısı, KPSS puan türleri ve asgari puanlar, sınava çağrılacak aday sayısı, son başvuru tarihi, başvuru yeri, başvuru şekli ve başvuruda istenecek belge ve beyanlar, gerek görülmesi halinde öğrenim dalları ve kontenjanları ile diğer hususlar son başvuru tarihinden en az onbeş gün önce Resmî Gazete’de, Türkiye genelinde yayımlanan tirajı en yüksek ilk beş gazetenin en az birinde ve Kurumun internet adresinde yayımlanmak suretiyle duyurulur.
+
+### MADDE 7 — Giriş sınavına başvuru şartları
+
+(1) Giriş sınavına başvurmak isteyenlerde son başvuru tarihi itibariyle aşağıdaki şartlar aranır:
+
+a) 24/9/2008 tarihli ve 27007 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumunda Memur Statüsünde İstihdam Edilen Personel Yönetmeliğinin 37 nci maddesindeki genel şartları taşımak.
+
+b) Üniversitelerin en az dört yıl süre ile eğitim veren siyasal bilgiler, hukuk, iktisat, işletme, iktisadi ve idari bilimler fakülteleri ile bunlara denkliği yetkili makamlarca kabul edilen yurt içi ve yurt dışındaki dört yıl süreli fakülte veya yüksekokullardan birinden mezun olmak.
+
+c) Giriş sınavına son başvuru tarihi itibarıyla otuz beş yaşını doldurmamış olmak.
+
+ç) Geçerlik süresi dolmamış KPSS puan türü veya türlerinden giriş sınavı ilanında belirtilen taban puanı almış olmak.
+
+### MADDE 8 — Başvuruda istenen belgeler ve başvuru şekli
+
+(1) Giriş sınavına katılmak isteyenlerden aşağıdaki belgeler istenir:
+
+a) Kurumdan veya Kurumun internet adresinden temin edilecek başvuru formu.
+
+b) Yükseköğrenim diploması veya geçici mezuniyet belgesinin ya da yurt dışında eğitim görenler için diploma denklik belgesinin aslı veya Kurumca onaylı örneği.
+
+c) KPSS sonuç belgesinin aslı veya fotokopisi ya da bilgisayar çıktısı.
+
+ç) Yazılı özgeçmiş.
+
+d) İki adet vesikalık fotoğraf.
+
+(2) Adaylardan istenen belgelerin Kuruma giriş sınavı duyurusunda belirtilen tarih ve saatte, elden veya posta yoluyla ya da giriş sınavı duyurusunda belirtildiği takdirde elektronik ortamda teslim edilmesi gerekir. Postadaki gecikmeler ve ilânda belirtilen süre içerisinde yapılmayan başvurular dikkate alınmaz.
+
+### MADDE 9 — Başvuruların incelenmesi ve adayların sınava kabulü
+
+(1) İnsan Kaynakları Dairesi Başkanlığı, süresinde yapılan başvuruları inceleyerek adaylarda aranan şartların mevcut olup olmadığını tespit eder ve giriş sınavına katılabileceklerin isimlerini KPSS puanları ile birlikte Kurum ilan panosu ile resmi internet adresinde ilan eder.
+
+(2) Yazılı sınava girme hakkı kazanan adaylara fotoğraflı sınav giriş belgesi verilir. Sınav giriş belgesinde kimlik bilgileri, sınav yeri ve tarihi yer alır. Sınav giriş belgesi olmayan adaylar sınava katılamazlar.
+
+(3) Giriş sınavına katılmaya hak kazananlardan gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz. Bunların atamaları yapılmış olsa dahi iptal edilir. Bunlar hiçbir hak talep edemez ve haklarında Cumhuriyet Başsavcılığına suç duyurusunda bulunulur.
+
+### MADDE 10 — Giriş Sınavı Komisyonu
+
+(1) Giriş sınavının yapılması, sınav sonuçlarının değerlendirilmesi ve itirazların incelenerek karara bağlanması Giriş Sınavı Komisyonunca yapılır.
+
+(2) Komisyon, Genel Müdür Olur’u ile daire başkanı ve daha üst seviyedeki Kurum yöneticileri ile Yönetim Hizmetleri Uzmanları arasından belirlenen bir başkan ve dört üyeden oluşur. Ayrıca, üç yedek üye belirlenir. Komisyon Başkanı ile yedek üyelerden en az birisi, daire başkanı ve daha üst seviyedeki Kurum yöneticileri arasından belirlenir. Asıl üyelerin herhangi bir nedenle Komisyona katılamamaları hâlinde, yedek üyeler tespit sırasına göre Komisyona katılırlar.
+
+(3) Kurumca lüzum görülmesi halinde, öğretim üyeleri ile Kurumdan veya diğer kamu idarelerinden konusunda uzman kişiler komisyon üyesi olarak görevlendirilebilirler. Ancak bu şekilde görevlendirilecek üye sayısı ikiyi geçemez.
+
+(4) Komisyon, üye tamsayısıyla toplanır ve oy çokluğu ile karar alır.
+
+(5) Komisyon üyeleri kendilerinin, boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının veya evlatlıklarının katıldığı sınavlarda görev alamazlar.
+
+### MADDE 11 — Yazılı sınav
+
+(1) Yazılı sınava, KPSS sonuçlarına göre başvuran adaylardan, sınav ilanında belirtilen puan türüne göre en yüksek puana sahip olandan başlanarak, atama yapılacak kadro sayısının en fazla yirmi katına kadar aday (son sıradaki adayla eşit puana sahip olanlar dâhil) katılabilir.
+
+### MADDE 12 — Yazılı sınav konuları
+
+(1) Yazılı sınav aşağıdaki konular arasından yapılır.
+
+a) İKTİSAT GRUBU:
+
+1) Mikro ve makro iktisat,
+
+2) İktisat politikası,
+
+3) Türkiye ekonomisi,
+
+4) Uluslararası ekonomik ilişkiler ve kuruluşlar.
+
+b) MALİYE GRUBU:
+
+1) Kamu maliyesi,
+
+2) Bütçe ve bütçe politikası, Türk bütçe sistemi,
+
+3) Türk vergi sisteminin genel esasları,
+
+4) Maliye politikası.
+
+c) HUKUK GRUBU:
+
+1) Anayasa hukuku,
+
+2) İdare hukukunun genel esasları ve idari yargı,
+
+3) Ceza hukuku (Genel hükümler),
+
+4) Medeni hukuk (Başlangıç-kişiler hukuku-eşya hukuku),
+
+5) Borçlar hukuku (Genel hükümler).
+
+(2) Yazılı sınavda soruların konu grupları bakımından hangi ağırlıkta değerlendirmeye tabi tutulacağına sınav duyurusunda yer verilir.
+
+### MADDE 13 — Yazılı sınavın yapılış şekli
+
+(1) Sınav soruları, klasik veya test usulüne göre komisyon tarafından hazırlanır. Sınav sorularının hazırlanması ve cevaplarının değerlendirilmesi için gerektiğinde öğretim üyelerinden veya konusunda uzman kamu görevlilerinden yararlanılabilir.
+
+(2) Yazılı sınav, İnsan Kaynakları Dairesi Başkanlığı tarafından Komisyonun gözetim ve denetimi altında yapılır.
+
+(3) Sınavda kopya çekenler, çekmeye teşebbüs edenler veya kopya çektiği tespit edilenler hakkında tutanak düzenlenerek sınavları geçersiz sayılır.
+
+(4) Yazılı sınav; Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına, Millî Eğitim Bakanlığına, yükseköğretim kurumlarına veya bu konuda uzmanlaşmış diğer kamu kurum ve kuruluşlarına da yaptırılabilir. Bu durumda yazılı sınava ilişkin hususlar, Kurum ve ilgili kuruluş arasında protokol ile belirlenir.
+
+### MADDE 14 — Yazılı sınavın değerlendirilmesi ve sözlü sınava çağırma
+
+(1) Yazılı sınav, yüz tam puan üzerinden değerlendirilir, en yüksek puandan başlamak üzere sıralama yapılarak tutanağa bağlanır ve imzalanır.
+
+(2) Yazılı sınavda başarılı sayılmak için sınav ilanında belirtilen konu gruplarından en az elli puan alınması ve bunların ortalamasının en az yetmiş puan olması gerekir.
+
+(3) Yazılı sınavda başarılı olanlardan en yüksek puan alan adaydan başlanarak, atama yapılacak kadro sayısının dört katını geçmemek üzere, duyuruda belirtilen sayıda aday sözlü sınava çağrılır. Son sıradaki adayla aynı puanı alan adaylar da sözlü sınava çağrılır.
+
+### MADDE 15 — Yazılı sınav sonuçlarının duyurulması
+
+(1) Yazılı sınav sonuçları, Kurum ilan panosu ve resmi internet adresinde yayımlanmak suretiyle duyurulur. Ayrıca, sözlü-mülakat sınavına katılmaya hak kazananlara, sözlü-mülakat sınavının yeri, günü ve saatine ilişkin bilgileri içeren tebligat yapılır.
+
+### MADDE 16 — Sözlü-mülakat sınavı
+
+(1) Sözlü-mülakat sınavında adaylar;
+
+a) Yazılı sınav konularına ilişkin bilgi düzeyi,
+
+b) Bir konuyu kavrayıp özetleme, ifade yeteneği ve muhakeme gücü,
+
+c) Liyakati, temsil kabiliyeti, davranış ve tepkilerinin mesleğe uygunluğu,
+
+ç) Özgüveni, ikna kabiliyeti ve inandırıcılığı,
+
+d) Genel yetenek ve genel kültürü,
+
+e) Bilimsel ve teknolojik gelişmelere açıklığı,
+
+yönlerinden ayrı ayrı puan verilmek suretiyle değerlendirilir.
+
+(2) Adaylar, Komisyon tarafından birinci fıkranın (a) bendi için elli puan, (b), (c), (ç), (d) ve (e) bentlerinde yazılı özelliklerin her biri için ise onar puan üzerinden değerlendirilir ve verilen puanlar ayrı ayrı tutanağa geçirilir. Bunun dışında sözlü-mülakat sınavı ile ilgili herhangi bir kayıt sistemi kullanılmaz. Sözlü-mülakat sınavında başarılı sayılmak için, Komisyon başkan ve üyelerinin yüz tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az yetmiş olması şarttır.
+
+### MADDE 17 — Giriş sınavının değerlendirilmesi
+
+(1) Başarı sırası yazılı ve sözlü-mülakat sınav sonucunda alınan notların aritmetik ortalaması alınarak belirlenir.
+
+(2) Adaylar, başarı sırası en yüksek adaydan başlanarak sıralamaya konulur ve başarı sırasına göre atama yapılacak kadro sayısı kadar aday asıl, giriş sınavında başarılı olmak şartıyla atama yapılacak kadro sayısının yarısını geçmemek üzere, Komisyonca belirlenecek sayıda aday ise yedek olarak tespit edilir.
+
+(3) Adayların giriş sınavı puanlarının aynı olması halinde sırasıyla, yazılı sınav puanı ve KPSS puanı yüksek olana öncelik tanınır.
+
+(4) Giriş sınavında yetmiş ve üzerinde puan almış olmak, asıl listelere giremeyen adaylar için müktesep hak veya daha sonraki giriş sınavları için herhangi bir öncelik hakkı teşkil etmez.
+
+### MADDE 18 — Giriş sınavı sonuçlarının duyurulması
+
+(1) Giriş sınavı sonuçları, Kurumun internet adresinde ilan edilir. Ayrıca, asıl ve yedek listelerde yer alan adaylara tebligat yapılır.
+
+### MADDE 19 — Uzman yardımcılığına atama
+
+(1) Giriş sınavını asıl olarak kazananların, tebligatta belirtilen süre içinde, aşağıdaki belgelerle birlikte yazılı olarak yapacakları başvuru üzerine durumlarına uygun yönetim hizmetleri uzman yardımcısı kadrolarına atamaları yapılır.
+
+a) Adli sicil kaydına dair yazılı beyanı.
+
+b) Görevini devamlı yapmaya engel olabilecek akıl hastalığı olmadığına dair yazılı beyanı.
+
+c) Erkek adaylar için askerlik durumuna dair yazılı beyanı.
+
+ç) Mal bildirimi.
+
+d) 8 adet vesikalık fotoğraf.
+
+(2) Süresi içinde geçerli bir mazereti olmaksızın müracaat etmeyen adayların atama işlemleri yapılmaz.
+
+(3) Giriş sınavında başarılı olup ataması yapılmayanlardan veya ataması yapılıp da herhangi bir sebeple görevden ayrılanlardan boşalan kadrolara, sınav sonuçlarının ilanından itibaren altı ay içinde giriş sınavı başarı sıralamasına göre yedek listeden atama yapılabilir.
+
+### MADDE 20 — Sınav belgelerinin saklanması
+
+(1) Yönetim hizmetleri uzman yardımcısı kadrolarına atananların sınavla ilgili belgeleri özlük dosyalarında saklanır. Atanamayanların başvuru belgeleri ise giriş sınavı sonuçlarının ilanını izleyen iki ay içinde talepleri halinde ilgililere elden iade edilir.
+
+## ÜÇÜNCÜ BÖLÜM — Uzman Yardımcılığı Dönemi ve Uzman Yardımcılarının Yetiştirilmesi
+
+### MADDE 21 — Uzman yardımcılığı süresi
+
+(1) Uzman yardımcılığı süresi en az üç yıldır.
+
+### MADDE 22 — Çalışma düzeni
+
+(1) Uzman yardımcıları, bağlı oldukları Birim amirince belirlenen yönetim hizmetleri uzmanlarının refakatinde ve onların gözetiminde çalışırlar. İlgili birimde yönetim hizmetleri uzmanı bulunmaması halinde refakat edecek personel konumlarına uygun olarak bağlı oldukları Birim amirince belirlenir.
+
+### MADDE 23 — Uzman yardımcılarının yetiştirilmeleri
+
+(1) Uzman yardımcıları, Genel Müdürlük tarafından belirlenen kurumsal mevzuat ile 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik hükümleri çerçevesinde eğitime ve staja tabi tutulurlar.
+
+(2) Uzman yardımcılarının yetiştirilmesi için Eğitim Dairesi Başkanlığınca diğer birimlerin görüşleri de alınmak suretiyle, üç yıllık bir süreyi kapsayan özel çalışma ve yetiştirme planı hazırlanır ve uygulanır.
+
+(3) Çalışma ve yetiştirme planı;
+
+a) Uzman yardımcılarına, Kurumun görev alanı ile yönetim hizmeti alanında uzmanlaşabilmeleri için gerekli tanım, kavram, yöntem ve uygulamalara ilişkin asgari temel bilgilerin ve kurumsal kültürün kazandırılmasını,
+
+b) Yazışma, rapor yazma, inceleme, araştırma teknikleri konularında gerekli bilgi ve yeteneğin kazandırılmasını,
+
+c) Bilimsel çalışma ve araştırma alışkanlığının kazandırılmasını,
+
+ç) Bilgisayar ve teknoloji kullanım becerilerinin geliştirilmesini,
+
+d) Uzmanlık mesleğinin gerektirdiği davranış ve yetkinliklerin kazandırılmasını,
+
+e) Yabancı dil bilgilerinin geliştirilmesini,
+
+sağlamaya yönelik programları kapsar.
+
+## DÖRDÜNCÜ BÖLÜM — Uzmanlık Tezi
+
+### MADDE 24 — Uzmanlık tezinin belirlenmesi
+
+(1) Uzman yardımcıları, Kurumun görev alanı veya kamu yönetimi ile ilgili konularda uzmanlık tezi hazırlar.
+
+(2) Uzman yardımcıları; aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri hariç olmak üzere, adaylıkta geçen süre dâhil Kurumda iki yıllık fiili hizmet süresini izleyen bir ay içinde, hazırlamak istedikleri teze ilişkin üç farklı konuyu İnsan Kaynakları Dairesi Başkanlığına bildirir. Tez konuları, Genel Müdürün ya da görevlendireceği Genel Müdür Yardımcısının onayına sunulur. Yedi gün içinde verilecek onay ile tez konusu kesinleşmiş olur.
+
+(3) Tez konusunun uygun bulunmaması halinde, uzman yardımcısı on beş gün içinde onay makamının önerileri doğrultusunda yeni bir tez konusu belirler. Belirlenen tez konusu aynı usulle onaya sunulur. Tez konusunun ikinci kez uygun görülmemesi halinde, onay makamı tarafından yeni bir tez konusu re’sen belirlenir.
+
+(4) Kesinleşen tez konusu, uzman yardımcısına tebliğ edilir.
+
+### MADDE 25 — Uzmanlık tezinin hazırlanması ve tez danışmanı
+
+(1) Uzmanlık tezinin, tez danışmanının rehberliğinde bilimsel esaslara uygun olarak hazırlanması, uzman yardımcısının kendi görüş ve değerlendirmeleri ile önerilerini içermesi, daha önce yüksek lisans, doktora tezi veya başka bir amaçla, benzer tarzda hazırlanmamış ve kullanılmamış olması gerekir. Aksi durumun tespiti halinde, tez başarısız sayılır.
+
+(2) Tez danışmanı, tez konusunun kesinleşmesini izleyen iki ay içinde uzman yardımcısı tarafından, tez konusunda donanımlı uzmanlar veya öğretim üyeleri arasından belirlenir ve İnsan Kaynakları Dairesi Başkanlığına bildirilir.
+
+(3) Uzman yardımcısının tezini hazırlayabilmesi maksadıyla Kurumca gereken imkân ve kolaylıklar sağlanır.
+
+### MADDE 26 — Uzmanlık tezinin teslimi
+
+(1) Uzmanlık tezi, tez konusunun kesinleşmesini takip eden bir yıl içinde hazırlanarak İnsan Kaynakları Dairesi Başkanlığına teslim edilir.
+
+(2) Birinci fıkradaki bir yıllık sürenin hesabında aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri dikkate alınmaz.
+
+(3) Geçerli bir mazereti olmaksızın süresi içinde tezini teslim etmeyen uzman yardımcılarına, bir defaya mahsus olmak üzere altı ayı aşmamak üzere ek süre verilir. Verilen ilave süre içinde de tezlerini sunmayanlar hakkında 35 inci madde hükümleri uygulanır.
+
+### MADDE 27 — Tez Değerlendirme ve Yeterlik Sınav Kurulu
+
+(1) Uzmanlık tezlerinin incelenmesi ve değerlendirilmesi, yeterlik sınavının yapılması ile sonuçlarının açıklanması ve itirazların incelenerek karara bağlanması Tez Değerlendirme ve Yeterlik Sınav Kurulu tarafından yapılır.
+
+(2) Kurul, Genel Müdür onayı ile daire başkanı ve daha üst seviyedeki Kurum yöneticileri ile Yönetim Hizmetleri Uzmanları arasından belirlenen bir başkan ve dört üyeden oluşur. Ayrıca, üç yedek üye belirlenir. Komisyon Başkanı ile yedek üyelerden en az birisi, daire başkanı ve daha üst seviyedeki Kurum yöneticileri arasından belirlenir. Kurul üye tamsayısıyla toplanır ve oy çokluğuyla karar alır. Asıl üyelerin herhangi bir sebeple toplantıya katılamamaları hâlinde, yedek üyeler tespit sırasına göre Kurula katılırlar.
+
+(3) Kurumca lüzum görülmesi hâlinde, öğretim üyeleri ile Kurumdan veya diğer kamu idarelerinden konusunda uzman kişiler kurul üyesi olarak görevlendirilebilirler. Ancak bu şekilde görevlendirilecek üye sayısı ikiyi geçemez.
+
+### MADDE 28 — Tezin değerlendirilmesi
+
+(1) Uzmanlık tezleri, İnsan Kaynakları Dairesi Başkanlığınca kurul üyelerine değerlendirme yapılmak üzere gönderilir. Üyeler, tezleri bir ay içerisinde inceler.
+
+(2) İnsan Kaynakları Dairesi Başkanlığı tarafından Genel Müdür onayı ile tespit edilen tarihte, uzman yardımcısı Kurul huzurunda tezini sözlü olarak savunur.
+
+(3) Kurul sözlü savunmayı da göz önüne alarak tezi yüz puan üzerinden değerlendirir. Tezin başarılı kabul edilebilmesi için, başkan ve üyelerin yüz tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az yetmiş olması gerekir.
+
+(4) Tezin başarısız kabul edilmesi halinde kurul tarafından her bir üyenin vermiş olduğu puanları ve tezin başarısız sayılma gerekçelerini içeren bir değerlendirme raporu hazırlanır.
+
+(5) Tezi başarısız bulunan uzman yardımcılarına, değerlendirme raporunda yer verilen hususlara uygun olarak yeni bir tez hazırlamaları veya aynı tezi düzelterek sunmaları için Kurul kararıyla altı ayı aşmamak üzere ilave süre verilir. İkinci defa da tezi başarısız bulunanlar hakkında 35 inci madde hükümleri uygulanır.
+
+(6) Tezi kabul edilmekle birlikte tezde düzeltmeye gidilmesi gerektiğinin belirlenmesi durumunda, uzman yardımcısına iki ayı aşmamak üzere ilave süre verilir.
+
+## BEŞİNCİ BÖLÜM — Yeterlik Sınavı ve Uzmanlığa Atanma
+
+### MADDE 29 — Yeterlik sınavı
+
+(1) Yeterlik sınavı ile uzman yardımcılarının görev ve yetki alanlarını ilgilendiren mevzuat ve uygulamalar ile mesleğin gerektirdiği bilgi ve nitelikleri kazanıp kazanmadıkları ölçülür.
+
+(2) Yeterlik sınavı yazılı şekilde ve tez değerlendirme gününden en az yedi gün sonra olmak üzere Kurumca uygun görülecek zamanda yapılır.
+
+### MADDE 30 — Yeterlik sınavına girebilme şartları
+
+(1) Uzman yardımcısının yeterlik sınavına girebilmesi için;
+
+a) Aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri hariç Kurumda en az üç yıl fiilen çalışmış olması,
+
+b) Uzmanlık tezinin başarılı bulunması,
+
+şartları aranır.
+
+### MADDE 31 — Yeterlik sınav konuları
+
+(1) Yeterlik sınavı aşağıdaki konulardan yapılır:
+
+a) 11/11/1983 tarihli ve 2954 sayılı Türkiye Radyo ve Televizyon Kanunu.
+
+b) 4/12/1984 tarihli ve 3093 sayılı Türkiye Radyo-Televizyon Kurumu Gelirleri Kanunu.
+
+c) 20/10/2009 tarihli ve 27382 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumu Kuruluş ve Görevleri Hakkında Yönetmelik.
+
+ç) 24/9/2008 tarihli ve 27007 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumunda Memur Statüsünde İstihdam Edilen Personel Yönetmeliği.
+
+d) 20/5/1988 tarihli ve 19817 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumu Personel Yönetmeliği.
+
+e) 7/6/2008 tarihli ve 26899 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumunun 4734 Sayılı Kamu İhale Kanunu’nun 3 üncü Maddesinin (g) Bendi Kapsamında Yapacağı Mal ve Hizmet Alımlarında Uygulanacak Usul ve Esaslar Hakkında Yönetmelik.
+
+f) 19/9/1998 tarihli ve 23468 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumunca Bandrol Verilmesine İlişkin Usûl ve Esaslar Hakkında Yönetmelik.
+
+g) 15/2/2010 tarihli ve 27494 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumu Satış ve Kiralama İşlemleri Yönetmeliği.
+
+ğ) 26/8/2009 tarihli ve 27331 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumu Reklâm Yönetmeliği.
+
+h) 8/7/1999 tarihli ve 23749 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumu Programlarının Denetimi Hakkında Yönetmelik.
+
+ı) Yeterlik sınavı tarihinden en az 3 ay önce Kurumca tespit edilen ve uzman yardımcılarına bildirilen diğer mevzuat.
+
+### MADDE 32 — Yeterlik sınavının yapılması
+
+(1) Yeterlik sınavının yapılması ile sonuçlarının değerlendirilmesi ve itirazların incelenerek karara bağlanması Kurul tarafından yapılır.
+
+(2) Yeterlik sınav soruları, klasik ve/veya test usulüne göre kurul tarafından hazırlanır. Sınav sorularının hazırlanması ve cevaplarının değerlendirilmesi için gerektiğinde öğretim üyelerinden veya konusunda uzman kamu personelinden yararlanılabilir.
+
+(3) Sınavda kopya çekenler, çekmeye teşebbüs edenler veya kopya çektiği tespit edilenler hakkında tutanak düzenlenir ve sınavları geçersiz sayılır.
+
+### MADDE 33 — Yeterlik sınavının değerlendirilmesi
+
+(1) Yeterlik sınavında başarılı sayılmak için yüz tam puan üzerinden en az yetmiş puan almak gerekir.
+
+(2) Yeterlik sınavında başarılı olamayan veya sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde ikinci kez sınav hakkı verilir. Yeterlik sınavında ikinci defa başarısız olan veya geçerli bir mazereti olmaksızın ikinci sınav hakkını kullanmayanlar hakkında 35 inci madde hükümleri uygulanır.
+
+### MADDE 34 — Uzmanlığa atanma
+
+(1) Uzman yardımcısının uzman olarak atanabilmesi için yeterlik sınavında başarılı olması şarttır.
+
+### MADDE 35 — Meslekten çıkarılma
+
+(1) Verilen ek süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya sınav hakkını kullanmayanlar uzman yardımcısı unvanını kaybederler ve Kurumca durumlarına uygun memur unvanlı kadrolara atanırlar.
+
+## ALTINCI BÖLÜM — Uzman ve Uzman Yardımcılarının Görev, Yetki ve Sorumlulukları
+
+### MADDE 36 — Uzmanların görev ve yetkileri
+
+(1) Uzmanların görev ve yetkileri şunlardır:
+
+a) Yöneticinin karar verme fonksiyonunun rasyonel, güvenilir ve sağlıklı olması bakımından strateji ve hedeflerin belirlenmesine katkı sağlamak.
+
+b) Karar alternatiflerini geliştirmek.
+
+c) Sözleşme ve protokol tanzimi ile uygulama birliğinin sağlanması ile iş sağlığı ve güvenliğine yönelik hizmetleri yürütmek.
+
+ç) Bağlı bulunduğu Birimin görev alanına giren işlere katkıda bulunmak ve veri toplamak.
+
+d) Hizmet tanımıyla ilgili konularda verilecek diğer görevleri yerine getirmek.
+
+### MADDE 37 — Uzman yardımcılarının görev ve yetkileri
+
+(1) Uzman yardımcılarının görev ve yetkileri şunlardır:
+
+a) Yönetim Hizmetleri Uzmanına, hizmet tanımında belirlenmiş bulunan görevlerin yapılmasında yardımcı olmak.
+
+b) Kurumca verilecek diğer görevleri yerine getirmek.
+
+### MADDE 38 — Uzman ve uzman yardımcılarının sorumlulukları
+
+(1) Uzmanlar ve uzman yardımcıları, görev yaptıkları birime göre; Genel Müdür Yardımcısı, Daire ve Kurul Başkanı, 1. Hukuk Müşaviri, Genel Sekreter, TRT Müdürü, Koordinatör, Ankara Radyosu Müdürü, Özel Kalem Müdürü ve Yönetim Kurulu Bürosu Müdürüne bağlı olarak çalışırlar ve görev tanımlarına ve konumlarına uygun işlerde istihdam edilirler. Uzmanlar ve uzman yardımcıları, uzmanlık gerektiren çalışmaların ve görevlerin Kurum talimatları doğrultusunda mevzuata, plan ve programlara uygun olarak, süresinde ve eksiksiz yerine getirilmesinden, hizmetlerin adil, verimli ve etkin sunulmasından Genel Müdüre ve bağlı bulundukları birim amirine karşı sorumludurlar.
+
+(2) Uzman ve uzman yardımcıları, uzmanlık mesleğinin gerektirdiği itibar ve güven duygusunu sarsacak ve etik ilkelere aykırı düşecek nitelikte davranışlarda bulunamazlar.
+
+## YEDİNCİ BÖLÜM — Uzman ve Uzman Yardımcılarının Eğitimi
+
+### MADDE 39 — Hizmet içi eğitim
+
+(1) Kurum, uzman ve uzman yardımcıları için uygun bulacağı zamanlarda ilgili birim amirlerinin teklifi üzerine veya doğrudan hizmet içi eğitim programları düzenleyebilir.
+
+(2) Eğitimler Kurum personeli tarafından verilebileceği gibi ihtiyaç duyulması halinde öğretim üyeleri ile diğer kamu idarelerinin personelinden de faydalanılabilir. Eğitimler, Kurumca gerek görülmesi halinde hizmet satın alınması yoluyla da yaptırılabilir.
+
+### MADDE 40 — Yurtdışında eğitim
+
+(1) Uzmanlar, mesleki bilgi ve görgülerini arttırmak, lisansüstü eğitim yapmak amacıyla ilgili mevzuat hükümlerine göre yurtdışına gönderilebilirler.
+
+## SEKİZİNCİ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 41 — İtiraz
+
+(1) Giriş sınavı ile tez ve yeterlik sınav sonuçlarına yedi gün içinde itiraz edilebilir. İtirazlar, ilgisine göre komisyon veya kurul tarafından yedi gün içerisinde sonuçlandırılır.
+
+### MADDE 42 — Sekretarya hizmetleri
+
+(1) Giriş sınavı, tez ve yeterlik sınavına ilişkin hizmetler ile komisyon ve kurulun sekretarya hizmetleri İnsan Kaynakları Dairesi Başkanlığınca yürütülür.
+
+### MADDE 43 — Kariyer dışı uzman atanamayacağı
+
+(1) Uzman ve uzman yardımcısı kadrolarına, bu Yönetmelik hükümleri dışında atama yapılamaz.
+
+### MADDE 44 — Uzmanlığa yeniden atama
+
+(1) Uzman unvanını kazandıktan sonra herhangi bir sebeple Kurumdaki görevinden ayrılanlardan yeniden atanmak isteyenler, Kurumca uygun görülmesi halinde, boş kadro ve ihtiyaç durumuna göre durumlarına uygun uzman kadrolarına atanabilirler.
+
+### MADDE 45 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 2954 sayılı Türkiye Radyo ve Televizyon Kanunu, Türkiye Radyo-Televizyon Kurumunda Memur Statüsünde İstihdam Edilen Personel Yönetmeliği, 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik ile diğer ilgili mevzuat hükümleri uygulanır.
+
+### GEÇİCİ MADDE 1 — Mevcut uzman yardımcıları
+
+(1) Bu Yönetmeliğin yayımı tarihinde yönetim hizmetleri uzman yardımcısı olarak görevde bulunanların kazanılmış hakları saklıdır.
+
+(2) Bu Yönetmeliğin yürürlük tarihi itibarıyla, 24 üncü maddenin ikinci fıkrasındaki iki yıllık fiili hizmet süresini dolduran yönetim hizmetleri uzman yardımcılarının uzmanlık tezi belirleme süreci, bu Yönetmeliğin yürürlük tarihini müteakip en geç bir ay içerisinde başlar.
+
+### GEÇİCİ MADDE 2 — Tez Değerlendirme ve Yeterlik Sınav Kuruluna ilişkin geçiş hükmü
+
+(1) Bu Yönetmeliğin yürürlük tarihini müteakip yapılacak ilk yeterlik sınavına yönelik Tez Değerlendirme ve Yeterlik Sınav Kurulu, daire başkanı ve daha üst seviyedeki Kurum yöneticileri arasından belirlenen bir başkan ve dört üyeden oluşur. Ayrıca, üç yedek üye belirlenir.
+
+(2) Bu Yönetmeliğin yürürlük tarihini müteakip yapılacak giriş sınavı/sınavlarına yönelik karar tarihi itibarıyla Kurumda yönetim hizmetleri uzmanı bulunmaması halinde giriş sınavı komisyonu, daire başkanı ve daha üst seviyedeki Kurum yöneticileri arasından belirlenen bir başkan ve dört üyeden oluşur. Ayrıca, üç yedek üye belirlenir.
+
+### MADDE 46 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 47 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Türkiye Radyo-Televizyon Kurumu Genel Müdürü yürütür.

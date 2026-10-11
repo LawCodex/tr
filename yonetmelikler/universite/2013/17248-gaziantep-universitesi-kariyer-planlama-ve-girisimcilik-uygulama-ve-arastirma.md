@@ -1,0 +1,173 @@
+---
+title: "GAZİANTEP ÜNİVERSİTESİ KARİYER PLANLAMA VE GİRİŞİMCİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.17248"
+number: "17248"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2013-03-31
+official_gazette_date: 2013-03-31
+official_gazette_number: "28604"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=17248&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# GAZİANTEP ÜNİVERSİTESİ KARİYER PLANLAMA VE GİRİŞİMCİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Gaziantep Üniversitesi Kariyer Planlama ve Girişimcilik Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Gaziantep Üniversitesi Kariyer Planlama ve Girişimcilik Uygulama ve Araştırma Merkezinin amaçlarına, faaliyetlerine, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez (GAÜNKPM): Gaziantep Üniversitesi Kariyer Planlama ve Girişimcilik Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Gaziantep Üniversitesi Rektörünü,
+
+ç) Senato: Gaziantep Üniversitesi Senatosunu,
+
+d) Üniversite: Gaziantep Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı, Faaliyet Alanları, Yönetim Organları ve Görevleri
+
+### MADDE 5 — Merkezin amacı ve faaliyet alanları
+
+(1) Merkezin amacı; Üniversite öğrencilerinin, akademisyenlerinin ve mezunlarının kariyer planlaması, girişimcilik ve uygulama performansının geliştirilmesi ile ilgili çalışmalar yapmaktır.
+
+(2) Bu amaç kapsamında Merkezin faaliyet alanları şunlardır:
+
+a) Öğrencilerin ilgi alanlarını ve yeteneklerini belirlemek amacıyla ilgi testleri, mesleki eğilim testleri, genel yetenek testleri ve benzer uygulamalar yaparak sektörel mentorlük hizmetleri sunmak,
+
+b) Öğrenci ve mezunlara yönelik insan kaynakları veri tabanı oluşturmak,
+
+c) Öğrenci ve mezunlar için kariyer imkânlarını araştırmak, mezunlarının istihdam alanına giren işletmelerin ve kuruluşların adres ve genel bilgilerinin bulunduğu envanterler oluşturmak ve bunları düzenli olarak güncellemek,
+
+ç) Öğrenciler ile değişik sektörlerden çeşitli kurum ve kuruluşları bir araya getirme amacı ile kariyer günleri adı altında tanıtım toplantıları düzenlemek, öğrencilerin çeşitli alanlarda iş tanımları, iş hayatı ve mesleklerdeki kariyer imkânları ile ilgili bilgi edinmelerini ve kuruluşların mezun adaylarla doğrudan iletişim kurmasını sağlamak,
+
+d) Başarılı meslek sahipleri ve uzmanları öğrencilerle bir araya getirecek sempozyum, konferans, seminer, çalıştay, panel, sergi, teknik gezi ve benzeri sosyal ve teknik içerikli faaliyetler düzenlemek,
+
+e) İşletmelere yönelik tanıma gezileri organize etmek,
+
+f) Öğrencilerin staj ve intörnlük gibi uygulama performanslarını ölçme ve değerlendirmeye dönük araştırmalar ve projeler gerçekleştirmek. İntörnlük ve stajlarını etkin bir şekilde tamamlamalarına yardımcı olmak,
+
+g) Eleman talebinde bulunan kuruluşlarla mezunlar arasında sürekli iletişim kurarak iş bulmalarını kolaylaştırmak,
+
+ğ) Kamu ve özel kesim kuruluşlarının ihtiyaç duyduğu insan kaynağının karşılanmasında Üniversitenin mezunlarının tercih edilebilirliğini artırmak amacıyla çeşitli etkinlikler düzenlemek,
+
+h) Seminerler ve bireysel görüşmelerle öğrencilere iş arama teknikleri, müracaat mektubu yazma, iş alım teknikleri ve girişimcilik konularında bilgi vermek,
+
+ı) Kariyer planlama ve mesleki gelişim kursları gibi eğitim faaliyetleri düzenlemek, Gaziantep Üniversitesi Sürekli Eğitim Merkezi tarafından düzenlenen bu tür kurslara destek vermek,
+
+i) Üniversite mezunlarını Üniversite tarafından düzenlenen bilimsel, teknik ve sosyal içerikli platform, program, imkân ve aktivitelerden haberdar etmek,
+
+j) Kariyer geliştirmeye yönelik yerel, ulusal, uluslararası projeler hazırlamak ve uygulamak,
+
+k) Öğrencilerin mezuniyet sonrası kariyerlerinde birbirleri ile yakın ilişki, dayanışma ve işbirliği içinde bulunmaları yönünde onları teşvik etmek için geleneksel mezunlar günü gibi çeşitli faaliyetler düzenlemek,
+
+l) Mezuniyet sonrası bilgi sistemi ile mezunlarla iletişime geçerek onların iş hayatındaki gelişmelerini sürekli izlemeye, geri bildirim verilerini toplamaya, başarı durumlarını takip etmeye, özel ve kamu sektöründe işe yerleşme oranlarını izlemeye dönük araştırma projeleri gerçekleştirerek raporlamak,
+
+m) Faaliyetleriyle ilgili konularda bültenler yayınlayarak öğrencileri, akademisyenleri, mezunları, ilgili kurum ve kuruluşları haberdar ederek bilgilendirmek,
+
+n) Mezunların Üniversitenin fiziki ve sosyal tesis imkânlarından faydalanabilmeleri yönünde çalışmalar yapmak.
+
+### MADDE 6 — Yönetim organları
+
+(1) Merkezin organları şunlardır:
+
+a) Müdür ve Müdür Yardımcısı,
+
+b) Yönetim Kurulu.
+
+### MADDE 7 — Müdür ve görevleri
+
+(1) Müdür, Rektör tarafından Üniversitenin öğretim elemanları arasından üç yıl için görevlendirilir. Süresi dolan Müdür tekrar görevlendirilebilir. Müdürün önerisi ile Üniversitenin öğretim elemanları arasından Rektör tarafından üç yıl için bir Müdür Yardımcısı görevlendirilir. Müdür Yardımcısı, tüm görevlerinde Müdüre yardımcılık eder ve Müdürün olmadığı hallerde kendisine vekâlet eder.
+
+(2) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek,
+
+b) Yönetim Kuruluna Başkanlık etmek,
+
+c) Merkez bünyesinde oluşturulan çalışma gruplarının ve birim koordinatörlerinin faaliyetlerini düzenlemek, yürütmek ve denetlemek,
+
+ç) Merkezin idari işlerini yürütmek, bütçe teklifinin hazırlanmasını sağlamak ve Rektörlüğe sunmak,
+
+d) Yurt içinde ve yurt dışında ilgili diğer merkezler, kamu ve özel sektör kuruluşlarının insan kaynakları birimleri ile işbirliği yapmak,
+
+e) Yılsonunda, Merkezin yıllık faaliyet raporunun Rektörlüğe sunulmasını sağlamak.
+
+### MADDE 8 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu, Müdürle birlikte, Müdürün önerisi ile Üniversitenin öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilen altı kişiden oluşur. Yönetim Kurulu, Müdürün çağrısı ile ayda en az bir defa toplanır. Yönetim Kurulu salt çoğunlukla toplanır ve karar alırken oylamada eşitlik olması halinde Müdürün oyu yönünde karar alınmış sayılır.
+
+(2) Yönetim Kurulunun görevleri şunlardır:
+
+a) Müdür tarafından hazırlanacak olan yılsonu faaliyet raporunu ve bütçe teklifini görüşüp kabul ettikten sonra Rektörlüğe sunmak,
+
+b) Amacı doğrultusunda Merkezin yönetimi ve çalışmaları ile ilgili kararları almak,
+
+c) Yıllık yazılı çalışma programı hazırlamak ve gerekli kararları almak,
+
+ç) Merkezin idari ve teknik kadro ihtiyaçlarını tespit etmek ve bu kadrolara yapılacak görevlendirmeler ile ilgili Müdürün önerilerini inceleyerek Rektörlüğe teklifte bulunmak,
+
+d) Öğrenci ve mezunların kariyerlerini planlaması, onlara yönelik iş imkânlarının araştırılması ve iş dünyasıyla iletişimin sağlanması ile ilgili kararlar almak,
+
+e) Araştırma projeleri yürütmek, araştırmacılar tarafından verilen proje tekliflerini değerlendirmek,
+
+f) Merkezce yürütülen araştırmalarla ilgili araştırıcı ve patent haklarına ait esasları, gelirlerin dağılış ve kullanış şeklini bir yönerge ile tespit etmek,
+
+g) Araştırıcıların ilgili bilimsel toplantılara katılmak için yapacakları mali destek isteklerini değerlendirmek,
+
+ğ) Bilimsel ve sosyal içerikli kurs, seminer, konferans gibi faaliyetler düzenlemek,
+
+h) Müdürün getireceği diğer konuları görüşüp karara bağlamak.
+
+### MADDE 9 — Çalışma birimleri
+
+(1) Merkez; bu Yönetmeliğin 5 inci maddesinde belirtilen amaçlarını gerçekleştirmek ve faaliyetlerini yürütmek üzere, Merkez bünyesinde çalışma birimleri oluşturabilir.
+
+(2) Çalışma birimlerine, Müdürün önerisi ve Yönetim Kurulunun uygun görüşü ile Üniversitenin öğretim elemanları arasından, Rektör tarafından üç yıl için koordinatör görevlendirilir. Koordinatör Merkezin tüm çalışmalarında Merkeze yardımcı olur. Merkezin çalışma birimlerinin sayısı, görevleri, çalışma usul ve esasları Yönetim Kurulu tarafından belirlenir.
+
+## ÜÇÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 10 — Personel ihtiyacı
+
+(1) Merkezin akademik, idari ve teknik personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Müdürün önerisi üzerine Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 11 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör yetkisinin bir kısmını veya tamamını Müdüre devredebilir.
+
+### MADDE 12 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 13 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 14 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Gaziantep Üniversitesi Rektörü yürütür.

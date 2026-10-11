@@ -1,0 +1,165 @@
+---
+title: "DİCLE ÜNİVERSİTESİ KONGRE VE TURİZM İŞLETMECİLİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.15362"
+number: "15362"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2011-10-05
+official_gazette_date: 2011-10-05
+official_gazette_number: "28075"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15362&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# DİCLE ÜNİVERSİTESİ KONGRE VE TURİZM İŞLETMECİLİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Dicle Üniversitesi Kongre ve Turizm İşletmeciliği Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, organlarına ve yönetimine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Dicle Üniversitesi Kongre ve Turizm İşletmeciliği Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ve 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (DÜKTAM): Dicle Üniversitesi Kongre ve Turizm İşletmeciliği Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Dicle Üniversitesi Rektörünü,
+
+d) Üniversite: Dicle Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; kongre ve turizm sektörünün sorunlarını belirlemek, bu sorunlara çözüm önerileri geliştirmek, turizm sektörünün gelişmesi ve iyileşmesi doğrultusunda bölgesel, ulusal ve uluslararası düzeyde bilimsel araştırmalar ve çalışmalar yapmak ve projeler geliştirip uygulamaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Bölgesel, ulusal ve uluslararası düzeyde kongre ve turizmle ilgili konularda araştırma ve çalışmalar yapmak ve projeler yürütmek,
+
+b) Bölgesel, ulusal ve uluslararası düzeyde kongre ve turizmle ilgili konularda yapılacak araştırma, çalışma ve projeleri teşvik etmek,
+
+c) Bölgesel, ulusal ve uluslararası düzeyde resmi ve/veya özel kurum ve kuruluşlarla kongre ve turizm amaçlı işbirliği yapmak,
+
+ç) Bölgesel, ulusal ve uluslararası düzeyde benzer amaçlarla kurulmuş merkezler, üniversiteler ve enstitülerle işbirliği yapmak, bilimsel toplantılar düzenlemek, ortak projeler geliştirmek ve yürütmek,
+
+d) Yapılan araştırma ve çalışmaların sonuçlarını yayınlamak,
+
+e) Kongre ve Turizm sektörünün ihtiyaçlarını dikkate alarak, kısa, orta ve uzun süreli eğitim-öğretim programları geliştirmek ve düzenlemek,
+
+f) Oluşturulan bilgi, kaynak ve uzman birikimi ile Merkezin amacına uygun konularda çalışma yapan öğrencilere yardımcı olmak,
+
+g) Merkezin amacına uygun araştırma projelerinin başlatılması ve yürütülmesi konularında danışmanlık hizmetleri vermek,
+
+ğ) Uygulamalı hizmet eğitimine katkı sağlamak,
+
+h) Uygulamalı konaklama işletmeciliği eğitimine katkı sağlamak,
+
+ı) Uygulamalı yeme-içme hizmetleri eğitimine katkı sağlamak,
+
+i) Merkezin amacına uygun diğer çalışmaları yürütmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu,
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür, Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Görev süresi sona eren Müdür tekrar görevlendirilebilir. Müdür, Üniversitenin aylıklı öğretim elemanları arasından çalışmalarında kendisine yardımcı olmak üzere en fazla iki öğretim elemanını Müdür yardımcısı olarak görevlendirebilir. Müdüre görevi başında olmadığı zamanlarda yardımcılarından birisi vekâlet eder. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Müdür istediğinde yardımcılarını değiştirebilir. Müdürün görevi sona erdiğinde yardımcılarının görevi de kendiliğinden sona erer.
+
+(2) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek ve Merkezin çalışmalarının yürütülmesini sağlamak,
+
+b) Projelerin yürütülmesinde ihtiyaç olduğunda Danışma Kurulu oluşturulmasını, süresini ve üye sayısını Yönetim Kuruluna önermek,
+
+c) Danışma Kurulu ile Yönetim Kuruluna başkanlık etmek,
+
+ç) Yönetim Kurulu kararlarını bu Yönetmelik hükümleri çerçevesinde uygulamak,
+
+d) Merkezin idari ve bilimsel çalışmalarını Yönetim Kuruluna sunmak, onay aldıktan sonra uygulamak,
+
+e) Çalışmalarla ilgili yıllık raporları zamanında Yönetim Kuruluna sunmak,
+
+f) Merkez bünyesinde oluşturulan birimlerin faaliyetlerini düzenlemek, yürütmek ve denetlemek,
+
+g) Merkezin kısa, orta ve uzun vadeli amaçlarını ve stratejik planını hazırlamak, Yönetim Kurulunun görüşüne sunmak ve onay alındıktan sonra uygulamak,
+
+ğ) Proje gruplarının çalışma ekiplerini kurmak,
+
+h) Merkezin personel ihtiyacını tespit etmek, Yönetim Kurulunun görüşünü alarak Rektöre sunmak,
+
+ı) Merkezin yıllık faaliyet raporunu Yönetim Kurulunun görüşünü alarak Rektöre sunmak.
+
+### MADDE 9 — Yönetim kurulu ve görevleri
+
+(1) Yönetim Kurulu; Müdür, Müdür yardımcıları ve Müdürün önerisi ile Üniversitenin öğretim elemanları arasından Rektör tarafından görevlendirilecek dört öğretim elemanı olmak üzere toplam yedi kişiden oluşur.
+
+(2) Yönetim Kurulu üyelerinin görev süreleri üç yıldır. Herhangi bir nedenle ayrılan üyenin yerine, aynı usulle yenisi görevlendirilir. Görevi sona eren üye tekrar görevlendirilebilir. Müdür, Yönetim Kurulunun başkanıdır. Yönetim Kurulu, Müdürün daveti üzerine salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır. Yönetim Kurulu, Merkezin faaliyetlerini değerlendirmek üzere yılda en az iki kez toplanır.
+
+(3) Yönetim Kurulunun görevleri şunlardır:
+
+a) Müdür tarafından sunulan, Merkezin idari ve bilimsel çalışmalarını incelemek ve karara bağlamak,
+
+b) Danışma Kurulunun görüş ve önerileri doğrultusunda yapılacak uygulamalarda Müdüre yardımcı olmak,
+
+c) Merkeze gelen iş ve proje tekliflerini incelemek ve değerlendirmek,
+
+ç) Müdürün önereceği proje grubu veya birimleri ile bunların başkanlarını seçme konusunda karar almak ve işleyiş kurallarını belirlemek,
+
+d) Merkezin yıllık faaliyet raporunu hazırlamak,
+
+e) Müdürün önereceği konular hakkında karar almak.
+
+### MADDE 10 — Danışma kurulu ve görevleri
+
+(1) Merkezin çalışmalarında etkinlik ve verimliliği artırmak, yeni görüşleri çalışmalara kazandırmak ve Merkez yönetiminin ihtiyaç duyduğu konularda hizmetlerinden yararlanmak üzere, Merkezin amaç ve faaliyet alanlarında Müdürle birlikte en fazla onbeş üyeden oluşan Danışma Kurulu oluşturulabilir.
+
+(2) Danışma Kurulu üyeleri, Müdür tarafından önerilen Üniversite içinden ve istekleri halinde Üniversite dışından konu ile ilgili uzman kişiler ve turizm sektörü temsilcileri arasından Yönetim Kurulunca seçilir. Danışma Kurulu üyelerinin görev süresi üç yıldır. Gerektiğinde, seçilen üyelerin görev süresi uzatılabilir. Danışma Kurulu, Müdürün çağrısı üzerine toplanır. Danışma Kurulu toplantılarına Müdür başkanlık eder.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 11 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 12 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 13 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Dicle Üniversitesi Rektörü yürütür.

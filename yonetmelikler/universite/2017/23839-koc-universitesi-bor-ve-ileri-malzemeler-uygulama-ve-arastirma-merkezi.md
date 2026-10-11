@@ -1,0 +1,190 @@
+---
+title: "KOÇ ÜNİVERSİTESİ BOR VE İLERİ MALZEMELER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.23839"
+number: "23839"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2017-08-11
+official_gazette_date: 2017-08-11
+official_gazette_number: "30151"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23839&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KOÇ ÜNİVERSİTESİ BOR VE İLERİ MALZEMELER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+**UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ(1)**
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; **(Değişik ibare:RG-9/3/2020-31063)** Koç Üniversitesi Bor ve İleri Malzemeler Uygulama ve Araştırma Merkezinin yönetim ve işleyişine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; **(Değişik ibare:RG-9/3/2020-31063)** Koç Üniversitesi Bor ve İleri Malzemeler Uygulama ve Araştırma Merkezinin amaçlarına, faaliyetlerine, yönetim organlarına, yönetim organlarının görevlerine ve işleyişine ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) **(Değişik:RG-9/3/2020-31063)** Merkez: Koç Üniversitesi Bor ve İleri Malzemeler Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Koç Üniversitesi Rektörünü,
+
+d) Rektör Yardımcısı: Koç Üniversitesi Araştırma ve Geliştirmeden Sorumlu Rektör Yardımcısını,
+
+e) Üniversite: Koç Üniversitesini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+**(Değişik:RG-9/3/2020-31063)**
+
+(1) Merkezin amacı, ileri bor teknolojileri konusunda uluslararası yetkinlikte bilimsel bir merkez kurulması, ülkemizde bor tabanlı ileri teknoloji malzemelerin ve ilgili kimyasalların uygulamaya yönelik geliştirilmesi ve sanayiye araştırma altyapısı imkanının sağlanmasıdır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez, amaçları doğrultusunda aşağıdaki alanlarda faaliyetlerde bulunur:
+
+a) Yüksek katma değeri olan bor tabanlı malzemelerin ve ilgili ileri teknoloji kimyasalların laboratuvar ölçeğinde yeni/özgün yöntemler ile sentezlenmesi, kimya ve malzeme sektöründe rekabet avantajı sağlayabilecek ürünlere dönüştürülmesi.
+
+b) Bor tabanlı ileri teknoloji malzemelerin farklı uygulama alanlarına yönelik (metalurji, kimya, enerji, makine, biyomalzeme vb.) geliştirilmesi ve karakterizasyonu. Bu çalışmalar ile ilgili kapsamlı ulusal ve uluslararası bilimsel araştırma proje başvuruları ve yürütülmesi.
+
+c) Endüstriyel uygulama potansiyeli olan bor ürünlerinin patentinin alınıp, Üniversite ve sanayi işbirliğiyle pilot ölçekte üretim çalışmalarının yapılması.
+
+ç) İleri bor teknolojileri konusunda ülke için gerekli uzman araştırmacıların yetiştirilmesi ve uluslararası yetkinlikte danışılacak bilimsel bir merkez yaratılması.
+
+d) Çalışma alanı ile ilgili olarak yurtiçi ve yurtdışındaki kurumlarla işbirliği yapılması ve kurumlara proje, analiz ve danışmanlık hizmeti sunulması.
+
+e) Merkezin faaliyeti ile ilgili her türlü yayın yapılması, uluslararası bilimsel etkinliklerin düzenlenmesi, yurtiçi/yurtdışı bilimsel etkinliklerde bildirilerin sunulması.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, ilgili bilim dalında Üniversitenin kadrolu öğretim üyeleri arasından, Rektör tarafından üç yıl için görevlendirilir. Görev süresi dolan Müdür aynı usulle yeniden görevlendirilebilir. Müdürün altı aydan daha fazla süre ile görevi başında bulunmaması durumunda görevi sona erer. Süresi dolmadan görevinden ayrılan Müdürün yerine Rektör tarafından aynı usulle yeniden görevlendirme yapılır.
+
+(2) Müdürün, çalışmalarında kendisine yardımcı olmak üzere Yönetim Kurulu üyeleri veya Üniversitenin öğretim üyeleri arasından önerdiği bir kişi, Rektör tarafından Müdür Yardımcısı olarak 2 yıl için görevlendirilir. Müdürün görevi başında olmadığı zaman kendisine yardımcısı vekâlet eder. Müdürün görevi sona erdiğinde yardımcısının görevi de sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Ulusal ve uluslararası düzeyde Merkezi temsil etmek.
+
+b) Yönetim Kurulunu ve Danışma Kurulunu toplantıya çağırmak, gündemi hazırlamak, toplantılara başkanlık etmek.
+
+c) Çalışma programlarının taslaklarını hazırlayarak Yönetim Kuruluna önermek ve karara bağlanan çalışma programını yürütmek.
+
+ç) Yıllık gelir ve gider bütçe önerisini hazırlamak, karara bağlanmak üzere Yönetim Kuruluna getirmek.
+
+d) Yönetim Kurulu tarafından karara bağlanan faaliyet programı ve bütçe önerisini Araştırma ve Geliştirmeden Sorumlu Rektör Yardımcılığına sunmak.
+
+e) Araştırma projelerinin tasarlanması, yürütülmesi, koordinasyonu ve denetimini sağlamak.
+
+f) İlgili mevzuatla verilen diğer görevleri yapmak.
+
+(2) Müdür; Merkezin çalışma kapasitesinin rasyonel bir şekilde kullanılmasından, çalışmaların düzenli bir şekilde yürütülmesinden, faaliyetlerin gözetim ve denetiminin yapılmasından Araştırma ve Geliştirmeden Sorumlu Rektör Yardımcılığına karşı sorumludur.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Yönetim Kuruluna başkanlık yapan Müdür ve Müdür Yardımcısı dahil beş üyeden oluşur. Diğer üyeler, Merkezin faaliyet alanına giren konularda tam zamanlı çeşitli öğretim üyelerinden, Müdürün önerisi ile Rektör tarafından seçilir ve üç yıl için görevlendirilir.
+
+(2) Süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya altı aydan fazla Üniversite dışında görevlendirilenlerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+
+(3) Yönetim Kurulu, Müdür tarafından belirlenen ve üyelere önceden bildirilen gündem doğrultusunda, Müdürün çağrısı ve üye tam sayısının salt çoğunluğu ile yılda iki defa olağan olarak toplanır. Gerekli görüldüğü hallerde Müdürün ya da Yönetim Kurulu üyelerinin salt çoğunluğunun çağrısı üzerine olağanüstü toplanır. Yönetim Kurulu kararları toplantıya katılanların oy çokluğu ile alınır. Oyların eşit olması durumunda Müdürün oyu yönünde çoğunluk sağlanmış kabul edilir. Yönetim Kurulu tutanakları Danışma Kurulu üyelerinin incelemesine açık tutulur, ayrıca bu tutanakların birer nüshası Rektörlüğe iletilir.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyetlerinin planlanmasında ve yürütülmesinde Müdüre yardımcı olmak.
+
+b) Danışma Kurulu üyelerini seçmek.
+
+c) Müdür tarafından hazırlanan yıllık çalışma planı önerisini karara bağlamak.
+
+ç) Müdürün çalışmalarını denetlemek.
+
+d) İlgili mevzuatla verilen diğer görevleri yerine getirmek.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu Merkezin çalışmalarına önerileri ile katkıda bulunan istişari bir organdır. Üniversite ve Merkezin faaliyet konularında çalışan kişiler, kurum ve kuruluş temsilcileri arasından Yönetim Kurulu tarafından seçilir ve Rektör tarafından görevlendirilir.
+
+(2) Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyelerin veya süresi dolmadan ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yenileri seçilir ve görevlendirilir. Danışma Kurulu toplantılarına üç kez üst üste mazeretsiz katılmayan üyelerin üyeliği düşer.
+
+(3) Danışma Kurulu, Müdürün çağrısı üzerine, yılda en az bir defa üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulu Merkezin faaliyetleriyle ilgili olarak Yönetim Kuruluna önerilerde bulunur, danışmanlık yapar ve kendi uzmanlık alanlarında deneyim ve birikimlerini paylaşarak Merkezin çalışmalarına katkı sağlar.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 15 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini uygun gördüğü ölçüde Müdüre devredebilir.
+
+### MADDE 16 — Ekipman ve demirbaş
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, donanım ve demirbaş Merkezin kullanımına tahsis edilir.
+
+### MADDE 17 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Koç Üniversitesi Rektörü yürütür.
+
+\_\_\_\_\_
+
+*(1) 9/3/2020 tarihli ve 31063 sayılı Resmi Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı ‘Koç Üniversitesi Akkim Bor Tabanlı Malzemeler Ve İleri Teknoloji Kimyasallar Uygulama ve Araştırma Merkezi Yönetmeliği” iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.*
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>11/8/2017</td><td>30151</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>9/3/2020</td><td>31063</td></tr>
+</table>

@@ -1,0 +1,200 @@
+---
+title: "İSTANBUL TİCARET ÜNİVERSİTESİ BİLİŞİM TEKNOLOJİLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.18294"
+number: "18294"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2013-04-17
+official_gazette_date: 2013-04-17
+official_gazette_number: "28621"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18294&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTANBUL TİCARET ÜNİVERSİTESİ BİLİŞİM TEKNOLOJİLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Yönetmeliğin amacı ve kapsamı; İstanbul Ticaret Üniversitesi Rektörlüğüne bağlı olarak kurulan İstanbul Ticaret Üniversitesi Bilişim Teknolojileri Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: İstanbul Ticaret Üniversitesi Bilişim Teknolojileri Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: İstanbul Ticaret Üniversitesi Rektörünü,
+
+d) Üniversite: İstanbul Ticaret Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 4 — Merkezin amacı
+
+(1) Merkezin amaçları şunlardır:
+
+a) Bilgisayar, haberleşme ve veri iletişimi gibi ana başlıkları içeren bilişim teknolojileri alanında kuramsal ve uygulamalı bilimsel araştırmalar ve çalışmalar yapmak; Merkezin ihtiyaçları çerçevesinde, seminerler ve eğitimler düzenlemek; projeler gerçekleştirmek; yazılımlar geliştirmek; raporlar üretmek; mevcut sistemlerin çözümlemesini yapmak, iyileştirmek ve beliren ihtiyaçlara göre güncelleyerek uygun hale getirmek.
+
+b) Merkezin etkinlik alanlarında ulusal ve uluslararası düzeyde kamu ve özel sektör kurum ve kuruluşları ile işbirliği yapmak.
+
+### MADDE 5 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Bilişim teknolojileri ile ilgili uluslararası teknolojik ve endüstriyel gelişmeler doğrultusunda araştırmalar yapmak.
+
+b) Üretilen ve kullanılan bilişim uygulamalarında çıkan sorunları analiz ederek çözüm önerilerinde bulunmak ve bu konularla ilgili gerekli dokümantasyonları oluşturmak.
+
+c) Tüm kurum ve kuruluşların, bilişim teknolojileri alanında ihtiyaç duydukları her türlü yazılım ve donanım çözümlerini üretmek ve gerekli analizleri gerçekleştirmek.
+
+ç) Üniversite–sanayi, Üniversite–kamu işbirliği çerçevesinde araştırmalar ve uygulamalar gerçekleştirmek, danışmanlık hizmeti vermek.
+
+d) Yurt içindeki ve yurt dışındaki üniversitelerle bilgi ve teknoloji alışverişinde bulunmak ve ortak projeler üretmek.
+
+e) Üniversitenin tüm birimlerine, hayata geçirilen çalışmalarla ilgili bilgi desteği sunmak.
+
+f) İhtiyaç duyulan yazılım, donanım, ağ ve diğer bilişim hizmetleri konusundaki alt yapı ve geliştirme çalışmalarını gerçekleştirmek.
+
+g) Türkiye’nin bilgi toplumuna geçiş sürecinde, e-Devlet ve e-Üniversite projeleri ile ilgili çalışmalar yaparak, bu konuda uygulanacak politikaların belirlenmesine katkıda bulunmak.
+
+ğ) Fikri ve sınai haklara ilişkin hazırlanan projelere destek olmak üzere ilgili kurum ve kuruluşlar ile ilişkide bulunmak.
+
+h) Uygulama ve araştırma çalışmaları sonunda elde edilen bulguları kapsayan bilimsel yayınlar yapmak, böylece üretilen bilimsel bilgilerin ve teknolojilerin hem bilim, hem finans çevreleri hem de kamuoyu ile paylaşmak.
+
+ı) Üniversite tarafından verilen bilişim teknolojileri ile ilgili görevlerde standartları belirlemek ve izlemek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri, Merkez Birimleri ve Proje Grupları
+
+### MADDE 6 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu,
+
+c) Danışma Kurulu.
+
+### MADDE 7 — Müdür
+
+(1) **(Değişik:RG-23/5/2016-29720)** Müdür, Üniversitede tam gün çalışan öğretim üyeleri veya idari personel arasından üç yıl için Rektör tarafından görevlendirilir. Görev süresi sona eren Müdür aynı usulle yeniden görevlendirilebilir. Müdürün görevden alınmasında da aynı yöntem uygulanır. Müdür Merkezin çalışmalarının düzenli olarak yürütülmesi ve geliştirilmesinden Rektöre karşı sorumludur.
+
+(2) Müdür çalışmalarında kendisine yardımcı olmak üzere Üniversitede görevli öğretim üyeleri arasından bir kişiyi Müdür yardımcısı olarak üç yıl için görevlendirilmek üzere Rektörün onayına sunar. Müdür yardımcısı, Müdürün kendisine vereceği görevleri yapar. Müdür kısa süreli olarak görevi başında bulunmadığı zaman yardımcısını vekil bırakır. Müdürün görev süresinin dolması veya herhangi bir nedenle görevinden ayrılması halinde, Müdür yardımcısının da görevi sona erer.
+
+(3) Müdürün altı aydan fazla süreyle görevi başında bulunamadığı durumlarda Rektör tarafından yeni bir Müdür görevlendirilebilir.
+
+### MADDE 8 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek,
+
+b) Merkezin, Merkeze bağlı birimlerin ve idari personelin çalışmalarının düzenli, etkin ve amaçları doğrultusunda yürütülmesini ve geliştirilmesini sağlamak,
+
+c) Yönetim Kurulunu toplantıya çağırmak, toplantılara başkanlık etmek, Yönetim Kurulu kararlarını uygulamak,
+
+ç) Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait yıllık çalışma programını hazırlamak ve Yönetim Kuruluna sunmak ve kabul edilen faaliyet raporlarını onay için Rektörlüğe sunmak,
+
+d) Danışma Kurulunu toplantıya çağırmak ve toplantılara başkanlık etmek,
+
+e) Merkezin çalışma alanlarında birimler ve proje grupları kurulmasını, değiştirilmesini ve kaldırılmasını Yönetim Kuruluna önermek.
+
+### MADDE 9 — Yönetim Kurulu
+
+(1) Yönetim Kurulu, Müdürün başkanlığında, Müdür yardımcısı ve Müdürün teklifi üzerine Merkezin faaliyet konularıyla ilgili alanlarda çalışan üniversitenin tam zamanlı öğretim üyeleri arasından Senato tarafından üç yıllık süreyle görevlendirilen üç üye olmak üzere toplam beş kişiden oluşur. Üyelik süresi sona eren Yönetim Kurulu üyeleri aynı usulle yeniden görevlendirilebilir.
+
+(2) Yönetim Kurulu, Müdürün daveti üzerine üç ayda en az bir kez, Müdürün belirleyeceği gündemle üye tam sayısının salt çoğunluğuyla toplanır ve kararlar oy çokluğu ile alınır.
+
+### MADDE 10 — Yönetim Kurulunun görevleri
+
+(1) Yönetim kurulunun görevleri şunlardır:
+
+a) Merkezin çalışma ve yönetimi ile ilgili konularda kararlar almak,
+
+b) Merkezin yıllık faaliyet raporunu ve yıllık çalışma programını görüşerek karara bağlamak,
+
+c) Merkezin çalışma alanlarında birimler ve proje grupları kurulmasına, değiştirilmesine ve kaldırılmasına karar vermek,
+
+ç) Danışma Kurulunun, Merkez birimlerinin ve proje gruplarının çalışma esaslarını belirlemek, ilgili birimler arasındaki eşgüdümü sağlamak,
+
+d) Araştırma, yayın, öğretim ve diğer çalışma alanlarına ilişkin konularda karar almak,
+
+e) Kamu kurum ve kuruluşları ve özel sektör tarafından önerilen konularda işbirliği tekliflerini değerlendirmek, işbirliği tekliflerini Üniversitenin ilgili birimlerine iletmek, görev alabilecek birimleri tespit etmek,
+
+f) Kamu kurum ve kuruluşları, özel sektör, yurt dışındaki kurum ve kuruluşlar ile ortaklaşa yürütülecek çalışmaların ilke, esas ve usullerini belirlemek,
+
+g) Müdürün, Danışma Kurulunun ve Merkez birimlerinin görüş ve önerilerini değerlendirerek bir sonraki yılın çalışma programını hazırlamak,
+
+ğ) Yurtiçi ve yurtdışı kuruluşlarla ortaklaşa yürütülecek çalışmaların usul ve esaslarını belirlemek,
+
+h) Müdür tarafından hazırlanan bütçe önerisini incelemek ve onaylamak,
+
+ı) Merkezin profesyonel sertifikalı eğitim programlarına katılanlara vereceği sertifika konusundaki ilkeleri belirlemek,
+
+i) Personel ihtiyacını belirlemek.
+
+### MADDE 11 — Danışma Kurulu
+
+(1) Danışma Kurulu, Müdürün başkanlığında, Üniversitenin öğretim elemanları, Merkezin faaliyetleri ile ilgili yurtiçi ve yurtdışında önemli çalışmalar yapmış diğer üniversitelerden öğretim elemanları ile ilgili kamu kurum ve kuruluşları, meslek kuruluşları, sivil toplum kuruluşları ile iş dünyası temsilcileri arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından iki yıllığına görevlendirilen en fazla dokuz üyeden oluşur. Süresi sona eren üyeler yeniden görevlendirilebilir.
+
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az iki kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü olarak toplantıya çağırabilir. Danışma Kuruluna Müdür başkanlık eder.
+
+### MADDE 12 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevi, Merkezin amaçları doğrultusunda Merkezin faaliyetlerine yönelik tavsiye niteliğinde görüş ve önerilerini Yönetim Kuruluna sunmaktır.
+
+(2) Danışma Kurulu gerektiğinde Merkezin faaliyet alanlarıyla ilgili alt komisyonlar oluşturabilir.
+
+### MADDE 13 — Merkez birimleri ve proje grupları
+
+(1) Araştırma ve yayın, proje koordinatörlüğü, dış ilişkiler ve bilimsel etkinlikler araştırma, geliştirme ve eğitim çalışmalarını yürütmek üzere ve Merkezin çalışma alanlarında Müdürün önerisi ve Yönetim Kurulunun kararıyla birimler ve proje grupları oluşturulabilir.
+
+(2) Birimlerin ve proje gruplarının çalışmaları Yönetim Kurulunca belirlenen esaslara göre yürütülür. Proje gruplarının çalışmaları, Müdür ve Yönetim Kurulunca proje koordinatörlüğü altında ve eşgüdümünde yürütülebilir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, Müdürün teklifi üzerine 2547 sayılı Yüksek Öğretim Kanununun 13 üncü maddesi uyarınca, Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 15 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İstanbul Ticaret Üniversitesi Rektörü yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>17/4/2013</td><td>28621</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1</td><td>23/5/2016</td><td>29720</td></tr>
+<tr><td>2</td><td></td><td></td></tr>
+<tr><td>3</td><td></td><td></td></tr>
+</table>

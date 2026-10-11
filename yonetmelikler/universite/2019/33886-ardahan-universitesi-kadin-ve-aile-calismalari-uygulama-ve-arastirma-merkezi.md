@@ -1,0 +1,191 @@
+---
+title: "ARDAHAN ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.33886"
+number: "33886"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-10-13
+official_gazette_date: 2019-10-13
+official_gazette_number: "30917"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=33886&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ARDAHAN ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Ardahan Üniversitesi Rektörlüğüne bağlı olarak kurulan Ardahan Üniversitesi Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, organlarına, organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Ardahan Üniversitesi Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, organlarına, organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (ARÜKAM): Ardahan Üniversitesi Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezini,
+
+c) Merkez Müdürü: Merkezin Müdürünü,
+
+ç) Rektör: Ardahan Üniversitesi Rektörünü,
+
+d) Üniversite: Ardahan Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Kadın ve ailenin toplumsal ve ekonomik kalkınma içerisinde yerini alabilmesi, kadının statüsü, kadın ve aile sorunları ile ilgili her konuda duyarlı, bilgili ve yeterli kadroların yetiştirilmesine yönelik faaliyetlerde bulunmak.
+
+b) Sosyal hayat içerisinde kadının ve ailenin diğer fertlerinin verimliliğini artırmak.
+
+c) Kadın ve ailenin yaşamı, geleceği ve sorunlarına bölgesel ve evrensel çözümler getirmek için yurtiçinde ve yurtdışında kadın ve aile sorunları ile ilgili her alanda araştırma ve incelemeler yapmak ve etkinliklere katılmak.
+
+ç) Üniversitenin ilgili birim ve bölümlerinin işbirliği ile kadın ve aile sorunlarının çözümüne ilişkin çalışmalarda bulunmak, yayınlar çıkarmak ve konuyla ilgili olarak toplumla Üniversite arasındaki koordinasyonu sağlamak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Toplumsal, hukuksal, ekonomik, siyasal konular ile eğitim, çalışma hayatı ve sağlığa ilişkin konularda toplumsal cinsiyet, kadın ve aile bağlamında ulusal ve uluslararası düzeyde araştırma, inceleme ve projeler yapmak, yapılan çalışmalara katılmak ve desteklemek.
+
+b) Üniversite bünyesinde toplumsal cinsiyet, kadın ve aile sorunlarıyla ilgili programlar açılmasını önermek ve mevcut lisans, yüksek lisans ve doktora programlarında toplumsal cinsiyet, kadın ve aile çalışmalarıyla ilgili dersler açılmasını teşvik etmek.
+
+c) Toplumsal cinsiyet, kadın ve aile sorunlarıyla ilgili ulusal ve uluslararası düzeyde seminer, konferans, panel, kongre, sempozyum, sergi ve benzeri her türlü bilimsel, sanatsal ve kültürel etkinlikler düzenlemek, bu tür etkinliklere katılmak.
+
+ç) Kadın ve ailenin toplumsal ve siyasal alanda güçlendirilmesine yönelik araştırma ve destek programları oluşturmak.
+
+d) Toplumsal cinsiyet, kadın ve aile sorunları konusunda duyarlılığı arttırmak; bu amaç doğrultusunda etkinliklerde bulunmak, basılı, sözel, görsel yayın yapmak ve bu tür etkinliklere katılmak.
+
+e) Toplumsal cinsiyet, kadın ve aile sorunlarına yönelik olarak kütüphane ve arşiv oluşturmak.
+
+f) Toplumsal cinsiyet, kadın ve aile sorunlarıyla doğrudan ya da dolaylı şekilde ilgili sivil toplum örgütlerini de kapsamak üzere bütün yerel, ulusal ve uluslararası kurum ve kuruluşlarla işbirliği yapmak ve çalışmalarına katılmak.
+
+g) Kadın ve aile sorunları alanında danışmanlık hizmetleri vermek.
+
+ğ) Kadınlar ve aileler için özel yetişkin eğitim toplantıları düzenlemek ve eğitim materyali hazırlamak.
+
+h) Kadın ve aile merkezleri ve kuruluşları arasında işbirliği ve iletişimi sağlamak.
+
+ı) Kadın ve aile sorunları alanında Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür, müdür yardımcıları ve görevleri
+
+(1) Müdür; Üniversite öğretim üyeleri arasından, Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür, Merkezin tüm etkinliklerinden Yönetim Kuruluna ve Rektöre karşı sorumludur.
+
+(2) Müdürün görevleri şunlardır:
+
+a) Ulusal ve uluslararası düzeyde Merkezi temsil etmek,
+
+b) Danışma Kurulunu ve Yönetim Kurulunu toplantıya çağırmak, gündemi hazırlamak, toplantıya sekreterlik etmek, Rektörün katılamadığı durumlarda toplantıya başkanlık etmek.
+
+c) Çalışma programını ve yıllık gelir ve gider raporunu Yönetim Kurulu ile işbirliği içinde hazırlamak ve Rektöre sunmak.
+
+ç) Danışma Kurulunun görüşünü alarak müdür yardımcısını önermek.
+
+d) Araştırma projeleri ve danışmanlık hizmetlerinin yönlendirilmesini ve denetimini sağlamak.
+
+e) Merkez bünyesindeki çalışma gruplarının faaliyetlerini düzenlemek, yürütmek, izlemek ve denetlemek.
+
+f) İlgili mevzuatla verilen diğer görevleri yapmak.
+
+(3) Müdüre yardımcı olmak üzere ve Müdürün önerisi üzerine, Üniversite öğretim elemanları arasından en çok iki kişi müdür yardımcısı olarak Rektör tarafından üç yıl için görevlendirilir. Müdürün görevi başında bulunmadığı zamanlarda müdür yardımcılarından biri kendisine vekâlet eder. Gerektiğinde Müdürün önerisi üzerine müdür yardımcıları Rektörün onayı ile değiştirilebilir. Müdür yardımcılarının görevi, Müdüre çalışmalarında yardımcı olmak ve yokluğunda vekalet etmektir.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu; İktisat Fakültesi, İnsani Bilimler ve Edebiyat Fakültesi, Mühendislik Fakültesi Dekanları, Beden Eğitimi ve Spor Yüksekokulu, Sağlık Bilimleri Yüksekokulu ve Turizm ve Otelcilik Yüksekokulu Müdürleri, Genel Sekreter ve/veya Genel Sekreter yardımcılarından biri ile Üniversitenin tam zamanlı öğretim üyeleri arasından Müdür tarafından aday gösterilen ve Rektör tarafından üç yıl için görevlendirilen en az dört üyeden oluşur.
+
+(2) Süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılanların ve altı aydan fazla Üniversite dışında görevlendirilenlerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+
+(3) Yönetim Kurulu, Müdür tarafından belirlenen ve üyelere önceden bildirilen gündem doğrultusunda, iki ayda bir kez olağan ve gerekli durumlarda Müdürün çağrısı üzerine olağanüstü olarak toplanır. Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların oy çokluğu ile karar alır. Oyların eşit olması durumunda Müdürün oyu yönünde çoğunluk sağlanmış kabul edilir.
+
+(4) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışmaları ile ilgili plan ve programları hazırlamak, Danışma Kuruluna sunmak ve uygulanmasını sağlamak.
+
+b) Merkez çalışmaları için çalışma grupları kurmak ve görevlendirmek; çalışma gruplarının çalışmalarını takip etmek.
+
+c) Merkezin yıllık çalışma ve yatırım programlarını, gelir ve gider raporunu, gündemdeki ilgili projelerini hazırlayarak karara bağlamak ve onaylanmak üzere Rektöre sunmak.
+
+ç) Merkez elemanlarının eğitim, uygulama, araştırma, hizmet üretimi ve yayım konularındaki isteklerini değerlendirip önerilerde bulunmak.
+
+d) Merkezin genel işleyişi, düzeni ve idari personeli ile ilgili Müdür tarafından yapılan önerileri karara bağlamak.
+
+e) Eğitim, araştırma, proje, toplantı düzenleme, danışmanlık hizmeti, yayın, kurs verme gibi konularda karar vermek.
+
+### MADDE 10 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; Yönetim Kurulunun önerisi üzerine Merkezin çalışmalarına görüş, öneri, taslak ve projeleri ile sürekli veya geçici olarak destek veren uzmanlardan olmak üzere en çok on kişiden oluşur. Danışma Kurulu üyelerinden; Üniversite bünyesinde çalışan üyeler Rektör tarafından, diğer kurumlardaki konusunda uzmanlaşmış kişiler arasından seçilecek üyeler ise istekleri halinde, Rektörün daveti/talebi üzerine ve ilgili kurum yetkilisinin onayı ile üç yıl için görevlendirilir.
+
+(2) Danışma Kurulu; Müdürün önerisi ve Rektörün çağrısı üzerine yılda bir kez olağan olarak toplanır. Rektör, Danışma Kurulunun doğal üyesi ve başkanıdır. Müdür Danışma Kurulunun sekreterliğini yürütür. Yönetim Kurulu üyeleri Danışma Kurulu toplantılarına katılır. Kararlar toplantıya katılanların oy çokluğuyla alınır.
+
+(3) Danışma Kurulunun görevi; Merkez çalışmalarını değerlendirmek, faaliyet alanına giren tüm konularda görüş bildirmek ve Yönetim Kuruluna önerilerde bulunmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 11 — Çalışma grupları
+
+(1) Çalışma grupları, Merkezin ilgi alanı içindeki konu ve sorunların çözümüne ilişkin fikir üretmek ya da proje geliştirmek üzere oluşturulan uzman birimlerdir.
+
+(2) Müdür, çalışma gruplarının etkinliklerini Yönetim Kurulu adına izler ve denetler.
+
+### MADDE 12 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 13 — Ekipman ve demirbaşlar
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaşlar Merkezin ve gerektiğinde Üniversitenin kullanımına tahsis edilir.
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör, bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+
+### MADDE 15 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 16 — Yürürlükten kaldırılan yönetmelik
+
+(1) 17/4/2014 tarihli ve 28975 sayılı Resmî Gazete’de yayımlanan Ardahan Üniversitesi Kadın Araştırmaları Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Ardahan Üniversitesi Rektörü yürütür.

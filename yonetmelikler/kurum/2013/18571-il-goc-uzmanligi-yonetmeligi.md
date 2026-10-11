@@ -1,0 +1,379 @@
+---
+title: "İL GÖÇ UZMANLIĞI YÖNETMELİĞİ"
+identifier: "7.5.18571"
+number: "18571"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2013-07-11
+official_gazette_date: 2013-07-11
+official_gazette_number: "28704"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18571&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İL GÖÇ UZMANLIĞI YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Yönetmeliğin amacı, il göç uzmanı ve il göç uzman yardımcılarının mesleğe alınmaları, yarışma sınavı, komisyonların oluşumu, yetiştirilmeleri, yeterlilik sınavları, atanmaları, eğitimleri, çalışma usul ve esasları ile görev, yetki ve sorumluluklarını düzenlemektir.
+
+(2) Bu Yönetmelik, Göç İdaresi Genel Müdürlüğü taşra teşkilatında istihdam edilecek il göç uzmanı ile il göç uzman yardımcılarını kapsar.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Yönetmelik, 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununun 119 uncu maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Bakan: İçişleri Bakanını,
+
+b) Daire başkanı: Genel Müdürlük daire başkanlarını,
+
+c) Genel Müdür: Göç İdaresi Genel Müdürünü,
+
+ç) Genel Müdürlük: Göç İdaresi Genel Müdürlüğünü,
+
+d) Giriş sınavı: İl göç uzman yardımcılığı için yapılacak olan giriş sınavını,
+
+e) Komisyon: Giriş Sınavı Komisyonunu,
+
+f) KPSS: Kamu Personel Seçme Sınavını,
+
+g) Kurul: Yeterlik sınavı kurulunu,
+
+ğ) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+
+h) Uzman: İl göç uzmanını,
+
+ı) Uzman yardımcısı: İl göç uzman yardımcısını,
+
+i) Yeterlik sınavı: İl göç uzmanlığı yeterlik sınavını,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Uzman Yardımcılığına Giriş
+
+### MADDE 4 — Giriş sınavı
+
+(1) Genel Müdürlük taşra teşkilatına uzman yardımcısı olarak atanacaklar, kadro ve ihtiyaç durumuna göre Genel Müdürlük tarafından uygun görülen zamanlarda açılacak giriş sınavı ile mesleğe alınır.
+
+(2) Giriş sınavı, yazılı ve sözlü olmak üzere iki aşamalı yapılır.
+
+(3) Giriş sınavı, öğrenim dalları göz önüne alınarak Komisyon tarafından farklı alanlarda yapılabilir. Genel Müdürlük, ihtiyaç duyulması halinde öğrenim dallarına göre ayrı ayrı kontenjan belirleyebilir.
+
+(4) Giriş sınavı, Genel Müdürlükçe yapılır. İhtiyaç duyulması halinde yazılı sınav, ÖSYM’ye, üniversitelere ya da diğer kamu kurum ve kuruluşlarına yaptırılabilir.
+
+### MADDE 5 — Giriş sınavı başvuru şartları
+
+(1) Giriş sınavına katılmak isteyenlerin aşağıdaki şartları taşımaları gerekir:
+
+a) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak.
+
+b) Giriş sınavının yapılacağı tarih itibariyle otuz beş yaşını doldurmamış olmak.
+
+c) Başvuru tarihinin son günü itibariyle geçerlilik süresi dolmamış KPSS’den, giriş sınavı duyurusunda belirtilen puan türlerine göre asgari puanı almış olmak.
+
+ç) Genel Müdürlüğün kadro ve ihtiyaç durumuna göre; en az dört yıllık lisans eğitimi veren hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakültelerinden veya Genel Müdürlükçe yürütülen hizmetlerin gerektirdiği en az dört yıllık lisans eğitimi veren yükseköğretim kurumları ile bunlara denkliği kabul edilen yurt içindeki veya yurt dışındaki öğretim kurumlarından mezun olmak.
+
+### MADDE 6 — Giriş sınavının duyurulması
+
+(1) Giriş sınavına katılma şartları, başvuru tarihi ve yeri, başvuru şekli ve başvuru evrakının temin edileceği yer, KPSS puan türleri ve asgari puanlar, öğrenim dalları ve kontenjanları, başvuruda istenecek diğer belge ve beyanlar, atama yapılacak kadro sayısı, sınıfı ve derecesi, sınavın tarihi ve yapılacağı yer, sınava kaç kişinin çağrılacağı, giriş sınavının şekli, sınav konuları, değerlendirme yöntemi ile gerekli görülen diğer hususlar sınav tarihinden en az bir ay önce, Resmî Gazete’de, yurt düzeyinde günlük olarak yayımlanan tirajı yüksek ilk beş gazetenin en az birinde ve Genel Müdürlüğün internet sitesinde ilan edilmek suretiyle duyurulur.
+
+### MADDE 7 — Giriş sınavı başvuru işlemleri
+
+(1) Giriş sınavı başvurusu, elden veya posta yoluyla ilanda belirtilen adrese ya da ilanda belirtilmesi kaydıyla Genel Müdürlüğün internet sitesi üzerinden yapılır.
+
+(2) Giriş sınavına katılmak isteyen adaylar, Genel Müdürlük, İl Göç İdaresi Müdürlüğünden veya Genel Müdürlük internet sitesinden temin edecekleri sınav başvuru formunu doldurarak aşağıdaki belgelerle birlikte başvurur:
+
+a) Yükseköğrenim mezuniyet belgesinin aslı veya onaylı örneği; eğitimini yurt dışında tamamlamış olanların diploma denklik belgesinin aslı veya onaylı örneği.
+
+b) Üç adet vesikalık fotoğraf.
+
+c) KPSS sonuç belgesinin aslı veya bilgisayar çıktısı.
+
+ç) T.C. kimlik numarası beyanı.
+
+d) Özgeçmiş.
+
+(3) Elden veya posta yoluyla yapılacak başvurularda ikinci fıkrada sayılan belgelerin son başvuru tarihi mesai bitimine kadar Genel Müdürlüğe teslim edilmesi veya ulaştırılması şarttır. Bu belgeler, aslı ibraz edilmek kaydıyla, Genel Müdürlükçe de onaylanabilir. Postadaki gecikmeler ve giriş sınavı duyurusunda belirtilen süre içerisinde yapılmayan başvurular dikkate alınmaz.
+
+(4) Giriş sınavı başvurusunun, Genel Müdürlüğün internet sitesi üzerinden yapılması halinde, ikinci fıkradaki belgeler sözlü sınavdan önce Genel Müdürlüğe teslim edilir.
+
+### MADDE 8 — Giriş sınavı komisyonu
+
+(1) Giriş Sınavı Komisyonu; Genel Müdür tarafından belirlenen en az daire başkanı düzeyindeki yöneticiler ile üniversite öğretim üyeleri olmak üzere başkan dâhil en az beş asil ve üç yedek üyeden oluşur. Kurum dışından sınav komisyonuna görevlendirilen asil üye sayısı ikiyi geçemez. **(Değişik ibare:RG-7/2/2019-30679)** Personel Dairesi Başkanı komisyonun doğal üyesidir. Asil üyelerin herhangi bir nedenle komisyona katılamamaları halinde yedek üyeler tespit sırasına göre komisyona katılırlar.
+
+(2) Bölümler itibariyle ayrı ayrı kontenjan belirlenmesi halinde her bir bölüm için ayrı komisyon oluşturulabilir.
+
+(3) Komisyon başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının veya evlatlıklarının katıldığı sınavlarda görev alamazlar.
+
+### MADDE 9 — Komisyonun görevleri
+
+(1) Komisyon; yazılı sınavın yapılması veya yaptırılması, yazılı sınav sorularının hazırlanması veya hazırlatılması ve cevapların değerlendirilmesi, sözlü sınavın yapılması, sonuçların ilan edilmesi, itirazların sonuçlandırılması ve sınavla ilgili diğer işlemlerin yürütülmesiyle görevli ve yetkilidir.
+
+(2) Komisyon üye tam sayısı ile toplanır ve oy çokluğuyla karar alır. Oyların eşitliği halinde Komisyon Başkanının bulunduğu taraf çoğunluk kabul edilir. Oylama sırasında çekimser oy kullanılamaz. Alınan kararlar kesindir. Karara katılmayanlar karşı oylarını gerekçeleriyle birlikte belirtmek zorundadır.
+
+### MADDE 10 — Giriş sınavı ön hazırlık çalışmaları
+
+(1) Giriş sınavı ön hazırlık çalışmaları **(Değişik ibare:RG-7/2/2019-30679)** Personel Dairesi Başkanlığı tarafından yürütülür.
+
+(2) **(Değişik ibare:RG-7/2/2019-30679)** Personel Dairesi Başkanlığı, öngörülen süre içerisinde yapılan başvuruları inceleyerek adaylarda aranan şartların mevcut olup olmadığını tespit eder. Aranılan nitelikleri taşıyan adaylar, ilanda belirtilen KPSS puan türlerinden her puan türü için ayrı ayrı en yüksek puanı alan adaydan başlamak üzere bir sıralamaya tabi tutulur. Atama yapılacak kadro sayısının yirmi katını geçmemek üzere, ilanda duyurulan sayıda aday tutanakla belirlenir ve Genel Müdürlük internet sitesinde ilan edilir. KPSS puan türü itibariyle en son adayın aldığı puanla aynı puana sahip adaylar da giriş sınavına çağrılır.
+
+(3) Adaylar, sınav giriş belgelerini sınav saatine kadar elden teslim alırlar. Sınav giriş belgesinde, fotoğraf, kimlik bilgileri, sınav yeri, tarihi ve saati yer alır.
+
+### MADDE 11 — Giriş sınavının konuları
+
+(1) Yazılı sınav konuları; mezun olunan bölümlerin müfredatı dikkate alınarak belirlenen alan bilgisi ve Genel Müdürlüğün görev alanına giren temel konular olmak üzere iki bölümden oluşur. Yazılı sınav konularının alt başlıkları ve yazılı sınav sorularının konu grupları bakımından hangi ağırlıkta değerlendirmeye tabi tutulacağına sınav duyurusunda yer verilir.
+
+(2) Lisans eğitimine ait mesleki bilgilerin değerlendirilmesi; 5 inci maddenin birinci fıkrasının (ç) bendinde belirtilen öğretim kurumlarından mezun olanlar için, mezun olunan bölümlerin müfredatı dikkate alınarak belirlenen ve sınav duyurusunda belirtilen alan bilgisi konularından yapılır.
+
+(3) Sınav sorularının % 80’i lisans eğitimine ait mesleki bilgilerden, % 20’si Genel Müdürlüğün görev alanına ait temel bilgilerden hazırlanır. Atama yapılacak kadro sayısının öğrenim dalları itibarıyla ayrı ayrı belirlenmesi durumunda, adayların hangi sınav konularından sorumlu olacağı sınav duyurusunda belirtilir.
+
+### MADDE 12 — Yazılı sınav
+
+(1) Yazılı sınava KPSS sonuçlarına göre başvuran adaylardan, en yüksek puana sahip olan adaydan başlanmak üzere atama yapılacak kadro sayısının en fazla yirmi katına kadar aday (son sıradaki aday ile eşit puana sahip adaylar dâhil) çağrılır.
+
+(2) Yazılı sınav; duyuruda belirtilen konularda klasik veya test şeklinde yapılabilir.
+
+(3) Sınav sorularının hazırlanması, muhafazası ve sonuçlarının değerlendirilmesinde gizliliğe riayet edilir. Hazırlanan sorular zarflar içerisine konularak kapatılıp imzalanmak suretiyle giriş sınavı komisyonu başkanı tarafından muhafaza edilir ve sınav salonunda adayların huzurunda açılır.
+
+(4) Yazılı sınav, **(Değişik ibare:RG-7/2/2019-30679)** Personel Dairesi Başkanlığı tarafından komisyon üyelerinin gözetimi ve denetimi altında yapılır.
+
+(5) Yazılı sınavdan başarılı sayılmak için **(Değişik ibare:RG-7/2/2019-30679)** yüz tam puan üzerinden sınav notu olarak en az yetmiş puan alınması şarttır.
+
+(6) Sınavın başlama ve bitiş saati, kaç adayın katıldığı, her adayın kullandığı cevap kâğıdı sayfası tutanakla tespit edilir. Toplanan cevap kâğıtları ve tutanaklar, zarf içine konularak kapatılıp mühürlendikten sonra komisyon başkanına teslim edilir.
+
+(7) Sınavda kopya çekenler, çekmeye teşebbüs edenler veya kopya çektiği tespit edilenler hakkında tutanak düzenlenir ve sınav kâğıtları geçersiz sayılır.
+
+(8) Tutanaklar salon başkanı ile gözetim ve denetim görevlileri tarafından imzalanır.
+
+(9) Yazılı sınav sonuçları ve sözlü sınava katılmaya hak kazananların listesi ile sözlü sınavın yeri, günü ve saati Genel Müdürlüğün internet sitesinde yayımlanmak suretiyle ilan edilir.
+
+(10) Giriş sınavının yazılı kısmının ÖSYM, üniversiteler ya da diğer kamu kurum ve kuruluşlarına yaptırılması halinde, yazılı sınava ilişkin hususlar Genel Müdürlük ve ilgili kuruluş arasında protokol ile belirlenir.
+
+### MADDE 13 — Sözlü sınav ve değerlendirilmesi
+
+(1) Yazılı sınav sonucunda yetmiş puandan az olmamak üzere, en yüksek puandan başlanarak giriş sınavı duyurusunda belirtilen gruplar itibariyle belirlenen kadronun dört katına kadar aday sözlü sınava çağrılır. Son sıradaki adayla aynı puanı alan adaylar da sözlü sınava çağrılır.
+
+(2) Sözlü sınav, adayların;
+
+a) Yazılı sınav konularına ilişkin bilgi düzeyi,
+
+b) Bir konuyu kavrayıp özetleme, ifade yeteneği ve muhakeme gücü,
+
+c) Liyakati, temsil kabiliyeti, davranış ve tepkilerinin mesleğe uygunluğu,
+
+ç) Özgüveni, ikna kabiliyeti ve inandırıcılığı,
+
+d) Genel yetenek ve genel kültürü,
+
+e) Bilimsel ve teknolojik gelişmelere açıklığı,
+
+yönlerinden değerlendirilerek, ayrı ayrı puan verilmek suretiyle gerçekleştirilir.
+
+(3) Adaylar, komisyon tarafından ikinci fıkranın (a) bendi için elli puan, (b) ila (e) bentlerinde yazılı özelliklerin her biri için onar puan üzerinden değerlendirilir ve verilen puanlar ayrı ayrı tutanağa geçirilir.
+
+(4) Sözlü sınavda başarılı sayılmak için, komisyon başkan ve üyelerinin yüz tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az yetmiş olması şarttır.
+
+### MADDE 14 — Sınav sonuçlarının değerlendirilmesi ve ilanı
+
+(1) Giriş sınavında başarılı olmak için yazılı ve sözlü sınavların her bir aşamasından en az yetmiş puan alınması zorunludur. Başarı sıralaması yazılı sınav ile sözlü sınav notlarının aritmetik ortalaması alınarak belirlenir. Sınav sonuçlarına göre adayların yazılı ve sözlü sınav notlarının aritmetik ortalamasının eşitliği durumunda yazılı sınav puanı yüksek olan aday; her iki puanın da eşit olması halinde KPSS puanı yüksek olan aday sıralamada üstte yer alır.
+
+(2) Adaylar, giriş sınavı puanı en yüksek adaydan başlamak suretiyle sıralamaya konulur ve atama yapılacak kadro sayısı kadar aday asil, giriş sınavında başarılı olmak şartıyla atama yapılacak kadro sayısını geçmemek üzere, Komisyonca belirlenecek sayıda aday ise yedek olarak tespit edilir. Başarı sırasına göre oluşturulacak yedek aday listesi, giriş sınavı sonuçlarının ilanından itibaren iki yılı geçmemek üzere bir sonraki giriş sınavı ilan tarihine kadar geçerlidir.
+
+(3) Sınav sonuçları, komisyon tarafından tutanağa bağlanır. Başarı sıralamasına göre oluşturulan liste Genel Müdür tarafından onaylandıktan sonra Genel Müdürlük internet sitesinde ve Genel Müdürlük hizmet binasında ilan edilir. Ayrıca, asil ve yedek listede yer alan adaylara bildirilir.
+
+(4) Giriş sınavında yetmiş ve üzerinde puan almış olmak, asil ve yedek listelere giremeyen adaylar için müktesep hak teşkil etmez.
+
+### MADDE 15 — Atamadan önce istenecek belgeler
+
+(1) Uzman yardımcılığı giriş sınavında başarılı olan adaylardan aşağıdaki belgeler istenir:
+
+a) Erkek adayların askerlik durumuna dair yazılı beyanı.
+
+b) Dört adet vesikalık fotoğraf.
+
+c) Adli sicil kaydına ilişkin yazılı beyanı.
+
+ç) Görevini devamlı yapmaya engel olabilecek akıl hastalığı olmadığına dair yazılı beyanı.
+
+d) Mal bildirimi.
+
+e) Kamu etik sözleşmesi.
+
+### MADDE 16 — Uzman yardımcılığına atanma
+
+(1) Giriş sınavını kazanan adaylardan, ilan edilen uzman yardımcısı kadro sayısı kadar aday, başarı sıralamasına göre uzman yardımcısı olarak atanır. Asil listeden uzman yardımcılığını kazanan adaylardan çeşitli sebeplerle göreve başlamayanların veya ataması yapılıp herhangi bir sebeple görevden ayrılanların yerine, yedek aday listesinden öğrenim dalları itibariyle başarı sırasına göre atama yapılabilir.
+
+(2) Gerekli belgeleri süresinde ibraz etmeyenlerin atamaları yapılmaz.
+
+(3) Sınavda başarılı olanlardan, atama şartlarını taşımadıkları sonradan anlaşılanların sınav sonuçları geçersiz sayılarak atamaları yapılmaz, yapılmış olsa dahi iptal edilir.
+
+(4) Atamaları yapılan uzman yardımcılarının göreve başlamalarına ilişkin olarak, 657 sayılı Kanunun 62 ve 63 üncü madde hükümleri uygulanır.
+
+### MADDE 17 — Gerçeğe aykırı beyan
+
+(1) Giriş sınavını kazananlardan sınav başvuru formunda gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınav sonuçları geçersiz sayılarak atamaları yapılmaz. Atamaları yapılmış olsa dahi iptal edilir. Bunlar hiçbir hak talep edemez.
+
+(2) Gerçeğe aykırı beyanda bulunduğu veya belge verdiği tespit edilenler hakkında suç duyurusunda bulunulur.
+
+### MADDE 18 — Sınav belgelerinin saklanması
+
+(1) Ataması yapılanların sınavla ilgili belgeleri, ilgililerin özlük dosyalarında; başarısız olanlar ile başarılı olduğu halde herhangi bir nedenle atanamayanların sınav belgeleri ise dava açma süresinden az olmamak kaydıyla bir sonraki sınava kadar Genel Müdürlükçe saklanır.
+
+## ÜÇÜNCÜ BÖLÜM — Uzman Yardımcılığı Dönemi ve Uzman Yardımcılarının Yetiştirilmesi
+
+### MADDE 19 — Uzman yardımcılığı süresi ve çalışma düzeni
+
+(1) Uzman yardımcılığı dönemi en az üç yıldır. Bu sürenin hesabında aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri dikkate alınmaz.
+
+(2) Uzman yardımcıları, görevlendirildikleri il müdürlükleri birimlerinde, il müdürüne veya il müdürü tarafından belirlenen uzmanın refakatinde ve gözetiminde çalışırlar.
+
+### MADDE 20 — Uzman yardımcılarının yetiştirilme ilkeleri
+
+(1) Uzman yardımcısı olarak atananlar bu kadroda bulundukları sürece uzmanlığın gerektirdiği bilgi, beceri ve etik değerleri kazanmaları amacıyla, verilecek görevlerin yanı sıra;
+
+a) Genel Müdürlüğün teşkilat yapısı, görevleri ve çalışma düzeni hakkında bilgi edinilmesini,
+
+b) Rapor yazmak, inceleme ve araştırma yapabilmek ve analitik düşünebilmek için gerekli bilgi ve donanımın kazanılmasını,
+
+c) Genel Müdürlükle ilgili mevzuat ve bu mevzuatın uygulanmasına ilişkin yazışma yöntemi ile diğer bilgi ve becerilerin edinilmesini,
+
+ç) Mesleki konularda bilimsel çalışma ve araştırma alışkanlığının edinilmesini, inceleme ve araştırma teknikleri konularında gerekli bilgi ve yeteneğin kazanılmasını,
+
+d) Yabancı dil bilgisinin geliştirilmesini,
+
+e) Genel Müdürlüğün çalışma alanıyla ilgili olarak, ulusal ve uluslararası konferans, seminer ve eğitim programlarına katılım ve temsil kabiliyetinin geliştirilmesini,
+
+f) Genel Müdürlük görev alanıyla ilgili faaliyette bulunan kuruluşlarda, staj, eğitim, inceleme ve araştırma yapılmasını,
+
+sağlamaya yönelik çalışmalarda bulunur.
+
+### MADDE 21 — Yetiştirilme şekli ve esasları
+
+(1) Uzman yardımcıları, 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik çerçevesinde, temel eğitim, hazırlayıcı eğitim ve staj eğitimine tabi tutulur.
+
+(2) Uzman yardımcılarının temel eğitim ve hazırlayıcı eğitim programlarından sonra il müdürü veya il müdürünün belirleyeceği uzman refakatinde araştırma ve incelemeler ile diğer çalışmalara iştirak ederek, mesleki uygulamayı öğrenmelerinin yanı sıra, yurt içinde ve yurt dışında düzenlenecek kurs, seminer, staj ve konferans gibi eğitim çalışmalarına katılmaları yoluyla mesleki bilgi ve deneyimlerinin artırılması sağlanır. Ayrıca bu süreçte, bu Yönetmelikte sayılan görevlere ilişkin rapor yazmak, inceleme ve araştırma yapmak konularında bilgi ve becerilerini artıracak çalışmalara ağırlık verilir.
+
+## DÖRDÜNCÜ BÖLÜM — Yeterlik Sınavı
+
+### MADDE 22 — Yeterlik sınavı kurulu
+
+(1) Yeterlik sınavının yapılması ile sonuçlarının açıklanması ve itirazların incelenerek karara bağlanması Yeterlik Sınavı Kurulu tarafından yapılır.
+
+(2) Kurul, Genel Müdür tarafından en az daire başkanı seviyesindeki yöneticiler arasından belirlenen beş üyeden oluşur. Kurul başkanı, Genel Müdür tarafından belirlenir. Gerekli görülmesi halinde Kurulda yükseköğretim kurumlarından öğretim üyeleri de görevlendirilebilir. Ayrıca, aynı usul ile dört yedek üye tespit edilir.
+
+(3) Kurul başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının veya evlatlıklarının katıldığı sınavlarda görev alamaz.
+
+(4) Gerekli görülmesi halinde aynı usulle farklı alanlarda olmak üzere birden fazla yeterlik sınavı kurulu oluşturulabilir.
+
+### MADDE 23 — Yeterlik sınavı
+
+(1) Yeterlik sınavı Genel Müdürlükçe uygun görülecek tarihte yazılı olarak yapılır.
+
+(2) Uzman yardımcısı, üç ayı geçen yurtdışı eğitim ve görevler ile aylıksız izin, toplamı üç ayı aşan hastalık ve refakat izinleri hariç en az üç yıl fiilen çalışması kaydıyla yeterlik sınavına girmeye hak kazanır.
+
+(3) Yeterlik sınavı, Genel Müdürlük mevzuatı ile Genel Müdürlüğün görev alanına giren ve sınavdan en az altı ay önce ilan edilen konulardan yapılır. Yeterlik sınavının tarihi, Genel Müdür tarafından belirlenir.
+
+(4) Uzman yardımcısının başarılı sayılması için üyelerin verdiği notların aritmetik ortalamasının yüz üzerinden en az yetmiş puan olması şarttır.
+
+(5) Yeterlik sınavında başarılı olamayan veya sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde ikinci kez sınav hakkı verilir.
+
+(6) Yeterlik sınavı sonunda; kurul başkanı, her bir üyenin verdiği notu gösteren bir çizelge ve sınav tutanağı tanzim ederek sonucu **(Değişik ibare:RG-7/2/2019-30679)** Personel Dairesi Başkanlığına bildirir. Sonuçlar, Genel Müdürün onayından sonra **(Değişik ibare:RG-7/2/2019-30679)** Personel Dairesi Başkanlığı tarafından ilgililere tebliğ edilir.
+
+## BEŞİNCİ BÖLÜM — Atama, Görev, Yetki ve Sorumluluk
+
+### MADDE 24 — Uzmanlık için aranan şartlar ve atanma
+
+(1) Uzman yardımcısının, uzman olarak atanabilmesi için yeterlik sınavında başarılı olması şarttır.
+
+### MADDE 25 — Başarısızlık hali
+
+(1) Verilen ilave süre içerisinde, ikinci sınavda başarı gösteremeyen veya ikinci sınav hakkını kullanmayanlar uzman yardımcısı unvanını kaybeder ve Genel Müdürlükte durumlarına uygun memur unvanlı kadrolara atanır.
+
+### MADDE 26 — Uzman ve uzman yardımcılarının görev ve sorumlulukları
+
+(1) Mevzuatla Genel Müdürlüğe verilen aşağıdaki görevler uzman ve uzman yardımcıları tarafından yerine getirilir:
+
+a) Kendisine verilen konulara ait çalışmaları Genel Müdürlüğün çalışma esas ve ilkeleri ile stratejik plan ve yıllık programlarına göre yürütmek.
+
+b) Genel Müdürlüğün görev alanına giren ve uygulamayı doğrudan veya dolaylı olarak etkileyebilecek konuları izlemek, araştırmak ve analiz etmek, kurumsal stratejinin planlanmasına ve güncelleştirilmesine yönelik çalışmalar yapmak.
+
+c) Kendisine verilen konularla ilgili inceleme ve araştırma yapmak, projeler hazırlamak, hazırlanan projelere destek sağlamak, çalıştığı birimin hizmet kapasite ve kalitesinin artırılmasına yönelik çalışmalar yapmak, yapılan çalışmalara katılmak ve bu konulara ilişkin raporlar hazırlamak.
+
+ç) Mevzuat hazırlanmasına ve uygulanmasına, iş ve işlemlerin geliştirilmesine ilişkin önerilerde bulunmak.
+
+d) Genel Müdürlük ve illerdeki toplantı, seminer ve eğitim programları ile çalışma gruplarında görev almak ve sonuçlarını rapor halinde amirine sunmak.
+
+e) Görevlendirildikleri birimin günlük, kısa ve uzun vadeli işlerine katkı sağlamak.
+
+f) Uygulamalarda karşılaşılan aksaklık ve sorunları tespit etmek, bunları gidermek için gerekli tedbirleri almak ve kendi yetkisi dışında bulunanlar için öneride bulunmak.
+
+g) Verilecek benzeri nitelikteki görevleri yerine getirmek.
+
+(2) Uzmanlar, uzman yardımcılarının yetiştirilmelerine katkıda bulunurlar.
+
+(3) Verilen işleri mevzuata, stratejik plan ve yıllık programla uygun olarak ve süresi içinde yerine getirmekten dolayı uzmanlar il müdürüne karşı, uzman yardımcıları ise birlikte çalıştıkları uzmana ve il müdürüne karşı sorumludur.
+
+(4) Uzman ve uzman yardımcıları görevlerini tarafsızlık, güvenilirlik ve sır saklama ilkelerine göre yürütmekle yükümlüdür.
+
+## ALTINCI BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 27 — Hizmet içi eğitim
+
+(1) Uzmanlar ve uzman yardımcıları, Genel Müdürlüğün görev ve faaliyetleriyle ilgili gelişmelerin izlenmesi ve değerlendirilmesi, analizlerin yapılması, strateji hazırlanması ve politika oluşturulması konularında bilgi, birikim ve yeteneklerinin geliştirilmesi amacıyla ihtiyaç duyulan zamanlarda hizmet içi eğitime tabi tutulur.
+
+(2) Gerektiğinde hizmet içi eğitim, üniversiteler ve ilgili diğer kurum ve kuruluşlar ile işbirliği içinde yapılır veya yaptırılır.
+
+(3) Hizmet içi eğitimlerde Genel Müdürlük hizmet birimleri, eğitici ve eğitim içeriği desteği verebilir.
+
+### MADDE 28 — Yurtdışında eğitim
+
+(1) Uzmanlar ve uzman yardımcıları, ihtiyaç duyulan konularda eğitim, staj, araştırma yapmak, mesleki bilgi ve deneyimini arttırmak amacıyla 657 sayılı Kanun ve 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde yurt dışına gönderilebilir.
+
+### MADDE 29 — Sekretarya hizmetleri
+
+(1) Bu Yönetmelikte yer alan komisyon ve kurulların sekretarya hizmetleri, **(Değişik ibare:RG-7/2/2019-30679)** Personel Dairesi Başkanlığınca yürütülür.
+
+### MADDE 30 — Kariyer dışı uzman atanamayacağı
+
+(1) Uzmanlık kadrolarına, bu Yönetmelik hükümleri dışında atama yapılamaz.
+
+### MADDE 31 — Yeniden atanma
+
+(1) Bu Yönetmelik hükümlerine göre uzman unvanını kazandıktan sonra Genel Müdürlükten çeşitli sebeplerle ayrılanlardan uzmanlığa atanmak isteyenler, durumlarına uygun boş kadro bulunması ve gereken nitelikleri kaybetmemiş olmaları kaydıyla ve Genel Müdürlüğün ihtiyaçları çerçevesinde yeniden atanabilirler.
+
+### MADDE 32 — Sınav sonuçlarına itiraz
+
+(1) Giriş sınavına katılacakların listesi, giriş sınavı ile yeterlik sınavı sonuçlarına yedi gün içinde itiraz edilebilir. İtirazlar, ilgisine göre komisyon veya kurul tarafından yedi gün içerisinde sonuçlandırılarak ilgiliye tebliğ edilir.
+
+### MADDE 33 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde 657 sayılı Devlet Memurları Kanunu, 6458 sayılı Kanun ve 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar için Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümleri uygulanır.
+
+### MADDE 34 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 35 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İçişleri Bakanı yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>11/7/2013</td><td>28704</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>7/2/2019</td><td>30679</td></tr>
+<tr><td>2.</td><td></td><td></td></tr>
+</table>

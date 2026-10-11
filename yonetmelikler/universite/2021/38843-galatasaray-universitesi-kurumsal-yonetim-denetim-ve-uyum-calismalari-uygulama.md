@@ -1,0 +1,189 @@
+---
+title: "GALATASARAY ÜNİVERSİTESİ KURUMSAL YÖNETİM, DENETİM VE UYUM ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.38843"
+number: "38843"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-08-16
+official_gazette_date: 2021-08-16
+official_gazette_number: "31570"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38843&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# GALATASARAY ÜNİVERSİTESİ KURUMSAL YÖNETİM, DENETİM VE UYUM ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Galatasaray Üniversitesi Kurumsal Yönetim, Denetim ve Uyum Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Galatasaray Üniversitesi Kurumsal Yönetim, Denetim ve Uyum Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (GSÜKUYDEM): Galatasaray Üniversitesi Kurumsal Yönetim, Denetim ve Uyum Çalışmaları Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Galatasaray Üniversitesi Rektörünü,
+
+d) Üniversite: Galatasaray Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları; sürdürülebilir toplumsal refaha katkıda bulunmak üzere, kurumsal yönetim, denetim ve uyum alanında uluslararası ilke ve uygulamaların ülkemizde gelişmesine öncülük etmek, bu alanda ilgili mevzuat hükümleri kapsamında uygulama, eğitim-danışmanlık ve araştırma desteği sağlayarak adil, şeffaf ve toplumsal sorumluluk bilinci yüksek, katma değeri olan rekabetçi kurumların oluşmasına ve gelişmesine katkı sağlamaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) İlgili mevzuat hükümleri kapsamında kurumsal yönetim bilincinin kamu ve özel sektörde yerleşmesi ve dünyadaki en iyi uygulamaların benimsenerek hayata geçirilmesi için eğitim, araştırma, seminer, konferans, proje, danışmanlık ve benzeri faaliyetlerde bulunmak.
+
+b) Merkezin amacı doğrultusunda ileri seviyede çok disiplinli ve disiplinler arası araştırmalar yapmak, bu araştırmaların sonuçlarını raporlar, makaleler, bildiriler, kitaplar ve benzeri yayınlar yardımıyla tüm paydaşlarla paylaşmak.
+
+c) İlgili mevzuat hükümleri kapsamında kurumsal yönetim, denetim ve uyum konularında ulusal ve uluslararası nitelikte disiplinler arası konferans, sempozyum, kolokyum, seminer ve benzeri faaliyetleri organize etmek ve/veya yürütmek.
+
+ç) Kurumsal yönetim, denetim ve uyum alanlarında Üniversitenin öğretim elemanları ile öğrencilerini ve başta sivil toplum kuruluşları olmak üzere diğer kurum ve kuruluşları faaliyet göstermeye teşvik etmek, bu amaçla projeler yürütmek veya yürütülen projelere ortak olmak.
+
+d) İlgili mevzuat hükümleri kapsamında Merkezin amacına ilişkin konularda faaliyette bulunan ulusal veya uluslararası, kamu veya özel kurum ve kuruluşlar ile iş birlikleri yapmak, ortak araştırma ve çalışmalar düzenlemek, projeler hazırlamak, bu projelere kaynak sağlamak, projeleri uygulamak ve/veya uygulamalarını takip etmek.
+
+e) Merkezin amacına ilişkin konularda yürütülen projelerde görev alacak alt çalışma grupları kurmak.
+
+f) Merkezin amacına ilişkin konularda, ilgili mevzuat hükümleri kapsamında danışmanlık, bilirkişilik ve benzeri faaliyetlerde bulunmak.
+
+g) Merkezin amacı doğrultusunda araştırma yapmaya elverişli fiziksel ve/veya elektronik ortamda kütüphane ve arşiv oluşturmak, ulusal ve uluslararası bir elektronik iletişim ağı kurmak ve bu nitelikteki mevcut ağlara katılmak, süreli yayın yapmak.
+
+ğ) Merkezin amaçları ile ilgili olan diğer her türlü faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Üniversitenin aylıklı ve devamlı statüdeki öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi sona eren Müdür yeniden görevlendirilebilir. Süresi dolmadan görevinden ayrılan Müdürün yerine Rektör tarafından aynı usulle yeniden görevlendirme yapılır.
+
+(2) Müdürün önerisi üzerine Rektör, Müdüre çalışmalarında yardımcı olacak bir müdür yardımcısını, Üniversitede görevli öğretim üyeleri arasından, üç yıl için görevlendirebilir. Müdür yardımcısının görevi, Müdürün görevi sona erdiğinde sona erer.
+
+(3) Müdürün altı aydan kısa bir sürede görevi başında bulunmadığı durumlarda müdür yardımcısı, müdür yardımcısının bulunmadığı durumlarda ise en kıdemli olanından başlamak üzere Yönetim Kurulu üyelerinden bir kişi kendisine vekalet eder. Ancak vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kurulunu toplantıya çağırmak, toplantı gündemini hazırlamak, toplantıya başkanlık etmek.
+
+c) Merkezin hedeflerini ve stratejilerini belirlemek, çalışma plan ve programlarını hazırlamak ve Yönetim Kuruluna sunmak, Yönetim Kurulunca karara bağlanan çalışma programını yürütmek.
+
+ç) Merkezin faaliyetlerinin gerçekleştirilmesi amacıyla, gerektiğinde Üniversitenin öğretim elemanları ile Danışma Kurulu üyelerinin de yer alabileceği alt çalışma grupları oluşturmak.
+
+d) Merkez bünyesinde gerekli hizmet birimlerinin oluşturulmasını sağlamak, bu birimlerin çalışmalarını düzenlemek, koordine ve kontrol etmek.
+
+e) İlgili mevzuat hükümleri kapsamında Merkezin ulusal ve uluslararası tüm iç ve dış paydaşları ile iş birliğini ve ilişkilerinin koordinasyonunu sağlamak.
+
+f) Merkezin genel durumu ve işleyişi hakkında yıllık faaliyet raporu hazırlamak ve Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunmak.
+
+g) Eğitim, kurs, seminer ve benzeri programların ve uygulama projelerinin düzenlenmesini, yürütülmesini, yönlendirilmesini ve denetimini sağlamak.
+
+ğ) Merkezin idari işlerini yürütmek.
+
+h) Merkezin personel, bütçe ve diğer kaynak ihtiyaçlarının tespitine ilişkin çalışmaların yapılmasını sağlayarak, bu konularda Yönetim Kurulunun onayladığı raporları Rektöre sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu, Müdür, müdür yardımcısı ve Üniversitenin öğretim elemanları arasından Rektör tarafından üç yıllığına görevlendirilen en az üç, en çok beş üyeden oluşur. Herhangi bir nedenle görevinden ayrılan üyenin yerine yeni bir üye görevlendirilir. Süresi sona eren üyeler Rektör tarafından yeniden görevlendirilebilir.
+
+(2) Müdür, Yönetim Kurulunun başkanıdır. Yönetim Kurulu, Müdürün daveti üzerine yılda en az iki kez toplanır. Müdür gerekli gördüğü hallerde Yönetim Kurulunu olağanüstü olarak da toplantıya çağırabilir.
+
+(3) Yönetim Kurulu toplantıları üye tam sayısının salt çoğunluğu ile yapılır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır. Oylar kabul veya ret şeklinde verilir. Oyların eşitliği durumunda Müdürün kullandığı oy yönünde karar alınmış sayılır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin kuruluş amacına yönelik strateji ve politikalar oluşturmak ve bunlara uygun faaliyetler planlayarak Rektörün onayına sunmak.
+
+b) Müdürün hazırlayacağı faaliyet raporunu Rektöre sunulmadan önce değerlendirmek, bir sonraki döneme ait çalışma programını hazırlamak.
+
+c) Gündemde bulunan araştırma, eğitim ve uygulama projelerini karara bağlamak, uygulanmalarını denetlemek, gerekli görülen durumlarda uzmanlık komisyonları kurarak çalışmalarını yürütmek.
+
+ç) Merkez için gerek duyulan çalışma grupları ve komisyonları kurmak.
+
+d) Merkezin faaliyetleri doğrultusunda mali konulara ilişkin kararlar almak.
+
+e) Danışma Kurulu üyeleri konusunda Rektöre öneride bulunmak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Müdür, Üniversitenin veya diğer üniversitelerin öğretim elemanları ile ilgili kurum ve kuruluşlardaki mesleğinde temayüz etmiş veya uzman kişiler arasından, Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına görevlendirilen en fazla dokuz üyeden oluşur.
+
+(2) Süresi sona eren Danışma Kurulu üyeleri yeniden görevlendirilebilir.
+
+(3) Danışma Kurulu, Müdürün başkanlığında, her yıl en az bir kez toplanır.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyetleri ile ilgili değerlendirmeler yaparak görüş ve önerilerde bulunmak.
+
+b) Yönetim Kurulunun gerekli gördüğü konularda Merkezin faaliyetleri ile ilgili rapor hazırlamak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+
+### MADDE 15 — Personel ihtiyacı
+
+(1) Merkezin akademik, idari ve teknik personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel ile karşılanır.
+
+### MADDE 16 — Ekipman ve demirbaş
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaş Merkezin kullanımına tahsis edilir.
+
+### MADDE 17 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri ve Üniversite Senatosu kararları uygulanır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Galatasaray Üniversitesi Rektörü yürütür.

@@ -1,0 +1,229 @@
+---
+title: "BİNGÖL ÜNİVERSİTESİ KARİYER PLANLAMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.31555"
+number: "31555"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-05-28
+official_gazette_date: 2019-05-28
+official_gazette_number: "30787"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31555&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BİNGÖL ÜNİVERSİTESİ KARİYER PLANLAMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, Bingöl Üniversitesine bağlı olarak kurulan Bingöl Üniversitesi Kariyer Planlama Uygulama ve Araştırma Merkezinin amaçlarına, faaliyetlerine, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekillerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Bingöl Üniversitesi Kariyer Planlama Uygulama ve Araştırma Merkezinin amaçlarına, faaliyetlerine, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekillerine ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 ncimaddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Kariyer temsilcileri: İlgili birimlerde görev yapanlar arasından seçilen kişileri,
+
+c) Merkez: Bingöl Üniversitesi Kariyer Planlama Uygulama ve Araştırma Merkezini,
+
+ç) Mezun: Lisans ve lisansüstü mezunlarını,
+
+d) Müdür: Merkezin Müdürünü,
+
+e) Müdür yardımcısı: Merkezin müdür yardımcısını,
+
+f) Rektör: Bingöl Üniversitesi Rektörünü,
+
+g) Senato: Bingöl Üniversitesi Senatosunu,
+
+ğ) Üniversite: Bingöl Üniversitesini,
+
+h) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Bingöl Üniversitesi öğrenci adayları, öğrencileri, mezunları ve çalışanlarının yetenek, bilgi, beceri, ilgi ve istekleri ile Üniversitenin ve Türkiye’nin koşul ve ihtiyaçları doğrultusunda kariyer planlama ve geliştirme yetkinliklerinin iyileştirilmesini sağlamak.
+
+b) Üniversitede, öğrencilerin mezuniyet sonrası istihdam imkânlarını artırmak amacıyla mesleki gelişimlerine katkı sağlamak.
+
+c) Bölgedeki işletmelerin verimlilik ve sürdürülebilirlik çabalarına destek olmak.
+
+ç) Üniversitenin tercih edilebilirliğini artırmak.
+
+d) Merkez faaliyetlerini ve bu alandaki birikimlerini ilgili yerli ve yabancı kuruluşlara aktararak bu kuruluşların gelişmelerine ve bölgesel kalkınmaya katkıda bulunmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez, temel amaçları doğrultusunda aşağıdaki faaliyetlerde bulunur:
+
+a) Bingöl Üniversitesi öğrencilerine, mezunlarına ve çalışanlarına yönelik bütüncül bir yaklaşımla kariyer planlama ve geliştirmeye ilişkin strateji, politika, proje, program ve organizasyon önerileri geliştirmek ve Rektörlüğe sunmak; onaylanan önerilerin uygulanmasına ilişkin faaliyetleri koordine ve kontrol etmek.
+
+b) Bingöl Üniversitesi öğrencilerine, mezunlarına ve çalışanlarına bireysel kariyer planlama, iş arama, mesleki ve kişisel birikimlerini sunma konusunda yetkinlikler kazandırmak ve kariyerlerini geliştirmeye yönelik eğitim ve yayın faaliyetlerini gerçekleştirmek, koordine etmek ve desteklemek.
+
+c) Bingöl Üniversitesi öğrencilerinin, mezunlarının ve çalışanlarının kariyer planlama ve geliştirme performanslarını iyileştirmeye yönelik olarak bireysel potansiyellerini, kişisel özelliklerini, becerilerini, öz değerlerini, eğilim ve beklentilerini ortaya çıkarmak için gerekli kariyer danışmanlığı ve diğer hizmetleri vermek, verilmesini sağlamak.
+
+ç) Öğrenci kulüpleri ile işbirliği ve koordinasyon içinde kariyer günleri ve benzeri etkinlikleri planlamak, düzenlemek veya düzenlenmesine destek vermek.
+
+d) Gerek seminer, gerekse bireysel görüşmelerle öğrencilere iş arama teknikleri konusunda bilgi vermek, etkin özgeçmiş yazma ve başarılı bir mülakat gerçekleştirme konularında yardımcı olmak.
+
+e) Üniversitenin yüksek lisans/doktora öğrenimi dahil tüm birimlerinden mezun olan öğrenciler için iş imkanları araştırmak.
+
+f) İlgili özel ve kamu kurum ve kuruluşları ile paydaşlık ilişkisini ve işbirliğini geliştirerek ortaklaşa kariyer geliştirmek, iş ve işgören sağlama proje ve programlarının yürütülmesine destek vermek.
+
+g) Merkez programlarına ve hizmetlerine Üniversitenin tüm kesimlerinin ilgisini artırıcı çalışmalar yapmak.
+
+ğ) Kariyer planlama ve geliştirme, iş alanları ve olanakları ile hedef kitlenin kariyer yönelim ve beklentileri gibi konularda araştırmalar yapmak ve yaptırmak.
+
+h) Mezun dernekleri ve vakıfları ile işbirliği halinde mezunların iş hayatındaki kariyer gelişimlerini izlemek ve ilgili verileri bilgisayar ortamında tutmak ve güncellemek.
+
+ı) Üniversite mezunlarının mezuniyet sonrası yaşamlarında da birbirleriyle işbirliği, dayanışma ve ilişki içerisinde bulunmaları için çeşitli faaliyetler düzenlemek.
+
+i) Eğitim ve kariyer geliştirme faaliyetlerinde kullanılmak amacı ile “öğrenci bilgi bankası” ve “iş- işyeri bilgi bankası” (Kariyer Geliştirme Bilgi Yönetim Sistemi) oluşturmak ve işletmek.
+
+j) Faaliyetleri ile ilgili konularda bültenler yayınlayarak öğrencileri, mezunları, kurum ve kuruluşları bilgilendirmek.
+
+k) Kariyer planlama ve geliştirme konusunda özellikle akademik personele yönelik benzer program ve faaliyetleri gerçekleştirmek.
+
+l) Kariyer planlama ve geliştirme konusunda yapılacak araştırma, yayın, proje, tez çalışmalarını teşvik etmek ve desteklemek.
+
+m) Düzenli işletme tanıma ve teknik gezileri organize etmek.
+
+n) Kariyer planlama ve geliştirmeyi üniversiteye giriş öncesi, öğrencilik, mezuniyet sonrasını kapsayan ve aday-öğrenci-mezun-çalışan ve aileleri ile diğer paydaşları içerir bir bütünsel yaklaşımla ele alarak belirlenen vizyonve amaçlar doğrultusunda gerekli diğer faaliyetleri gerçekleştirmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları, Görevleri ve Kariyer Temsilcileri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Üniversitenin kadrolu öğretim üyeleri/elemanları arasından Rektör tarafından üç yıl için görevlendirilir.
+
+(2) Müdürün altı aydan fazla süreyle görevi başında bulunmaması halinde görevi kendiliğinden sona erer. Rektör, yeni Müdür görevlendirinceye kadar, bu görevi vekâleten yürütmek üzere akademik veya idari personelden birini görevlendirebilir.
+
+(3) Müdür, görevlendirilmesindeki usule göre görevden alınabilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi yönetmek ve temsil etmek.
+
+b) Merkez faaliyetlerinin, amaçları doğrultusunda yürütülmesini sağlamak.
+
+c) Merkezin idari işlerini yürütmek ve Merkezin gelir ve giderlerine ilişkin tasarrufta bulunmak.
+
+ç) Merkez faaliyetlerinin giderlerini karşılamak için kaynak sağlamaya yönelik girişimlerde bulunmak.
+
+d) Merkezin faaliyetleriyle ilgili yurt içi ve yurt dışı kurum ve kuruluşlarla temasa geçerek Merkezin amacına uygun olarak Merkez organlarının belirleyeceği çerçevede yürütülecek faaliyetlerin projelendirilmesi ve bunlara ulusal ve uluslararası zeminde destek ve mali kaynak sağlanması için girişimlerde bulunmak.
+
+e) Yönetim Kurulunu toplantıya çağırmak ve Kurulda alınan kararları uygulamak.
+
+f) Yıllık çalışma, faaliyet programları ve faaliyet raporlarını hazırlayıp onay için Yönetim Kuruluna sunmak.
+
+### MADDE 10 — Müdür yardımcısı
+
+(1) Müdürün önerisi üzerine, kendisine çalışmalarında yardımcı olmak üzere Üniversitenin aylıklı öğretim elemanları arasından en fazla iki kişi Rektör tarafından üç yıl için müdür yardımcısı olarak görevlendirilir. Süresi dolan müdür yardımcısı tekrar atanabilir. Müdürün görevi bitince müdür yardımcısının görevi de sona erer.
+
+### MADDE 11 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, iki müdür yardımcısı ile Merkezin faaliyet alanı ile ilgili Üniversite öğretim elemanları arasından Müdürün görüşü alınarak Rektör tarafından üç yıl için görevlendirilen dört üye olmak üzere toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir.
+
+(2) Yönetim Kurulu yılda dört kez olağan ve gerektiğinde olağanüstü olarak Müdürün yazılı çağrısı üzerine salt çoğunluk ile toplanır ve toplantıya katılanların oy çokluğu ile karar alınır. Oyların eşitliği durumunda başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+
+(3) Ayrılma nedeni ile boş kalan Yönetim Kurulu üyeliği için kalan süreyi tamamlamak üzere yeni bir üye görevlendirilir. Süresi bitmeden ayrılan üyeler veya üç aydan fazla yurt dışında görevlendirilen üyelerin yerine yenileri görevlendirilir.
+
+### MADDE 12 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Müdürün çağrısı üzerine, en fazla üç ayda bir üyelerin salt çoğunluğu ile olağan olarak toplanmak ve kararları oy çokluğu ile almak.
+
+b) Her takvim yılının başında çalışma gruplarından gelen önerileri ve raporları değerlendirmek, ilgili konularda bir yıllık yazılı çalışma programı hazırlamak ve gerekli kararları almak.
+
+c) Her faaliyet dönemi sonunda Merkez tarafından hazırlanacak olan faaliyet raporunu görüşüp kabul ettikten sonra sonucu Rektörlüğe sunmak.
+
+ç) Kuruluş amaçları doğrultusunda Merkezin yönetimi ve çalışmaları ile ilgili kararları almak.
+
+d) Merkez bünyesinde kurulacak çalışma gruplarını ve bu gruplarda görevlendirilecek adaylar ile ilgili Müdürün önerilerini inceleyip karara bağlamak.
+
+e) Merkezin idari ve teknik personel ihtiyacını tespit etmek ve yapılacak görevlendirmeler ile ilgili Müdürün önerilerini inceleyip karara bağlamak.
+
+f) Öğrenci ve mezunların kariyerlerini planlamalarında, iş imkânlarının araştırılmasına ve iş yaşamıyla ilgili iletişimin sağlanmasına yönelik kararlar almak.
+
+g) Müdürün gündeme getireceği diğer konuları görüşüp karara bağlamak.
+
+### MADDE 13 — Danışma Kurulu
+
+(1) Danışma Kurulu, Üniversite öğretim üyeleri ve görevlileri, mezunları ve Merkezin faaliyetleri ile ilgili kuruluş temsilcileri arasından Yönetim Kurulunca önerilen ve üç yıl için Rektör tarafından görevlendirilen en fazla on üyeden oluşur. Danışma Kurulunda görevlendirilecek Üniversite öğretim üyelerinin üniversite-sanayi iş birliği, kariyer yönetimi ve insan kaynakları yönetimi alanlarında deneyimli olmaları ve bu alanlarda çalışmalar yapmış olmaları gerekir.
+
+(2) Danışma Kurulu üyeleri, görevlendirildikleri tarihten itibaren en geç bir ay içinde toplanarak bir başkan, başkan yardımcısı ve raportör belirler.
+
+### MADDE 14 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulu, başkanının çağrısı üzerine yılda en az iki kere toplanır. Danışma Kurulunun görevleri; Merkez faaliyetleri ile ilgili değerlendirmeler yapmak, önerilerde bulunmak, gerektiğinde Merkezin yurt içi ve yurt dışı yayın, eğitim, araştırma ve uygulama gibi faaliyet alanları ile ilgili danışmanlık komisyonları oluşturmaktır.
+
+### MADDE 15 — Kariyer temsilcileri
+
+(1) Merkezin işlevselliğini artırmak, öğrenci ve mezunlarla doğrudan iletişim kurabilmek amacı ile Üniversitenin tüm birimlerinden birer kişi kariyer temsilcisi olarak Rektör tarafından görevlendirilir. Kariyer temsilcileri, ilgili birimlerde görev yapan ve üniversite-sanayi iş birliği konusunda deneyimli akademik personel arasından seçilir.
+
+### MADDE 16 — Kariyer temsilcilerinin görevleri
+
+(1) Kariyer temsilcilerinin görevleri şunlardır:
+
+a) Görev yaptıkları birimlerde öğrencilerin kariyer gelişimleri konusunda etkin destek hizmeti vermek.
+
+b) Bilgilendirici seminer, panel ve konferanslar düzenlenmesi konusunda çalışmalar yapmak.
+
+c) Öğrencilerin staj/iş taleplerini Merkezin veri tabanına gönderilmek üzere kayda almak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 17 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 18 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik, idari personel ihtiyacı Yükseköğretim Kanununun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel ile karşılanır.
+
+### MADDE 19 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+
+### MADDE 20 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 21 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Bingöl Üniversitesi Rektörü yürütür.

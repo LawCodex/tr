@@ -1,0 +1,163 @@
+---
+title: "AKDENİZ ÜNİVERSİTESİ ALMANYA ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.32633"
+number: "32633"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-06-30
+official_gazette_date: 2019-06-30
+official_gazette_number: "30817"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32633&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# AKDENİZ ÜNİVERSİTESİ ALMANYA ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Akdeniz Üniversitesi Almanya Araştırmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Akdeniz Üniversitesi Almanya Araştırmaları Uygulama ve Araştırma Merkezinin amaçlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 ncimaddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez: Akdeniz Üniversitesi Almanya Araştırmaları Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkez Müdürünü,
+
+c) Rektör: Akdeniz Üniversitesi Rektörünü,
+
+ç) Üniversite: Akdeniz Üniversitesini,
+
+d) Yönetim Kurulu: Merkez Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Federal Almanya Cumhuriyeti’nin kurum ve kuruluşlarını, kültürel ve toplumsal yapısını yerinde araştırmak, yapılacak bilimsel faaliyetler sonucunda Federal Almanya’nın ekonomik, kültürel, bilimsel, toplumsal ve siyasi gelişimi, açılımları ve eğilimleri hakkında öngörüde bulunabilmek.
+
+b) Ulaşılan bilimsel öngörüleri diğer kamu kurum ve kuruluşları ile paylaşmak, yeni stratejiler belirlemek.
+
+c) Edinilen yeni stratejileri ve konuları yurt içinde ve yurtdışında yapılacak bilimsel faaliyetler çerçevesinde ülkemizin hedefleri ve menfaatleri doğrultusunda sunmak ve savunmak.
+
+ç) Türklerin Alman toplumu, kültürü, ekonomisi ve siyaseti içindeki yerini, önemini, rolünü ve sorununu bilimsel faaliyetler ile ilk elden yerinde belirlemek.
+
+d) Elde edilen veriler doğrultusunda stratejiler belirleyip Almanya’daki Türklere katkı sağlayacak sosyal, kültürel ve bilimsel faaliyetlerde bulunmak, Türklerin Alman toplumu içindeki önemini, rolünü ve yerini ekonomik, sosyal ve kültürel anlamda kökleştirmek.
+
+e) Alman toplumu içindeki farklı yöresel ve toplumsal halkların ve grupların sosyal, kültürel ve siyasi ortak noktalarını ve farklılıklarını bilimsel faaliyetler ile belirlemek, bu halkların ve grupların Alman baskın kültürü içindeki ekonomik, sosyal, kültürel ve siyasi potansiyelini tanımlamak.
+
+f) Diğer ülkelerdeki Alman araştırma merkezleri veya Almanya’da faaliyet gösteren diğer yabancı ve Türk kuruluşlar ile bilimsel çalışma ve toplantıları yurt içinde ya da yurt dışında düzenlemek, düzenlenmesine yardımcı olmak veya yapılan bu faaliyetlere katılmak.
+
+g) Almanya’da konuşulan Almancayı, göçmen dillerini ve farklı lehçelerini araştırmak ve bu dillerin kültürel yaşantı içindeki önemini ve yerini belirlemek, Almanya’nın genel yabancı dil politikası ile yabancı dil olarak Türkçe ile ilgili politikasını araştırmak.
+
+ğ) Almanya ile ilgili tüm çalışmalara akademik önerilerde bulunmak ve destek vermek.
+
+h) Akademik çalışmalar neticesinde bilhassa Almanya’nın göçmenler üzerinde türettiği sosyal, kültürel ve siyasi kavramları içerik zenginliği katarak yeniden tanımlamak (kültürlerarasılık, uyum, yabancı işçi, birinci kuşak vb.) ve/veya yeni kavramlar türetip içeriğini doldurmak ve bu bağlamda ülkemizin hedefleri doğrultusunda tezlerini savunmak ve yapılacak yeni bilimsel çalışmalara ufuk açmak.
+
+ı) Göç politikası bağlamında Türkiye’nin göç alan bir ülke konumuna dayanarak Almanya’nın 50 yıldan fazla olan tecrübelerinden faydalanmak.
+
+i) Türkiye Cumhuriyeti ve Federal Almanya Cumhuriyeti arasındaki yüzyıllara dayanan siyasi, ekonomik, askeri ve sosyal ilişkilerin gelişimine katkı sağlayacak bilimsel çalışmalarda bulunmak.
+
+j) Türkiye’de bulunan Alman kökenli vatandaşlar ile Almanya’da bulunan Türk vatandaşları arasındaki uyum, sosyal yaşam, ekonomik ve siyasi tecrübelerin yapılan bilimsel çalışmalar ile bu grupların birlikteliklerini ve farklılıklarını karşılaştırmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Türkiye Cumhuriyeti Hükümetinin yaptığı ikili anlaşmalar çerçevesinde üniversitelerin ilgili birimleri ve diğer kamu kurum ve kuruluşları ile ortak eğitim, öğretim, araştırma, uygulama ve yayın faaliyetlerinde bulunmak.
+
+b) Alman ekonomisi, kültürü, dili, siyaseti, sanatı, toplumu, eğitimi ve öğretimi konusunda programlar hazırlayıp yöntemler geliştirmek, bu konu ile ilgili yurt içindeki ve yurt dışındaki çeşitli kurum ve kuruluşlarla işbirliği yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Rektör tarafından Üniversitenin ilgili bölümlerinin öğretim üyeleri arasından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdürün görevi başında bulunmaması durumunda, Müdür yardımcılarından biri Müdüre vekâlet eder. Müdürün altı aydan fazla süre görevinin başında bulunmaması durumunda Müdürlük görevi kendiliğinden sona erer.
+
+(2) Müdür, Merkezde görevli ve Merkezin faaliyetiyle ilgili alanlarda en az doktora düzeyinde eğitim almış iki kişiyi Müdür yardımcısı olarak belirler.
+
+(3) Müdür, Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin bütün etkinliklerinin gözetim ve denetiminin yapılmasından ve sonuçlarının alınmasından Rektöre karşı birinci derecede sorumludur.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Yönetim kuruluna başkanlık etmek.
+
+b) Merkezin faaliyetlerinin düzenli olarak yürütülmesini sağlamak, gözetim ve denetimini yapmak.
+
+c) Merkez çalışmalarının gerektirdiği görev dağılımını yapmak.
+
+ç) Her öğretim yılı sonunda Merkezin genel durumu ve işleyişi hakkındaki raporu, Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür ve Müdür yardımcıları ile Müdürün önerisi üzerine Rektör tarafından Merkezin faaliyet alanı ile ilgili çalışmaları bulunan ve Üniversite öğretim elemanları arasından üç yıl için görevlendirilen dört kişi olmak üzere toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir. Yönetim Kurulu; Müdürün daveti üzerine ayda en az bir defa salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyeti ve yönetimi ile ilgili konularda karar almak.
+
+b) Merkezde görevlendirilecek personelin tespiti ile ilgili konularda Müdürün tekliflerini incelemek ve Rektörlüğe önerilmesine karar vermek.
+
+c) Müdürün her faaliyet yılı sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek ve bir sonraki yıla ait çalışma programını hazırlamak.
+
+ç) Merkezin bütçe tasarısını karara bağlamak.
+
+d) Araştırma, yayın ve öğretimle ilgili konularda karar vermek.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Araç, gereç, ekipman ve demirbaş
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, donanım ve demirbaşlar, Merkezin kullanımına tahsis edilir.
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, idari ve teknik personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Rektör tarafından görevlendirilecek personelle karşılanır.
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Müdürdür.
+
+### MADDE 15 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili mevzuat hükümleri ve Senato kararları uygulanır.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Akdeniz Üniversitesi Rektörü yürütür.

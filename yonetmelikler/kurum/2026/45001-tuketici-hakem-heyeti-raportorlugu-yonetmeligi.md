@@ -1,0 +1,197 @@
+---
+title: "TÜKETİCİ HAKEM HEYETİ RAPORTÖRLÜĞÜ YÖNETMELİĞİ"
+identifier: "7.5.45001"
+number: "45001"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2026-01-31
+official_gazette_date: 2026-01-31
+official_gazette_number: "33154"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=45001&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TÜKETİCİ HAKEM HEYETİ RAPORTÖRLÜĞÜ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Yönetmeliğin amacı; tüketici hakem heyeti raportörlerinin atanmaları, görevlendirilmeleri, nitelikleri, eğitimleri ve yetiştirilmeleri, görevleri, yetkileri ve sorumlulukları ile çalışma usul ve esaslarını belirlemektir.
+
+(2) Bu Yönetmelik; tüketici hakem heyeti raportörü kadrosuna atananlar ile raportör olarak görevlendirilenlere ilişkin hükümleri kapsar.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Yönetmelik, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 72 nci ve 84 üncü maddelerine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Bakan: Ticaret Bakanını,
+
+b) Bakanlık: Ticaret Bakanlığını,
+
+c) Genel Müdürlük: Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğünü,
+
+ç) İl müdürlüğü: Ticaret il müdürlüğünü,
+
+d) İl müdürü: Ticaret il müdürünü,
+
+e) İrtibat raportörü: Tüketici hakem heyeti oluşturulmayan ilçelerde raportör olarak görevlendirilen personeli,
+
+f) Raportör: Tüketici hakem heyeti raportörü kadrosuna atanan veya tüketici hakem heyetinde raportör olarak görevlendirilen personeli,
+
+g) Tüketici Bilgi Sistemi: Tüketicilerin başvurularını elektronik ortamda ilgili tüketici hakem heyetine iletebildikleri ve tüketici hakem heyetlerinin tüm iş ve işlemlerini gerçekleştirdikleri çevrim içi sistemi,
+
+ğ) Tüketici hakem heyeti: Tüketici işlemleri ile tüketiciye yönelik uygulamalardan doğabilecek uyuşmazlıklara çözüm bulmak amacıyla oluşturulan heyeti,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Raportörlerin Nitelikleri, Atanması ve Görevlendirilmesi
+
+### MADDE 4 — Raportörlerin nitelikleri ve atanmaları
+
+(1) Raportör kadrosuna atanabilmek için aşağıdaki şartlar aranır:
+
+a) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (A) bendinde yer alan genel şartları taşımak.
+
+b) Üniversitelerin en az dört yıllık öğretim veren hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakülteleri ile adalet meslek yüksekokulu, yüksekokulların adalet, bankacılık ve sigortacılık programları, adalet ön lisans programı ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilen yurt içi veya yurt dışındaki öğretim kurumları ile en az iki yıllık yüksekokulların Bakanlıkça ihtiyaç duyulan ve sınav ilanında belirtilen bölümlerinden mezun olmak.
+
+(2) Tüketici hakem heyeti iş ve işlemlerinin aksatılmadan yürütülmesi amacıyla atanması talep edilen raportör sayısı, Genel Müdürlük tarafından Bakanlık Personel Genel Müdürlüğüne bildirilir.
+
+### MADDE 5 — Raportör olarak görevlendirilen personel
+
+(1) Raportör sayısının yeterli olmadığı illerde il müdürü tarafından il müdürlüğü personeli arasından, ilçelerde ise kaymakam tarafından ilçede görevli personel arasından yeterli sayıda raportör görevlendirilir. Görevlendirilecek personel, 657 sayılı Kanunun 4 üncü maddesinin (A) fıkrası uyarınca görev yapan Devlet memurları arasından belirlenir.
+
+(2) Görevlendirilecek raportör sayısı belirlenirken, tüketici hakem heyetine yapılan başvuru sayıları, iş yoğunluğu ile kamu kaynaklarının etkin ve verimli kullanımı dikkate alınır.
+
+(3) Tüketici hakem heyeti oluşturulmayan ilçelerde, kaymakam tarafından, 657 sayılı Kanunun 4 üncü maddesinin (A) fıkrası uyarınca ilçede görev yapan Devlet memurları arasından bir asıl ve bir yedek olmak üzere irtibat raportörü görevlendirilir.
+
+(4) Raportör ve irtibat raportörü görevlendirmesinde öncelikle 4 üncü maddenin birinci fıkrasının (b) bendinde sayılan bölümlerden mezuniyeti bulunan personel arasından görevlendirme yapılır. Bu şartı sağlayan personel bulunmaması halinde, yükseköğrenim görmüş personel arasından görevlendirme yapılır. Yükseköğrenim görmüş personelin bulunmaması halinde, lise veya denkliği Millî Eğitim Bakanlığınca kabul edilen eğitim kurumlarından birinden mezun olmuş kişiler arasından görevlendirme yapılır.
+
+(5) Raportör ve irtibat raportörü olarak görevlendirilen personele ilişkin bilgiler ve değişiklikler, görevlendirme şartlarını taşıdığını gösteren belgelerle birlikte, kaymakamlık tarafından ilgili il müdürlüğüne derhal bildirilir.
+
+### MADDE 6 — İdari bağlılık ve raportörlerin görev yerleri
+
+(1) Raportör olarak atananlar, il ve ilçe merkezlerinde kurulu bulunan tüketici hakem heyetlerinde istihdam edilebilir.
+
+(2) İl müdürlüğüne raportör olarak atanan personel, hizmet ihtiyaç ve gerekliliği dikkate alınarak, il veya ilçe tüketici hakem heyetinde görevlendirilir. İlçe tüketici hakem heyetinde görevlendirilenler, kaymakamlığa bağlı olarak çalışır.
+
+(3) Raportör olarak atananlar, il veya ilçe tüketici hakem heyeti dışında farklı bir birimde veya görevde çalıştırılamazlar. Ancak, ilgili mevzuatı kapsamında gerekli şartları taşıyan raportörler, anonim şirketler ile esnaf ve sanatkâr meslek kuruluşlarının, kooperatiflerin ve üst kuruluşlarının genel kurul toplantılarına Bakanlık temsilcisi olarak görevlendirilebilir. Bakanlık temsilcisi olarak görevlendirilen raportörün ilçe tüketici hakem heyetinde görev yapması durumunda, görevlendirme ilgili kaymakamlığa yazılı olarak bildirilir. Bu görevlendirmelerin, raportör hizmet ve görevlerini aksatmayacak şekilde yapılması esastır.
+
+(4) İhtiyaç duyulması halinde, tüketici hakem heyeti başkanı olarak görevlendirilen raportör, başkanlık yaptığı süre boyunca raportör görev ve yetkilerini kullanamaz.
+
+### MADDE 7 — Raportörlerin görev ve yetkileri
+
+(1) Raportör kadrosuna atananların ve tüketici hakem heyetinde görevlendirilen raportörlerin görev ve yetkileri şunlardır:
+
+a) Tüketici hakem heyetine elden veya posta yoluyla yapılan yazılı başvuruları alarak doğru ve eksiksiz bir şekilde gecikmeksizin Tüketici Bilgi Sistemine kaydetmek.
+
+b) Tüketici hakem heyetine elektronik ortamda veya yazılı olarak yapılan başvurularla ilgili gerekli yazışma ve işlemleri süresi içinde yapmak.
+
+c) Tüketici hakem heyetinin çalışmalarına ve kararlarına esas olacak dosyaları hazırlamak.
+
+ç) Tüketici hakem heyetinin çalışmalarına ve kararlarına esas olacak inceleme ve araştırmaları yapmak.
+
+d) Tüketici hakem heyetinde görüşülen uyuşmazlığa ilişkin karar taslağını hazırlamak.
+
+e) Tüketici hakem heyeti toplantılarında hazır bulunmak ve dosyaları heyete sunmak.
+
+f) Tüketici hakem heyeti toplantı tutanaklarını hazırlamak.
+
+g) Tüketici hakem heyeti kararlarına ilişkin tebligat işlemlerini yapmak.
+
+ğ) Tüketici hakem heyeti kararlarına istinaden tahsili gereken ücretlerin bildirim işlemlerini yapmak.
+
+h) Mahkemeler tarafından talep edilen bilgi ve belgeleri hazırlayarak iletilmesini sağlamak.
+
+ı) Bakanlık veya il müdürlüğü tarafından talep edilen tüketici hakem heyeti işlemlerine ilişkin bilgi ve belgeleri hazırlayarak iletilmesini sağlamak.
+
+i) Tüketici hakem heyeti toplantılarına ilişkin huzur hakkı ücretleri ile bilirkişi ücretlerinin ödenmesine esas teşkil edecek belgeleri hazırlayarak il müdürlüğüne iletilmesini sağlamak.
+
+j) Tüketici hakem heyeti kararları ve evraklarına ilişkin gerekli dosyalama ve arşiv işlerini yürütmek.
+
+k) Tüketici hakem heyetinin faaliyet raporunu ve istatistiklerini hazırlamak.
+
+l) Tüketici hakem heyetine başvuranlara, talep edilmesi halinde, başvurularıyla ilgili gerekli bilgilendirmeleri yapmak.
+
+m) Tüketici hakem heyeti başkanı tarafından verilen heyet faaliyetleri ile ilgili diğer işleri yapmak.
+
+(2) Raportörler, tüketici hakem heyetinde görülen uyuşmazlığa ilişkin toplantılarda oy kullanamaz.
+
+(3) Raportörlerin görev dağılımı ve iş bölümü tüketici hakem heyeti başkanı tarafından belirlenir.
+
+### MADDE 8 — İrtibat raportörlerinin görev ve yetkileri
+
+(1) Tüketici hakem heyeti oluşturulmayan ilçelerde görevlendirilen irtibat raportörlerinin görev ve yetkileri şunlardır:
+
+a) Kaymakamlığa elden veya posta yoluyla yapılan yazılı başvuruları alarak doğru ve eksiksiz bir şekilde gecikmeksizin Tüketici Bilgi Sistemine kaydetmek ve Bakanlıkça belirlenen yetkili tüketici hakem heyetine iletmek.
+
+b) Tüketici hakem heyeti dosyalarına ilişkin kaymakamlığa teslim edilen evrakları gecikmeksizin Bakanlıkça belirlenen yetkili tüketici hakem heyetine iletmek.
+
+c) İhtiyaç duyulması halinde, ilçe sınırları içinde görevlendirilen bilirkişi tarafından yapılacak inceleme için gerekli koordinasyonu sağlamak.
+
+ç) Tüketici hakem heyetine başvuranlara, talep edilmesi halinde, başvurularıyla ilgili gerekli bilgilendirmeleri yapmak.
+
+### MADDE 9 — Raportörlerin sorumlulukları
+
+(1) Raportör kadrosuna atananlar, tüketici hakem heyetinde raportör olarak görevlendirilenler ile irtibat raportörlerinin sorumlulukları şunlardır:
+
+a) İlgili mevzuat gereğince kendilerine verilen görevleri eksiksiz ve zamanında yerine getirmek.
+
+b) Tüketici hakem heyetinde görülen uyuşmazlığa ilişkin tüm bilgi ve belgelerin gizliliğine riayet etmek.
+
+c) Kişisel veri işleme ve aktarma faaliyetlerinde 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ile ilgili diğer mevzuatta yer alan usul ve esaslara uygun hareket etmek.
+
+## ÜÇÜNCÜ BÖLÜM — Raportörlerin Eğitimi ve Yetiştirilmesi
+
+### MADDE 10 — Yetiştirilme ilkeleri
+
+(1) Raportör olarak atananlara, adaylık eğitimi ve hizmet içi eğitimler yoluyla, mesleğin gerektirdiği bilgi, beceri ve etik değerleri kazanmaları amacıyla mesleki eğitim verilir.
+
+(2) Raportör olarak atananların adaylık eğitimi, 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik hükümleri çerçevesinde yapılır.
+
+(3) Adaylık eğitiminin içeriği, Genel Müdürlüğün görüşü alınarak Bakanlık Personel Genel Müdürlüğünce belirlenir.
+
+### MADDE 11 — Raportörlerin hizmet içi eğitimi
+
+(1) Raportörlere, Genel Müdürlükçe uygun görülen zamanlarda, yüz yüze veya çevrim içi yöntemle hizmet içi eğitim verilebilir.
+
+(2) Raportörlerin hizmet içi eğitimleri Genel Müdürlük koordinasyonunda gerçekleştirilir.
+
+(3) İl müdürlüğü tarafından, il sınırları içinde görev yapan raportörlere yönelik hizmet içi eğitim ve koordinasyon toplantıları düzenlenebilir.
+
+(4) Raportörlerin, geçerli mazereti bulunmadığı takdirde, hizmet içi eğitim veya koordinasyon toplantılarına katılması zorunludur.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Huzur hakkı
+
+(1) Raportör ve irtibat raportörü olarak görevlendirilenlere ödenecek huzur hakkı ile bu ödemelere ilişkin usul ve esaslar Hazine ve Maliye Bakanlığının uygun görüşü alınarak Bakanlıkça belirlenir.
+
+(2) Raportör kadrosuna atananlara huzur hakkı ödenmez. Ancak tüketici hakem heyeti başkanı olarak görevlendirilen raportörlere, ilgili mevzuat hükümleri çerçevesinde başkanlık görevinden kaynaklanan huzur hakkı ödenir.
+
+### MADDE 13 — Hüküm bulunmayan hâller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hâllerde, 657 sayılı Kanun, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi, 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik ile 15/3/2012 tarihli ve 28234 sayılı Resmî Gazete’de yayımlanan Gümrük ve Ticaret Bakanlığına İlk Defa Yapılacak Atamalar Hakkında Yönetmelik hükümleri uygulanır.
+
+### MADDE 14 — Yürürlükten kaldırılan yönetmelik
+
+(1) 27/11/2014 tarihli ve 29188 sayılı Resmî Gazete’de yayımlanan Tüketici Hakem Heyeti Raportörlüğü Yönetmeliği yürürlükten kaldırılmıştır.
+
+(2) Birinci fıkra ile yürürlükten kaldırılan Tüketici Hakem Heyeti Raportörlüğü Yönetmeliğine yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Ticaret Bakanı yürütür.

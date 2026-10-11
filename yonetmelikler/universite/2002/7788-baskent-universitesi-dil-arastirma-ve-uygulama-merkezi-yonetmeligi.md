@@ -1,0 +1,139 @@
+---
+title: "BAŞKENT ÜNİVERSİTESİ DİL ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.7788"
+number: "7788"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2002-02-05
+official_gazette_date: 2002-02-05
+official_gazette_number: "24662"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7788&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BAŞKENT ÜNİVERSİTESİ DİL ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ
+
+## Madde 1 — Kuruluş
+
+Bu Yönetmelikle, 2547 sayılı Kanunun 2880 sayılı Kanunla değişik 3/j ve 5/ı maddelerine dayanılarak, Başkent Üniversitesi Rektörlüğüne bağlı Başkent Üniversitesi Dil Araştırma ve Uygulama Merkezi (BÜDAM) kurulmuştur.
+
+## Madde 2 — Amaç
+
+Bu Yönetmeliğin amacı, 4 üncü maddede belirtilen hususları gerçekleştirmek için yapılacak çalışmalarla ilgili esasları düzenlemektir.
+
+## Madde 3 — Tanımlar
+
+Bu Yönetmelikte geçen;
+
+a) Üniversite: Başkent Üniversitesini,
+
+b) Merkez: Başkent Üniversitesi Dil Araştırma ve Uygulama Merkezini,
+
+c) Rektör: Başkent Üniversitesi Rektörünü,
+
+d) Müdür: Başkent Üniversitesi Dil Araştırma ve Uygulama Merkezi Müdürünü,
+
+e) Yönetim Kurulu: Başkent Üniversitesi Dil Araştırma ve Uygulama Merkezi Yönetim Kurulunu ve
+
+f) Üniversite Öğrencileri: Başkent Üniversitesi Öğrencilerini
+
+ifade eder.
+
+## Madde 4 — Merkezin Amaçları
+
+Merkez, aşağıdaki amaçları gerçekleştirmek üzere kurulmuştur.
+
+a) Üniversitede Hazırlık Bölümünde ve programlarda zorunlu olarak verilen İngilizce dışında, Üniversitenin öğretim dili olan Türkiye Türkçesi ile Türk Lehçelerinin (Özbekçe, Kazakça, Azerice, Kırgızca, Türkmence, Tatarca, Uygurca) ve Ermenicenin yanı sıra Çince, İspanyolca, Arapça, Almanca, Rusça, Japonca gibi dünyanın önde gelen dillerini öğretmek; bu dillerin kendileri ve öğretimleri üzerinde araştırmalar yapmak; konferans, sempozyum ve paneller düzenlemek; yayım faaliyetlerinde bulunmak.
+
+b) Başkent Üniversitesinde 2547 sayılı Yüksek Öğretim Kanununun 5 inci maddesinin (ı) bendine göre zorunlu Türk Dili derslerinin verilmesini sağlamak, bu amaçla organizasyonlar yapmak.
+
+c) Türkiye Cumhuriyeti Hükümetlerinin başka ülkelerin hükümetleriyle yaptığı ikili anlaşmalar çerçevesinde, çeşitli kuruluşlarla dil öğretimi konusunda, ortak eğitim ve öğretim, araştırma, uygulama ve yayım faaliyetlerinde bulunmak.
+
+d) Dil öğretimi konusunda yöntemler geliştirmek; bu konuda, yurtiçindeki ve yurtdışındaki kurum ve kuruluşlarla işbirliği yapmak.
+
+e) Yurtdışından gelen Üniversite öğrencilerine Türkiye Türkçesi’ni öğrenmelerini sağlayacak kurslar açmak.
+
+## Madde 5 — Çalışma Esasları
+
+Merkez 4 üncü maddede belirtilen amaçlara ulaşılmasını sağlamak üzere aşağıda belirtilen çalışmaları yürütür.
+
+a) Merkez, her dönemde açılacak zorunlu Türk Dili derslerini düzenler ve öğretimini gerçekleştirir.
+
+b) Üniversite öğrencileri için 4 üncü maddenin (a) bendinde belirtilen dillerden bazılarını veya tamamını seçmeli ders olarak açabilir.
+
+5/a ve 5/b maddelerinde belirtilen konularda, Başkent Üniversitesi Sınav Yönetmeliği hükümleri uygulanır.
+
+c) Merkez, bu Yönetmeliğin 4 üncü maddesinin (a) bendinde belirtilen dillerde sertifikaya yönelik kurslar açabilir. Bu kursları üniversite öğrencileri de seçmeli ders olarak alabilirler.
+
+Sertifikaya yönelik kurslar Yönetim Kurulu kararıyla açılır. Bu kurslarla ilgili programlar (dersler, derslerin haftalık saatleri ve kredileri, derslerin içerikleri) Yönetim Kurulu tarafından hazırlanır ve Üniversite Senatosu tarafından onaylandıktan sonra uygulamaya konulur.
+
+Sertifikaya yönelik kurslarda, programı başarıyla tamamlayanlara, ilgili dilin programını başarı ile tamamladığını gösteren, örneği Üniversite Senatosunca belirlenen ve Rektör ile Müdürün imzasını taşıyan bir belge verilir.
+
+Sertifikaya yönelik kurslardan başarı belgesi alınabilmesi için bu sertifika programındaki bütün derslerden en az "C" notu alınması gerekir. Sertifikaya yönelik kursları alan üniversite öğrencileri için bu kurslardan alınan notlar, diğer seçmeli derslerdeki gibi işlem görür.
+
+d) Merkez, bu Yönetmeliğin 4 üncü maddesinin (a) bendinde belirtilen dillerde Yönetim Kurulu kararıyla sertifikaya yönelik olmayan kurslar açabilir.
+
+Bu kurslara katılanlar ile sertifikaya yönelik olan kurslara başlamış fakat programı tamamlamamış olanlara, başarılı oldukları kursların adlarını ve düzeylerini belirten ve Merkez Müdürünce imzalanan bir katılma belgesi verilir. Katılma belgesi örneği, Yönetim Kurulunca belirlenir. Sertifikaya yönelik olmayan dil derslerinde dersin öğretim sorumlusunun tayin edeceği ölçme ve değerlendirme kuralları geçerlidir.
+
+e) Merkez, Rektörün belirleyeceği diğer konularda gerekli çalışmaları yapar.
+
+## Madde 6 — Örgütlenme ve Yönetim
+
+Merkezin organları;
+
+a) Müdür,
+
+b) Yönetim Kurulundan
+
+oluşur.
+
+a) Müdür: Müdür, Rektör tarafından Başkent Üniversitesinin tam zamanlı öğretim elemanları arasından, üç yıl için görevlendirilir. Süresi biten Müdür, tekrar görevlendirilebilir. Müdür, Merkezin temsilcisidir.
+
+Merkez Müdürü, Yönetim Kurulu üyelerinden birini Müdür Yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Müdür Yardımcısının görev süresi, Müdürün görev süresi ile sınırlıdır. Müdür, görevinden kısa süreli ayrılmalarında vekaleti yardımcısına bırakır; üç ayı aşan bir süre görevden uzak kalacaksa, kalan süreyi tamamlamak üzere yerine yeni bir Müdür görevlendirilir.
+
+Müdürün görevleri;
+
+a) Merkezin amaçları doğrultusunda etkin ve verimli çalışmasına yönelik öneriler oluşturarak uygun kararların alınmasını ve uygulanmasını sağlamak,
+
+b) Yönetim Kurulu toplantılarını düzenlemek, toplantılara başkanlık etmek ve kurul kararlarını uygulamak,
+
+c) Merkezin ve bağlı birimlerinin, yönetim açısından düzenli ve etkin işleyişi için gerekli önlemleri almak,
+
+d) Merkezin çalışma programlarına ilişkin yıllık düzenlemeleri yapmak, çalışma raporlarını oluşturmak ve bunları Yönetim Kurulunun onayına sunmaktır.
+
+b) Yönetim Kurulu: Yönetim Kurulu, Türk Dili ve Edebiyatı, Amerikan Dili ve Edebiyatı ve İngilizce Hazırlık Bölümleri ile Üniversitenin diğer birimlerinde görev yapan tam zamanlı öğretim elemanları arasından Rektör tarafından görevlendirilen dört üye ve Merkez Müdüründen oluşur.
+
+Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üye, tekrar görevlendirilebilir. Görevinden ayrılan Yönetim Kurulu üyesinin yerine, kalan süreyi tamamlamak üzere, ilk görevlendirme sırasında uygulanan esaslar çerçevesinde yeni bir üye görevlendirilir.
+
+Yönetim Kurulu, Müdürün çağrısı üzerine en az iki ayda bir toplanır. Gerekli hallerde
+
+Müdür, Yönetim Kurulunu olağanüstü toplantıya çağırabilir.
+
+Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin yönetimi ve çalışmaları ile ilgili kararları almak.
+
+b) Müdürün ve Kurul üyelerinin önerilerini görüşmek ve karara bağlamak.
+
+c) Her dönemin başında, Üniversite lisans öğrencileri için açılacak Türk Dili derslerinin programlarını ve bu derslerin öğretim sorumlularını belirlemek.
+
+d) Yurtdışından gelen Üniversite öğrencileri için açılacak Türkçe derslerini kararlaştırmak.
+
+e) Sertifikaya yönelik olan ve olmayan kursların programlarını hazırlamak, Üniversite Senatosuna sunmak.
+
+## Madde 7 — Yürürlükten Kaldırılan Hükümler
+
+Bu Yönetmeliğin yürürlüğe girdiği tarihte, 24/1/1998 tarihli ve 23240 sayılı Resmi Gazete’de yayımlanan Başkent Üniversitesi Türk Dili, Edebiyatı ve Kültürünü Uygulama ve Araştırma Merkezi Kuruluş ve Çalışma Yönetmeliği yürürlükten kaldırılmıştır.
+
+## Madde 8 — Yürürlük
+
+Bu Yönetmelik, yayımı tarihinde yürürlüğe girer.
+
+## Madde 9 — Yürütme
+
+Bu Yönetmelik hükümlerini Başkent Üniversitesi Rektörü yürütür.

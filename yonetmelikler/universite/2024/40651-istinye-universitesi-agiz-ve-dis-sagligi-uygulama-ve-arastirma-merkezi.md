@@ -1,0 +1,189 @@
+---
+title: "İSTİNYE ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.40651"
+number: "40651"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2024-01-25
+official_gazette_date: 2024-01-25
+official_gazette_number: "32440"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40651&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTİNYE ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; İstinye Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; İstinye Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Fakülte: İstinye Üniversitesi Diş Hekimliği Fakültesini,
+
+b) Merkez: İstinye Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezini,
+
+c) Müdür (Başhekim): Merkezin Müdürünü,
+
+ç) Mütevelli Heyet: İstinye Üniversitesi Mütevelli Heyeti,
+
+d) Mütevelli Heyet Başkanı: İstinye Üniversitesi Mütevelli Heyet Başkanını,
+
+e) Rektör: İstinye Üniversitesi Rektörünü,
+
+f) Üniversite: İstinye Üniversitesini,
+
+g) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Merkeze başvuran hastalara ayaktan veya yatırılarak ağız ve diş sağlığı hizmeti vermek.
+
+b) Diş hekimi ve uzman diş hekimi yetiştirmek, mezuniyet sonrası diş hekimliği eğitimine katkı sağlamak.
+
+c) Yardımcı sağlık personeli eğitimine destek vermek.
+
+ç) İlgili mevzuat hükümleri kapsamında eğitim-öğretim, bilimsel uygulama ve araştırma olanağı sağlamak amacıyla başta diş hekimliği fakültesi olmak üzere Üniversite sağlık hizmetleri ile ilgili alanlarında faaliyet gösteren fakülte, enstitü, yüksekokullar, uygulama ve araştırma merkezleri ile diğer kurumlarla iş birliği yapmak.
+
+d) Eğitim ve sağlık hizmetlerinin verimliliği ile niteliğini artırmak.
+
+e) Ağız ve diş sağlığı araştırma ve uygulamalarının en üst düzeyde gerçekleşmesi için bilimsel araştırma koşullarını hazırlamak, çağdaş işletme yönetimi ilkeleri doğrultusunda faaliyette bulunmak ve ulaşılabilir kaliteli sağlık hizmeti sunulmasını sağlamak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Merkez bünyesinde, ağız-diş sağlığı ve ağız, diş, çene cerrahisi uzmanlık disiplininin tedavi protokolleri kapsamında, lokal ve genel anestezi altında, girişimsel cerrahi teknikleri uygulayarak, hastaların ayaktan veya yatarak müşahede, muayene, teşhis, tedavi ve rehabilite edilmelerini sağlamak ve konuyla ilgili birimleri oluşturmak.
+
+b) Ağız-diş sağlığı alanında koruyucu diş hekimliği uygulamaları yapmak ve bu konu ile ilgili uygulama ve araştırmalarda bulunmak.
+
+c) Klinik tıp bilimleri ve diğer disiplinlerle toplum ağız-diş sağlığına yönelik projeler geliştirmek ve araştırmalar konusunda iş birliği yapmak.
+
+ç) Üniversite öğrencilerinin ağız-diş sağlığı konusunda bilinç kazanmalarını ve klinik eğitim almalarını, Merkez projelerinde etkin görev yapmalarını sağlamak.
+
+d) Mütevelli Heyet, Rektör ve Merkezin yönetim organlarının kararlaştıracağı diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür (Başhekim).
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür (Başhekim)
+
+(1) Müdür (Başhekim), Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Fakültenin tam zamanlı olarak çalışan öğretim üyeleri arasından Mütevelli Heyet Başkanı tarafından görevlendirilebilir ve gerektiğinde, aynı usulle görevden alınabilir. Merkezde Müdür (Başhekim)’e yardımcı olmak üzere Müdür (Başhekim)’ün önerisi, Mütevelli Heyet Başkanı kararı ile Müdür yardımcısı (Başhekim yardımcısı) görevlendirilebilir.
+
+### MADDE 9 — Müdür (Başhekim)’ün görevleri
+
+(1) Müdür (Başhekim)’ün görevleri şunlardır;
+
+a) Merkezin her türlü faaliyetlerinde iş birliği ve koordinasyonu sağlamak, Merkezin stratejik plan ve hedefleri doğrultusunda gelişmesi için gerekli tedbirleri almak, gerekli düzenleme ve çalışmaları yapmak.
+
+b) Merkeze yararlı olacak hekim ve diğer sağlık personelinin temininde araştırmalar yapmak ve önerilerde bulunmak, sağlık ekiplerinin ve bölümlerin çalışma sonuçlarını değerlendirmek.
+
+c) Kamu kurum ve kuruluşları ve akademik çevrelerde Merkezi temsil etmek, hekimlerin mesleki sorunlarını ve çalışma koşullarını iyileştirmek üzere projeler hazırlamak.
+
+ç) Merkezde klinik uygulama yapan öğrencilerin ve uzmanlık eğitiminde bulunanların teorik ve pratiklerini geliştirmek, Merkezdeki hizmetlere katkılarını artırmak üzere dekanlık ve anabilim dalı başkanları ile ortak programları koordine etmek.
+
+d) Tıbbi standartlar ve Merkezin hedef ve değerleri doğrultusunda, grup genelinde sunulan tıbbi hizmetlerin performansını izleyerek yönlendirmek, sunulan tıbbi hizmetlerin altyapısının oluşturulmasına ve teknolojik ihtiyaçlarının karşılanmasına katkı sağlamak.
+
+e) Merkez bünyesinde ve Merkeze bağlı tüm ünite ve birimlerde tıbbi hizmetlerin kalitesinin sürekli geliştirilmesine katkı sağlamak.
+
+f) Tıbbi kayıt ve raporların bilimsel esaslara uygun olarak düzenlenmesini denetlemek.
+
+g) Merkezin klinik, ameliyathane, laboratuvarlar, hasta kabul ve taburcu, tıbbi dokümantasyon ve arşiv, teşhis, tedavi, bakım ve diğer sağlık, idari, teknik destek hizmetleri birimlerinin, Merkezin amaç ve hedefleri doğrultusunda düzenli, uyumlu, etkin, sürekli ve verimli biçimde çalışmasını sağlamak.
+
+ğ) Hekimlerin; klinik, ameliyat için yatan hasta takipleri ile rapor, izin ve kongre gibi sebeplerle geçici olarak görev yapamadığı hallerde hizmetlerin aksamaması için gerekli planlamaları yapmak.
+
+h) Merkezin ödenek, personel ihtiyacı, birim sorumlularının görevlendirilmesi ile bütçe başta olmak üzere gerekçeleriyle birlikte ilgili diğer önerilerini ve yıllık faaliyet raporunu Yönetim Kuruluna sunulmak üzere Genel Koordinatöre vermek.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu, Merkezin karar organıdır.
+
+(2) Yönetim Kurulu; Mütevelli Heyet Başkanı, Rektör, Diş Hekimliği Fakültesi Dekanı, Genel Koordinatör ve Üniversite Mütevelli Heyetin üç yıl için belirleyeceği Merkezin faaliyet alanlarında çalışmaları bulunanan bir veya üç öğretim üyesi olmak üzere toplam beş veya yedi üyeden oluşur. Mütevelli Heyet Başkanı, Yönetim Kurulunun da başkanıdır.
+
+(3) Yönetim Kurulu, yılda en az iki defa toplanır. Başkan, resen veya Rektörün ya da Genel Koordinatörün talebi üzerine Yönetim Kurulunu olağanüstü toplantıya da çağırabilir.
+
+(4) Yönetim Kurulu, üye tam sayısının salt çoğunluğuyla toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşitliği halinde başkanın oyu yönünde çoğunluk sağlanmış sayılır.
+
+(5) Başkanın olmadığı durumlarda başkanlığa Rektör vekâlet eder.
+
+(6) Yönetim Kurulunun raportörlüğünü başkanın belirleyeceği üyelerden birisi yapar. Sekretarya işlemleri, işletme koordinatörlüğü tarafından yürütülür.
+
+(7) Yönetim Kurulu, çalışmalarında Rektör ve Mütevelli Heyete karşı sorumludur.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) İlgili mevzuat hükümlerine göre Merkezin çalışmaları ve yönetimi ile ilgili kararları almak.
+
+b) Yıllık çalışma raporu, plan ve programları karara bağlamak.
+
+c) Merkez bünyesindeki grup, ünite veya birimlerin çalışma usul ve esaslarını belirlemek.
+
+ç) Sağlık alanında yeni ünite veya birimlerin kurulması konusunda kararlar almak.
+
+d) Merkezin amaçlarına uygun olarak ilgili mevzuat hükümlerine göre diğer görevleri yerine getirmek.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Genel Koordinatör
+
+(1) Genel Koordinatör; sağlık işletmeleri konusunda mesleki deneyimi bulunan yüksek lisans mezunları arasından Yönetim Kurulu tarafından görevlendirilebilir. Genel Koordinatör, Yönetim Kurulu üyesi olup, aynı zamanda Merkez bünyesindeki göreviyle ilişkili tüm ünite ve birimlerin en üst amiridir. Genel Koordinatörün teklifi ve Yönetim Kurulunun onayı ile Genel Koordinatör yardımcıları görevlendirilebilir. Yardımcıların sayısı ihtiyaca göre belirlenir. İhtiyaç kalmayan yardımcılık kadrosu Yönetim Kurulu kararı ile kaldırılabilir.
+
+### MADDE 13 — Genel Koordinatörün görevleri
+
+(1) Genel Koordinatörün görevleri şunlardır:
+
+a) Merkezi temsil etmek. Yönetim Kurulu toplantılarına katılmak ve Yönetim Kurulunun gözetim ve denetimi altında Merkez işlerini yürütmek.
+
+b) Merkezin kısa, orta ve uzun vadeli amaç ve politikalarını, araştırma ile ilgili plan ve programlarını hazırlamak ve Yönetim Kurulunun onayına sunmak.
+
+c) Kendisine bağlı yöneticiler vasıtasıyla Merkezin mali, tıbbi, ticari, kalite, insan kaynakları, bilgi teknolojileri, pazarlama, hasta hakları ve ilişkileri, halkla ilişkiler başta olmak üzere işletme ile ilgili tüm uygulamaları, belirlenmiş performans ölçütleri doğrultusunda takip etmek, sağlık hizmeti sunumunun kesintisiz, sürekli ve kaliteli olması için gerekli tedbirleri almak.
+
+ç) Tıbbi ve işletme bölümlerine ait performans göstergelerini izlemek, performans göstergeleri ile ilgili eğilimlerin değerlendirilmesi, göstergelerin gözden geçirilmesi faaliyetlerini ilgili bölümler ile birlikte organize edilmesini ve iyileştirme fırsatlarının değerlendirilmesini sağlamak.
+
+d) Merkezin gerekçeli bütçe, ödenek, kadro ve personel ihtiyaçlarını ve yıllık faaliyet raporunu hazırlayarak Yönetim Kuruluna sunmak.
+
+e) Merkez hizmetlerinin yürütülmesi için gerekli her türlü cari mal ve hizmet alımı ile cihaz ve diğer demirbaş malzeme temin ve bakım-onarım, bina bakım-onarım ihtiyaçlarının tespiti, zamanında temin edilmesi ve yapılması için gerekli tedbirleri almak, koordinasyonu sağlamak ve gerekli girişimde bulunmaktır.
+
+### MADDE 14 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hâllerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İstinye Üniversitesi Rektörü yürütür.

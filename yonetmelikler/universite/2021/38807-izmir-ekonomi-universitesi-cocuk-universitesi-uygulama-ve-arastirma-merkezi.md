@@ -1,0 +1,185 @@
+---
+title: "İZMİR EKONOMİ ÜNİVERSİTESİ ÇOCUK ÜNİVERSİTESİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.38807"
+number: "38807"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-07-26
+official_gazette_date: 2021-07-26
+official_gazette_number: "31549"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38807&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İZMİR EKONOMİ ÜNİVERSİTESİ ÇOCUK ÜNİVERSİTESİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, İzmir Ekonomi Üniversitesi Çocuk Üniversitesi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, İzmir Ekonomi Üniversitesi Çocuk Üniversitesi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına ve yönetim organlarının görevlerine ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Akademik birim: İzmir Ekonomi Üniversitesine bağlı enstitü, fakülte, yüksekokul veya meslek yüksekokullarını,
+
+b) Çocuk: On sekiz yaşını doldurmamış kişiyi,
+
+c) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+ç) Merkez: İzmir Ekonomi Üniversitesi Çocuk Üniversitesi Uygulama ve Araştırma Merkezini,
+
+d) Müdür: Merkezin Müdürünü,
+
+e) Rektör: İzmir Ekonomi Üniversitesi Rektörünü,
+
+f) Üniversite (İEÜ): İzmir Ekonomi Üniversitesini,
+
+g) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; doğum öncesinden başlayarak çocuğun gelişimini desteklemek, toplumun ihtiyaçlarına yönelik faaliyetler sunmak ve bu kapsamda İEÜ’de görev yapan uzmanların desteği ile hem akademik hem de sosyal sorumluluk projeleri yürütmektir.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Çocuk ve çocuğun gelişimi konularında İEÜ’nün ilgili akademik birimlerinin eğitim, öğretim, araştırma ve geliştirme faaliyetlerine katkı sağlamak.
+
+b) 0-18 yaş aralığında bulunan tüm bireyler (normal gelişim gösteren, özel gereksinimi olan, korunmaya muhtaç, dezavantajlı grupta yer alan ve benzeri) için ayrım gözetmeksizin onların tüm gelişimini destekleyici çalışmalar yürütmek.
+
+c) Çocuklar için destekleyici programlar geliştirmek, aileye, eğitimcilere, öğrencilere ve topluma hizmet sağlamak amacıyla çocuk gelişimi alanında; eğitim, uygulama ve araştırma hizmeti sunmak.
+
+ç) Üretilen çalışmalarda ve projelerde ilgili mevzuat hükümleri kapsamında kamu kurum ve kuruluşları ile sivil toplum kuruluşlarıyla bilimsel iş birliği çerçevesinde çalışmalar yürütmek.
+
+d) Çocuk gelişimi alanında ulusal ya da uluslararası projeler yürütmek amacıyla farklı disiplinlerden uzmanların, öğrencilerin bir araya gelmesini sağlamak.
+
+e) Yürütülen projelerin, araştırmaların ve gözlemlerin sonuçlarını, çocukların yüksek yararını gözeterek farklı platformlarda ilgili uzmanlar, sivil toplum kuruluşları ve kurumlarla paylaşmak.
+
+f) Çocuk gelişimi ile ilgili konularda ulusal ve uluslararası katılımlı kongre, panel, sempozyum, konferans, seminer, çalıştay gibi bilimsel aktiviteler düzenlemek.
+
+g) Çocuğun gelişiminin bir bütün olduğu düşüncesi ve bunun en önemli parçalarından biri olan ailenin gelişiminin ve desteklenmesinin ne kadar önemli olduğunun bilinciyle anne-baba okulu ile ailelerin gelişimlerini ve ihtiyaçlarını desteklemek.
+
+ğ) İlgili mevzuat hükümleri kapsamında; İEÜ’de görev yapan ya da İEÜ’nün bulunduğu bölgede ikamet eden ailelerin çocuklarını gönderebilecekleri bir anaokulu oluşturarak hem onların ihtiyaçlarını karşılamak hem de öğrencilere uygulama okulu kazandırmak.
+
+h) İlgili mevzuat hükümleri kapsamında danışmanlık hizmetleriyle eğitimcilere hizmet içi eğitimler düzenlemek, öğrencilerin alanlarında gelişimlerini zenginleştirecek eğitimler planlamak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür, Merkezin faaliyet alanları ile ilgili konularda deneyimli olan İEÜ öğretim elemanları arasından Rektör tarafından önerilir ve Mütevelli Heyet onayı ile üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+
+(2) Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere, İEÜ’de görev yapan, Merkezin faaliyet alanları ile ilgili deneyimi olan öğretim elemanları arasından en fazla iki kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer. Müdür görevi başında bulunmadığı zamanlarda yerine görevlendirdiği müdür yardımcısı vekâlet eder. Vekâlet süresi altı ayı geçemez. Müdürün altı aydan fazla görevinin başında bulunamadığı durumlarda görevi sona erer.
+
+(3) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kuruluna ve Danışma Kuruluna başkanlık etmek.
+
+c) Yönetim Kurulu tarafından belirlenen politika ve stratejiler doğrultusunda eylem planları hazırlamak, uygulamak, sonuçlarını izlemek ve denetlemek.
+
+ç) Merkezin ödenek ve kadro gereksinimlerini, bütçe ile ilgili önerilerini ve ilgili diğer konuları saptayarak gerekçesiyle birlikte Yönetim Kuruluna sunmak.
+
+d) Merkezde eğitim ve araştırma faaliyetlerinin etkin biçimde gerçekleştirilmesi için Üniversitenin akademik birimleriyle iş birliği içinde çalışmayı sağlamak.
+
+e) Yurt içi ve yurt dışı kuruluşlarla iş birliği içinde ortak proje önerilerini Yönetim Kuruluna sunmak.
+
+f) Merkez bünyesindeki tüm birimlerin eşgüdüm içinde, etkin ve nitelikli biçimde çalışmalarını sağlamak.
+
+g) Merkezin faaliyetleri hakkındaki raporu, her öğretim yılı sonunda veya istenildiğinde hazırlamak ve Yönetim Kurulunun görüşüne sunmak.
+
+(4) Müdür; Merkezin amacı doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin tüm etkinliklerinin gözetim ve denetiminden ayrıca tüm bu konularda gerekli önlemlerin alınmasından Rektöre karşı birinci derecede sorumludur.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, müdür yardımcısı/yardımcıları ile Merkezin faaliyet alanı ile ilgili deneyimi olan İEÜ öğretim elemanları ve/veya Merkezin faaliyet alanlarında deneyimli İEÜ personeli arasından Rektör tarafından üç yıl için görevlendirilen en az iki üye olmak üzere toplam beş üyeden oluşur. Mütevelli Heyet üyeleri tarafından belirlenen bir kişi oy hakkı olmaksızın Yönetim Kurulu toplantılarına katılabilir. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir. Müdürün görevlendirdiği Müdür Yardımcısı, Yönetim Kurulu toplantılarında bu Kurulun sekreterliğini yapar.
+
+(2) Yönetim Kurulu, başkanın daveti ve üye tam sayısının salt çoğunluğunun katılımı ile ayda en az bir defa toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün oyu yönünde karar alınmış sayılır. Yönetim Kurulunun başkanı Müdürdür. Başkanın yokluğunda bu görevi başkana vekâlet eden Müdür Yardımcısı üstlenir.
+
+(3) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin işleyişi konusunda politika ve stratejileri belirlemek.
+
+b) Merkezin ön lisans, lisans ve lisansüstü eğitim-öğretim etkinliklerinde ve araştırmalarda kullanımına yönelik ilke ve esasları belirlemek, ayrıca gerek duyulduğunda bu konularda Müdüre görüşlerini bildirmek.
+
+c) Merkezin yürüteceği faaliyetler ile ilgili ihtiyaç duyulan personelin çalışma esaslarını belirlemek.
+
+ç) Merkez bünyesinde kurulacak olan çalışma gruplarını ve bu gruplarda görevlendirilecek üyeleri tespit etmek.
+
+d) Merkezin amacına uygun araştırma, proje ve eğitim müracaatlarını inceleyerek karara bağlamak.
+
+e) Çalışma grupları tarafından hazırlanan raporları incelemek ve karara bağlamak.
+
+f) Müdür tarafından sunulan Merkezin ödenek ve kadro gereksinimleri, bütçe, yurt içi-yurt dışı kuruluşlar ile iş birliği ve ortak proje önerileri ve ilgili diğer konulara ilişkin önerileri değerlendirerek Rektörlüğe sunmak üzere karara bağlamak.
+
+g) Merkezin faaliyetleri hakkında Müdür tarafından hazırlanan yıllık raporu ya da gerek duyulduğunda talep edilecek raporları değerlendirerek sonuçlarını Rektörlüğe sunmak.
+
+ğ) Merkez faaliyetlerinin yerine getirilmesi için kaynak sağlama konusunda çalışmalarda bulunmak.
+
+h) Rektörlüğün onayını alarak, yıllık faaliyet raporunda yer almayan konularda etkinliklerin başlatılmasına karar vermek.
+
+ı) Yıllık olarak veya gerektiğinde Danışma Kurulundan görüş ve öneri talebinde bulunmak.
+
+i) Müdürün önereceği diğer konuları görüşüp karara bağlamak.
+
+### MADDE 10 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanlarında deneyimli İEÜ’nün ve/veya istekleri halinde; diğer üniversitelerden öğretim elemanları ve/veya Merkezin faaliyet alanlarında deneyimli uzman kişiler arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına görevlendirilen en fazla otuz üyeden oluşur. Boşalan üyeliklerin yerine kalan süreyi tamamlamak için aynı usulle yeni üye görevlendirilir. Süresi biten üyeler yeniden görevlendirilebilir.
+
+(2) Danışma Kurulu yılda en az bir kez olağan olarak ya da Yönetim Kurulunun gerek duyduğu durumlarda olağanüstü olarak toplanır. Toplantılara Müdür başkanlık eder.
+
+(3) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkezin uzun vadeli bilimsel ve idari planlarını değerlendirmek ve Yönetim Kuruluna önerilerde bulunmak.
+
+b) Merkezin faaliyetleri ile ilgili olarak Yönetim Kurulunun ihtiyaç duyduğu konularda değerlendirmeler yapmak, görüş ve önerilerde bulunmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 11 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilen personel tarafından karşılanır.
+
+### MADDE 12 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 13 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 14 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İzmir Ekonomi Üniversitesi Rektörü yürütür.

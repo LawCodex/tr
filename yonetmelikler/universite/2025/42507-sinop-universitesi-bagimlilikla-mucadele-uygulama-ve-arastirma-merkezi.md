@@ -1,0 +1,159 @@
+---
+title: "SİNOP ÜNİVERSİTESİ BAĞIMLILIKLA MÜCADELE UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.42507"
+number: "42507"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2025-07-25
+official_gazette_date: 2025-07-25
+official_gazette_number: "32966"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42507&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# SİNOP ÜNİVERSİTESİ BAĞIMLILIKLA MÜCADELE UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Sinop Üniversitesi Bağımlılıkla Mücadele Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Sinop Üniversitesi Bağımlılıkla Mücadele Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: Sinop Üniversitesi Bağımlılıkla Mücadele Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Sinop Üniversitesi Rektörünü,
+
+d) Üniversite: Sinop Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Bağımlılıkla mücadele konusunda toplumu bilinçlendirmek.
+
+b) Bağımlılıkla mücadele konusunda diğer kurum ve kuruluşlarla iş birliği yapmak.
+
+c) Bağımlılık alanında bilimsel araştırma yapmak.
+
+ç) Bağımlılık alanında eğitimler düzenlemek.
+
+d) Bağımlılıkla mücadele alanında araştırmacı yetiştirilmesini desteklemek.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Bağımlılıkla mücadele konusunda bilimsel çalışmalar ve projeler yapmak.
+
+b) Bağımlılık alanında uygulamalı çalışmalar yapmak.
+
+c) Bağımlılıkla mücadele konusunda diğer kurum ve kuruluşlarla iş birliği içerisinde bütüncül projeler geliştirmek.
+
+ç) Bağımlılıkla mücadele alanında çalışan araştırmacı ve uygulayıcılara eğitim vermek.
+
+d) Bağımlılıkla mücadele alanında eğitim ve bilgilendirme araç ve gereçleri geliştirmek.
+
+e) Bağımlılıkla mücadele alanında önleme faaliyetleri yürütmek.
+
+f) Bağımlılıkla mücadele alanında ilgili mevzuat hükümleri kapsamında tedavi ve rehabilitasyon faaliyetleri yürütmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür; Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim üyeleri arasından Rektör tarafından iki yıl süre için görevlendirilir. Süresi sona eren Müdür, aynı usulle yeniden görevlendirilebilir.
+
+(2) Müdür, Üniversite öğretim elemanları arasından iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer. Müdür yardımcıları oy hakları olmaksızın Yönetim Kurulu toplantılarına katılırlar.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kurulu ve Danışma Kuruluna başkanlık etmek.
+
+c) Yönetim Kurulunun aldığı kararları uygulamak.
+
+ç) Her yılın sonunda Rektöre Merkezin çalışmaları ile ilgili rapor vermek.
+
+d) Yönetim Kurulunca onaylanan yıllık etkinlik planını ve buna bağlı mali tahmini Rektöre sunmak.
+
+e) Gerekli hallerde Yönetim Kurulu ve Danışma Kurulunu toplantıya çağırmak.
+
+f) Müdür yardımcılarının görev ve sorumluluklarını belirlemek.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu, Müdür ve Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitedeki öğretim elemanları arasından Üniversite Yönetim Kurulunun önerisi üzerine Rektör tarafından görevlendirilen dört üye olmak üzere toplam beş üyeden oluşur.
+
+(2) Yönetim Kurulu üyelerinin görev süresi iki yıldır. Süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.
+
+(3) Yönetim Kurulu, Müdürün başkanlığında yılda en az iki kez toplanır. Gerekli durumlarda Müdürün çağrısı ile toplanabilir. Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşitliği durumunda Müdürün oyu yönünde karar alınmış sayılır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin araştırma, uygulama ve eğitim programı ile yıllık etkinlik planını hazırlamak ve ilgili konularda kararlar almak.
+
+b) Bir sonraki yılın mali tahminini hazırlamak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanlarında deneyimli Üniversitenin veya diğer üniversitelerin öğretim üyeleri ile istekleri halinde ilgili kurum ve kuruluşlardaki uzman kişiler arasından görevlendirilen en fazla on dört kişiden oluşur. Danışma Kurulu üyeleri, Müdürün önerisi üzerine Rektör tarafından iki yıl için görevlendirilir.
+
+(2) Danışma Kurulu, Yönetim Kurulunun gerekli gördüğü hallerde yılda en az bir kez olmak üzere Müdür tarafından belirlenen bir tarihte toplanır. Toplantı yapmak için çoğunluk şartı aranmaz.
+
+(3) Danışma Kurulunun görevi; Merkezin çalışmaları hakkında görüş ve önerilerde bulunmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 14 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 15 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Sinop Üniversitesi Rektörü yürütür.

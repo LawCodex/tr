@@ -1,0 +1,91 @@
+---
+title: "İSTANBUL ÜNİVERSİTESİ İŞLETME FAKÜLTESİ İŞLETME İKTİSADI ENSTİTÜSÜ TEŞKİLAT VE ÇALIŞMA YÖNETMELİĞİ"
+identifier: "8.5.8266"
+number: "8266"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2000-06-29
+official_gazette_date: 2000-06-29
+official_gazette_number: "24094"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8266&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTANBUL ÜNİVERSİTESİ İŞLETME FAKÜLTESİ İŞLETME İKTİSADI ENSTİTÜSÜ TEŞKİLAT VE ÇALIŞMA YÖNETMELİĞİ
+
+## Madde 1 — Amaç ve Dayanak
+
+Bu Yönetmelik 3/3/1983 tarih ve 17976 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren "Lisansüstü Eğitim-Öğretim Enstitüleri Teşkilat ve İşleyiş Yönetmeliği"ne dayanarak İstanbul Üniversitesi İşletme Fakültesi'ne bağlı olarak kurulan “İşletme İktisadı Enstitüsü”nün teşkilatını ve çalışmalarını düzenler.
+
+## Madde 2 — Kapsam
+
+İşletme İktisadı Enstitüsü, Türkiye'de İşletme ve Yönetim Bilimi dallarında, genel ve tahsisi konularda, eğitim, öğretim, araştırma, yayın ve danışmanlık hizmetleri veren bir yükseköğretim kurumudur.
+
+İşletme İktisadı Enstitüsü'nün temel amaçları ve başlıca faaliyet alanları şunlardır:
+
+a) Dünya'da ve Türkiye'de işletmecilik alanındaki gelişmeleri izlemek, bu alanlarda gerekli araştırma, eğitim ve öğretim faaliyetlerini yürütmek,
+
+b) Düzenlediği değişik eğitim programlarıyla Türkiye'nin işletmecilik alanında her düzeyde yetişmiş ve nitelikli eleman gereksinimini karşılamak,
+
+c) Türk iş yaşamı ile sürekli işbirliği içinde Üniversite-iş yaşamı işbirliğini gerçekleştirmek; işletmecilik sorunlarını incelemek, özel ve kamu kuruluşlarıyla sürekli işbirliği ve bilgi alış verişi içinde bulunarak yönetim ve işletmecilik sorunları için çözümler üretmek,
+
+d) İşletmecilik ve yöneticilik alanında ulusal ve uluslararası konferanslar, seminerler ve toplantılar düzenlemek ve bu tür toplantılara katılmak,
+
+e) İşletmecilik ve yöneticilik alanında çeşitli yayınlar yapmak.
+
+## Madde 3 — Teşkilat
+
+İşletme İktisadı Enstitüsü’nün organları; Enstitü Müdürü, Enstitü Kurulu ve Enstitü Yönetim Kuruludur.
+
+Bu organların oluşumları, görev süreleri, yetki ve sorumlulukları şunlardır: a) İşletme İktisadı Enstitüsü Müdürü, İşletme Fakültesi öğretim üyeleri arasından İşletme Fakültesi Dekanı'nın önerisi üzerine İstanbul Üniversitesi Rektörü tarafından üç yıl için atanır. Süresi biten Müdür tekrar atanabilir.
+
+Müdürün, İşletme Fakültesi veya İşletme İktisadı Enstitüsünde görevli aylıklı öğretim elemanları arasından üç yıl için atayacağı en çok iki yardımcısı bulunur.
+
+Müdüre vekalet etme veya Müdürlüğün boşalması hallerinde yapılacak işlem, Dekan’da olduğu gibidir.
+
+İşletme İktisadı Enstitüsü Müdürü, 2547 sayılı Yüksek Öğretim Kanunuyla dekanlara verilmiş görevleri İşletme İktisadı Enstitüsü bakımından yerine getirir.
+
+b) İşletme İktisadı Enstitüsü Kurulu, Müdürün başkanlığında, Müdür Yardımcıları ve İşletme İktisadı Enstitüsü'nü oluşturan Anabilim Dalı Başkanlarından oluşur.
+
+c) İşletme İktisadı Enstitüsü Yönetim Kurulu, Müdürün başkanlığında, Müdür Yardımcıları ve üç öğretim üyesinden oluşur. Bu üç yönetim kurulu üyesi, Müdür tarafından, İşletme Fakültesi ve/veya İşletme İktisadı Enstitüsü öğretim üyelerinden gösterilen altı aday arasından Enstitü Kurulu tarafından üç yıl için seçilir.
+
+d) İşletme İktisadı Enstitüsü Kurulu ve Yönetim Kurulu, 2547 sayılı Yüksek Öğretim Kanunuyla Fakülte Kurulu ve Fakülte Yönetim Kuruluna verilmiş görevleri Enstitü bakımından yerine getirirler.
+
+e) Enstitü Yönetim Kurulu, gerektiğinde Enstitünün amaçları doğrultusunda yardım ve destek sağlamak ve önerilerde bulunmak maksadıyla istişari nitelikte Danışma Kurulu kurabilir. Danışma Kurulunun çalışma usul ve esasları Enstitü Yönetim Kurulu tarafından düzenlenir.
+
+## Madde 4
+
+İşletme İktisadı Enstitüsü'nün anabilim dalları; Genel İşletmecilik Anabilim Dalı ve İstanbul Üniversitesi İşletme Fakültesinde mevcut olan anabilim dallarıdır. Bu anabilim dallarına bağlı olarak, Enstitü'nün amaçları açısından gereksinim duyulan değişik işletmecilik eğitim ve öğretim alanlarında bilim dalları oluşturulabilir.
+
+Genel İşletmecilik Anabilim Dalı Başkanı İşletme İktisadı Enstitüsü Müdürü tarafından atanır. İşletme Fakültesi Anabilim Dalı Başkanları aynı zamanda İşletme İktisadı Enstitüsü Anabilim Dalı Başkanları olarak görev yaparlar.
+
+Enstitü Anabilim Dalı Başkanları, Fakültede Anabilim Dalı Başkanlarına verilen görevleri Enstitü bakımından yerine getirirler.
+
+## Madde 5 — Eğitim-Öğretim
+
+İşletme İktisadı Enstitüsü'nde eğitim - öğretim faaliyetleri; kısa, orta ve uzun (bir veya iki akademik yıl) süreli sertifika programları ile tezsiz yüksek lisans programlarından oluşur.
+
+Tezsiz yüksek lisans programının amacı, öğrenciye işletmecilik konularında ayrıntılı bilgi vermek, bilgileri değerlendirme, yorumlama ve özgün bilgi üretebilme yeteneğini kazandırarak bu bilgilerin uygulamada nasıl kullanılacağını göstermektir.
+
+Sertifika programları, lise ve üniversite mezunlarına kısa sürede işletmeciliğin genel veya türsel alanlarında uygulamaya yönelik bilgiler aktarmak suretiyle onları belirli mesleklere yönlendirmek ve bu alanlarda uzmanlık kazandırmak amacını güder.
+
+## Madde 6
+
+İşletme İktisadı Enstitüsü sertifika programları ve tezsiz yüksek lisans programları, Enstitü Kurulunda görüşülür ve bu kurul tarafından onaylanır. Sertifika Programlarında ve Tezsiz Yüksek Lisans Programlarında hangi derslerin yer alacağı ve bu derslerin hangi öğretim üyeleri tarafından verileceği Enstitü Kurulu tarafından belirlenir.
+
+## Madde 7
+
+Bu Yönetmelikte yer almayan hususlarda 3/3/1983 tarih ve 17976 sayılı Resmî Gazete'de yayımlanan “Lisansüstü Eğitim Öğretim Enstitüleri Teşkilat ve İşleyiş Yönetmeliği” geçerlidir.
+
+## Madde 8 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+## Madde 9 — Yürütme
+
+Bu Yönetmelik hükümlerini İşletme İktisadı Enstitüsü Müdürü yürütür.

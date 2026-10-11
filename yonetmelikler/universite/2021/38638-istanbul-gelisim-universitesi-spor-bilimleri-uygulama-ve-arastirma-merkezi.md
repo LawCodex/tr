@@ -1,0 +1,181 @@
+---
+title: "İSTANBUL GELİŞİM ÜNİVERSİTESİ SPOR BİLİMLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.38638"
+number: "38638"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-05-31
+official_gazette_date: 2021-05-31
+official_gazette_number: "31497"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38638&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTANBUL GELİŞİM ÜNİVERSİTESİ SPOR BİLİMLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, İstanbul Gelişim Üniversitesi Spor Bilimleri Uygulama ve Araştırma Merkezi (SUAM)’nin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; İstanbul Gelişim Üniversitesi Spor Bilimleri Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: İstanbul Gelişim Üniversitesi Spor Bilimleri Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: İstanbul Gelişim Üniversitesi Rektörünü,
+
+d) Üniversite: İstanbul Gelişim Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Sürdürülebilirlik başta olmak üzere Üniversitenin eğitim, araştırma ve topluma hizmet hedefleri doğrultusunda insan haklarına, bilim özgürlüğüne, Üniversite özerkliğine, bilim ve araştırma etiğine uygun bir şekilde paydaşlarla katılımcı yönetişim, hesap verebilirlik ve şeffaflık ilkeleri çerçevesinde kararlar almak ve bu kararlara uygun faaliyetlerde bulunmak.
+
+b) Üniversiteye bağlı birimlerde yürütülen ölçme ve değerlendirme uygulamalarının niteliğini artırmak üzere çalışmalar yapmak.
+
+c) Başta Üniversiteye bağlı birimler olmak üzere, kamu ve özel kurumların talepleri doğrultusunda eğitim vermek, sınav hazırlamak ve/veya uygulamak, ölçme-değerlendirme ve danışmanlık hizmetleri sunmak.
+
+ç) Araştırma yapmak, araştırmaları desteklemek, ulusal ve uluslararası nitelikte bilimsel etkinlikler düzenlemek ve/veya desteklemek, Üniversite akademik personelinin bilimsel etkinliklere katılımına destek olmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Spor bilimleri alanındaki oyun ve sporlarla ilgili araştırmalar yapmak, uygulama eğitimi vermek, ulusal ve uluslararası düzeyde alana destek sağlamak.
+
+b) Beden eğitimi ve spor bilimleri ile ilgili bilgi üretimine yönelik akademik çalışmalar yapmak, projeler geliştirmek; konferans, sempozyum, seminer, kongre ve kurslar düzenlemek.
+
+c) Üniversite öğrencilerinin ve araştırmacıların beden eğitimi ve spor bilimleri alanlarında yapmak istedikleri bilimsel araştırmalara zemin hazırlamak, uygulanan yöntemlere yeni uygulama modelleri geliştirmek, elde edilen bulguların bilimsel ortamda sunulmasına destek sağlamak.
+
+ç) Spora yeni başlayan bireylerin gerekli sağlık taramalarını yaparak, uygulanan testler sonucunda bu kişilerin uygun spor dalına yönlendirilmelerinde danışmanlık hizmeti sunmak.
+
+d) Talep eden kişilere yapılacak testler sonucunda mevcut durumlarının tespiti ve geliştirilmesi için gerekli uygulama modellerini yaşa, cinsiyete ve fizik kapasitesine uygun olarak egzersiz ve antrenman programları oluşturmak ve öneride bulunmak.
+
+e) Spor yaralanmalarının önlenmesine ilişkin laboratuvar testleri yapmak ve elde edilen bulgulara göre bilimsel gerçeklere uygun egzersiz veya antrenman programları planlamak ve uygulamak.
+
+f) Sportif sakatlıklarda rehabilitasyon prensipleri ve modellerini araştırmak ve önermek.
+
+g) Laboratuvar ve saha sportif performans ölçümleri, sporcu yaralanmaları, sporcu beslenmesi ve her yaş grubuna yönelik sportif yönlendirmenin yapıldığı poliklinik hizmetlerini vermek.
+
+ğ) Spor bilimleri ve sporcu sağlığı alanında çalışan (antrenör, kondisyoner, masör, fizyoterapist, doktor ve benzeri) elemanlara sürekli eğitim sağlayarak bölgedeki spor bilimleri ve sporcu sağlığı konusundaki hizmet kalitesine katkıda bulunmak.
+
+h) Merkezin amaç ve faaliyetlerine yönelik olarak kamu kurum ve kuruluşları ile özel sektörün; spor bilimleri ve sporcu sağlığı konularındaki problemlerine, ihtiyaçlarına cevap vermek üzere danışmanlık hizmeti sunmak, araştırma yapmak, projeler yürütmek, çözümler üretmek ve önermek.
+
+ı) Çocukların psikomotor gelişim düzeylerine göre uygun gelişim programları hazırlayıp, uygulamak.
+
+i) Özel grupların ve engellilerin fiziksel, ruhsal ve sosyal gelişiminin desteklenmesi için araştırmalar yapmak ve sportif programlar düzenlemek.
+
+j) Düzenlediği programlar, projeler ve uygulamalar aracılığı ile Üniversitenin kamu kurum ve kuruluşları, spor federasyonları, özel sektör ve uluslararası kuruluşlarla ilişkilerinin geliştirilmesine katkıda bulunmak.
+
+k) Merkezin amaç ve faaliyetlerine yönelik olarak bireysel ve takım sporcularına davranış değişikliği oluşturmak.
+
+l) Egzersiz ve sporda bireysel psikolojik rehberlik ve danışmanlık yapmak.
+
+m) Obezite ve diyabetin önlenmesi ve tedavisi için egzersiz programı planlamak.
+
+n) Merkezin amaç ve faaliyetlerine yönelik olarak skolyoz değerlendirmesi yapmak ve sporcunun durumuna göre uygun egzersiz programı tasarlamak.
+
+o) Sporda beslenme, ergojenik destek ve dopingle mücadele için amatör ve profesyonel takımlara danışmanlık hizmeti vermek.
+
+ö) Bireysel ve takım sporcularına sportif performans danışmanlığı yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Rektör tarafından Üniversite çalışanları arasından iki yıl süre ile görevlendirilir. Rektör, Müdürü görevden alabilir. Süresi dolan Müdür yeniden görevlendirilebilir. Müdür, görevi başında olmadığı zaman yardımcılarından birisini yerine vekil bırakır.
+
+(2) Müdür, Üniversite çalışanları arasından iki kişiyi kendi görev süresiyle sınırlı olmak kaydıyla Müdür yardımcısı olarak görevlendirir. Müdür, Müdür yardımcılarının görevine son verebilir. Müdür yardımcıları, Müdürün verdiği işleri yapar.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kurulunu ve Danışma Kurulunu toplantıya çağırmak, gündemi hazırlamak ve bu kurulların başkanı olarak toplantıları yönetmek.
+
+c) Merkezi amaçları doğrultusunda yönetmek.
+
+ç) Her yıl Aralık ayının ilk haftasında bir sonraki yılın faaliyet planını hazırlamak ve Yönetim Kuruluna sunmak.
+
+d) Her yıl Ocak ayının son haftasında bir önceki yılın faaliyet raporunu hazırlamak ve Yönetim Kuruluna sunmak.
+
+e) Yönetim Kurulu tarafından onaylanan yıllık faaliyet planlarını ve faaliyet raporlarını Rektöre arz etmek.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür, müdür yardımcıları ile Rektör tarafından iki yıl süreyle görevlendirilen dört Üniversite personeli olmak üzere toplam yedi kişiden oluşur. Görev süresi dolan üyeler yeniden görevlendirilebilir. Müdür, Yönetim Kurulu raportörlüğü için Müdür yardımcılarından birini görevlendirir. İhtiyaç halinde iç ve dış paydaşlar Müdür tarafından oy hakkı olmaksızın Yönetim Kuruluna davet edilir.
+
+(2) Yönetim Kurulu, Müdürün çağrısıyla üye tam sayısının salt çoğunluğuyla yılda en az iki kez toplanır. Kararlar toplantıya katılanların oy çokluğuyla alınır. Oylarda eşitlik halinde, Müdürün bulunduğu taraf çoğunluğu sağlamış sayılır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Müdür tarafından hazırlanan yıllık faaliyet planlarını ve faaliyet raporlarını onaylamak.
+
+b) Merkezin yürütülecek faaliyetlerini onaylamak veya bu faaliyetlerin yürütülmesi için Müdürü görevlendirmek.
+
+c) İlgili mevzuat hükümlerine göre Yönetim Kuruluna verilen diğer işleri yapmak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Müdür ile Rektör tarafından iki yıl süreyle görevlendirilen Merkezin amaçları ve faaliyetleri konusunda yeterliliklere sahip Üniversite bünyesinden veya haricinden üç kişi olmak üzere toplam dört kişiden oluşur. Üniversite bünyesinde çalışan üyeler Rektör tarafından, Üniversite dışındaki üyeler ise Rektörün daveti/talebi üzerine ve ilgili kurum yetkilisinin onayı ile görevlendirilir. Görev süresi dolan üyeler yeniden görevlendirilebilir. Müdür, Danışma Kurulu raportörlüğü için müdür yardımcılarından birini görevlendirir.
+
+(2) Danışma Kurulu, Müdürün çağrısıyla üye tam sayısının salt çoğunluğuyla yılda en az bir kez toplanır. Kararlar toplantıya katılanların oy çokluğuyla alınır. Oylarda eşitlik halinde, Müdürün bulunduğu taraf çoğunluğu sağlamış sayılır.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulu, Merkezin çalışmaları ile ilgili olarak değerlendirmeler yapar, görüş ve önerilerde bulunarak tavsiye niteliğinde kararlar alır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İstanbul Gelişim Üniversitesi Rektörü yürütür.

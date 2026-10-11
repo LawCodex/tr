@@ -1,0 +1,232 @@
+---
+title: "YOZGAT BOZOK ÜNİVERSİTESİ BİLİM VE TEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.16692"
+number: "16692"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2012-10-15
+official_gazette_date: 2012-10-15
+official_gazette_number: "28441"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16692&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# YOZGAT BOZOK ÜNİVERSİTESİ BİLİM VE TEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+**YOZGAT BOZOK ÜNİVERSİTESİ BİLİM VE TEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ(1)**
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; **(Değişik ibare:RG-25/4/2024-32527)** Yozgat Bozok Üniversitesi Bilim ve Teknoloji Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına ve yönetim organlarına ve bu organların görevlerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, **(Değişik ibare:RG-25/4/2024-32527)** Yozgat Bozok Üniversitesi Bilim ve Teknoloji Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ve 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: **(Değişik ibare:RG-25/4/2024-32527)** Yozgat Bozok Üniversitesi Bilim ve Teknoloji Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: **(Değişik ibare:RG-25/4/2024-32527)** Yozgat Bozok Üniversitesi Rektörünü,
+
+d) Üniversite: **(Değişik ibare:RG-25/4/2024-32527)** Yozgat Bozok Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Üniversitede temel uygulamalı ve disiplinler arası alanlardaki araştırma ve geliştirme faaliyetlerini merkezi bir organizasyon çerçevesinde düzenlemek,
+
+b) Üniversitedeki bilimsel faaliyetleri nitelik ve nicelik yönünden artırmak,
+
+c) Ortak çalışma grupları oluşturmak ve verimli bir araştırma ortamı sağlamak,
+
+ç) Üniversite-sanayi işbirliğini güçlendirmek,
+
+d) Bilimsel araştırmalarda ulusal ve uluslararası işbirliğini teşvik etmek,
+
+e) Diğer kamu kurum ve kuruluşları, üniversiteler ve özel kuruluşlarla işbirliği yaparak problemlerinin çözümüne yönelik analiz ve ölçümlerin yapılmasına ve teknoloji geliştirme ve uygulama projelerine destek olup bölge ve ülke ekonomisine katkı sağlamak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Bölgenin ve ülkenin kalkınmasına ve gelişmesine yardımcı olacak bilimsel ve teknolojik araştırma, geliştirme ve uygulama için gerekli laboratuar altyapısını hazırlamak, araç ve gereçlerin teminini sağlamak,
+
+b) Öncelikle Üniversitedeki ve diğer bölge üniversitelerindeki araştırmacıların araştırma-geliştirme çalışmalarına destek sağlamak,
+
+c) Diğer kamu, sanayi ve özel sektör kuruluşları ile üçüncü şahıslardan gelecek analiz isteklerini, Merkezin imkânları ölçüsünde değerlendirmek ve gerektiğinde raporlarını hazırlamak ve yorumlamak,
+
+ç) Bilimsel görüş sunmak, danışmanlık ve benzeri hizmetler yapmak ve bu hizmetlere ilişkin raporlar düzenlemek,
+
+d) Merkezin çalışma alanına giren konularda kurs, seminer, sempozyum, kongre ve konferans gibi bilimsel toplantılar düzenlemek, yurt içinde ve yurt dışında bu tür etkinliklere katılmak,
+
+e) Çalışma alanına giren araştırmaların yapılabilmesi için gerekli laboratuar ve diğer tesisleri kurmak; Üniversitenin çeşitli birimlerinde mevcut laboratuar ve benzeri tesislerden yaygın ve etkin bir biçimde yararlanmak,
+
+f) Gerektiğinde Merkeze bağlı yeni laboratuar ve birimler kurmak,
+
+g) Disiplinler arası ve sanayi ile ortak projeler üretmek,
+
+ğ) İlgili kurum ve kuruluşlarla işbirliğini ve koordinasyonu sağlamak,
+
+h) Merkezin amaçlarına uygun Rektör tarafından verilen diğer görevleri yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu,
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin çalışma alanı ile ilgili konularda araştırma ve uygulama deneyimi bulunan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl süre için görevlendirilir. Görev süresi sona eren Müdür yeniden görevlendirilebilir. Müdürün kesintisiz altı aydan daha fazla süreyle görevi başında bulunmaması durumunda görevi sona erer.
+
+(2) Müdür, Merkezin amaçları ve faaliyet alanları doğrultusundaki çalışmaların düzenli bir biçimde yürütülmesinden, etkinliklerin gözetim ve denetiminin yapılmasından Rektöre karşı sorumludur.
+
+(3) Müdürün önerisi üzerine, Merkezin çalışma alanı ile ilgili Üniversite öğretim **(Değişik ibare:RG-25/4/2024-32527)** üyeleri arasından Rektör tarafından üç yıl süreyle iki müdür yardımcısı görevlendirilebilir.
+
+(4) Müdür, görevi başında olmadığı zamanlarda yardımcılarından birisi Müdüre vekâlet eder. Müdür yardımcısı görevlendirilmemiş ise Müdürün önerisi üzerine, Yönetim Kurulu üyeleri arasından birisi Rektör tarafından görevlendirilerek Müdüre vekâlet eder. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir.
+
+(5) Müdür yardımcılarının görev süresi üç yıldır. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer. Görevinden ayrılan müdür yardımcısının yerine kalan süreyi tamamlamak üzere yenisi **(Değişik ibare:RG-25/4/2024-32527)** görevlendirilebilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek,
+
+b) Merkezin her türlü bilimsel, teknik ve idari faaliyetlerini planlamak, düzenlemek ve yürütmek,
+
+c) Yönetim Kuruluna başkanlık etmek ve Yönetim Kurulunca alınan kararların uygulanmasını sağlamak,
+
+ç) Merkezin ve Merkez personelinin etkin çalışmasını sağlamak,
+
+d) Merkezin yıllık faaliyet raporunu, bir sonraki yılın çalışma programını ve bütçe önerisini hazırlamak ve Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunmak,
+
+e) Merkeze personel görevlendirilmesiyle ilgili teklifini Rektöre sunmak,
+
+f) Rektör tarafından Merkezin faaliyetleri ile ilişkili olarak verilen diğer görevleri yapmak.
+
+(2) Müdür yardımcıları, Müdürün vereceği görevleri yapmak ve Müdüre yardımcı olmak üzere görevlendirilir.
+
+### MADDE 10 — Yönetim kurulu
+
+(1) Yönetim Kurulu, Müdür dahil en fazla yedi kişiden oluşur. Yönetim Kurulu, Merkezin çalışma alanı ile ilgili Üniversitenin öğretim üyeleri arasından ve Merkezden yararlanan akademik birimlerin temsili de dikkate alınarak Müdürün önerisi üzerine Rektör tarafından üç yıl süre için görevlendirilen üyelerden oluşur.
+
+(2) Müdür, Yönetim Kurulunun başkanıdır. Yönetim Kurulu, Müdürün çağrısı üzerine yılda en az iki kez salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde, Müdürün kullandığı oy yönünde çoğunluk sağlanmış kabul edilir.
+
+(3) Görev süresi dolan üyeler yeniden görevlendirilebilir. Yönetim Kurulu toplantılarına mazeretsiz olarak iki defa üst üste katılmayan üyenin görevi sona erer. Görev süresi dolmadan ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen üyelerin yerine kalan süreyi tamamlamak üzere yenileri görevlendirilir.
+
+(4) Müdür yardımcıları oy hakkı olmadan Yönetim Kurulu toplantılarına katılabilir.
+
+(5) Müdürün önerisi üzerine gerektiğinde Üniversite içinden veya dışından konu ile ilgili bilgi, beceri ve deneyim sahibi kişiler de görüş bildirmek amacı ile Yönetim Kurulu toplantılarına oy hakkı olmadan davet edilebilir.
+
+### MADDE 11 — Yönetim kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin bilimsel ve idari plan ve programlarının hazırlanmasına yardımcı olmak,
+
+b) Merkez bünyesindeki laboratuarların çalışma prensipleri, laboratuarların işleyişi ve sorumlularına ilişkin konularda Müdüre öneri ve tavsiyelerde bulunmak ve gerekli kararları almak,
+
+c) Müdürün faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek, sunulan raporu değerlendirmek, bir sonraki döneme ait çalışma programını düzenlemek,
+
+ç) Merkezin faaliyet konularında Üniversite birimleri arasında işbirliği gerektiren çalışmaların yürütülebilmesi için Müdüre yardımcı olmak,
+
+d) Yurtiçi ve yurtdışı kuruluşlarla ortaklaşa yürütülecek çalışmaların ilkelerini tespit etmek ve protokollerini hazırlamak,
+
+e) Danışma Kurulunda oluşan görüş ve öneriler doğrultusunda kararlar almak.
+
+### MADDE 12 — Danışma kurulu
+
+(1) Danışma Kurulu, bilimsel, teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve ayrıca sahip olduğu birikim ve deneyimlerinden yararlanılabilecek Üniversite içindeki ve dışındaki kişilerden oluşmak üzere, Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıl süreyle görevlendirilen en az yedi kişiden oluşur. Rektör ya da görevlendireceği bir Rektör yardımcısı Danışma Kurulunun doğal üyesidir.
+
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez salt çoğunluk aranmadan Rektör ya da görevlendireceği bir Rektör yardımcısının başkanlığında toplanır.
+
+(3) Görev süresi dolan üyeler yeniden görevlendirilebilir. Danışma Kurulu toplantılarına mazeretsiz olarak iki defa üst üste katılmayan üyenin görevi sona erer. Görev süresi dolmadan ayrılan üyelerin yerine kalan süreyi tamamlamak üzere yenileri görevlendirilir.
+
+### MADDE 13 — Danışma kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyetlerini değerlendirerek, faaliyet alanlarıyla ilgili konularda görüş ve önerilerde bulunmak,
+
+b) Bölgedeki sanayi kuruluşları yanında, diğer bilimsel ve teknolojik kuruluşlarla işbirliği ortamının oluşturulup geliştirilmesine ilişkin görüşlerini Yönetim Kuruluna bildirmek,
+
+c) Merkez ile ilgili Üniversite içi ve dışı finans kaynaklarının daha verimli değerlendirilebilmesi amacıyla görüş bildirmek.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Laboratuar sorumluları ve görevleri
+
+(1) Merkez bünyesinde bulunan laboratuarlara alanlarında uzman öğretim elemanları arasından Müdür tarafından üç yıl süreyle laboratuar sorumluları görevlendirilir.
+
+(2) Laboratuar sorumluları, Merkez bünyesinde yer alan laboratuar ve cihazların etkin kullanımı ve işleyişinden, analizlerin hızla sonuçlandırılmasından ve deneylerin etik kurallara uygun şartlarda yürütülmesinden, Müdüre veya ilgili müdür yardımcısına karşı sorumludurlar.
+
+(3) Merkezin amaçları doğrultusunda çalışmalar yapmak üzere, ihtiyaç duyulduğunda Yönetim Kurulu tarafından yeni çalışma grupları oluşturulabilir.
+
+### MADDE 15 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Müdürün önerisi ile Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 16 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Rektör yardımcılarından birine veya Müdüre devredebilir.
+
+### MADDE 17 — Ekipman ve demirbaşlar
+
+(1) Merkez faaliyetleri ve Merkezin çalışma alanıyla ilgili olarak yürütülecek tüm araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaş Merkezin hizmetlerinde kullanılır.
+
+### MADDE 18 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 19 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 20 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini **(Değişik ibare:RG-25/4/2024-32527)** Yozgat Bozok Üniversitesi Rektörü yürütür.
+
+*\_\_\_\_\_\_\_*
+
+*(1) 25/4/2024 tarihli ve 32527 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı ‘‘Bozok Üniversitesi Bilim ve Teknoloji Uygulama ve Araştırma Merkezi Yönetmeliği’’ iken metne işlendiği şekilde değiştirilmiştir.*
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>15/10/2012</td><td>28441</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>25/4/2024</td><td>32527</td></tr>
+</table>

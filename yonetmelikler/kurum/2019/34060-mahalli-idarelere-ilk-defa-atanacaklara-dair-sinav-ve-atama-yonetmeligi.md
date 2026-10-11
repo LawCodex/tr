@@ -1,0 +1,235 @@
+---
+title: "MAHALLİ İDARELERE İLK DEFA ATANACAKLARA DAİR SINAV VE ATAMA YÖNETMELİĞİ"
+identifier: "7.5.34060"
+number: "34060"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-12-24
+official_gazette_date: 2019-12-24
+official_gazette_number: "30988"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34060&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# MAHALLİ İDARELERE İLK DEFA ATANACAKLARA DAİR SINAV VE ATAMA YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; il özel idareleri, belediyeler ve bunlara bağlı kuruluşlar ile bunların üyesi olduğu mahalli idare birlikleri ve döner sermayeli kuruluşlara ilk defa memur olarak atanacaklara ilişkin usul ve esasları belirlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; il özel idareleri, belediyeler ve bunlara bağlı kuruluşlar ile bunların üyesi olduğu mahalli idare birlikleri ve döner sermayeli kuruluşlarda itfaiye eri ve zabıta memuru kadroları hariç boş bulunan diğer memur kadrolarına ilk defa atanacakları kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ve 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Bağlı kuruluş: Özel bir kanunla veya kanuna dayanarak, il özel idaresi veya belediyeye bağlı olarak kurulan, tüzel kişiliğe sahip kurumları,
+
+b) Döner sermayeli kuruluş: İl özel idaresi veya belediyeye bağlı olarak kurulan ve bu idarelerin bütçesinden desteklenmekle beraber, kendi işletme faaliyetlerinden de gelir elde eden ticari kuruluşları,
+
+c) İdare: İl özel idareleri, belediyeler ve bunlara bağlı kuruluşlar ile bunların üyesi olduğu mahalli idare birlikleri ve döner sermayeli kuruluşları,
+
+ç) KPSS: (B) grubu kadrolar için yapılan Kamu Personel Seçme Sınavını,
+
+d) Merkezi yerleştirme: Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmeliğin dördüncü bölümünde yer alan yerleştirmeyi,
+
+e) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+
+f) Sınav: İdarenin boş kadrolarına atanacakları belirlemek üzere, öğrenim düzeyleri itibarıyla geçerliliği devam eden KPSS sonuçlarına göre yapılacak sıralama sonucu belirlenen adayların katılımı ile yapacağı yazılı veya sözlü sınavı,
+
+g) Sınav kurulu: Giriş sınavına ilişkin işlemleri yürütmek üzere beş kişiden teşkil ettirilen kurulu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Atama Usûlü ve Atama İzni
+
+### MADDE 5 — Atama usûlü
+
+(1) Mahalli idarelerde boş bulunan memur kadrolarına merkezi yerleştirme yoluyla veya idare tarafından yapılacak sınavla açıktan atama yapılabilir.
+
+(2) Atama yapılacak kadro unvanı ve sayıları için ilgisine göre **(Değişik ibare:RG-7/11/2025-33070)** Çevre, Şehircilik ve İklim Değişikliği Bakanlığı veya İçişleri Bakanlığından izin alınır. Atama izni verilen kadrolara her iki usûl ile de memur alımı yapılabilir. İzin verilmeyen kadrolar için merkezi yerleştirmeye başvurulamaz, duyuru ve sınav yapılamaz.
+
+### MADDE 6 — Atama izni
+
+(1) Belediyeler ve bağlı kuruluşlar ile bunların üyesi olduğu mahalli idare birliklerinin kadrolarına **(Değişik ibare:RG-7/11/2025-33070)** Çevre, Şehircilik ve İklim Değişikliği Bakanlığından izin alınır.
+
+(2) İl özel idareleri ile bunların üyesi olduğu mahalli idare birliklerinin kadrolarına İçişleri Bakanlığından izin alınır.
+
+(3) İl özel idareleri ile belediyelerin birlikte üye oldukları mahalli idare birliklerinin kadrolarına **(Değişik ibare:RG-7/11/2025-33070)** Çevre, Şehircilik ve İklim Değişikliği Bakanlığından izin alınır.
+
+(4) İdareler, Yönetmelik eki Atama İzin Formunu ve Personel Gider Oranı Cetvelini doldurarak izin talebinde bulunur.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezi Yerleştirme Yoluyla Atama
+
+### MADDE 7 — Merkezi yerleştirme
+
+(1) Mahalli idarelerde boş bulunan memur kadrolarına, Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmeliğin dördüncü bölüm hükümlerine göre yerleştirme yapılır.
+
+### MADDE 8 — Bildirim yükümlülüğü
+
+(1) Atama yapılan kadrolara ilişkin unvan ve sayı bilgileri, göreve başlama tarihinden itibaren 15 gün içerisinde ilgisine göre **(Değişik ibare:RG-7/11/2025-33070)** Çevre, Şehircilik ve İklim Değişikliği Bakanlığı veya İçişleri Bakanlığına bildirilir.
+
+(2) İdareler tarafından birinci fıkrada belirtilen süre içerisinde göreve başlayanlara ilişkin bilgiler kadro ve pozisyonların merkezi olarak tutulduğu kurumun “E-Uygulama” sistemine girilir.
+
+(3) Merkezi yerleştirme kapsamında başvuru yapan idareler tarafından unvan ve sayı bilgileri, ilgisine göre **(Değişik ibare:RG-7/11/2025-33070)** Çevre, Şehircilik ve İklim Değişikliği Bakanlığına veya İçişleri Bakanlığına bildirilir.
+
+## DÖRDÜNCÜ BÖLÜM
+
+**İdare Tarafından Sınav Yoluyla Atama,**
+
+**Sınava İlişkin Esaslar**
+
+### MADDE 9 — Sınav duyurusu
+
+(1) İdare, atama yapılacak kadro sayıları ile bu kadroların sınıf, unvan ve derecelerini; sıralamaya esas olacak KPSS puan türü ile asgari puanı; başvuru tarihleri ile başvuru yöntemini; başvuru yapacak adayda aranılacak nitelikler ile istenilen belgeleri; yapılacak sınavın yeri, zamanı, türü, sınav konuları ve değerlendirme yöntemi ile gerekli görülen diğer hususları son başvuru tarihinden en az 30 gün önce Resmî Gazete ile idarenin ve Cumhurbaşkanınca belirlenen kurumun internet sitesinde duyurur.
+
+(2) Ayrıca, ilgisine göre **(Değişik ibare:RG-7/11/2025-33070)** Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yerel Yönetimler Genel Müdürlüğü veya İçişleri Bakanlığı İller İdaresi Genel Müdürlüğü kurumsal internet sitelerinde de son başvuru tarihinden en az 30 gün önce duyuru yapılır.
+
+(3) Sınav ilan duyuruları, ikinci fıkrada belirtilen kurumlarca kontrol işlemi yapıldıktan sonra yayımlanır.
+
+### MADDE 10 — Sınava kabul için ön şart
+
+(1) Sınava katılmak isteyenlerin, sınava son başvuru tarihi itibarıyla;
+
+a) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımaları,
+
+b) Geçerlilik süresi dolmamış KPSS puan türünden, sınav duyurusunda belirtilmiş olan asgari puanı almış olmaları,
+
+c) Alım yapılacak kadro unvanları için duyuruda belirlenen asgari niteliklere sahip olmaları,
+
+gerekir.
+
+### MADDE 11 — Başvuru
+
+(1) **(Değişik:RG-7/11/2025-33070)** Başvuruların elektronik ortamda alınması esastır. Ancak idareler elektronik ortamda alınan başvurunun yanı sıra duyuruda belirtilmek şartıyla şahsen veya iadeli taahhütlü posta yoluyla da başvuru alabilir.
+
+(2) Başvuru sırasında; adaylardan bu Yönetmeliğin Ek-1’indeki başvuru formunun yanı sıra nüfus cüzdanı veya kimlik kartı, mezuniyet belgesi, KPSS sonuç belgesi, sürücü belgesi ve benzeri belgelerin aslı veya sureti istenir. Elektronik ortamda yapılan başvurularda yukarıdaki belgeler duyuruda belirtilen tarihe kadar ibraz edilir.
+
+(3) Postadaki gecikmeler ve duyuruda belirtilen süre içerisinde yapılmayan başvurular dikkate alınmaz.
+
+(4) Giriş sınavına katılmak isteyenlerden istenilen belgelerin aslı ibraz edilmek kaydıyla suretleri kurumca tasdik edilir.
+
+(5) Atama yapılacak kadrolar için adayların başvurularını kısıtlayacak veya belirli bir kişiyi tarif eder nitelikte özel şart belirlenemez.
+
+### MADDE 12 — Başvuruların değerlendirilmesi
+
+(1) İdare, T.C. kimlik numarası ile ÖSYM kayıtlarının uyumunu kontrol etmek suretiyle adayları KPSS puanlarına göre sıralayarak, en yüksek puanlı adaydan başlamak üzere atama yapılacak boş kadro sayısının beş katı oranında adayı sınava çağırır. Sınava çağırılacak son sıradaki adayla aynı puana sahip olan diğer adaylar da sınava çağırılır. Sınava girmeye hak kazanan adaylar ve KPSS puanları idarenin internet sitesinde ilan edilir.
+
+(2) Sınava çağrılan adaylara idarece düzenlenen ve adayların kimlik bilgileri ile sınav yeri ve tarihinin bulunduğu bu Yönetmeliğin Ek-2’sindeki sınav giriş belgesi gönderilir. Ancak, idareler tarafından duyuruda belirtilmesi kaydıyla, sınav giriş belgesi idarenin internet sitesinden erişim sağlanarak verilebilir. Bu belge sınava girişte ibraz edilir.
+
+### MADDE 13 — Sınav kurulu ve görevleri
+
+(1) Sınav kurulu, atamaya yetkili amir veya görevlendireceği kişinin başkanlığında, üyelerden biri insan kaynaklarından sorumlu birim temsilcisi olmak üzere, atamaya yetkili amirce belirlenecek toplam beş üyeden teşekkül eder. Aynı usulle birer yedek üye belirlenir. İhtiyaç duyulması halinde İdare dışından da kamu görevlileri sınav kurulunda üye olarak görevlendirilebilir.
+
+(2) Giriş sınavına, sınav kurulunun başkan ve üyelerinin eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve sıhrî hısımlarının katıldığının tespit edilmesi halinde, bu üye veya üyeler sınav kurulu üyeliğinden çıkarılır ve bunların yerine yedek üye veya üyeler görevlendirilir.
+
+(3) Sınav kurulu; sınavın yapılması, değerlendirilmesi, başarı listesinin düzenlenmesi, sınav sonuçlarının ilanı, sınava ilişkin itirazların incelenip sonuçlandırılması ve sınavla ilgili diğer işleri yürütür.
+
+(4) Sınav kurulu, üye tam sayısı ile toplanır. Kararlar oy çokluğuyla alınır.
+
+### MADDE 14 — Sınav konuları
+
+(1) Yazılı veya sözlü sınav;
+
+a) Türkiye Cumhuriyeti Anayasası,
+
+b) Atatürk İlkeleri ve İnkılâp Tarihi,
+
+c) 657 sayılı Devlet Memurları Kanunu,
+
+ç) Mahalli idarelerle ilgili temel mevzuat,
+
+konuları ile kadro unvanına ilişkin mesleki ve uygulamalı bilgi ve yeteneğin ölçülmesini kapsar.
+
+### MADDE 15 — Sınavın yapılması
+
+(1) Sınav, adayların bilgi ve yeteneklerini ölçecek şekilde yazılı veya sözlü olarak yapılır. Hizmetin gerektirdiği hallerde sözlü sınav; araç, iş makinesi ve bilgisayar kullanımı ile sportif dayanıklılık gibi özellikleri ölçecek şekilde uygulamalı olarak da yapılabilir. Yazılı sınav; idareler tarafından yapılabileceği gibi, Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına, Milli Eğitim Bakanlığına veya yükseköğretim kurumlarından birine yapılacak protokol hükümleri çerçevesinde ilgili kurumun tabi olduğu mevzuat hükümlerine göre yaptırılabilir.
+
+### MADDE 16 — Sınav sonuçlarının değerlendirilmesi ve ilanı
+
+(1) Sınavda değerlendirme, bu Yönetmeliğin 14 üncü maddesinin birinci fıkrasının (a), (b), (c) ve (ç) bentlerinde yer alan konularda 15’er puan, kadro unvanına ilişkin mesleki ve uygulamalı bilgi ve yeteneğin ölçülmesinde ise 40 puan olmak üzere toplamda 100 tam puan üzerinden yapılır.
+
+(2) Sınavda başarılı sayılmak için, sınav kurulu başkan ve üyelerinin 100 tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az 60 olması şarttır. Sınav kurulu üyelerince verilen puanlar ayrı ayrı tutanağa geçirilir.
+
+(3) Adayların atamaya esas başarı puanı, idare tarafından yapılan yazılı veya sözlü sınav puanları ile KPSS puanlarının aritmetik ortalaması alınmak suretiyle belirlenir ve idarenin internet sitesinde ilan edilir.
+
+(4) Adayların atanmaya esas başarı puanlarının aynı olması halinde KPSS puanı yüksek olana öncelik tanınır.
+
+(5) En yüksek başarı puanından başlamak üzere atama yapılacak kadro sayısı kadar aday asıl aday olarak belirlenir. İdare, asıl aday sayısı kadar yedek aday da belirleyebilir. Asıl ve yedek aday listeleri idarenin internet sitesinde ilan edilir ve listede yer alanlara ayrıca yazılı tebligat yapılır.
+
+### MADDE 17 — Sınav sonuçlarına itiraz
+
+(1) Sınav sonuçlarına, başarı listesinin idarenin internet sitesinde ilanından itibaren yedi gün içinde yazılı olarak itiraz edilebilir. İtirazlar, sınav kurulu tarafından yedi gün içerisinde sonuçlandırılır ve ilgiliye yazılı olarak bilgi verilir.
+
+### MADDE 18 — Atama işlemleri
+
+(1) İdarenin internet sitesinde, başarı listesine göre sınavı asıl olarak kazandığı belirlenenlerden istenilecek belgeler ile belgelerin son teslim tarihine ilişkin bir duyuru yayımlanır ve atanmaya hak kazananlar, duyuruda belirtilen süre içerisinde, istenilen belgeler ile birlikte atanmak üzere yazılı başvuruda bulunur.
+
+(2) İdarece yapılacak belge incelemesinden sonra atanmayı haiz olduğu tespit edilenlerin atamaları yapılır. Ancak atama için öngörülen koşullara uymayan ve gerekli belgeleri süresi içinde getirmeyen adayların atamaları yapılmaz.
+
+(3) Atanmış olsalar dahi atanma şartlarını taşımadığı tespit edilenlerin atamalarının iptal edilmesi, atanılan göreve geçerli bir mazeret olmaksızın süresi içinde başlanmaması ya da atanma hakkından vazgeçilmesi sebebiyle boş kalan kadrolara başarı puan sıralamasının ilan edildiği tarihten itibaren altı aylık süreyi aşmamak üzere, aynı unvanlı kadrolar için yapılacak müteakip sınava ilişkin duyuruya kadar, yedekler arasından başarı sıralamasına göre atama yapılabilir.
+
+## BEŞİNCİ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 19 — Gerçeğe aykırı beyan
+
+(1) Sınav başvuru formunda ya da atama işlemleri sırasında gerçeğe aykırı beyanda bulunduğu veya belge verdiği tespit edilenlerin sınav sonuçları geçersiz sayılır ve atamaları yapılmaz, atamaları yapılmış ise iptal edilir. Bu kişiler hiçbir hak talep edemez.
+
+(2) Gerçeğe aykırı beyanda bulunduğu veya belge verdiği tespit edilenler hakkında ilgili makamlara suç duyurusunda bulunulur.
+
+### MADDE 20 — KPSS puanlarının kontrolü ve bildirim yükümlülüğü
+
+(1) İdareler, kendilerine başvuran adayların T.C. kimlik numaralarını, ad ve soyadlarını ve KPSS puanlarının doğruluğunu ÖSYM’ye ait internet sitesinden kontrol eder. Yapılan kontrol sonucunda sınav sonuç belgesinde tahrifat yaptığı belirlenen adaylar ilgili kurumlarca ÖSYM’ye bildirilir.
+
+(2) Atama yapılan kadrolara ilişkin unvan ve sayı bilgileri, göreve başlama tarihinden itibaren 15 gün içerisinde ilgisine göre **(Değişik ibare:RG-7/11/2025-33070)** Çevre, Şehircilik ve İklim Değişikliği Bakanlığına veya İçişleri Bakanlığına bildirilir.
+
+(3) Ataması yapılarak göreve başlatılanlar ile ataması yapıldığı halde göreve başlamayanlar veya ataması iptal edilen adaylara ilişkin bilgiler, söz konusu işlemlerin sonuçlandığı tarihten itibaren 15 gün içinde kadro ve pozisyonların merkezi olarak tutulduğu kurumun “E-Uygulama” sistemine girilir.
+
+### MADDE 21 — Sınav belgelerinin saklanması
+
+(1) Ataması yapılanların sınavla ilgili belgeleri, ilgililerin özlük dosyalarında saklanır. İdare tarafından sınav yoluyla yapılan atamada sınava başvurmakla birlikte ataması yapılmayanların belgeleri, başarı listesinin ilanını izleyen iki ay içerisinde talep etmeleri halinde kendilerine iade edilir.
+
+### MADDE 22 — Sekretarya hizmetleri
+
+(1) Bu Yönetmelikte yer alan sınava ve sınav kuruluna ilişkin sekretarya hizmetleri ilgili idarenin insan kaynaklarından sorumlu birimi tarafından yürütülür.
+
+### MADDE 23 — Uygulamaya ilişkin esaslar
+
+(1) Bu Yönetmelikte yer alan hükümlerin uygulanmasına ilişkin olarak ilgili idarelerce istenecek görüşler ilgisine göre **(Değişik ibare:RG-7/11/2025-33070)** Çevre, Şehircilik ve İklim Değişikliği Bakanlığı veya İçişleri Bakanlığı tarafından verilir.
+
+### MADDE 24 — Yürürlükten kaldırılan yönetmelik
+
+(1) 14/11/2017 tarihli ve 30240 sayılı Resmî Gazete’de yayımlanan Mahalli İdarelere İlk Defa Atanacaklara Dair Sınav ve Atama Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 25 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 26 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini **(Değişik ibare:RG-7/11/2025-33070)** Çevre, Şehircilik ve İklim Değişikliği Bakanı ile İçişleri Bakanı müştereken yürütür.
+
+**Ekler için tıklayınız**
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>24/12/2019</td><td>30988</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>7/11/2025</td><td>33070</td></tr>
+<tr><td>2.</td><td></td><td></td></tr>
+</table>

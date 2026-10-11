@@ -1,0 +1,215 @@
+---
+title: "İZMİR KÂTİP ÇELEBİ ÜNİVERSİTESİ MERKEZİ ARAŞTIRMA LABORATUVARLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.24306"
+number: "24306"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2018-01-07
+official_gazette_date: 2018-01-07
+official_gazette_number: "30294"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24306&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İZMİR KÂTİP ÇELEBİ ÜNİVERSİTESİ MERKEZİ ARAŞTIRMA LABORATUVARLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; İzmir Kâtip Çelebi Üniversitesi Merkezi Araştırma Laboratuvarları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ilişkin usul ve esaslarını düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, İzmir Kâtip Çelebi Üniversitesi Merkezi Araştırma Laboratuvarları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görev yetki ve sorumluluklarına ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez : İzmir Kâtip Çelebi Üniversitesi Merkezi Araştırma Laboratuvarları Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: İzmir Kâtip Çelebi Üniversitesi Rektörünü,
+
+d) Üniversite: İzmir Kâtip Çelebi Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Üniversitede temel uygulamalar ve disiplinler arası alanlardaki araştırma ve geliştirme faaliyetlerini, merkezi bir organizasyon çerçevesinde yapılmasının altyapısını oluşturmak,
+
+b) Üniversitenin farklı disiplinlerden araştırmacılarının ortak araştırmalar yapmalarına yardımcı olmak, AR-GE imkânlarının birimler arası ortak kullanıma açılmasını sağlamak, özellikle disiplinler arası alanlarda, yeni teknolojilerin geliştirilmesine katkı sağlamak,
+
+c) Teknolojik gelişmeleri sürekli izleyerek merkezi laboratuvarlardaki cihaz altyapısının günün koşullarına uygun olarak geliştirilmesini ve aktif tutulmasını sağlamak,
+
+ç) Teknik eleman ihtiyacının karşılanması ile ilgili çalışmalar yapmak,
+
+d) Diğer üniversiteler, sanayi, kamu kurum ve kuruluşları ile kişilerin analiz ihtiyaçlarını Merkezin imkânları ölçüsünde karşılamak, ilgili kurullarca belirlenecek bedel karşılığında sanayi, özel ve/veya kamu kurum ve kuruluşlarının isteği üzerine uygulama projeleri hazırlamak, danışmanlık hizmeti vermek, bu kurum ve kuruluşlar ve diğer üniversiteler ile disiplinler arası ortak bilimsel ve teknolojik projeler üretilmesini sağlamak, Üniversitenin proje yürütme potansiyelini artırmak,
+
+e) Yurt dışındaki ve yurt içindeki diğer kurum ve kuruluşlarla AR-GE konularında işbirliği kapsamında yürütülen proje çalışmalarını Merkez bünyesinde toplayacak bir çalışma ortamı hazırlamak, uygulanabilir sonuçların sanayiye aktarımını hızlandırmak,
+
+f) Endüstriyel sektörlerde standartların oluşmasına öncülük etmek ve uluslararası geçerliliği olan standardizasyon ve sertifikasyon çalışmaları yapmak,
+
+g) Üniversitenin yurt içi ve yurt dışında bilinirliğini ve tanınırlığını sağlamak.
+
+### MADDE 6 — Faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Üniversitenin farklı birimlerindeki araştırmacıların bilimsel araştırma-geliştirme çalışmaları için ihtiyaç duyacakları ve ortak kullanacakları teknolojik düzeyi yüksek her türlü cihaz, araç ve gerecin bulunduğu merkezi bir laboratuvar kurmak,
+
+b) Merkez imkânlarının bilimsel araştırma ve geliştirme çalışmaları için etkili, verimli ve yaygın bir şekilde kullanılmasını sağlamak,
+
+c) Merkezde bulunan cihazlarla ilgili olarak araştırmacıların gelişimine yönelik programlar düzenlemek, cihazların kullanım takvimini belirlemek ve duyurmak, donanım ve cihaz kullanımı envanteri tutmak,
+
+ç) Merkezde bulunan laboratuvarların akreditasyon çalışmalarını gerçekleştirmek,
+
+d) Üniversiteler, araştırma merkezleri, sanayi, kamu kurum ve kuruluşları ile üçüncü şahısların analiz ihtiyaçlarını Yönetim Kurulunca belirlenecek esaslar çerçevesinde gerçekleştirmek,
+
+e) Sanayi kuruluşlarının ve diğer özel ve kamu kuruluşlarının isteği üzerine araştırma, uygulama projeleri hazırlamak ve Yönetim Kurulunca belirlenen esaslar çerçevesinde raporlar sunmak ve Merkezin amaçları doğrultusunda diğer çalışmaları gerçekleştirmek,
+
+f) Disiplinler arası alanlarla ilgili yurt içi ve yurt dışı projeler hazırlamak, kamu kurum ve kuruluşlarıyla işbirliği içerisinde çalışmalar yürütmek, belirlenen esaslar çerçevesinde hizmetler gerçekleştirmek,
+
+g) Bilimsel görüş, danışmanlık ve benzeri hizmetler yapmak ve bu hizmetlere ilişkin raporlar düzenlemek,
+
+ğ) Üniversitenin akademik birimlerine, analiz sonuçlarının yorumlanması konularında panel, kurs, seminer, kongre ve bilimsel toplantılar düzenlemelerine katkıda bulunmak, yurt içinde ve yurt dışında bu tür etkinliklere katılmak,
+
+h) Ürün, yöntem ve teknolojileri standartlaştırmak ve kalite kontrolleri ile ilgili çalışmalar yapmak, bu konularla ilgili düzenleyici işlemlerin değiştirilmesi veya yenilenmesi çalışmalarına katkıda bulunmak,
+
+ı) Gerektiğinde Merkeze bağlı yeni laboratuvar, teknik atölye ve birimler kurmak,
+
+i) Merkezin yurt içi ve yurt dışı tanıtım faaliyetlerini gerçekleştirmek.
+
+## ÜÇÜNCÜ BÖLÜM — Yönetim Organları ve Görevleri
+
+### MADDE 7 — Yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu,
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür; Üniversitenin kadrolu öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi sona eren Müdür yeniden görevlendirilebilir. Müdürün altı aydan daha fazla süreyle görevi başında bulunmaması durumunda görevi sona erer. Süresi dolmadan görevinden ayrılan Müdürün yerine Rektör yeniden görevlendirme yapar.
+
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere, Üniversitenin öğretim üyeleri/elemanları arasından veya idari/teknik kadrodan biri teknik, diğer idari alanlarda tecrübeli olacak şekilde iki kişiyi yardımcısı olarak Rektöre önerir. Önerilen adaylar arasından Rektör tarafından görevlendirme yapılır.
+
+(3) Müdürün katılamadığı toplantılara, vekâlet verdiği yardımcısı katılır ve Müdürlüğe altı aya kadar vekâlet edebilir.
+
+(4) Müdür yardımcılarının görev süresi en çok üç yıldır. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer. Görevinden ayrılan müdür yardımcısının yerine kalan süreyi tamamlamak üzere yenisi görevlendirilebilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek,
+
+b) Merkezin çalışmalarının düzenli olarak yürütülmesini ve geliştirilmesini sağlamak,
+
+c) Merkezin verimli, etkin ve yaygın çalışmasını sağlamak,
+
+ç) Merkezin çalışmaları için gerek duyulan ileri teknoloji ürünü cihazların bakım, onarım ve kalibrasyonlarını yaptırmak ve cihazların devamlı faal halde tutulmasını sağlamak,
+
+d) Merkezde yapılan araştırma ve geliştirme faaliyetlerinin kalite standartları doğrultusunda yapılması için gereken tedbirleri almak ve laboratuvarın akreditasyonunu sağlamak,
+
+e) Merkez bünyesinde çalışan personelin görev ve sorumluluklarını belirlemek ve personelin görevlerini sorumlulukları çerçevesinde etik ve bilimsel kurallara, ilgili mevzuata, iş güvenliği kurallarına ve bu Yönetmelik hükümlerine göre sürdürmesini sağlamak,
+
+f) Bir sonraki yılın çalışma programı taslağını ve bütçe önerisini hazırlamak,
+
+g) Merkezde görev yapacak her türlü idari ve teknik personelin görevlendirilmesi ile ilgili teklifleri Rektöre sunmak,
+
+ğ) Yönetim Kurulunu toplantıya çağırmak, gündemi hazırlamak, toplantıya başkanlık etmek,
+
+h) Yönetim Kurulunca alınan kararların uygulanmasını sağlamak,
+
+ı) Merkezin yıllık faaliyet raporunu hazırlamak, Yönetim Kurulunun onayını alarak Rektöre sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür, müdür yardımcıları ve Müdürün önereceği, Üniversitede görevli öğretim elemanları arasından Rektör tarafından görevlendirilen üç kişiyle birlikte toplam altı üyeden oluşur. Yönetim Kurulu üyelerinin görev süreleri üç yıldır. Görev süresi dolmadan ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen bir üyenin yerine aynı usulle Rektör tarafından görevlendirme yapılır. Görev süresi biten üyeler aynı usulle tekrar görevlendirilebilir. Yönetim Kurulu, Müdürlüğün çağrısı üzerine üyelerin salt çoğunluğu ile en geç üç ayda bir toplanır ve kararlar oy çokluğu ile alınır.
+
+(2) Müdür, gerekli hallerde olağanüstü olarak Yönetim Kurulunu toplantıya çağırabilir. Üst üste üç defa izinsiz ve mazeretsiz Yönetim Kurulu toplantısına katılmayan üyenin üyeliği, Yönetim Kurulu kararı ile sona erdirilir.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkez faaliyetlerinin amaçları doğrultusunda yürütülmesini sağlamak, Merkezin çalışma ve yönetimi ile ilgili konularda karar almak,
+
+b) Gündemde bulunan araştırma ve eğitim projelerini, programlarını ve faaliyetlerini karara bağlamak, uygulanışını denetlemek,
+
+c) Müdür tarafından hazırlanan bir sonraki döneme ait çalışma programını incelemek, Rektörlüğe sunulmak üzere görüş hazırlamak,
+
+ç) Merkez faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek, sunulan raporu değerlendirmek, bir sonraki döneme ait çalışma programını düzenlemek,
+
+d) Merkez faaliyet konularında Üniversite birimleri arasında işbirliğini gerektiren çalışmaların yürütülebilmesi için Müdüre yardımcı olmak,
+
+e) Merkezde yapılacak analiz, test, danışmanlık ve diğer hizmetlerin esaslarını tespit ederek Üniversite Yönetim Kuruluna sunmak,
+
+f) Merkez çalışmaları için gerekli geçici çalışma gruplarını ve komisyonların oluşturulmasına yardımcı olmak,
+
+g) Merkezin bilimsel ve diğer birimlerle plan ve programlarının hazırlanmasına yardımcı olmak,
+
+ğ) Üniversite içinde ve/veya yurt içi ve yurt dışı kuruluşlarla ortaklaşa yürütülecek çalışmaların esaslarını tespit etmek ve protokollerini hazırlamak,
+
+h) Danışma Kurulunun görüş ve önerileri doğrultusunda kararlar almak,
+
+ı) Merkezin personel ihtiyacını belirlemek,
+
+i) Merkezin çalışma alanına giren diğer konularda kararlar almak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Üniversiteye bağlı birimlerden veya Üniversite dışından Merkezin faaliyet alanları doğrultusunda çalışmalar yapan kişiler veya kurumların temsilcileri arasından Rektör tarafından görevlendirilecek en az beş kişi ile birlikte Müdür dahil olmak üzere toplam en az altı kişiden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir. Görev süresi bitmeden ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir. Danışma Kurulu yılda bir kez olağan olarak toplanır ve toplantılara Müdür başkanlık eder. Rektör toplantılara katıldığında Danışma Kuruluna başkanlık eder. Müdür, gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkez faaliyetlerini değerlendirerek, faaliyet alanlarıyla ilgili konularda görüş ve tavsiyelerde bulunmak,
+
+b) Sanayi kuruluşları ve diğer bilimsel ve teknolojik kuruluşlarla işbirliği ortamının oluşturulup geliştirilmesine ilişkin kararlar almak,
+
+c) Üniversite dışı finans kaynaklarının değerlendirilmesi konusunda görüş bildirmek ve bu yönde girişimlerde bulunulması için öneriler geliştirmek.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Müdürün talebi ile Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 15 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hâllerde; 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelikte yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İzmir Kâtip Çelebi Üniversitesi Rektörü yürütür.

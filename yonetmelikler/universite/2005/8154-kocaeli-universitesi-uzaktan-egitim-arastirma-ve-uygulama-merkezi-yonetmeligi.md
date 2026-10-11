@@ -1,0 +1,151 @@
+---
+title: "KOCAELİ ÜNİVERSİTESİ UZAKTAN EĞİTİM ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.8154"
+number: "8154"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2005-05-18
+official_gazette_date: 2005-05-18
+official_gazette_number: "25819"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8154&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KOCAELİ ÜNİVERSİTESİ UZAKTAN EĞİTİM ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### Madde 1 — Amaç
+
+Bu Yönetmeliğin amacı; Kocaeli Üniversitesi Uzaktan Eğitim Araştırma ve Uygulama Merkezinin teşkilat, yönetim, çalışma usul ve esaslarını düzenlemektir.
+
+### Madde 2 — Kapsam
+
+Bu Yönetmelik, Kocaeli Üniversitesi Rektörlüğüne bağlı olarak kurulan Kocaeli Üniversitesi Uzaktan Eğitim Araştırma ve Uygulama Merkezinin amaçlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### Madde 3 — Dayanak
+
+Bu Yönetmelik; 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ve 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### Madde 4 — Tanımlar
+
+Bu Yönetmelikte geçen;
+
+Üniversite: Kocaeli Üniversitesini,
+
+Rektör: Kocaeli Üniversitesi Rektörünü,
+
+Merkez: Kocaeli Üniversitesi Uzaktan Eğitim Araştırma ve Uygulama Merkezi (KOÜ-UZEM)’ni,
+
+Merkez Müdürü: Kocaeli Üniversitesi Uzaktan Eğitim Araştırma ve Uygulama Merkezi Müdürünü,
+
+Merkez Yönetim Kurulu: Uzaktan Eğitim Araştırma ve Uygulama Merkezi Yönetim Kurulunu,
+
+Merkez Danışma Kurulu: Uzaktan Eğitim Araştırma ve Uygulama Merkezi Danışma Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### Madde 5 — Merkezin amaçları
+
+KOÜ-UZEM’in amacı, iletişim ve bilgi teknolojilerine dayalı olarak Kocaeli Üniversitesi önlisans, lisans, yüksek lisans ve sürekli eğitim dahil tüm eğitim programları kapsamında uzaktan yapılan eğitim için plan, program, eşgüdüm ve uygulama faaliyetleri yürüterek; yükseköğretimin yeni öğrenci kitlelerine yayılmasını sağlamak suretiyle verimliliği artırmak, bilgiyi tüm kitlelere ulaştırmak, teknolojinin sağladığı çoklu ve etkileşimli ortam olanakları ve bilgiye sınırsız olarak ulaşabilme özelliklerine dayanarak eğitimin etkinliğini artırmak, eğitim-öğretim olanaklarının paylaşılmasını sağlayarak Üniversite içinde, üniversiteler arasında, ulusal ve uluslararası kurum ve kuruluşlarla işbirliğinde akademik etkileşimi ve yardımlaşmayı kolaylaştırmaktır.
+
+### Madde 6 — Merkezin faaliyet alanları
+
+Merkezin faaliyet alanları; iletişim ve bilgi teknolojilerine dayalı eğitimle yapılan ön lisans, lisans, yüksek lisans derslerini, kursları, seminerleri ve konferansları içerir.
+
+Uzaktan eğitimde; İnternet, diğer veri iletişim ağları, radyo, televizyon, telefon ve posta gibi iletişim araçları ile basım, ses, görüntü, bilgisayar ve teknolojinin sunduğu gereçler kullanılır.
+
+Merkez bu kapsamda aşağıdaki faaliyetlerde bulunur:
+
+a) Üniversite öğrencilerine ve topluma iletişim ve bilgi teknolojilerine dayalı uzaktan eğitim yoluyla sunduğu tüm dersler, kurslar, seminerler, konferanslar ve benzeri eğitim programlarını planlamak, uzaktan eğitimin gerektirdiği iletişim ve bilgi teknolojilerinin gelişimini takip etmek, uzaktan eğitime ilişkin tüm teknik alt yapı işlerini yürütmek, uzaktan eğitim konularına ilişkin olarak TÜBİTAK ve iletişim hizmeti sunan diğer kurum ve kuruluşlarla işbirliğinde bulunmak,
+
+b) Kamu, özel sektör, ulusal ve uluslararası kurum, kuruluş ve kişilerin uzaktan eğitim kapsamındaki danışmanlık ve uzaktan eğitim olanaklarından yararlanma taleplerini ilgili birimlerle birlikte projelendirmek ve yürütmek,
+
+c) Kurs, seminer, konferans, ders ve program örgütlenmesinin yeterliliği, sunucu/istemci altyapı örgütlenmesi, iletişim/etkileşim planlama ve uygulamaları ile öğrenci destek hizmetleri ölçme ve değerlendirme çalışmaları yapmak,
+
+d) Uzaktan eğitim konusunda uygulanmakta olan tüm mevzuatı takip etmek, uygulamaları bu kapsamda düzenlemek,
+
+e) Kamu ve özel kuruluşlar ile kişilere uzaktan eğitim yoluyla verilecek yaşam boyu eğitim derslerini/programlarını Kocaeli Üniversitesi Sürekli Eğitim Araştırma ve Uygulama Merkezi ile birlikte projelendirmek,
+
+f) Değişen ve gelişen koşullara göre uzaktan eğitim alanındaki diğer görevlerin yerine getirilmesi ile ilgili tüm çalışmaları yürütmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları, Görevleri ve Personel İhtiyacı
+
+### Madde 7 — Merkezin yönetim organları
+
+Merkezin organları şunlardır;
+
+a) Merkez Müdürü,
+
+b) Merkez Yönetim Kurulu,
+
+c) Merkez Danışma Kurulu.
+
+### Madde 8 — Merkez müdürü
+
+Merkez Müdürü, Üniversitenin aylıklı öğretim üyeleri arasından üç yıl süre ile Rektör tarafından görevlendirilir. Süresi sona eren Merkez Müdürü yeniden görevlendirilebilir. Merkez Müdürünün altı aydan fazla görevi başında bulunmaması durumunda görevi sona erer. Merkez Müdürü çalışmalarında kendisine yardımcı olmak üzere Üniversitenin aylıklı öğretim üyeleri arasından en fazla iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektöre önerir. Merkez Müdürünün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer. Merkez Müdürü, yokluğunda yardımcılarından birini vekil tayin eder.
+
+### Madde 9 — Merkez müdürünün görevleri
+
+Merkez Müdürünün görevleri şunlardır;
+
+a) Merkezi temsil etmek,
+
+b) Merkez Yönetim Kurulunun hazırladığı çalışma programını ve aldığı kararları uygulamak,
+
+c) Merkezi, amaçları doğrultusunda yönetmek,
+
+d) Merkez çalışmalarının düzenli olarak yürütülmesini ve geliştirilmesini sağlamak,
+
+e) Fakülteler, enstitüler, yüksekokullar, meslek yüksekokulları, Sürekli Eğitim Merkezi, Bilgi İşlem Dairesi Başkanlığı, diğer araştırma ve uygulama merkezleri ve Rektörlüğe bağlı bölümlerde uygulanan programlar ve faaliyetlere ilişkin koordinasyonu sağlamak,
+
+f) Her yıl sonunda hazırlayacağı faaliyet raporunu ve bir sonraki yıla ait çalışma programını düzenlemek ve Merkez Yönetim Kuruluna sunmak,
+
+g) Merkez Danışma ve Merkez Yönetim Kurullarına başkanlık yapmak,
+
+h) Her türlü uzaktan eğitim programı öğrencileri ve öğretim elemanları için teknik ve akademik desteğin verilmesini sağlamak.
+
+### Madde 10 — Merkez yönetim kurulu
+
+Merkez Yönetim Kurulu; Merkez Müdürü ve yardımcıları ile Üniversite öğretim elemanları arasından Rektör tarafından görevlendirilen dört üyeden oluşur.
+
+Merkez Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine, aynı usulle yenileri görevlendirilir. Merkez Yönetim Kurulu; Merkez Müdürünün daveti üzerine her ay ve işin gerektirdiği zamanlarda Merkez Müdürünün çağrısı üzerine ve onun başkanlığında toplanarak, Merkezin çalışmaları ve yönetimi ile ilgili konularda kararlar alır. Merkez Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların oy çokluğu ile karar alır.
+
+Merkez Yönetim Kurulu toplantılarına, gerekli hallerde; Üniversite Bilgi İşlem Daire Başkanı ve Kocaeli Üniversitesi Sürekli Eğitim Araştırma ve Uygulama Merkezi (KOÜSEM) Müdürü de oy kullanmaksızın Merkez Müdürünün daveti üzerine katılabilir.
+
+### Madde 11 — Merkez yönetim kurulunun görev ve yetkileri
+
+Merkez Yönetim Kurulu; Uzaktan eğitim programları ile bu programlar sonunda verilecek katılım belgeleri, ders geçme belgesi ve benzerlerine ilişkin esasları belirlemek ve Merkez Müdürünün her yıl sonunda hazırlayacağı faaliyet raporu ile çalışma planını incelemek ve karara bağlamakla görevli ve yetkilidir.
+
+Ayrıca, bir sonraki yıla ait çalışma programının esaslarını belirleyerek Danışma Kuruluna sunar.
+
+### Madde 12 — Merkez danışma kurulu
+
+Merkez Danışma Kurulu; Merkez Müdürünün başkanlığında, Üniversiteye bağlı her bir fakülte dekanı, yüksekokul, meslek yüksekokulu ve enstitü müdürlerinin önereceği ve Rektörün onaylayacağı birer öğretim elemanından oluşur.
+
+Merkez Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilirler. Herhangi bir nedenle görevi sona eren üyenin yerine, o üyeyi öneren dekan veya müdürün önerisi ve Rektörün onayı üzerine yenisi göreve başlar.
+
+Merkez Müdürünün önerisi ve Merkez Danışma Kurulunun onayı ile gerektiğinde; Üniversite dışından konu ile ilgili bilgi, beceri ve deneyim sahibi kişiler de görüş bildirmek amacı ile Kurulun toplantılarına katılabilirler, ancak oy kullanamazlar. Merkez Danışma Kurulu, Merkez Müdürünün çağrısı üzerine yılda en az iki defa toplanır.
+
+Merkez Danışma Kurulu; uzaktan eğitim faaliyetleri konularında Merkez Yönetim Kuruluna danışmanlık yapar, Merkezin faaliyetlerini gözden geçirerek ilgili konularda Merkez Yönetim Kuruluna gerekli tavsiyelerde bulunur ve Merkez Müdürü tarafından hazırlanmış ve Merkez Yönetim Kurulunca onanmış yıllık faaliyet raporunu, çalışma programını, eğitim faaliyetlerini değerlendirir, yapılmış ve halen yürütülen çalışmalar hakkında görüş bildirir, önerilerde bulunur ve bir sonraki çalışma yılına ait programı değerlendirir.
+
+### Madde 13 — Personel ihtiyacı
+
+Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Merkez Müdürünün önerisi üzerine Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+## DÖRDÜNCÜ BÖLÜM — Son Hükümler
+
+### Madde 14 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### Madde 15 — Yürütme
+
+Bu Yönetmelik hükümlerini Kocaeli Üniversitesi Rektörü yürütür.

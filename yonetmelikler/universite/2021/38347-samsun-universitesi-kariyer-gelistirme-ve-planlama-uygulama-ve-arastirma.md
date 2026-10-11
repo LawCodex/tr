@@ -1,0 +1,209 @@
+---
+title: "SAMSUN ÜNİVERSİTESİ KARİYER GELİŞTİRME VE PLANLAMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.38347"
+number: "38347"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-02-20
+official_gazette_date: 2021-02-20
+official_gazette_number: "31401"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38347&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# SAMSUN ÜNİVERSİTESİ KARİYER GELİŞTİRME VE PLANLAMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, Samsun Üniversitesi Kariyer Geliştirme ve Planlama Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Samsun Üniversitesi Kariyer Geliştirme ve Planlama Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Aday: Tercih dönemindeki öğrencileri,
+
+b) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+c) Kariyer danışmanı: Merkezde görev alan öğretim elemanı, sektör temsilcisi veya kariyer danışmanı olarak seçilen kişileri,
+
+ç) Merkez (KARGEP): Samsun Üniversitesi Kariyer Geliştirme ve Planlama Uygulama ve Araştırma Merkezini,
+
+d) Mezun: Samsun Üniversitesi mezununu,
+
+e) Müdür: Merkezin Müdürünü,
+
+f) Öğrenci: Samsun Üniversitesi öğrencisini,
+
+g) Rektör: Samsun Üniversitesi Rektörünü,
+
+ğ) Üniversite: Samsun Üniversitesini,
+
+h) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; öğrenciler ve mezunların kariyer planlaması ve kişisel gelişimlerine destek olmak; yeni iş fikirleri ve iş hayatları ile ilgili bilimsel, mesleki ve eğitsel çalışmalar sağlamak, onlara danışmanlık ve bilgilendirme hizmetleri vermektir.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Öğrencilerin ve mezunların nitelik, tercih edilirlik ve bağlılıklarını artırarak profesyonel ve akademik kariyerlerini planlama ve geliştirmeye yönelik stratejileri geliştirmek.
+
+b) Öğrencilerine ve mezunlara kariyer planlama ve geliştirme amaçlı danışmanlık hizmeti vermek.
+
+c) Öğrencilere ve mezunlara yönelik olarak, kariyer gelişimlerine katkı sağlayacak mesleki ve kişisel birikimlerini ifade etmeleri için gerekli olan eğitim faaliyetlerini ve tanıtım toplantılarını gerektiğinde Üniversitenin Sürekli Eğitim Uygulama ve Araştırma Merkezi ile işbirliği içinde düzenlemek.
+
+ç) Öğrencilerin bireysel özelliklerini tanımaları için gerekli olan test ve tekniklerin uygulanması ile bunların sonuçlarının yorumlanmasını sağlamak.
+
+d) Öğrenciler ve akademik personelin ulusal ve uluslararası değişim programları, burslar ile lisansüstü programlar hakkında bilgilendirilmelerini sağlamak.
+
+e) Üniversite bünyesinde kariyer planlama faaliyetleri ile ilgili çalışan öğrenci kulüpleri ve öğrenci konseyi gibi birimlerle ortak projelerin geliştirilmesini ve yürütülmesini sağlamak.
+
+f) Öğrenciler ve mezunlar için staj ve iş ilanlarının bir arada görülebileceği bir ilan havuzu oluşturmak.
+
+g) Mezunların iş hayatındaki kariyer gelişimlerini izlemek ve mezun bilgilerinin yer aldığı bir veri tabanı oluşturmak.
+
+ğ) İlgili mevzuat hükümleri kapsamında Üniversitenin imkânları doğrultusunda, özel ve resmî kurum ve kuruluşlar, sivil toplum kuruluşları, vakıflar ve mezunlar derneği gibi paydaşlarla ulusal ve uluslararası işbirlikleri gerçekleştirerek, ortak projelerin geliştirilmesini ve yürütülmesini sağlamak.
+
+h) Üniversite ve iş hayatı arasında kurulacak işbirlikleri ile staj imkânlarını geliştirmek ve öğrencileri iş ortamı ile buluşturacak faaliyetler düzenleyerek öğrencilerin ilgili tarafları tanımalarını sağlamak.
+
+ı) Öğrencilere ve mezunlara, staj veya iş imkânı sağlayabilecek ya da Merkezin amaçlarının gerçekleştirilmesine yönelik olarak işbirliği yapılabilecek kişi, kurum ve kuruluşların yer aldığı ve sürekli olarak güncellenen bir veri tabanı oluşturmak.
+
+i) Merkezin gerçekleştirdiği tüm etkinliklerin iletişimini yönetmek ve bu amaçla basılı ve görsel yayınları hazırlamak, Merkezin dijital platformlarda etkinliğini sağlamak.
+
+j) Kariyer planlama ve geliştirmeye yönelik yayınların takibini yapmak, bu konudaki araştırmaları ve projeleri izlemek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür, Rektör tarafından, Üniversitede görevli öğretim elemanları arasından üç yıl için görevlendirilir. Görev süresi dolan Müdür, yeniden görevlendirilebilir.
+
+(2) Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere, Üniversitede görevli öğretim elemanları arasından iki kişi, üç yıl için Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer. Görev süresi dolan müdür yardımcısı tekrar görevlendirilebilir. Müdürün katılamadığı toplantılara görevlendireceği müdür yardımcısı başkanlık eder ve gerektiğinde Müdüre altı aya kadar vekâlet edebilir. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir.
+
+(3) Müdür, Merkez personelinin işbirliği içinde, düzenli ve verimli çalışmasından ve Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden Rektöre karşı sorumludur.
+
+(4) Müdürün görevleri şunlardır:
+
+a) Merkezi yönetmek ve temsil etmek.
+
+b) Yönetim Kurulunu toplantıya çağırmak ve başkanlık etmek.
+
+c) Yönetim Kurulu kararlarını uygulamak, gerekli koordinasyonu ve denetimi sağlamak ve Merkezin idari işlerini yürütmek.
+
+ç) Merkez bünyesinde gerekli hizmet birimleri oluşturmak, bu birimlerin faaliyetlerini düzenlemek ve kontrol etmek.
+
+d) Merkezde sunulan hizmetlerin amacına uygun, bilimsel ve etik ilkelere bağlı olarak düzenli bir biçimde verilmesini, değerlendirilmesini ve geliştirilmesini sağlamak.
+
+e) Merkezin Üniversitedeki akademik-idari birimler, öğrenci temsilcileri, öğrenci toplulukları ve uygulama-araştırma merkezleri ile iletişim ve işbirliği içinde çalışmasını sağlamak.
+
+f) Her yıl sonunda, Merkezin yıllık çalışma raporunun, bir sonraki yılın çalışma programı taslağının hazırlanmasını ve Yönetim Kuruluna sunulmasını sağlamak.
+
+g) Merkezin amaç ve faaliyetleri ile ilgili ulusal/uluslararası bilimsel ve mesleki etkinliklere katılımını sağlamak.
+
+ğ) İlgili mevzuat çerçevesinde, Merkezin çalışma alanı ile ilgili kişi, birim, kurum ve kuruluşlar ile işbirliği ve/veya koordinasyon esasları çerçevesinde ortak projeler oluşturmak ve yürütmek.
+
+h) Merkezde görev yapacak akademik, idari ve teknik personel ihtiyacını belirlemek ve görevlendirmeler ile ilgili teklifleri Rektöre iletmek.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu; Müdür ve iki müdür yardımcısı ile Merkezin faaliyet alanı ile ilgili Üniversite öğretim elemanları arasından Müdürün görüşü alınarak Rektör tarafından üç yıl için görevlendirilen dört üye olmak üzere toplam yedi üyeden oluşur.
+
+(2) Herhangi bir nedenle görevinden ayrılan üyenin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir. Süresi sona eren üyeler Rektör tarafından yeniden görevlendirilebilir.
+
+(3) Yönetim Kurulu en az üç ayda bir toplanır. Müdür gerekli gördüğü hallerde Yönetim Kurulunu olağanüstü olarak da toplantıya çağırabilir. Yönetim Kurulu toplantıları üye sayısının salt çoğunluğu ile yapılır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır. Oylar kabul veya ret şeklinde verilir. Oyların eşitliği durumunda Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+
+(4) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin kuruluş amacına yönelik strateji ve politikaları oluşturmak ve bunlara uygun faaliyetleri planlayarak Rektörün onayına sunmak.
+
+b) Her öğretim yılı sonunda, Müdürün hazırlamış olduğu Merkezin genel durumu ve işleyişi hakkındaki raporu görüşmek ve karara bağlamak.
+
+c) Merkezin faaliyetlerinin etkinliği için gerekli kararları almak.
+
+ç) Merkez ile Merkezin ulusal ve uluslararası tüm sosyal paydaşları arasındaki projeleri değerlendirmek ve karara bağlamak.
+
+d) Merkezin Danışma Kurulu üyeleri ve kariyer temsilcileri konusunda Rektöre öneride bulunmak.
+
+### MADDE 10 — Danışma Kurulu
+
+(1) Danışma Kurulu gerekli görüldüğü takdirde Müdürün önerisi üzerine Rektörün onayı ile kurulur. Danışma Kuruluna Rektör veya ilgili rektör yardımcısı başkanlık eder. Müdür, müdür yardımcıları ve Üniversitenin iç ve dış paydaşlarını temsil eden ve Rektör tarafından belirlenmiş olan kişilerden oluşur.
+
+(2) Danışma Kurulu, Merkezin amacına katkı yapacak ve çalışma alanları ile doğrudan ilişkili olan en fazla 15 iç ve/veya dış paydaşın temsilcisinden meydana gelir. Üyelerin görev süreleri üç yıldır. Görevi sona eren üyenin yerine yeni üye aynı yöntemle görevlendirilir.
+
+(3) Danışma Kurulu, Müdürün çağrısı üzerine, Müdürün başkanlığında yılda en az bir defa, gerekli durumlarda Müdürün çağrısı üzerine toplanır. Danışma Kurulu toplantısı için salt çoğunluk aranmaz, ancak kararlar katılan üye sayısının salt çoğunluğu ile alınır. Oylama sonucunda oyların eşit olması halinde kapalı oylama yapılır. Kapalı oylama sonucunda eşitliğin bozulmaması durumunda Başkanın kararı belirleyicidir.
+
+(4) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkezin genel stratejilerini ve politikalarını oluşturmaya yardımcı olmak.
+
+b) Merkezin etkinlikleri doğrultusunda dış paydaşlarla işbirliğinin geliştirilmesini sağlamak üzere Yönetim Kuruluna önerilerde bulunmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 11 — Kariyer danışmanları
+
+(1) Kariyer temsilcileri, Merkezin faaliyetlerini Üniversite bünyesindeki akademik birimlerde etkin bir şekilde yürütebilmek için her fakülte, yüksekokul ve meslek yüksekokulu tarafından üç yıl için görevlendirilen öğretim elemanlarıdır. Görevlendirmeyi yapan akademik birimin yönetimi, görevlendirdiği kariyer temsilcisini ve kariyer temsilcisine ait unvan ve iletişim bilgilerini Merkeze bildirir. Kariyer temsilcisi görevinin herhangi bir nedenle boşalması halinde yeni kariyer temsilcisi aynı şekilde görevlendirilir. Kariyer temsilcileri, Müdürün çağrısıyla yılda en az bir kez toplanır. Ayrıca, Müdür gerekli gördüğü hallerde kariyer temsilcilerini toplantıya çağırabilir.
+
+(2) Kariyer danışmanlarının görevleri şunlardır:
+
+a) Merkezin amaçları doğrultusunda öğrencilerin kariyer gelişimlerine destek olmak ve onlara danışmanlık hizmeti vermek.
+
+b) Uzman oldukları alanlarda Yönetim Kuruluna proje önerisinde bulunmak ve uygun görüldüğü takdirde bunların hayata geçirilmesi için çalışmalar yapmak, özel ve resmî kurum ve kuruluşlar, sivil toplum kuruluşları, vakıflar ve mezunlar derneği gibi paydaşlarla ilgili işbirliklerinin geliştirilmesini sağlamak.
+
+c) Uzman oldukları alanlarla ilgili olarak, öğrenciler için staj ve iş olanaklarını araştırmak.
+
+ç) Yönetim Kurulunun çalışmalarına katkıda bulunmak.
+
+d) Öğrencileri ve mezunları iş hayatına hazırlamak.
+
+### MADDE 12 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, idari ve teknik personel ihtiyacı, Müdürün önerisi ile 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilen personel tarafından karşılanır.
+
+### MADDE 14 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Samsun Üniversitesi Rektörü yürütür.

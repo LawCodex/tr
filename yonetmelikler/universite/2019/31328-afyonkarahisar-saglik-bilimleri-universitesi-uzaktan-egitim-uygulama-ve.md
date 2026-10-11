@@ -1,0 +1,189 @@
+---
+title: "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.31328"
+number: "31328"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-03-11
+official_gazette_date: 2019-03-11
+official_gazette_number: "30711"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31328&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Afyonkarahisar Sağlık Bilimleri Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına ve yönetim organlarının görevlerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Afyonkarahisar Sağlık Bilimleri Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 ncimaddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez (AFSUZEM): Afyonkarahisar Sağlık Bilimleri Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Afyonkarahisar Sağlık Bilimleri Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma MerkeziMüdürünü,
+
+c) Rektör: Afyonkarahisar Sağlık Bilimleri Üniversitesi Rektörünü,
+
+ç) Senato: Afyonkarahisar Sağlık Bilimleri Üniversitesi Senatosunu,
+
+d) Üniversite: Afyonkarahisar Sağlık Bilimleri Üniversitesini,
+
+e) Yönetim Kurulu: Afyonkarahisar Sağlık Bilimleri Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezi Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları, Faaliyet Alanları, Yönetim
+
+**Organları ve Görevleri**
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) İletişim ve bilgi teknolojilerine dayalı olarak Üniversitedeki ön lisans, lisans, yüksek lisans ve yaşam boyu eğitim dahil tüm eğitim programları kapsamında uzaktan yapılan eğitim için plan, program, koordinasyon ve uygulama faaliyetlerine destek sağlamak, bu eğitimlerin etkin yapılabilmesi için e-öğrenme tabanlı ders ve programlar geliştirmek.
+
+b) Üniversitede örgün öğretim kapsamında verilmekte olan dersleri uzaktan eğitim teknolojileri ile desteklemek.
+
+c) Uzaktan eğitim konularında araştırma ve geliştirme çalışmaları yapmak.
+
+ç) Uzaktan eğitim konusunda süreli ve/veya süresiz yayınlar yapmak.
+
+d) Uzaktan eğitim yoluyla, mezuniyet sonrası eğitim programları düzenleyerek mesleki gelişim ve bilgi güncellemesine yardımcı olmak.
+
+e) İhtiyaç duyulan alanlarda toplumun her kesimine yönelik diploma ve sertifika programları düzenleyerek bilgiyi topluma yaymak ve yaşam boyu öğrenme ilkesini topluma benimsetmek.
+
+f) Kamu ve özel sektör kurum ve kuruluşlarının uzaktan eğitim ihtiyaç ve isteklerine yardımcı olmak; bilgi birikimini ilgili kurum ve kuruluşlara aktarmak ve bu amaçları gerçekleştirmeye yönelik idari, mali ve teknik uygulama esaslarını belirlemek, projeler geliştirmek, bilimsel toplantılar düzenlemek.
+
+g) Üniversite içi ve Üniversite dışı projelerde ihtiyaç duyulan yazılım otomasyonlarını ve ders içeriklerini gerçekleştirmek, bu konularda danışmanlık yapmak ve gerekli koordinasyonu sağlamak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez amaçlarına ulaşabilmek için aşağıdaki alanlarda faaliyetlerde bulunur:
+
+a) Uzaktan eğitim konularında araştırma ve geliştirme çalışmaları yapmak.
+
+b) Uzaktan eğitim çerçevesinde ön lisans, lisans, lisans tamamlama ve lisansüstü eğitim-öğretim faaliyetlerine ilişkin esasları düzenlemek, Üniversite tarafından yürütülecek olan internet destekli öğretim çalışmaları için ders içeriklerini hazırlatmak.
+
+c) Uzaktan eğitimde yaygın ve gelişmiş iletişim araçlarını kullanarak e-öğrenmeyle ilgili program ve yazılımlar geliştirmek.
+
+ç) Kurs, seminer, konferans ve ders gibi programları belirlemek, kredilendirmek, sertifika, katılım belgesi, ders geçme belgesi ve benzerlerini vermek, bu programlara kayıt, kabul, sınav, başarı, ders geçme ve benzeri işlemleri düzenlemek ve sunmak, öğretim faaliyetlerinde görev alacak öğretim elemanlarını görevlendirmek, işbirliği ve koordinasyonu sağlamak.
+
+d) Uzaktan eğitim teknolojileri konusundaki talepleri karşılamak amacıyla planlama ve uygulamalar yapmak.
+
+e) Üniversite içi ve Üniversite dışı projelerde ihtiyaç duyulan yazılım otomasyonlarını ve ders içeriklerini gerçekleştirmek, akreditasyonları yapmak, bu konularda danışmanlık yapmak ve gerekli koordinasyonu sağlamak.
+
+f) Bilgi toplumuna geçiş sürecinde Türkiye’nin kalkınmasına ve gelişmesine yardımcı nitelikteki eğitimlerin e-öğrenme vasıtasıyla yaygınlaştırılması için bilimsel ve teknolojik araştırmalar yapmak ve önerilerde bulunmak.
+
+g) Uzaktan eğitim ile ilgili araştırma ve uygulamalarda yerli ve yabancı kuruluşlarla işbirliği yapmak.
+
+ğ) İletişim ve bilgi teknolojilerine dayalı eğitimle yapılan kurslar, seminerler ve konferanslar düzenlemek.
+
+h) Üniversite ile diğer üniversiteler arasında uzaktan eğitim ile yürütülebilecek faaliyetlerin düzenlenmesine yardımcı olmak ve koordinasyonu sağlamak.
+
+ı) Merkezin amaçları doğrultusunda, uzaktan eğitimin gerektirdiği iletişim ve bilgi teknolojilerinin gelişimini takip etmek, uygulamalar için sistem tasarımı yapmak ve uzaktan eğitime ilişkin tüm teknik işleri yürütmek.
+
+i) Rektörlükçe önerilen ve/veya Merkez Yönetim Kurulunca kararlaştırılan diğer faaliyetleri gerçekleştirmek.
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür; Merkezin en üst yöneticisidir. Üniversitenin kadrolu öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Görev süresi sona eren Müdür yeniden görevlendirilebilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur.
+
+(2) Müdür, öğretim elemanları arasından en çok iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür, görevi başında olmadığı zaman yardımcılarından biri Müdüre vekâlet eder. Vekâletin altı aydan fazla sürmesi durumunda yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+(3) Müdür ve müdür yardımcıları, gerektiğinde aynı usulle süresi dolmadan görevden alınabilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kuruluna başkanlık yapmak.
+
+c) Yönetim Kurulunda alınan kararları ve çalışma programını uygulamak.
+
+ç) Merkezin kısa, orta ve uzun vadeli amaç ve politikalarını, araştırma ile ilgili plan ve programlarını hazırlamak, personel ihtiyacını belirlemek ve Yönetim Kurulunun onayına sunmak.
+
+d) Merkezin sürekli gelişimini sağlayacak tedbirleri almak, uygun programlar açılmasını temin etmek ve Merkezi amaçları doğrultusunda yönetmek.
+
+e) Uygulanan programlara ve faaliyetlere ilişkin koordinasyonu sağlamak.
+
+f) Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait çalışma programını düzenlemek ve Yönetim Kurulunun kararıyla Rektörün onayına sunmak.
+
+g) Merkezin yürüttüğü faaliyetler konusunda ilgililerle görüşme ve sözleşmeler yapmak.
+
+ğ) Üniversitenin enstitü, fakülte, yüksekokul, meslek yüksekokulu, Sürekli Eğitim Merkezi, Bilgi İşlem Dairesi Başkanlığı, diğer uygulama ve araştırma merkezleri ve Rektörlüğe bağlı bölümlerinde uygulanan programlar ve faaliyetlere ilişkin koordinasyonu sağlamak.
+
+h) Uzaktan eğitim yapılacak sertifika, ön lisans, lisans ve yüksek lisans ve doktora programı yöneticilerinin görüşlerini alarak Rektörün onayına sunmak; internet üzerinden sanal eğitim yapan bölümlerin akademik programlarının görüşülmesi sırasında ilgili yüksekokul, fakülte ve enstitünün kurullarında ilgili bölüm başkanlarıyla birlikte görüşmelere katılmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu, Merkezin karar organıdır.
+
+(2) Yönetim Kurulu; Müdür, iki Müdür yardımcısı ve Rektörün Üniversite öğretim üyeleri/öğretim elemanları arasından görevlendireceği iki kişi ile birlikte toplam beş kişiden oluşur.
+
+(3) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyenin yerine, kalan süreyi tamamlamak üzere yeni üye görevlendirilir.
+
+(4) Yönetim Kurulu, Müdürün daveti üzerine yılda en az iki kez toplanır. Müdür, gerektiğinde Yönetim Kurulunu olağanüstü toplantıya çağırabilir.
+
+(5) Yönetim Kurulu, üye tam sayısının salt çoğunluğuyla toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+
+(6) Yönetim Kurulu toplantılarına oy hakkı olmamak şartıyla, varsa birim sorumluları davet edilebilir.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışmaları ve yönetimi ile ilgili kararlar almak.
+
+b) Müdür ve Yönetim Kurulu üyelerinin önerilerini karara bağlamak.
+
+c) 2547 sayılı Kanun ve ilgili mevzuatta öngörülen diğer görevleri yerine getirmek.
+
+## ÜÇÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Personel ihtiyacı
+
+(1) Merkezin akademik, idarî ve teknik personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel ile karşılanır.
+
+### MADDE 13 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+
+### MADDE 14 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ve Senato kararları uygulanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Afyonkarahisar Sağlık Bilimleri Üniversitesi Rektörü yürütür.

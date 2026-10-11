@@ -1,0 +1,153 @@
+---
+title: "HACETTEPE ÜNİVERSİTESİ VASKÜLİT TANI VE TEDAVİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.19710"
+number: "19710"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2014-05-26
+official_gazette_date: 2014-05-26
+official_gazette_number: "29011"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19710&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# HACETTEPE ÜNİVERSİTESİ VASKÜLİT TANI VE TEDAVİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Hacettepe Üniversitesine bağlı olarak kurulan Hacettepe Üniversitesi Vaskülit Tanı ve Tedavi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına ve bu organların görevlerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Hacettepe Üniversitesi Vaskülit Tanı ve Tedavi Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: Hacettepe Üniversitesi Vaskülit Tanı ve Tedavi Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Hacettepe Üniversitesi Rektörünü,
+
+d) Üniversite: Hacettepe Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı, Hacettepe Üniversitesinin ilgili bölüm, anabilim dalları ve ilgili diğer kuruluşların işbirliği ile Vaskülit hastalarının kaydedildiği kayıt sistemi oluşturmak, hastaların tanı, takip ve tedavisinde birimler arasında işbirliğini arttırmak, yurt içinde ve yurt dışında vaskülitlerin etyopatogenez, tanı, takip ve tedavisi ile ilgili bilimsel araştırma ve uygulamalar yapmak, vaskülitler konusunda hem hekimlerin hem de kamuoyunun farkındalığının arttırılması konusunda çalışmalar yapmak, projeler gerçekleştirmek ve danışmanlık hizmetleri sağlamaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez, amacını gerçekleştirmek üzere aşağıdaki alanlarda faaliyette bulunur:
+
+a) Güncel bilimsel gelişmeler ışığında, vaskülitlerin epidemiyolojisi/etiyolojisi ve tedavileri hakkında araştırmalar yapmak, vaskülit hastalarına hizmet sunumunda görev alan tüm ekip elemanlarının zengin bilimsel donanıma sahip olması için çalışmalar yapmak,
+
+b) Tanımlanmış hastalıklara eşlik eden sorunların ve yakınmaların, güncel, özgün tedavisi için yeni yöntemlerin geliştirilmesi amacıyla disiplinlerarası işbirliği ile yeni takip ve tedavi planlarını kurgulayıp uygulamak,
+
+c) Bilimsel ve maddi kaynak sağlanabilmesi için ulusal ve uluslararası bilimsel araştırma, inceleme ve tedavi kurumları ile özel/resmi kuruluşlarla ve ilgili derneklerle işbirliği yapmak, bunlarla bilimsel, teknik bilgi ve hizmet paylaşımı sağlamak,
+
+ç) İleri düzeyde uzmanlık kursları, çalıştaylar, kongre, konferans, sempozyum, seminerler düzenlemek, bu alandaki bilimsel yayınları desteklemek,
+
+d) Vaskülit hastalarının sorunları ile tedavi ve takip şemalarını sürekli güncellemek, öncülük yapmak ve diğer üniversite ve eğitim kurumları ile bilgi alışverişinde bulunmak ve eğitim vermek,
+
+e) Vaskülit hastalarının yakınma ve sorunlarının ticari kaygılardan arındırılmış güncel bilimsel bilgiler ışığında tanı ve tedavisini planlayarak toplumdaki algı hatalarının/bilgi kirliliğinin düzeltilmesine öncülük etmek, ortak toplantılar ile toplumdaki farkındalığın üst düzeylere çıkarılabilmesini sağlamak, kurumsal ve kitlesel danışmanlık ve bilgilendirme hizmetleri vermek, bu doğrultuda medya ve basın/yayın kuruluşları ile ilişkilerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu,
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanı ile ilgili Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+
+(2) Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanı ile ilgili Üniversitede görevli öğretim elemanları arasından iki kişi üç yıl için Rektör tarafından Müdür yardımcısı olarak görevlendirilir. Rektör gerektiğinde aynı usulle Müdür yardımcılarını değiştirebilir.
+
+(3) Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Vekalet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdür; Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin tüm etkinliklerinin gözetim ve denetiminden ve bu konularda gerekli önlemlerin alınmasından Rektöre karşı sorumludur.
+
+(2) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil, Yönetim Kuruluna ve Danışma Kuruluna başkanlık etmek,
+
+b) Merkez çalışmalarının gerektirdiği görevlendirmeleri yapmak,
+
+c) Her öğretim yılı sonunda ve istenildiğinde Merkezin genel durumu ve işleyişi hakkındaki raporunu Yönetim Kurulunun görüşünü de aldıktan sonra Rektöre sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, iki müdür yardımcısı ile Merkezin faaliyet alanı ile ilgili Üniversite öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilen dört üye olmak üzere toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu yılda iki kez olağan ve gerektiğinde olağanüstü olarak Müdürün yazılı çağrısı üzerine salt çoğunlukla toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulu, Merkezin yönetimi ile ilgili konularda aşağıdaki görevleri yapar:
+
+a) Merkezin eğitim, öğretim, bilimsel araştırma, danışmanlık, yayın faaliyetleri ve bu faaliyetlerle ilgili esasları kararlaştırmak,
+
+b) Merkezin çalışmalarıyla ilgili plan ve programların hazırlanmasını ve uygulanmasını sağlamak,
+
+c) Merkezin yatırım ve plan tasarısını hazırlamak ve onaylanmak üzere Rektöre sunmak,
+
+ç) Merkez elemanlarının eğitim, uygulama, araştırma, danışmanlık ve yayım konularındaki isteklerini değerlendirip karara bağlamak,
+
+d) Gerekli hallerde Merkezin faaliyetleri ile ilgili geçici çalışma grupları kurmak ve bunların görevlerini düzenlemek,
+
+e) Yurt içi ve yurt dışındaki kamu ve özel kuruluşlar ile ortaklaşa yürütülecek çalışmaların temel ilke, esas ve usullerini tespit etmek,
+
+f) Danışma Kurulunun görüş ve önerilerini değerlendirerek karara bağlamak,
+
+g) Müdürün, Merkezin yönetimi ile ilgili getireceği konuları değerlendirerek karara bağlamak.
+
+### MADDE 12 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanlarında deneyimli, Üniversitenin veya diğer üniversitelerin öğretim elemanları ile istekleri halinde ilgili kurum ve kuruluşlardaki uzman kişiler arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına seçilen on dört üye olmak üzere toplam on beş üyeden oluşur. Boşalan üyeliklerin yerine kalan süreyi tamamlamak için aynı usulle yeni üye seçilir. Süresi biten üye yeniden seçilebilir.
+
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda bir kez salt çoğunlukla olağan olarak toplanır. Müdür, gerekli gördüğü takdirde Danışma Kurulunu olağanüstü olarak da toplantıya çağırabilir.
+
+(3) Danışma Kurulunun görevleri; Merkezin faaliyetleri ile ilgili olarak Yönetim Kurulunun ihtiyaç duyduğu konularda değerlendirmeler yapmak ve istişari nitelikte görüş ve önerilerde bulunmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 14 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 15 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Hacettepe Üniversitesi Rektörü yürütür.

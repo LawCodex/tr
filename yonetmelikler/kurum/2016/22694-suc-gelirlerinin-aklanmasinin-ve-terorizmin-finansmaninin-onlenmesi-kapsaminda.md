@@ -1,0 +1,105 @@
+---
+title: "SUÇ GELİRLERİNİN AKLANMASININ VE TERÖRİZMİN FİNANSMANININ ÖNLENMESİ KAPSAMINDA İŞLEMLERİN ERTELENMESİNE DAİR YÖNETMELİK"
+identifier: "7.5.22694"
+number: "22694"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2016-07-29
+official_gazette_date: 2016-07-29
+official_gazette_number: "29785"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22694&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# SUÇ GELİRLERİNİN AKLANMASININ VE TERÖRİZMİN FİNANSMANININ ÖNLENMESİ KAPSAMINDA İŞLEMLERİN ERTELENMESİNE DAİR YÖNETMELİK
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Yönetmeliğin amacı, 11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanunun uygulanmasına yönelik olarak; suç gelirlerinin aklanmasının ve terörizmin finansmanının önlenmesi ve bu suçlarla etkin mücadele edilmesi kapsamında, yükümlüler nezdinde veya bunlar aracılığıyla yapılmaya teşebbüs edilen ya da halihazırda devam eden işlemlerin, işleme konu malvarlığının aklama veya terörizmin finansmanı suçu ile ilişkili olduğuna dair şüphe bulunması üzerine askıya alınması veya bu işlemlerin gerçekleşmesine izin verilmemesine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Yönetmelik, 5549 sayılı Kanunun 19/A maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Yönetmeliğin uygulanmasında;
+
+a) Aklama suçu: 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 282 nci maddesinde düzenlenen suçu,
+
+b) Bakan: Maliye Bakanını,
+
+c) Başkanlık: Mali Suçları Araştırma Kurulu Başkanlığını,
+
+ç) Elektronik tebligat: Başkanlık tarafından 5549 sayılı Kanunun 9/A maddesi kapsamında elektronik ortamda yapılan tebligatı,
+
+d) İşlemin ertelenmesi: İşlemin askıya alınmasını veya gerçekleşmesine izin vermemeyi,
+
+e) Malvarlığı: Para, değeri para ile temsil edilebilen taşınır veya taşınmaz, maddi veya gayri maddi her türlü mal ve haklar ile bunlar üzerindeki hakları tevsik eden her türlü yasal belge veya araçları,
+
+f) Şüpheli işlem: 9/1/2008 tarihli ve 26751 sayılı Resmî Gazete’de yayımlanan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmeliğin 27 nci maddesinin birinci fıkrasında tanımlanan işlemi,
+
+g) Terörizmin finansmanı suçu: 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanunun 4 üncü maddesinde düzenlenen suçu,
+
+ğ) Yükümlü: Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmeliğin 4 üncü maddesinin birinci fıkrasında sayılan gerçek ve tüzel kişileri,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — İşlemin Ertelenmesi
+
+### MADDE 4 — Şüpheli işlem bildirimlerine istinaden işlemin ertelenmesi
+
+(1) Yükümlüler nezdinde veya bunlar aracılığıyla yapılmaya teşebbüs edilen ya da halihazırda devam eden işleme konu malvarlığının aklama veya terörizmin finansmanı suçu ile ilişkili olduğuna dair şüpheyi destekleyen belge veya ciddi emare bulunması durumunda, yükümlüler şüpheli işlem bildirimini Başkanlığa gerekçeleri ile birlikte işlemin ertelenmesi talebi ile gönderirler.
+
+(2) Erteleme talepli şüpheli işlem bildirimlerine konu işlemin olağandışı nitelikli olması, çeşitli veri tabanlarından ya da diğer kaynaklardan yapılan kontroller sonucunda işlemi yapan kişi ya da kişilerin suçla ilgili olduğunun veya olabileceğinin anlaşılması, işlemin tamamlanmasının terörizmin finansmanı ile ilgili olduğu düşünülen fonlara ya da suçtan elde edilen gelirlere el koymayı engelleyeceğine veya zorlaştıracağına ilişkin tehlikeli bir halin bulunması gibi göstergelere haiz olması gerekmektedir.
+
+(3) Şüpheli işlem bildirimlerini işlemin ertelenmesi talebi ile Başkanlığa gönderen yükümlüler, işlem hakkında Bakan tarafından verilecek karar Başkanlıkça kendilerine tebliğ edilinceye kadar, işlemi gerçekleştirmekten imtina ederler. İşlemlerin ertelenmesi, yükümlü tarafından şüpheli işlem bildiriminde bulunulan tarihten itibaren yedi iş gününü geçemez.
+
+(4) Erteleme talebi ile gönderilecek şüpheli işlem bildirimlerine ilişkin usul ve esaslar şüpheli işlem bildirim rehberlerinde belirlenir.
+
+### MADDE 5 — Başkanlıkça tespit edilen malvarlıklarına ilişkin işlemlerin ertelenmesi
+
+(1) Başkanlıkça yükümlü nezdinde bulunduğu tespit edilen malvarlığıyla ilgili olarak, aklama veya terörizmin finansmanı suçu ile ilişkili olduğuna dair şüpheyi destekleyen belge veya ciddi emare bulunması durumunda; Bakanın ilgili malvarlığına ilişkin işlemlerin ertelenmesine yönelik kararı Başkanlıkça ilgili yükümlülere tebliğ edilir. Yükümlüler, tebliğ tarihinden itibaren yedi iş günü süresince kararda belirtilen işlemleri gerçekleştiremezler.
+
+### MADDE 6 — Yurtdışı muadil kurumlardan alınan talepler
+
+(1) Yabancı bir muadil kuruluş tarafından aklama veya terörizmin finansmanı suçuna ilişkin işlemin ertelenmesi yönündeki gerekçeli talebi Başkanlıkça değerlendirilir. Başkanlıkça aklama veya terörizmin finansmanı suçu ile ilişkili olduğuna dair şüpheyi destekleyen belge veya ciddi emare bulunması durumunda, bu talep Bakan tarafından karara bağlanır. Bu yetki kullanılırken mütekabiliyet ilkesi gözetilir.
+
+(2) Bakanın ilgili malvarlığına ilişkin işlemlerin ertelenmesine yönelik kararı Başkanlıkça ilgili yükümlülere tebliğ edilir. Yükümlüler, tebliğ tarihinden itibaren yedi iş günü süresince kararda belirtilen işlemleri gerçekleştiremezler.
+
+(3) İşlemlerin ertelenmesine karar verilebilmesi için yabancı muadil kuruluşun gerekçeli talebinde asgari olarak;
+
+a) Erteleme işlemini gerçekleştirecek yükümlüye ve işleme ilişkin detaylı bilgilere,
+
+b) İşlemin aklama veya terörizmin finansmanı suçu ile bağlantısına yönelik şüpheyi destekleyici belge veya ciddi emarelere ilişkin bilgilere,
+
+c) Talebe konu kişilerin açık kimlik bilgilerine,
+
+ç) İlgili ülkede konuya ilişkin yürütülen sürecin mahiyetine ilişkin bilgilere,
+
+yer verilir.
+
+(4) Talebe ilişkin karar, talebi yapan muadil kuruluşa Başkanlıkça bildirilir.
+
+### MADDE 7 — Kararın bildirimi
+
+(1) İşlem hakkında uygulanacak karar, Başkanlıkça kendilerine elektronik tebligat hesabı açılan ilgili yükümlülere elektronik olarak tebliğ edilir.
+
+(2) İşlem hakkında uygulanacak karar, elektronik tebligat hesabı olmayan ilgili yükümlülere faks, elektronik posta veya web servis gibi teknik iletişim araçlarının kullanılması suretiyle derhal tebliğ edilir.
+
+## ÜÇÜNCÜ BÖLÜM — Son Hükümler
+
+### MADDE 8 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 9 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Maliye Bakanı yürütür.

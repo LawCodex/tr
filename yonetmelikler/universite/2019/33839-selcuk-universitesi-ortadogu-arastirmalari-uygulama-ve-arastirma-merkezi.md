@@ -1,0 +1,189 @@
+---
+title: "SELÇUK ÜNİVERSİTESİ ORTADOĞU ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.33839"
+number: "33839"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-10-04
+official_gazette_date: 2019-10-04
+official_gazette_number: "30908"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=33839&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# SELÇUK ÜNİVERSİTESİ ORTADOĞU ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Selçuk Üniversitesi Ortadoğu Araştırmaları Uygulama ve Araştırma Merkezinin amaçları, faaliyet alanları, organları, bu organların görevleri ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Selçuk Üniversitesi Ortadoğu Araştırmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, organlarına, bu organların görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez: Selçuk Üniversitesi Ortadoğu Araştırmaları Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkez Müdürünü,
+
+c) Rektör: Selçuk Üniversitesi Rektörünü,
+
+ç) Üniversite: Selçuk Üniversitesini,
+
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Orta Doğu ülkelerini tarihi, siyasi, sosyal, kültürel ve ekonomik bakımdan incelemek, rapor hazırlamak, araştırmalar yapıp ulusal ve uluslararası bilim dünyası ve kamuoyu ile paylaşmak.
+
+b) Türkiye’nin Orta Doğu ülkeleri hakkında ihtiyaç duyduğu alanlara öncelik vererek bu alanlarda dünyada yapılan çalışmaları ülkemize taşımak, ülkemizde yapılan çalışmaları Orta Doğu’daki paydaşlar üzerinde söz konusu ülke ve bölgelerin akademik camia ve kamuoyu ile paylaşmak.
+
+c) Orta Doğu konusunda çalışma yapan ulusal ve uluslararası araştırma merkezleri, enstitü, akademi, üniversite ve benzeri kurumlar ile işbirliği yaparak bu konuda dünyada var olan birikimi Türkiye’ye taşımak.
+
+ç) Üniversitenin değişik disiplinleri ve özellikle lisansüstü programları ile işbirliği yaparak Orta Doğu alanında çalışma yapacak genç araştırmacıları teşvik etmek, danışmanlık yapmak, staj imkânı sunmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez, aşağıdaki alanlarda faaliyetlerde bulunur:
+
+a) Orta Doğu ülkeleri ile kültürel ilişkileri bilimsel olarak incelemek.
+
+b) Söz konusu bölgelerde yaşayan insanların dil, kültür, tarih ve gelenekleri ile ilgili ortak çalışmalar ve projeler yapmak.
+
+c) Bölge ülkelerinin halkları arasında kültürel ve entelektüel bilgileri paylaşmak ve dayanışmada bulunmak amacı ile çalışmalar yapmak.
+
+ç) Kültürler arası anlayış ve uyumun geliştirilmesi ve karşılıklı olarak zenginleştirilmesine katkı sağlamak, kültürel yapılar hakkında ihtiyaç duyulan doğru bilgiyi üretmek.
+
+d) Ülkeler arasındaki dostane ilişkiler ve işbirliğinin güçlendirilmesine katkı sağlamak.
+
+e) Merkezin çalışma alanına giren ülkelerdeki üniversitelerin daha yakın bir işbirliği içinde olmalarını sağlamak amacı ile ilgili üniversitelerde benzer program yürüten uygulama ve araştırma merkezleri temsilcileri arasında iletişim ve koordinasyon sağlamak.
+
+f) Lisans ve lisansüstü programlar çerçevesinde yapılacak sosyal, sağlık ve fen bilimleri eğitim programlarında öğrenci ve öğretim üyelerinin karşılıklı değişimine yönelik katkı sağlamak.
+
+g) Merkezin faaliyet alanına giren konularda Türkçe ve bölge dillerinde kitap ve periyodik yayınlarda bulunmak ve bu tür yayınları desteklemek.
+
+ğ) Bilgi toplama, bilgi bankaları, kütüphane ve arşiv araştırma alanları envanteri gibi bilimsel destek hizmetleri sağlamak, bölge ülkeleri ile bu konuda işbirliği yapmak.
+
+h) Faaliyet alanına giren konularda ulusal ve uluslararası olmak üzere kongre, konferans, sempozyum, panel, seminer, söyleşi, kurs, sergi, anma günleri gibi bilimsel toplantı ve faaliyetler düzenlemek.
+
+ı) Üniversiteler arasında akademik alanda stratejik ortaklıklar kurulması için proje imkânlarını tespit etmek.
+
+i) İş dünyası, kamu ve özel kuruluşların ihtiyacı olan projelerin tespit edilmesine yardımcı olmak.
+
+j) Yurt içi ve yurt dışındaki diğer düşünce kuruluşları ile işbirliği yaparak üniversitelerin bilgi ve tecrübelerinin paylaşımına katkıda bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin çalışma alanı ile ilgili konularda görev yapan Üniversite öğretim üyeleri arasından üç yıl süre için Rektör tarafından görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Süresi dolmadan ayrılan Müdürün yerine Rektör tarafından aynı usulle yeni Müdür görevlendirilir.
+
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere, Üniversitenin tam zamanlı öğretim elemanları arasından iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+(3) Müdür görevi başında bulunmadığı hallerde yardımcılarından veya Yönetim Kurulu üyelerinden birine vekâlet bırakabilir. Altı aydan fazla görevinin başında bulunmayan Müdürün görevi sona erer.
+
+(4) Müdür, Merkezi temsil eder ve Rektöre karşı Merkezin tüm faaliyetlerinden sorumludur.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Yönetim Kurulunu toplantıya çağırmak, Yönetim Kurulu toplantılarına başkanlık etmek.
+
+b) Yönetim Kurulunun kararlarını yürütmek, Merkezin ve bağlı birimlerin düzenli ve etkin çalışmasını sağlamak.
+
+c) Merkez birimleri ve çalışma gruplarının görüşlerini de alarak bina, araç-gereç ve benzeri fiziksel ihtiyaçlar ile personel ihtiyaçlarını Rektörlüğe bildirmek.
+
+ç) Merkezin yılsonu çalışma raporlarını, yeni çalışma programını hazırlamak ve bunları Yönetim Kuruluna sunmak.
+
+d) Rektör tarafından verilecek diğer görevleri yapmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür, müdür yardımcıları ve Üniversite öğretim üyeleri arasından Müdürün önerisi ile Rektör tarafından görevlendirilecek dört üye olmak üzere toplam yedi üyeden oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi dolmadan ayrılan üyenin yerine aynı yöntemle yeni üye görevlendirilir. Süresi biten üye yeniden görevlendirilebilir.
+
+(2) Yönetim Kurulu, Müdürün daveti üzerine salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+
+(3) Yönetim Kurulu, Merkezin karar organıdır. Yönetim Kurulunun başkanı Müdürdür.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışması ve yönetimi ile ilgili kararlar almak.
+
+b) Uygulama ve araştırma projelerini görüşmek ve karara bağlamak.
+
+c) Bütçe taslağını görüşmek ve karara bağlamak.
+
+ç) Rektörlüğe sunulmak üzere hazırlanacak faaliyet raporlarını görüşmek.
+
+d) Merkezde gerçekleştirilen çalışmaları değerlendirip ileriye yönelik öneriler hazırlamak.
+
+e) Kurulacak araştırma ve çalışma gruplarını belirlemek.
+
+f) İlgili diğer mevzuat hükümleriyle verilen görevleri yerine getirmek.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu, Yönetim Kurulu tarafından önerilen ve Rektör tarafından seçilen, Üniversitenin içinden veya dışından konu ile ilgili kamu ve özel kuruluşların temsilcisi üyelerden veya konu ile ilgili toplam sekiz uzman kişiden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Görev süresi dolan üyeler yeniden seçilebilir. Süreleri bitmeden ayrılan üyelerin yerine, kalan süreyi doldurmak üzere yenileri aynı yöntemle seçilir.
+
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az iki defa toplanır.
+
+(3) Danışma Kurulu, üyelerin salt çoğunluğu ile toplanır ve kararlarını oy çokluğu ile alır. Oyların eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış olur.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri, Merkezin faaliyetlerini değerlendirerek faaliyet alanlarıyla ilgili konularda görüş ve tavsiyelerde bulunmak ve Merkezin faaliyet alanları ile ilgili alt komisyonlar oluşturmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+
+### MADDE 15 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, Müdürün önerisi üzerine, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 16 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Selçuk Üniversitesi Rektörü yürütür.

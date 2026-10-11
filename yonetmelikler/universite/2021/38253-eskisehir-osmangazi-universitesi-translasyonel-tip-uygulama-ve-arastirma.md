@@ -1,0 +1,197 @@
+---
+title: "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ TRANSLASYONEL TIP UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.38253"
+number: "38253"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-01-25
+official_gazette_date: 2021-01-25
+official_gazette_number: "31375"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38253&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ TRANSLASYONEL TIP UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Eskişehir Osmangazi Üniversitesi Translasyonel Tıp Uygulama ve Araştırma Merkezinin amaçlarını, faaliyet alanlarını, yönetim organlarını ve yönetim organlarının çalışma usul ve esaslarını düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Eskişehir Osmangazi Üniversitesi Translasyonel Tıp Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (TATUM): Eskişehir Osmangazi Üniversitesi Translasyonel Tıp Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Eskişehir Osmangazi Üniversitesi Rektörünü,
+
+d) Senato: Eskişehir Osmangazi Üniversitesi Senatosunu,
+
+e) Üniversite: Eskişehir Osmangazi Üniversitesini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Sağlık alanında hasta ürünleri üzerinde bilimsel araştırmalara dayalı ve yerli imkanlarla, gerektiğinde ilgili mevzuat hükümleri kapsamında, uluslararası ortaklıklarla yüksek katma değerli bilgi, yöntem, yeni teknolojiler üretmek ve geliştirmek.
+
+b) Sağlık bilimlerinde klinik, temel bilimler alanları ile mühendislik ve fen bilimleri alanlarını, etik, hukuk, endüstriyel ve toplum bilimleri alanlarını aynı zeminde birleştirerek, hastadan, toplum içinde o hastalık için tanı ve tedavi amacıyla kullanılabilecek son ürünleri geliştirebilmek maksadıyla ortak araştırmaların yapılmasına imkân tanımak ve destek olmak.
+
+c) İlgili alanlarda yapılan ileri düzeyde araştırmalar ile ulusal ve uluslararası bilgi birikimine yönlendirici katkılarda bulunmak.
+
+ç) Yüksek etki faktörlü bilimsel yayınlar yapılmasına ve ulusal/uluslararası patentler alınmasına imkan verecek işbirlikleri ve altyapı sağlamak.
+
+d) Etkin işbirlikleri sonucunda sağlık alanında klinik ve temel bilimlerden endüstriye, endüstriden sosyal bilimlere ve nihayet topluma teknoloji transferi gerçekleştirmek.
+
+e) Uluslararası düzeyde sağlık ve sağlık araç-gereçleri alanında Türkiye’yi daha etkin hâle getirmek.
+
+f) Alanında etkin ve iyi tanınır uzman araştırmacılar yetiştirmek suretiyle Türkiye’nin küresel düzeyde bilgi üretimine dayalı çalışma alanları ve rekabet gücünün artırılmasına katkıda bulunmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Sağlık bilimleri alanlarında farklı disiplinlerden araştırma yapan bilim insanı ve uzmanların ortak zeminde buluşmalarını sağlayarak, ilgili kurumların ve diğer akademik birimlerin de katıldığı ulusal ve uluslararası araştırma ve geliştirme projeleri oluşturmak, yürütülmesini ve yayın yapılmasını sağlamak.
+
+b) Merkezde yürütülen araştırma projeleri ile ilgili konularda, bilim-destek kurumları, ilgili endüstriyel kuruluşlar, üniversiteler ve kamu/özel araştırma laboratuvarları ve yurt dışı kurum ve kuruluşlarla iş birliği yapmak.
+
+c) İlgili kurumlarla birlikte, araştırma ve geliştirme faaliyetlerini desteklemek ve danışmanlık hizmeti vermek; kurslar, seminerler, çalıştaylar, konferanslar, kongreler ve benzeri organizasyonlar ile ilgili alanda insan gücü eğitimine katkıda bulunmak.
+
+ç) Çalışma alanlarıyla ilgili yazılı veya görsel yayınlar yapmak.
+
+d) Merkezin amaçları doğrultusunda Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür; Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Müdür, görevlendirildiği usul ile görevden alınabilir. Süresi biten Müdür, aynı yöntemle tekrar görevlendirilebilir.
+
+(2) Müdüre, çalışmalarında yardımcı olmak üzere, Üniversitede görevli öğretim üyeleri arasından iki kişi, üç yıl için Müdürün önerisiyle Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür yardımcılarının görevleri Müdürün görev süresi bittiğinde kendiliğinden sona erer.
+
+(3) Müdür, görevi başında bulunmadığı zamanlarda, yardımcılarından birini vekil bırakır. Vekâlet altı aydan fazla sürerse, yeni Müdür görevlendirilir.
+
+(4) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek ve Yönetim Kuruluna başkanlık etmek; Yönetim Kurulunca alınan kararları uygulamak.
+
+b) Merkezin verimli çalışmasını ve ilgili birimler arasındaki koordinasyonu sağlamak.
+
+c) Merkezin kısa, orta ve uzun vadeli eylem ve akademik planları ile ilgili her öğretim yılı sonunda ve istenildiğinde Merkezin genel durumu ve işleyişi hakkındaki raporunu, Yönetim Kurulunun uygun görüşünü aldıktan sonra Rektöre sunmak.
+
+ç) Merkezin plan dâhilinde yapacağı bilimsel çalışmalar başta olmak üzere, her türlü çalışma ve faaliyetlerini belirlemek, uygulamaya koymak, çalışma grupları oluşturmak, çalışma ve faaliyetleri yönlendirmek.
+
+d) Yönetim Kurulu ve Danışma Kurulunun toplantı gündemlerini belirlemek; Merkezin hazırladığı araştırma, uygulama ve çalışma plan ve projelerini değerlendirmek üzere Danışma Kuruluna sunmak.
+
+e) Gerektiğinde Danışma Kurulunun toplanma çağrısını yapmak ve Danışma Kurulu toplantılarına ilgilileri davet etmek.
+
+(5) Müdür; Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin tüm etkinliklerinin gözetim ve denetiminden ve bu konularda gerekli önlemlerin alınmasından Rektöre karşı sorumludur.
+
+### MADDE 9 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, Müdür tarafından önerilen, Üniversite öğretim elemanları arasından Rektör tarafından görevlendirilen yedi üye ve müdür yardımcılarından oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir. Süresi dolmadan ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir. Müdürün görevi sona erdiğinde, Yönetim Kurulu üyelerinin görevi de kendiliğinden sona erer.
+
+(2) Yönetim Kurulu, Müdürün daveti üzerine toplanır ve Merkezin faaliyetlerini gözden geçirerek ilgili konularda karar alır. Yönetim Kurulu, salt çoğunlukla toplanır ve kararlarını katılan üyelerin salt çoğunluğu ile alır. Oy eşitliği durumunda Müdürün oyunun içinde olduğu karar esas alınır.
+
+(3) Yönetim Kurulu toplantılarına üç kez üst üste mazeret belirtmeden katılmayan üyenin görevi, görevlendirildiği usulle sonlandırılır.
+
+### MADDE 10 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulu, Merkezin yönetimi ile ilgili konularda aşağıdaki görevleri yapar:
+
+a) Merkezin her türlü çalışmaları ile ilgili kısa, orta ve uzun vadeli plan ve programlarını görüşmek, karara bağlamak ve uygulanmasını sağlamak.
+
+b) Müdür tarafından hazırlanan konularda; ilgili tüm kurum ve kuruluşlarla işbirliğine yönelik ön çalışmalar ve ortak proje önerilerini değerlendirerek karara bağlamak, onay gerektirenleri Rektöre sunmak.
+
+c) Danışma Kurulundan gelecek önerileri değerlendirmek.
+
+ç) Yıllık faaliyet raporlarını görüşerek kabul etmek.
+
+d) Merkeze bağlı birim ve işletmelerin çalışma usul ve esaslarını belirleyen düzenlemeleri hazırlamak ve Rektöre sunmak.
+
+e) Merkezin yatırım ve plan tasarısını hazırlamak ve onaylanmak üzere Rektöre sunmak.
+
+f) Merkez elemanlarının; eğitim, uygulama, araştırma, danışmanlık ve yayın konularındaki isteklerini değerlendirip karara bağlamak.
+
+g) Gerekli hallerde Merkezin faaliyetleri ile ilgili geçici çalışma grupları kurmak ve bunların görevlerini düzenlemek.
+
+ğ) Yurt içi ve yurt dışındaki kamu ve özel kuruluşlar ile ortaklaşa yürütülecek çalışmaların temel ilke, esas ve usullerini tespit etmek.
+
+h) Müdürün, Merkezin yönetimiyle ilgili getireceği konuları değerlendirerek karara bağlamak.
+
+### MADDE 11 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; Merkezin faaliyet alanlarında deneyimli, Üniversitenin veya istekleri halinde; diğer üniversitelerin öğretim elemanları ile ilgili kamu ve özel kurum ve kuruluşlardaki uzman kişiler arasından Müdürün önerisi üzerine Rektör tarafından görevlendirilen yirmi beş üyeden oluşur. Süresi biten üyeler, yeniden görevlendirilebilir. Süresi dolmadan ayrılan üyelerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir. Müdürün görevi sona erdiğinde, Danışma Kurulu üyelerinin görevi de kendiliğinden sona erer.
+
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü olarak da toplantıya çağırabilir. Danışma Kuruluna Müdür başkanlık eder.
+
+(3) Danışma Kurulunun görevleri; Merkezin faaliyetleri ile ilgili olarak Yönetim Kurulunun ihtiyaç duyduğu konularda, değerlendirme yapmak ve istişarî nitelikte görüş ve önerilerde bulunmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Çalışma grupları
+
+(1) Merkezin amaçları doğrultusunda, faaliyet alanlarıyla ilgili çalışma grupları oluşturulabilir.
+
+(2) Çalışma grupları, Müdürün teklifi ve Yönetim Kurulunun onayıyla kurulur ve belirli bir süre için görevlendirilir. Süresi bitenler, aynı usulle yeniden görevlendirilebilir.
+
+(3) Çalışma gruplarının kuruluş ve çalışma ilkeleri ile ilgili usul ve esaslar, Yönetim Kurulunca belirlenir ve belirlenmiş olan çalışma usul ve esasları dâhilinde faaliyetlerini sürdürürler.
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi hükümleri uyarınca, Rektörün görevlendireceği personel tarafından karşılanır.
+
+### MADDE 14 — Demirbaşlar
+
+(1) Merkez tarafından desteklenen projeler kapsamında alınan her türlü teknik cihaz, ekipman ve demirbaşlar, proje bitiminde Merkezin kullanımına tahsis edilir.
+
+### MADDE 15 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör, harcama yetkisi görevini Müdüre kısmen veya tamamen devredebilir.
+
+### MADDE 16 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Eskişehir Osmangazi Üniversitesi Rektörü yürütür.

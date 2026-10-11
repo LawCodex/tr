@@ -1,0 +1,165 @@
+---
+title: "EGE ÜNİVERSİTESİ KORDON KANI, HÜCRE-DOKU UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.20213"
+number: "20213"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2014-11-15
+official_gazette_date: 2014-11-15
+official_gazette_number: "29176"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20213&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# EGE ÜNİVERSİTESİ KORDON KANI, HÜCRE-DOKU UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Ege Üniversitesi Kordon Kanı, Hücre-Doku Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına ve bu organların görevlerine ilişkin usûl ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Ege Üniversitesi Kordon Kanı, Hücre-Doku Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma esaslarına ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez: Ege Üniversitesi Kordon Kanı, Hücre-Doku Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Ege Üniversitesi Rektörünü,
+
+ç) Üniversite: Ege Üniversitesini,
+
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Kordon kanı, hücre ve dokunun kullanıldığı sağlık alanında gereksinim duyulan temel ve klinik araştırmaları yapmak ve konuya ilişkin ulusal ve uluslararası mevzuat çerçevesinde gerek görülen her türlü hizmeti gerçekleştirmek,
+
+b) Kordon kanı, hücre ve doku ile ilgili temel ve uygulamalı bilimler alanında araştırma geliştirme faaliyetlerini düzenlemek ve bu alanda birbirinden bağımsız yapılan aynı konudaki çalışmaları birleştirip üretime dönük sonuçlar elde etmek.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez, amaçları doğrultusunda, aşağıdaki faaliyetlerde bulunur:
+
+a) Yurt içi ve yurt dışı gereksinimlere yönelik kordon kanı, hücre-doku ve hücre-doku ürünlerini ulusal ve uluslararası mevzuatlara uygun şartlarda karşılamak, kullanıma sunulması için gerekli tıbbi işlemleri yürütmek ve gerektiğinde kullanıma hazır olacak şekilde depolamak,
+
+b) Kordon kanı, Hücre ve Doku tabanlı tedaviler ve uygulamalar alanında Ege Üniversitesi Araştırma ve Uygulama Hastanesi bünyesindeki anabilim dalları, diğer kamu kurumları ve özel kuruluşların gereksinimlerini karşılamak,
+
+c) Kordon kanı, hücre-doku ve hücre-doku ürünleri ile ilgili tüm uygulama alanlarında, bilimsel ve uygulamalı araştırmalar yapmak, yeni teknikler geliştirmek, kamu ve özel girişimin sorunlarıyla ilgili projeler hazırlamak, bilimsel raporlar vermek, teknik sorunların çözümünde yardımcı olmak, yeni ürün geliştirilmesi, teknoloji transferi ve kalite-kontrol düzenlemeleri konularında teknik danışmanlık hizmetlerini yürütmek,
+
+ç) Ege Üniversitesinin farklı birimlerinde kordon kanı, hücre-doku ve hücre-doku ürünleri ile ilgili tüm uygulama alanlarında yürütülen bilimsel araştırma ve uygulamaları teşvik etmek, desteklemek ve koordinasyonu sağlamak,
+
+d) Güncel bilgilerin ışığı altında, kordon kanı, hücre-doku ve hücre-doku ürünlerinin elde edilmesi, kullanıma hazırlanması ve uygulamaları hakkında kılavuzlar hazırlamak ve bunları belirli aralıklarla ulusal ve uluslararası gerekliliklere göre güncellemek,
+
+e) Yurt içindeki ve yurt dışındaki üniversite, araştırma kurumları, kamu ve özel sektör kuruluşları ile iş birliği ve ikili anlaşma protokolleri yapmak üzere bunları Rektörlüğün onayına sunmak, ortak toplantılar düzenlemek, araştırma projeleri ve yüksek teknoloji projelerine hizmet sunmak ve projeler için finans kaynakları teminine çalışmak,
+
+f) Ulusal ve uluslar arası düzeyde seminer, konferans, sempozyum, kongre, teorik ve/veya uygulamalı kurs programları düzenlemek,
+
+g) Kamu ve özel kuruluşlar ile sivil toplum kuruluşlarına merkezin çalışma alanlarına yönelik eğitsel faaliyetler yapmak,
+
+ğ) Merkezin çalışma alanlarına giren konularda, eğitim-öğretim yapmak ya da görgü ve bilgisini geliştirmek üzere görevlendirmeler yoluyla yurt içi ve yurt dışı kurum ve kuruluşlara personel göndermek veya başka kurum ve kuruluşlardan bu amaçla görevlendirmeler yoluyla gönderilenleri kabul etmek üzere teklifleri Rektörlüğün onayına sunmak,
+
+h) Merkezin kuruluş amaçlarını ve faaliyet alanlarını içeren konularda, Yüksek Öğretim Kanunu, ulusal ve uluslararası mevzuat hükümlerine uygun diğer çalışmaları yapmak,
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet göstereceği alanda en az 5 yıl deneyime sahip tıp fakültesi öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden Rektöre karşı doğrudan sorumludur.
+
+(2) Müdürün görevden alınması veya Müdürün süresini doldurmadan görevden ayrılması durumunda, ayrılan Müdürün kalan görev süresini doldurmak üzere Rektör tarafından müdür yardımcılarından biri vekâleten görevlendirilir.
+
+(3) Müdür görevi başında bulunmadığı zaman müdür yardımcılarından birini vekil bırakır. Müdür Yardımcısı da bulunmazsa, Yönetim Kurulu üyelerinden biri vekil olarak bırakılır.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezin amaç ve faaliyetleri doğrultusunda yönetim ve işleyişinden birinci derece sorumlu kişi olarak bu yönde gerekli önlemleri almak, uygulamak ve merkezi temsil etmek,
+
+b) Yönetim Kurulunu toplantıya çağırmak, gündemi hazırlamak, yönetim kuruluna başkanlık etmek,
+
+c) Yönetim Kurulu kararlarını bu Yönetmelik hükümleri çerçevesinde uygulamak, Merkezin idari işlerini yürütmek, bütçe teklifini hazırlamak ve yönetim kurulunun görüşünü alarak Rektörlüğe sunmak,
+
+ç) Yurt içi ve yurt dışındaki ilgili merkez ve kuruluşlarla iş birliği yaparak amaca uygun projeler gerçekleştirmek,
+
+d) Merkezin finans kaynaklarının geliştirilmesi ve bunların en uygun biçimde kullanılması için gerekli girişimlerde bulunmak,
+
+e) Yıl sonu faaliyet raporunu hazırlamak.
+
+### MADDE 10 — Müdür yardımcısı
+
+(1) Müdüre çalışmalarında yardımcı olmak üzere Merkezin çalışma alanları olan kordon kanı, hücre ve doku konularında uzmanlığa sahip iki müdür yardımcısı, Müdürün önerisi üzerine üç yıl için Rektör tarafından görevlendirilir.
+
+### MADDE 11 — Müdür yardımcısının görevleri
+
+(1) Müdür yardımcısı, Müdür ile iş birliği içerisinde Merkezin etkinliklerini yürütür; Müdürün görevde bulunmadığı zamanlarda Müdüre vekâlet eder.
+
+### MADDE 12 — Yönetim Kurulu
+
+(1) Yönetim Kurulu, doğal üye olan Müdür ve müdür yardımcıları dâhil yedi kişiden oluşur. Diğer dört üyeden en az üçü, Merkezin çalışma alanı ile ilgili konularda deneyim sahibi olan öğretim üyeleri arasından, homogreft bankacılığı ve nakilleri konusunda deneyimli Kalp Damar Cerrahisi Anabilim Dalından bir kişi, pediatrik kemik iliği nakilleri konusunda deneyimli Çocuk Sağlığı ve Hastalıkları Ana Bilim dalından bir kişi, doku dondurma ve saklama konularında deneyimli Cerrahi Bilimler Bölümüne bağlı Anabilim Dallarından bir kişi olmak üzere, Müdürün önerisi, Rektörün onayı ile üç yıl süre ile görevlendirilir. Süresi biten üyeler yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu üç ayda bir veya Müdürün daveti üzerine salt çoğunlukla toplanır. Yönetim Kurulu kararları toplantıya katılanların oy çokluğu ile alınır; oyların eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış sayılır. Mazeretsiz olarak üst üste 2 (iki) Yönetim Kurulu toplantısına katılmayan Yönetim Kurulu üyesinin üyeliği düşer.
+
+### MADDE 13 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Kuruluş amaçları doğrultusunda merkezin çalışmaları ile ilgili kararları almak,
+
+b) Merkezin faaliyet alanları ile ilgili yurt içindeki ve yurt dışındaki üniversite, araştırma kurumları, kamu ve özel sektör kuruluşları ile ikili anlaşmalar ve protokoller yapmak, danışmanlık hizmeti alımına karar vermek üzere bunları Rektörlüğün onayına sunmak,
+
+c) Mevcut olanakları değerlendirerek uygulama ve araştırma alanları konusunda görüş sunmak,
+
+ç) Eğitim faaliyetleri için, seminer, sempozyum, konferans ve kursların planlamasını yapmak,
+
+d) Müdürün getireceği her türlü konuyu tartışıp karara bağlamak,
+
+e) Yıl sonu faaliyet raporunu görüşmek.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel gereksinimi
+
+(1) Merkezin idari ve teknik hizmetleri, Müdürün önereceği adaylar arasından Rektörlük tarafından görevlendirilen personelce yürütülür.
+
+### MADDE 15 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümlerine göre işlem yapılır.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Ege Üniversitesi Rektörü yürütür.

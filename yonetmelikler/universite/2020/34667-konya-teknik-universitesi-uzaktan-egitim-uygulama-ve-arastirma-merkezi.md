@@ -1,0 +1,211 @@
+---
+title: "KONYA TEKNİK ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.34667"
+number: "34667"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2020-07-06
+official_gazette_date: 2020-07-06
+official_gazette_number: "31177"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34667&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KONYA TEKNİK ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Konya Teknik Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezinin amaçlarına, faaliyetlerine ve yönetimine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Konya Teknik Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez (KTÜN-UZEM): Konya Teknik Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Konya Teknik Üniversitesi Rektörünü,
+
+ç) Senato: Konya Teknik Üniversitesi Senatosunu,
+
+d) Üniversite: Konya Teknik Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+f) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) İletişim ve bilgi teknolojisine dayalı olarak Üniversitede ön lisans, lisans, lisansüstü (yüksek lisans, doktora, tezsiz yüksek lisans) ve sürekli eğitim dâhil tüm eğitim programları kapsamında uzaktan yapılan eğitim için plan, program, koordinasyon ve uygulama faaliyetleri yürütmek.
+
+b) Yükseköğretimin yeni öğrenci kitlelerine yayılmasını sağlamak suretiyle verimliliği artırmak, bilgiyi tüm kitlelere yaygınlaştırmak, ömür boyu öğrenme faaliyetlerine katkı sunmak.
+
+c) Teknolojinin sağladığı çoklu ve etkileşimli ortam imkânlarıyla eğitimin etkinliğini artırmak.
+
+ç) Eğitim-öğretim imkânlarının paylaşımlarını sağlayarak Üniversite içinde, üniversiteler arasında, ulusal ve uluslararası kurum ve kuruluşlarla işbirliğinde akademik etkileşimi ve yardımlaşmayı kolaylaştırmak; bu amaçla kurum ve kuruluşların uzaktan eğitim ihtiyaç ve isteklerine yardımcı olmak; ön lisans, lisans, lisansüstü ve yetişkin eğitiminde e-öğrenme temelli ders ve programları geliştirmek ve Üniversitede verilmekte olan dersleri e-öğrenme ile desteklemek.
+
+d) Uzaktan eğitim ile ilgili araştırma-geliştirme ve uygulama çalışmaları yapmak.
+
+e) Kamu ve özel sektör kurumlarının eğitim programlarını e-öğrenme ortamlarına uyarlayarak uzaktan eğitim sistemlerini geliştirmelerine katkıda bulunmak.
+
+f) Uzaktan eğitim sisteminin tüm aşamalarına akademik ve teknik destek sağlamak.
+
+g) Üniversitede uzaktan eğitimin aksatılmadan yürütülmesiyle ilgili her türlü idari, teknik ve akademik faaliyetlerin ilgili mevzuat hükümlerine göre yürütülmesini sağlayıcı tedbirleri almak.
+
+ğ) Uzaktan eğitimin yürütüldüğü öğretim-yönetim sistemi (LMS) yazılımının aksaksız biçimde çalışmasını temin etmek ve yönetimini gerçekleştirmek.
+
+h) Üniversitede uzaktan eğitim sistemi için ihtiyaç duyulacak her türlü yazılımı tasarlamak veya mevcut yazılımları ihtiyaca göre güncellemek.
+
+ı) Uzaktan eğitim uygulaması olarak gerçekleştirilecek ders, seminer veya kurslar için web tabanlı öğretim materyalleri geliştirmek ve uygulamaya koymak.
+
+i) Farklı birimlere veya diğer üniversitelere uzaktan eğitim sistemlerinin kurulması ya da Üniversite altyapısının kullanılarak bu tür hizmetlerin verilmesi konusunda çözümler geliştirmek, ürün ve danışmanlık hizmetleri vermek, bilgi birikimini ilgili kurum ve kuruluşlara aktarmak, uzaktan eğitimle ilgili araştırma ve uygulamalarda yerli ve yabancı kuruluşlarla işbirliği içinde olmak, yayınlar yapmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Kamu, özel sektör, ulusal ve uluslararası kurum, kuruluş ve kişiler için uzaktan eğitim kapsamında kurslar, seminerler, konferanslar ve benzeri dersler, eğitim programları planlamak ve bu faaliyetlerin koordinasyonunu sağlamak.
+
+b) Uzaktan yükseköğretim kapsamında Üniversiteye bağlı eğitim kurumları ile diğer yükseköğretim kurumları için dersler ve programlar planlamak ve yürütmek.
+
+c) İlgili mevzuat hükümleri çerçevesinde Türkiye’nin ve dünyanın farklı üniversitelerinde alanında uzman akademisyenlerle ortak yüksek lisans ve doktora sınavları için gerekli altyapıyı sağlamak.
+
+ç) Amaçları doğrultusunda, uzaktan eğitimin gerektirdiği iletişim ve bilgi teknolojilerinin gelişimini takip etmek, uygulamalar için sistem tasarımı yapmak ve uzaktan eğitime ilişkin tüm teknik işleri yürütmek.
+
+d) Uzaktan eğitimin teknolojik ve iletişim altyapısı konularında ulusal ve uluslararası kurum ve kuruluşlarla iletişimi, etkileşimi ve işbirliğini sağlamak.
+
+e) Üniversite ve iletişim hizmeti sunan diğer kurum ve kuruluşlarla uzaktan eğitim konularına ilişkin tüm kurum ve kuruluşlarla ilişkiler geliştirmek.
+
+f) Uzaktan eğitime ilişkin mevzuatı takip etmek, bu kapsamda yeni gelişmeler ve uygulamalar planlamak ve düzenlemek.
+
+g) Uzaktan eğitim konularında araştırma ve geliştirme çalışmaları yapmak.
+
+ğ) Üniversite tarafından yürütülmekte olan uzaktan eğitim çalışmaları için ders içerikleri hazırlamak.
+
+h) Üniversite içi ve üniversite dışı projelerde ihtiyaç duyulan yazılım otomasyonlarını ve ders içeriklerini hazırlamak üzere ilgili birim ve kişilerle işbirliğini sağlamak, bu konularda danışmanlık yapmak, gerekli koordinasyonları sağlamak.
+
+ı) Kamu ve özel kuruluşlara, kişilere uzaktan eğitim kapsamında verilecek yaşam boyu eğitime yönelik ders, seminer, konferans ve benzeri çalışmalara yönelik proje geliştirmek, geliştirilen projelerin hayata geçirilmesini sağlamak.
+
+i) Uzaktan eğitimle ilgili araştırma ve uygulamalarda yerli ve yabancı kuruluşlarla işbirliği yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür; Üniversitenin aylıklı ve devamlı statüdeki öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi sona eren Müdür yeniden görevlendirilebilir. Müdür görevlendirildiği usul ile görevden alınabilir. Müdürün geçici olarak görevinden ayrılması halinde yerine belirlediği müdür yardımcılarından birisi, o da bulunmadığı zamanlarda ise en kıdemli olanından başlamak üzere Yönetim Kurulu üyelerinden biri vekâlet eder. Müdürün görevi sona erdiğinde müdür yardımcılarının görevi de sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kurulunu toplantıya çağırmak ve başkanlık etmek, alınan kararları ve çalışma programını uygulamak.
+
+c) Merkezin birimlerini Merkezin amaçları doğrultusunda yönetmek.
+
+ç) Merkez çalışmalarının düzenli olarak yürütülmesini ve geliştirilmesini sağlamak.
+
+d) Üniversitenin enstitü, fakülte, meslek yüksekokulu, Sürekli Eğitim Merkezi, Bilgi İşlem Dairesi Başkanlığı, diğer uygulama ve araştırma merkezleri ve Rektörlüğe bağlı birimlerinde uygulanan programlar ve faaliyetlere ilişkin koordinasyonu sağlamak.
+
+e) Merkezin çalışma, hedef ve planları ile yıllık faaliyet raporunu hazırlayarak Yönetim Kurulunun uygun görüşü alındıktan sonra Rektöre sunmak.
+
+f) Merkezin idari ilişkilerini yürütmek, personel ihtiyaçlarını belirlemek ve Rektöre sunmak.
+
+g) Yurt içindeki ve yurt dışındaki benzer merkezler ile işbirliği yapmak.
+
+ğ) İnternet üzerinden sanal eğitim yapılacak sertifika, ön lisans, lisans, lisansüstü birim yöneticilerinin görüşlerini alarak Rektörün onayına sunmak; internet üzerinden sanal eğitim yapan bölümlerin akademik programlarının görüşülmesi sırasında ilgili yüksekokul, fakülte ve enstitünün kurullarında ilgili bölüm başkanlarıyla birlikte görüşmelere katılmak.
+
+### MADDE 10 — Müdür yardımcısı
+
+(1) Müdüre çalışmalarında yardımcı olmak üzere, Üniversitenin öğretim elemanları arasından en fazla iki kişi Müdürün önerisi üzerine Rektör tarafından müdür yardımcısı olarak görevlendirilir.
+
+### MADDE 11 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür ve müdür yardımcıları ile Rektörün Üniversite öğretim elemanları arasından üç yıl süre ile görevlendireceği dört akademisyen dâhil olmak üzere toplam en fazla yedi üyeden oluşur. Görev süresi biten üyeler tekrar görevlendirilebilir. Üyeliklerin herhangi bir nedenle boşalması halinde kalan süreyi tamamlamak üzere yeni bir üye görevlendirilebilir.
+
+(2) Müdür, Yönetim Kurulunun başkanıdır. Yönetim Kurulu, Müdürün daveti üzerine yılda en az iki kez salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış kabul edilir.
+
+### MADDE 12 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin yönetimi ile ilgili kararları almak, çalışma programını hazırlamak.
+
+b) Rektörlüğe sunulacak faaliyet raporunu görüşmek.
+
+c) Araştırmacı ve uygulayıcı elemanların, eğitim ile ilgili araştırma, yayın ve bilimsel toplantılara katılmak için yapacakları mali destek isteklerini değerlendirmek.
+
+ç) Merkeze gelen iş ve proje tekliflerini değerlendirip önerilerde bulunmak.
+
+d) Merkez için gerek duyulan çalışma grupları ve komisyonları kurmak.
+
+e) Programda yer alacak web içerikleriyle ilgili standartları oluşturmak ve gözden geçirmek, konuyla ilgili bölüm başkanlıklarına tavsiyelerde bulunmak.
+
+### MADDE 13 — Danışma Kurulu
+
+(1) Danışma Kurulu; Bilgi İşlem Dairesi Başkanlığı hariç olmak üzere, 9 uncu maddenin birinci fıkrasının (d) bendinde sayılan birimlerde görev yapan Üniversite öğretim elemanları arasından ilgili birimin önerisi üzerine üç yıllığına Rektör tarafından görevlendirilen birer temsilci ile Üniversitenin Bilgi İşlem Daire Başkanı ve Müdürden oluşur. Süresi biten üyeler yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir.
+
+(2) Danışma Kurulu, Müdürün başkanlığında çoğunluk koşulu aranmadan yılda bir kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
+
+### MADDE 14 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyetlerini gözden geçirerek ilgili konularda Yönetim Kuruluna gerekli tavsiyelerde bulunmak.
+
+b) Müdür tarafından hazırlanmış yıllık faaliyet raporunu ve çalışma planını değerlendirerek önerilerde bulunmak.
+
+c) Yapılmış ve halen yürütülen çalışmalar hakkında görüş bildirmek.
+
+ç) Uzaktan eğitim faaliyetleri konularında Yönetim Kuruluna danışmanlık yapmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 15 — Personel ihtiyacı
+
+(1) Merkezin akademik, idari ve teknik personel ihtiyacı Müdürün talebi üzerine, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilen personel ile karşılanır.
+
+### MADDE 16 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Konya Teknik Üniversitesi Rektörü yürütür.

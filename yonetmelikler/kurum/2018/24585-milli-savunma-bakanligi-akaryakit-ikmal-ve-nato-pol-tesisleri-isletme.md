@@ -1,0 +1,199 @@
+---
+title: "MİLLÎ SAVUNMA BAKANLIĞI AKARYAKIT İKMAL VE NATO POL TESİSLERİ İŞLETME BAŞKANLIĞI AKARYAKIT ÖLÇÜ, STOK, FİRE İŞLEMLERİ İLE AKARYAKIT KALİTE KONTROL YÖNETMELİĞİ"
+identifier: "7.5.24585"
+number: "24585"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2018-05-14
+official_gazette_date: 2018-05-14
+official_gazette_number: "30421"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24585&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# MİLLÎ SAVUNMA BAKANLIĞI AKARYAKIT İKMAL VE NATO POL TESİSLERİ İŞLETME BAŞKANLIĞI AKARYAKIT ÖLÇÜ, STOK, FİRE İŞLEMLERİ İLE AKARYAKIT KALİTE KONTROL YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı ünitelerindeki akaryakıt ölçü, stok ve fire/fazlalık işlemlerinin yürütülmesi ile akaryakıtın kalitesinin muhafazasına yönelik tedbirlerin usul, esas ve sorumlulukların belirlenmesini sağlamaktır.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı ünitelerinde akaryakıt ölçü, stok ve fire/fazlalık işlemlerinin yürütülmesini ve akaryakıtın kalitesinin muhafazasına yönelik alınacak tedbirler ile bu işlemleri yerine getirmekle sorumlu bütün personeli kapsar.
+
+(2) 4/12/2003 tarihli ve 5015 sayılı Petrol Piyasası Kanunu kapsamında üçüncü kişilere depolama ve iletim hizmeti verilen tesisler, bu Yönetmeliğin kapsamı dışında yer alır.
+
+### MADDE 3 — Dayanak
+
+**(Değişik:RG-7/5/2020-31120)**
+
+(1) Bu Yönetmelik, 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 325 inci maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Akaryakıt: Millî Savunma Bakanlığınca Türk Silahlı Kuvvetlerinin ihtiyacı için rafinerilerden alınan veya ithal edilen ve Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı sorumluluğunda bulunan tesislerde depolanan veya işlemi yapılan F-18 (100/130 Avgas), F-44, F-34, F-54, F-76, Jet A-1, Kurşunsuz Benzin, Kalorifer yakıtı ve diğer askeri yakıtlar ile sivil firmalar tarafından tesislere teslim edilen yakıtları,
+
+b) Akaryakıt işlemleri: Ölçü, stok, fire/fazlalık ve akaryakıtın kalitesinin korunmasına yönelik işlemleri,
+
+c) ASTM: American Society for Testing and Materials adlı materyaller, ürünler, sistemler ve hizmetler için standart geliştiren ve yayınlayan kuruluşun kısaltmasını,
+
+ç) Başkanlık: Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığını,
+
+d) Bölge Müdürlüğü: Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı Doğu ve Batı Bölge Müdürlüklerini,
+
+e) Çıkış fişi: Yakıt depolarından yapılan sevk ve tanklardan yakıt verilmesi ile ölçüm sonrası belirlenen eksiklikler için düzenlenen belgeyi,
+
+f) Giriş fişi: Tanklara alınan yakıt miktarı ile ölçüm ve tanklardan yakıt verilmesi sonucunda meydana gelen fazlalıklar için düzenlenen belgeyi,
+
+g) İşletme Müdürlüğü: Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı Bölge Müdürlüğü yetki alanında bulunan İşletme Müdürlüklerini,
+
+ğ) Ortalama yoğunluk: Yoğunluğu belli olmayan veya işlem sırasında yoğunluğu tespit edilmemiş ancak türü belli olan yakıtlar için kullanılan yoğunluk değerini,
+
+h) Ölçü zamanı: Tankta bulunan akaryakıtın tam ölçü yapılarak miktar tespitinin ya da akaryakıt yüksekliği ölçümü ve şeritmetre ile su kontrolü yapılması zaman periyodunu,
+
+ı) Ölçü: Akaryakıtın miktar tespitinin yapılması işlemini,
+
+i) Sivil akaryakıt: Teknik düzenlemesi Enerji Piyasası Düzenleme Kurulu tarafından yapılan ve piyasada kullanılan akaryakıtı,
+
+j) STANAG: Standardization Agreement, NATO üyesi ülkeler tarafından askeri alanda geliştirilen ve kullanılan standartları,
+
+k) Statik elektrik yükü: Akış nedeniyle akaryakıt içindeki su damlacıklarının çökmesi ve hatta akaryakıt buharları içindeki toz ve mayi taneciklerinin birbirinden ayrılmaları esnasında teşekkül eden potansiyel elektriği,
+
+l) Su kontrolü: Akaryakıtların depolandığı ana depolama, denge ve diğer tanklarında şeritmetre ucuna su macunu sürülerek ve drenaj hattı test musluğundan numune alınarak tank tabanında su olup olmadığının kontrolünü,
+
+m) Su macunu: Su ile temas ettiğinde renk değiştiren macunu,
+
+n) Şeritmetre: Tanklardaki akaryakıtın yüksekliğini belirlemek için dip veya boşluk ölçüsü almada kullanılan, şaküllü, kabartmalı, milimetre taksimatlı metreyi,
+
+o) Tam ölçü: Yakıt yüksekliği, numune sıcaklığı, numune yoğunluğu, tank sıcaklığı ölçümü ve su kontrolünün (tam ölçü) yapılarak tanktaki yakıt miktarının tespit edildiği ölçü yöntemini,
+
+ö) Ünite: Akaryakıt depolanan tank çiftliği, yerüstü depo, hava meydanı ya da akaryakıt ikmalinde yer alan tüm pompa istasyonu tesislerini,
+
+p) Yakıt macunu: Yakıt ile temas ettiğinde renk değiştiren macunu,
+
+r) Yoğunluk/Dansite: Birim hacmin ağırlığını (Ağırlık/Hacim, gr/cm³ veya kg/litre olarak ifade edilir.),
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Sorumluluk
+
+### MADDE 5 — Ünite sorumluluğu
+
+(1) Ünite personeli ile ünite yetkilisi; akaryakıt stoklarından, ölçülerin düzenli ve doğru alınmasından, miktar tespitinden, kayıtlandırılmasından ve yürütülmesinden; fire/fazlalık ve akaryakıtın kalitesinin korunmasına yönelik işlemlerden müştereken ve müteselsilen sorumlu ve görevlidir.
+
+### MADDE 6 — İşletme müdürlüğü sorumluluğu
+
+(1) İşletme Müdürü; İşletme Mühendisi veya görevlendirilen personel; sorumluluk alanında yer alan ünitelerdeki akaryakıt işlemlerinin yürütülmesinden, ünite personeli tarafından yapılan akaryakıt işlemlerinin takip ve kontrolünden müştereken ve müteselsilen sorumlu ve görevlidir.
+
+### MADDE 7 — Bölge müdürlüğü sorumluluğu
+
+(1) Bölge Müdürleri, Akaryakıt İkmal Şube Müdürleri ile akaryakıt işlemlerinin yürütüldüğü birimde görevli personel; sorumluluk alanında yer alan ünitelerdeki ünite personeli tarafından yapılan akaryakıt işlemlerinin takip ve kontrolünden müştereken ve müteselsilen sorumlu ve görevlidir.
+
+### MADDE 8 — Başkanlık sorumluluğu
+
+(1) Akaryakıt İkmal ve İşletme Dairesi Başkanlığı Akaryakıt, Madeni Yağ İkmal Şube Müdürlüğü Şube Müdürü ve görevli personel, İşletme ve Bakım Şube Müdürlüğü Şube Müdürü ve görevli personel; ünitelerdeki akaryakıt işlemlerinin kontrolünden müştereken ve müteselsilen sorumlu ve görevlidir.
+
+## ÜÇÜNCÜ BÖLÜM
+
+**Uygulama Esasları, Ölçü ve Stok İşlemlerinin Takibi, Fire, Fazlalık,**
+
+**Zayiat ile Akaryakıt Kalite İşlemleri**
+
+### MADDE 9 — Uygulama esasları
+
+(1) Ölçü metodu; akaryakıtlar için hazırlanan ve miktar tespitinde kullanılan değerler olan yoğunluk, hacim ve bunlara ilişkin düzeltmeler ile düzeltme faktörlerini içeren ASTM Standardı olan “Petroleum Measurement Tables” (Petrol Ölçüm Tabloları) kullanılır.
+
+(2) Akaryakıt tanklarında tank hacmini etkileyen bakım, onarım ve tamiratlardan sonra ve tanktaki yakıt işlemlerinde kalibrasyon hatası tespit edildiğinde tankın hacimsel kalibresi yaptırılır.
+
+(3) Akaryakıt Miktar Ölçü Zamanları;
+
+a) Tanka yakıt girişi ve/veya çıkışı olduğunda tam ölçü yapılır,
+
+b) Tankta giriş ve çıkış olmasa bile haftada en az bir gün tam ölçü yapılır,
+
+c) Ayrıca yakıt yüksekliği ölçümü ve su macunlu şeritmetre ile su kontrolü yapılarak yakıt kaçağı olup olmadığı ya da tanka herhangi bir nedenle su sızıntısının olup olmadığı her gün tespit edilir,
+
+ç) Yakıt miktarı tespitinde tam ölçüde belirlenen değerler kullanılır,
+
+d) Akaryakıt ölçü işlemlerinin yapılmasında; fırtınalı ve aşırı yağışlı havalarda statik elektrik yükü fazlalaştığından, zorunlu durumlar hariç ölçü işlemi yapılmamalıdır. Emniyet açısından elektrik yükü fazlasının atılması için tank topraklamalarının bakım, ölçüm ve kontrolleri zamanında yapılarak topraklamalar çalışır durumda tutulur.
+
+### MADDE 10 — Ölçü ve stok işlemlerinin takibi
+
+(1) Ünitede günlük akaryakıt hareketlerinin, teslimat ve alımların bitiminden sonra ölçü ve stok tespitleri tank otomasyon sistemi (mevcut ise) veya manuel ölçüm ile yapılır. Ünitenin tüm yakıt hareketleri bilgisayar ortamında kayıtlandırılarak takip edilir.
+
+(2) Yapılan ölçümler sonucunda belirlenen yakıt miktarı ile ilgili olarak giriş ve çıkış fişleri düzenlenerek stok miktarı günlük olarak tespit edilir.
+
+(3) Ortalama yoğunluk; yoğunluğu belli olmayan veya işlem sırasında yoğunluğu tespit edilmemiş ancak türü belli olan yakıtlar için Ek-1’de yer alan yoğunluk değerleri kullanılır.
+
+### MADDE 11 — Fire
+
+(1) Akaryakıtın; depolarda bekletilmesi, transfer edilmesi, taşınması ve dolumlarında buharlaşma, kap ve boru hattı çeperlerine yapışmalar, ölçüm toleransları gibi elde olmayan nedenlerle oluşan doğal kayıplara/firelere çıkış fişi düzenlenir.
+
+(2) Akaryakıt işlemlerinde oluşacak firelere uygulanacak fire limit oranları Ek-2’de yer almaktadır.
+
+### MADDE 12 — Fazlalık
+
+(1) Akaryakıtın; depolarda bekletilmesi, transfer edilmesi, taşınması ve dolumlarında ve ölçüm toleransları gibi elde olmayan nedenlerle oluşan artımlara/fazlalıklara giriş fişi düzenlenir.
+
+### MADDE 13 — Zayiat
+
+(1) Boru ve conta patlaması, boru hatlarının korozyon nedeniyle delinmesi ya da heyelan, sel, deprem gibi tabii afetlerde kopması, akaryakıt tanklarının, sarnıçlı vagonların, tankerlerin, duba ve benzeri kapların çeşitli sebepler dolayısıyla delinmesi, hasara uğraması ve akaryakıt tankları ile boru hatlarındaki hırsızlık olayları sonucunda meydana gelen fiili yakıt kayıpları için çıkış fişi düzenlenir.
+
+### MADDE 14 — Akaryakıt kalite işlemleri
+
+(1) Akaryakıtın teknik kriterlere uygunluğu akaryakıt kalitesinin kontrolü yapılarak belirlenir.
+
+(2) Akaryakıtın kalitesinin kontrolü amacıyla depolanan askeri akaryakıtlarda;
+
+a) Akaryakıt testleri ve periyotlar STANAG 3149’a göre belirlenir,
+
+b) Depolanan akaryakıtların spesifikasyon limitleri ise STANAG 1110’a göre belirlenir,
+
+c) İklim şartları, ülke gereksinimleri, depolanan akaryakıtın yeri, tüketim miktarları gibi etkenler göz önünde bulundurularak akaryakıtın test periyodu, hangi testlerin yapılacağı ve bu testlerin limitleri düzenlenebilir,
+
+ç) Sivil akaryakıtlara yapılacak kalite kontrol işlemleri ise hem askeri yakıtlara yapılan kalite kontrol işlemlerine hem de piyasa mevzuatına göre yapılabilir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 15 — Yürürlükten kaldırılan yönetmelikler
+
+(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren;10/12/2002 tarihli ve 24959 sayılı Resmî Gazete’de yayımlanan Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı Akaryakıt Ölçü ve Stok İşlemleri Yönetmeliği ile 30/11/2002 tarihli ve 24952 sayılı Resmî Gazete’de yayımlanan Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı Ünitelerinde ve Boru Hattı İşletmelerinde Petrol Ürünlerine Uygulanacak Fire Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 16 — Yönerge
+
+(1) Bu Yönetmeliğin uygulanmasına ilişkin hususlar yönerge ile düzenlenir.
+
+### EK MADDE 1 — Yönetmeliğin uygulanmasında sorumluluk
+
+**(Değişik:RG-7/5/2020-31120)**
+
+(1) Bu Yönetmeliğin uygulanmasından doğacak tereddütler derhal Başkanlığa bildirilir. Başkanlık bu tereddütleri gidermeye yetkilidir.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanı yürütür.
+
+**Ekleri için tıklayınız**
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>14/5/2018</td><td>30421</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>7/5/2020</td><td>31120</td></tr>
+<tr><td>2.</td><td></td><td></td></tr>
+</table>

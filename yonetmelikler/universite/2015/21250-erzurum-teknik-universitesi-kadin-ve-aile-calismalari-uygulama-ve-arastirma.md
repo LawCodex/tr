@@ -1,0 +1,205 @@
+---
+title: "ERZURUM TEKNİK ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ"
+identifier: "8.5.21250"
+number: "21250"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2015-11-18
+official_gazette_date: 2015-11-18
+official_gazette_number: "29536"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=21250&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ERZURUM TEKNİK ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ
+
+**ERZURUM TEKNİK ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ(1)**
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, **(Değişik ibare:RG-26/11/2019-30960)** Erzurum Teknik Üniversitesi Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri, usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, **(Değişik ibare:RG-26/11/2019-30960)** Erzurum Teknik Üniversitesi Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezinin amacına, organlarına, organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (EKAUM): **(Değişik ibare:RG-26/11/2019-30960)** Erzurum Teknik Üniversitesi Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Erzurum Teknik Üniversitesi Rektörünü,
+
+d) Üniversite: Erzurum Teknik Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı şunlardır:
+
+a) Tarihsel ve toplumsal olarak kadının değerinin ve statüsünün geliştirilmesine yönelik derlemeler ve çalışmalar yapmak,
+
+b) Kadının yerel ve genel sorunlarına ilişkin teorik ve uygulamalı araştırmaların yapılmasını sağlamak ve kadının toplumsal ve ekonomik kalkınma içerisinde yerini alabilmesi ve konumunun belirlenmesi için ihtiyaç olan her konuda duyarlı ve yeterli kadroların yetiştirilmesine yönelik faaliyetlerde bulunmak,
+
+c) Kadın haklarının korunması, yaygınlaştırılması, geliştirilmesi ve bu alanda bilinç düzeyinin yükseltilmesi amacıyla çalışmalar yapmak,
+
+ç) Sosyal hayat içerisinde kadının verimliliğini artırıcı çalışmalar yapmak,
+
+d) Kadın yaşamı, geleceği ve sorunlarına bölgesel ve evrensel çözümler getirmek için yurt içinde ve yurt dışında kadın sorunları ile ilgili her alanda araştırmaları takip etmek, meydana çıkan literatür ve envanteri sürekli olarak güncellemek, incelemeler yapmak ve etkinliklere katılmak,
+
+e) Üniversitenin ilgili birim ve bölümlerinin iş birliği ile kadın sorunlarının çözümüne ilişkin çalışmalarda bulunmak, yayınlar çıkarmak ve konuyla ilgili olarak kurum, kuruluş ve toplumla Merkez arasındaki koordinasyonu sağlamak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Üniversitenin ilgili bölüm ve anabilim dallarının iş birliği ile yurt içinde ve yurt dışında kadın çalışmaları ile ilgili alanlarda bilimsel araştırma yapmak, proje oluşturmak ve projelere katılmak,
+
+b) Kadın araştırmaları konusunda Erzurum Teknik Üniversitesi Sosyal Bilimler Enstitüsüne bağlı bir anabilim dalı kurulmasını ve kadın araştırmaları ve uygulamaları konularında lisans, yüksek lisans ve doktora düzeyinde ders, seminer ve akademik tezler verilmesini sağlamak ve bu konudaki bilimsel çalışmaları desteklemek,
+
+c) Geleneksel ve kırsal kadın merkezli derleme, tarama, ağız araştırmaları gibi akademik çalışmalar yapmak ve bu anlamda sözlü tarih ve kültürün kayıt altına alınmasını sağlayarak, bir kültür envanteri oluşturmak,
+
+ç) Kadınların kazanılmış haklarını ve çağdaş toplum bireyi olmasını esas alarak, kadınlarla ilgili konularda ulusal ve uluslararası düzeyde kurs, seminer, konferans, kongre ve benzeri etkinlikler düzenlemek, bu etkinliklere katılımı özendirmek,
+
+d) Kadının sosyo-ekonomik, sağlık ve kültür başta olmak üzere mühim sorunları ve çalışan kadınların mesleki deformasyonlarının kaynakları üzerinde sosyolojik çalışmalar yapmak ve gerekli kurum ve kuruluşlar ile bu bilgileri paylaşarak birtakım düzenlemeler yapılmasına katkı sağlamak,
+
+e) Merkezin amaçları doğrultusunda yerel, ulusal ve uluslararası diğer kurum ve kuruluşlarla iş birliği yaparak kongre, sempozyum, panel ve atölye çalışmaları düzenlemek, bu çerçevede, sivil toplum kuruluşları ve kamu kurumlarıyla iş birliği yapmak ve akademik planda kurum ve kuruluşlar ile Üniversite arasında köprü işlevi görmek,
+
+f) Kadın ve kadın çalışmaları hakkında bir dergi/bülten yayımlamak ve yapılan çalışmaları kamuoyu ile paylaşmak,
+
+g) Kadınlar konusunda çevresel, tarihsel, kültürel ve istatistiksel verileri toplayarak bir kadın araştırmaları arşivi oluşturmak,
+
+ğ) Merkez bünyesinde bir kadın araştırmaları kütüphanesi kurmak, kişileri bu eksende yazılan yazılarla ilişkili kılmak,
+
+h) Faaliyetleriyle ilgili olarak yerli ve yabancı kuruluşlarla iş birliği yapmak ve bu kurumlardan/kuruluşlardan gelecek istekler doğrultusunda incelemeler ve araştırmalar yapmak, eğitim ve danışmanlık hizmeti sunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Organları ve Görevleri
+
+### MADDE 7 — Merkezin organları
+
+(1) Merkezin organları şunlardır:
+
+a) Müdür,
+
+b) Yönetim Kurulu,
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Rektör tarafından, Üniversite öğretim üyeleri arasından üç yıl süre için görevlendirilir. Görev süresi sona eren Müdür tekrar görevlendirilebilir. Müdür, kısa süreli ayrılmalarda, Müdür Yardımcısını vekil bırakır. Müdürlüğe vekâlet altı aydan fazla süremez. Vekâletin altı aydan fazla sürmesi durumunda, Müdürün görevi sona erer. Müdürün görevden alınması veya görev süresini doldurmadan görevden ayrılması durumunda, aynı usulle ayrılan Müdürün süresini doldurmak üzere yeni bir Müdür görevlendirilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek,
+
+b) Yönetim Kurulu ve Danışma Kurulunun oluşturulmasında Rektöre öneride bulunmak,
+
+c)Yönetim Kurulunu toplantıya çağırmak, Yönetim Kurulunun gündemini hazırlamak, Yönetim Kurulu başkanı olarak toplantıları yönetmek,
+
+ç) Çalışma programları oluşturmak, bu programları yürütmek ve denetlemek,
+
+d) Öğretim yılı başında çalışma planı, öğretim yılı sonunda faaliyet raporu hazırlamak, söz konusu plan ve faaliyet raporlarını Yönetim Kuruluna sunmak,
+
+e) Yönetim Kurulu tarafından hazırlanan ve uygulamaya konulacak olan çalışma planı hakkında Rektöre bilgi vermek,
+
+f) Danışma Kurulunu her yıl en az bir defa toplamak ve Danışma Kuruluna başkanlık etmek,
+
+g) Merkezin idari ve akademik personel ihtiyacını belirlemek, Yönetim Kurulunun da görüşünü aldıktan sonra Rektörün onayına sunmak,
+
+ğ) Mevzuatla verilen diğer görevleri yerine getirmek.
+
+### MADDE 10 — Müdür Yardımcısı
+
+(1) Yönetim Kurulu üyeleri arasında bulunan ve Müdür tarafından önerilen iki öğretim elemanından biri, Rektör tarafından Müdür Yardımcısı olarak görevlendirilir. Müdür Yardımcısının görev süresi üç yıldır. Görev süresi biten Müdür Yardımcısı ikinci kez görevlendirilebilir. Müdür Yardımcısı, Müdüre çalışmalarında yardımcı olur ve Müdürün yokluğunda Müdüre vekâlet eder.
+
+### MADDE 11 — Yönetim Kurulu
+
+(1) Yönetim Kurulu, Müdür ve Müdür Yardımcısı ile en az üç öğretim elemanından oluşur. Yönetim Kurulunu oluşturan öğretim elemanları, Müdür tarafından önerilen üye sayısının iki katı aday arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten üye yeniden görevlendirilebilir. Üyeliğin herhangi bir nedenle boşalması halinde süresi yeniden başlatılmak üzere yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine ayda en az bir kez toplanır. Yönetim Kurulu toplantılarına mazeretsiz olarak üç kez üst üste katılmayan üyenin görevi sona erer.
+
+(3) Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış sayılır.
+
+### MADDE 12 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışmaları ile ilgili plan ve programları hazırlamak, Danışma Kuruluna sunmak ve uygulanmasını sağlamak,
+
+b) Merkezin çalışmaları için çalışma grupları kurmak ve görevlendirmek, çalışma gruplarının çalışmalarını takip etmek,
+
+c) Merkezin yıllık çalışma ve yatırım programlarını, gelir ve gider tablolarını, gündemdeki projeleri hazırlayarak karara bağlamak ve onaylanmak üzere Rektöre sunmak,
+
+ç) Merkezin elemanlarının eğitim, uygulama, araştırma, hizmet üretimi ve yayım konularındaki isteklerini değerlendirip önerilerde bulunmak,
+
+d) Merkezin genel işleyişi, düzeni ve idari personeli ile ilgili Müdür tarafından yapılan önerileri karara bağlamak.
+
+### MADDE 13 — Danışma Kurulu
+
+(1) Danışma Kurulu, Merkezin faaliyetleriyle ilgili alanlarda bilgi ve deneyime sahip Üniversite öğretim üyeleri ve ihtiyaç halinde kamu ve özel kuruluşlardaki kişiler arasından Yönetim Kurulu tarafından önerilen ve Rektör onayı ile görevlendirilen dört kişi, Müdür, Müdür Yardımcısı ve Yönetim Kurulu üyelerinden oluşur. Danışma Kurulu üyelerinin görev süresi 3 yıldır.
+
+(2) Danışma Kurulu, yılda en az bir kez olmak üzere, Müdür tarafından belirlenen tarihte ve Müdürün başkanlığında toplanır. Danışma Kurulu toplantılarında çoğunluk şartı aranmaz.
+
+### MADDE 14 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevi Merkezin yıllık çalışma programıyla ilgili öneriler geliştirmek ve söz konusu önerilerin ne miktarda dikkate alındığını takip etmektir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 15 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 16 — Ekipman ve demirbaşlar
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaşlar Merkezin ve gerektiğinde Üniversitenin kullanımına tahsis edilir.
+
+### MADDE 17 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Erzurum Teknik Üniversitesi Rektörü yürütür.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 26/11/2019 tarihli ve 30960 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Erzurum Teknik Üniversitesi Kadın Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği”* *iken metne işlendiği şekilde değiştirilmiştir.*
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>18/11/2015</td><td>29536</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>26/11/2019</td><td>30960</td></tr>
+<tr><td>2.</td><td></td><td></td></tr>
+</table>

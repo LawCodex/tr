@@ -1,0 +1,193 @@
+---
+title: "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ SAĞLIK UYGULAMAVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.38247"
+number: "38247"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-01-21
+official_gazette_date: 2021-01-21
+official_gazette_number: "31371"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38247&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ SAĞLIK UYGULAMAVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; İstanbul Sağlık ve Teknoloji Üniversitesi Sağlık Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, İstanbul Sağlık ve Teknoloji Üniversitesi Sağlık Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Başhekim (Müdür): Merkezin Müdürünü,
+
+b) Başhemşire (Hemşirelik Hizmetleri Müdürü): Merkezde görevli Başhemşireyi,
+
+c) Merkez (Hastane): İstanbul Sağlık ve Teknoloji Üniversitesi Sağlık Uygulama ve Araştırma Merkezini,
+
+ç) Mütevelli Heyet: İstanbul Sağlık ve Teknoloji Üniversitesi Mütevelli Heyetini,
+
+d) Rektör: İstanbul Sağlık ve Teknoloji Üniversitesi Rektörünü,
+
+e) Tıp Fakültesi: İstanbul Sağlık ve Teknoloji Üniversitesi Tıp Fakültesini,
+
+f) Üniversite: İstanbul Sağlık ve Teknoloji Üniversitesini,
+
+g) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları; sağlık hizmetleriyle ilgili tüm alanlarda eğitim ve öğretim ile bilimsel araştırmalar yapmak, her düzeyde tıp ve sağlık personeli yetiştirilmesine katkı sağlamak amacıyla Tıp Fakültesi başta olmak üzere, Üniversite bünyesindeki diğer fakülte, enstitü, yüksekokul, uygulama ve araştırma merkezleri ile yurt içi veya yurt dışındaki diğer kurumlarla ilgili mevzuat hükümleri kapsamında iş birliği yaparak eğitim ve sağlık hizmetlerinde yenilikçi ve verimliliği artırıcı uygulamalara öncülük etmek, toplumun ihtiyaç ve beklentileriyle uyumlu, hasta haklarına saygılı ve modern sağlık tesisi yönetimi ilkeleriyle bağdaşan kaliteli bir sağlık hizmeti verilmesini sağlamaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Türkiye’deki ve diğer ülkelerdeki gelişmiş sağlık ve araştırma standartlarını izleyerek nitelikli sağlık hizmeti sunmak.
+
+b) Toplum sağlığının korunması ve geliştirilmesi, sağlık bilincinin ve halkın sağlık eğitiminin artırılması için projeler geliştirmek ve ilgili mevzuat hükümleri kapsamında özel ve kamu kurum ve kuruluşları ile iş birliği yapmak, ulusal sağlık politikalarına katkı sağlamak.
+
+c) Merkeze bağlı olarak çalışan, kapsamlı sağlık hizmeti veren yataklı tedavi hizmetleri, tıbbi anabilim ve bilim dallarında ve sağlıkla ilgili diğer alanlarda, Merkez bünyesindeki ünite ve birimlerde Merkezin amaçları doğrultusunda faaliyette bulunmak.
+
+ç) Tıp ve sağlık bilimleri alanında; ön lisans, lisans ve lisansüstü öğrencilerin eğitim ve öğretimleriyle ilgili ihtiyaç duyulan sağlık uygulama ve araştırma faaliyetlerine ilişkin altyapıyı hazırlamak, ilgili mevzuat hükümleri kapsamında ulusal ve uluslararası bilimsel kongre, çalıştay, kurs, panel ve seminerler düzenlemek.
+
+d) Merkezin amaçları doğrultusunda projeler üretmek ve sürdürmek, süreli ve süresiz yayınlar yapmak, yazılı ve görsel basında programlar düzenlemek, bilimsel görüş sunmak.
+
+e) Mütevelli Heyet, Rektör ve Yönetim Kurulunca öngörülen ilgili diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Başhekim (Müdür).
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Başhekim (Müdür)
+
+(1) Başhekim (Müdür); Üniversitenin öğretim üyeleri arasından, Rektörün teklifi ve Mütevelli Heyetinin onayı ile iki yıl için görevlendirilir. Görev süresi biten Başhekim (Müdür) yeniden görevlendirilebilir. Başhekim (Müdür) sağlıkla ilgili bağlı birimlerin de yöneticisidir. Başhekim (Müdür), gerektiğinde Rektörün teklifi ve Mütevelli Heyetinin onayı ile iki yıllık süre dolmadan da görevinden alınabilir. Başhekim (Müdür)’in önerisi ve Mütevelli Heyetinin onayı ile Başhekim (Müdür) yardımcıları görevlendirilebilir.
+
+### MADDE 9 — Başhekim (Müdür)’in görevleri
+
+(1) Başhekim (Müdür)’in görevleri şunlardır:
+
+a) Merkezi temsil etmek, Yönetim Kurulu toplantılarına başkanlık etmek.
+
+b) Merkezin stratejik planını hazırlamak, Yönetim Kurulunda görüşülmesi ve onaylanmasından sonra gerekli planlama, yürütme, koordinasyon ve denetleme çalışmalarını yapmak.
+
+c) Yönetim Kurulu tarafından alınan kararların uygulanmasını ve amaçları doğrultusunda Merkezin işleyişini sağlamak.
+
+ç) Tıbbi direktörün görevlendirilmesi için Rektöre teklifte bulunmak, diğer yönetici ve birim sorumlularını belirlemek.
+
+d) Merkezin araştırma, sağlık, idari, teknik destek hizmet üniteleri ile bağlı birimlerinin amaç ve hedefleri doğrultusunda düzenli, uyumlu, etkili ve verimli biçimde çalışmasını sağlamak.
+
+e) Merkez bünyesinde sunulan tıbbi hizmetlerin altyapısının oluşturulması ve teknolojik ihtiyaçların karşılanması ile tıbbi hizmetlerin kalitesinin geliştirilmesine katkıda bulunmak.
+
+f) Merkez ve bağlı birimlerinde oluşturulan proje grubu, komite, komisyon, ünite ve birimlerin işleyişlerini denetlemek ve yöneticilerinin seçimi için Yönetim Kuruluna öneride bulunmak.
+
+g) Tıbbi hizmetlerin politika, prosedür ve standartlarının oluşturulması ve uygulanmasına yönelik çalışmalarda bulunmak ve çalışmaları ile ilgili yıllık raporları Yönetim Kuruluna sunmak.
+
+ğ) Araştırma ve proje ekiplerini kurmak, Merkez bünyesinde yeni kurulacak ünite ve birimlerle ilgili Yönetim Kuruluna öneride bulunmak.
+
+h) Rektör ve Mütevelli Heyet tarafından Merkez ile ilgili olarak verilen diğer görevleri yapmak.
+
+### MADDE 10 — Başhekim (Müdür) Yardımcısı
+
+(1) Başhekim (Müdür) Yardımcısı; en az lisans düzeyinde eğitim almış kişiler arasından, Başhekim (Müdür)’in önerisi ve Rektörün teklifi üzerine Mütevelli Heyetinin onayı ile iki yıl için görevlendirilir. Başhekim (Müdür)’in görevi sona erdiğinde Başhekim (Müdür) Yardımcısının da görevi kendiliğinden sona erer. Görev süresi biten Başhekim (Müdür) Yardımcısı yeniden görevlendirilebilir. Gerektiğinde Rektörün teklifi Mütevelli Heyetinin onayı ile Başhekim (Müdür) Yardımcısı iki yıllık süre dolmadan da görevinden alınabilir.
+
+### MADDE 11 — Başhekim (Müdür) Yardımcısının görevleri
+
+(1) Başhekim (Müdür) Yardımcısının görevleri şunlardır:
+
+a) Merkezin ve Merkeze bağlı birimlerin altyapısının kurulmasına, işletilmesine, ihtiyaçlarının giderilmesine, kısa, orta ve uzun vadeli amaçların gerçekleştirilmesine yönelik çalışmaları yürütmek.
+
+b) Personel sevk ve idaresinde, yönetim ve denetimlerde, yıllık faaliyet raporunun hazırlanmasında Başhekim (Müdür)’e yardımcı olmak.
+
+c) Merkezin personel ihtiyaçları ve yıllık planlamaları ve programları ile ilgili önerilerini gerekçeleri ile birlikte hazırlamak.
+
+ç) İlgili mevzuat hükümlerine göre yapılması gereken sözleşmeleri hazırlamak, uygulanmasını ve denetimini sağlamak.
+
+### MADDE 12 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Başhekim (Müdür), Başhekim (Müdür) Yardımcısı, Başhemşire ile Rektörün teklifi ve Mütevelli Heyetinin onayı üzerine öncelikle Tıp Fakültesinden ve/veya Sağlık Bilimleri Fakültesinden olmak üzere Üniversitenin öğretim üyeleri arasından görevlendirilen bir öğretim üyesi ile birlikte en fazla beş kişiden oluşur. Yönetim Kurulu üyesi olarak görevlendirilen öğretim üyesinin görev süresi iki yıldır. Mütevelli Heyet gerektiğinde süresi sona eren üyeyi aynı usulle tekrar görevlendirebilir.
+
+(2) Yönetim Kurulu, Başhekim (Müdür) başkanlığında ayda bir kez, önceden belirlenen gündem ile toplanır. Başhekim (Müdür), Yönetim Kurulunu olağanüstü toplantıya çağırabilir. Başhekim (Müdür) olmadığı durumlarda Başhekim (Müdür) Yardımcısı yerine vekâlet eder. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır. Oyların eşitliği halinde Başkanın oyu yönünde çoğunluk sağlanmış sayılır.
+
+(3) Yönetim Kurulu, çalışmalarında, Rektör ve Mütevelli Heyetine karşı sorumludur.
+
+### MADDE 13 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Yıllık akademik çalışma raporu, plan ve programları karara bağlamak.
+
+b) Merkez bünyesindeki proje grubu, ünite, komite veya komisyonların çalışma usul ve esaslarını belirlemek.
+
+c) Merkezin amaçlarına uygun faaliyet alanlarına ilişkin kararlar almak.
+
+ç) Sağlık alanında yeni ünite veya birimlerin kurulması konusunda Mütevelli Heyetinin onayına sunmak üzere teklif hazırlamak.
+
+d) Merkezin yıllık plan, program, personel ihtiyacı ve yıllık faaliyet raporunu hazırlayarak Rektöre ve Mütevelli Heyetine sunmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Başhemşire ve görevleri
+
+(1) Başhemşire, en az beş yıl hemşirelik hizmeti olanlar arasından Başhekim (Müdür)’in teklifi üzerine Mütevelli Heyetinin onayı ile iki yıl için görevlendirilir. Süresi biten Başhemşire tekrar görevlendirilebilir. Gerektiğinde Başhekim (Müdür)’in teklifi Mütevelli Heyetinin onayı ile iki yıllık süre dolmadan da görevinden alınabilir. Başhekim (Müdür)’in görevi sona erdiğinde Başhemşirenin görevi de kendiliğinden sona erer. Başhemşirenin önerisi üzerine Mütevelli Heyetinin onayı ile başhemşire yardımcıları görevlendirilebilir.
+
+(2) Merkezde ve bağlı birimlerde bulunan ameliyathane, servis, poliklinik veya laboratuvar hizmetleri ile Merkezin idari işlerinde görevli olanlar, yürüttükleri hizmetler açısından Başhemşire, Başhekim (Müdür) ve Başhekim (Müdür) Yardımcısına karşı sorumludur.
+
+(3) Başhemşirenin görevleri şunlardır:
+
+a) Hasta bakımı hizmetlerinde görevli personelinin verimli çalışmalarını sağlamak ve kontrol etmek, gerekli noksanlıkları tıbbi konularda Başhekim (Müdür)’e, idari konularda Başhekim (Müdür) Yardımcısına bildirmek.
+
+b) Hizmetlerin gerçekleştirilmesinde tespit edilen aksaklıkları gidermek için gerekli çalışmaları yapmak.
+
+c) Kendisine bağlı hizmetlerdeki sağlık personelinin çalışma yerlerinin belirlenmesi ve bunların yerlerinin değiştirilmesi ile ilgili hususlarda görüş ve isteklerini Başhekim (Müdür)’e iletmek ve verilen kararları uygulamak.
+
+ç) Hemşirelerin mesleki bilgi ve tecrübelerinin gelişmesine yardımcı olmak amacıyla hizmet içi eğitimini sağlamak.
+
+d) Hasta bakım hizmetlerinin çağdaş normlarda ve kalite standartları kriterleri doğrultusunda yürütülmesini sağlamak.
+
+### MADDE 15 — Merkezi üniteler ve bağlı birimler
+
+(1) Merkez bünyesinde verimlilik ve hizmet kalitesinin arttırılması, hizmet kontrolünün sağlanması ve değerlendirilmesi amacıyla proje grubu, kurul, komisyon ve komite ya da bağlı birimler oluşturulabilir.
+
+### MADDE 16 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel ile karşılanır.
+
+### MADDE 17 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İstanbul Sağlık ve Teknoloji Üniversitesi Rektörü yürütür.

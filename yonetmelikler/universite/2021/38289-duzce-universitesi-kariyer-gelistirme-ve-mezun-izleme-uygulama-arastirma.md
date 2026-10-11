@@ -1,0 +1,203 @@
+---
+title: "DÜZCE ÜNİVERSİTESİ KARİYER GELİŞTİRME VE MEZUN İZLEME UYGULAMA ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.38289"
+number: "38289"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-02-02
+official_gazette_date: 2021-02-02
+official_gazette_number: "31383"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38289&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# DÜZCE ÜNİVERSİTESİ KARİYER GELİŞTİRME VE MEZUN İZLEME UYGULAMA ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Düzce Üniversitesi Kariyer Geliştirme ve Mezun İzleme Uygulama Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına ve bu organların görevlerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Düzce Üniversitesi Kariyer Geliştirme ve Mezun İzleme Uygulama Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez (DÜ-KARMER): Düzce Üniversitesi Kariyer Geliştirme ve Mezun İzleme Uygulama Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Düzce Üniversitesi Rektörünü,
+
+ç) Üniversite: Düzce Üniversitesini,
+
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Üniversitenin ilgili birimlerinin ve tüm akademik programlarının iş birliğiyle kariyer danışmanlığı alanında araştırmalar yapmak.
+
+b) Üniversite öğrencileri ve mezunlarının nitelik, saygınlık, tercih edilirlik ve bağlılıklarını en üst düzeye çıkarmak vizyonu doğrultusunda, bütüncül bir yaklaşımla kariyer planlama ve geliştirmeye ilişkin strateji, politika, proje, program ve organizasyon önerileri geliştirmek ve önerilerin uygulanmasına ilişkin faaliyetleri koordine ve kontrol etmek.
+
+c) Üniversite öğrencilerine ve mezunlarına bireysel kariyer planlama, iş arama, mesleki ve kişisel birikimlerini sunma konusunda yetkinlikler kazandırma ve geliştirmeye yönelik eğitim ve yayın faaliyetlerini gerçekleştirmek, koordine etmek ve desteklemek.
+
+ç) Üniversite öğrencilerinin, mezunlarının ve çalışanlarının kariyer planlama ve geliştirme performanslarını iyileştirmeye yönelik olarak bireysel potansiyellerini, kişisel özelliklerini, becerilerini, öz değerlerini, eğilim ve beklentilerini ortaya çıkarmak için gerekli kariyer danışmanlığı ve diğer hizmetleri vermek, verilmesini sağlamak.
+
+d) Kariyer planlama ve geliştirme, iş alanları ve olanakları ile hedef kitlenin kariyer yönelim ve beklentileri gibi konularda araştırmalar yapmak ve yaptırmak.
+
+e) Düzce Üniversitesi Yaşamboyu Eğitim Uygulama ve Araştırma Merkezi ve Çocuk ve Gençlik Eğitimi Uygulama ve Araştırma Merkezi ile iş birliği içinde Üniversitenin öğrencilerine ve mezunlarına, mesleki yeterliklerini artırmalarına ve alanlarındaki yeni gelişmeleri takip etmelerine yönelik eğitimler vermek.
+
+f) Üniversite adaylarına ilgi ve yeteneklerini tanıtıp özellikleriyle uyumlu lisans programları hakkında bilgiler vererek Üniversitenin tercih edilebilirliğini artırmayı sağlamak.
+
+g) Üniversite mezunlarının kariyer gelişim süreçlerine ilişkin izleme çalışmalarını yapmak.
+
+ğ) Öğrenci ve mezunların istihdam edilebilme imkânlarını araştırmak, öğrencileri bilgilendirmek.
+
+h) İlgili mevzuat hükümleri kapsamında; kamu, özel kurum ve kuruluşlar ile iş birliğini geliştirmek suretiyle Üniversite öğrencilerinin staj yapabilecekleri kurum sayısını artırarak, öğrencilerin staj yapabilecekleri kurumlarla bağlantı kurmalarını sağlamak.
+
+ı) İlgili mevzuat hükümleri kapsamında; ilgili kamu ve özel kurum ve kuruluşları ile paydaşlık ilişkisini ve iş birliğini geliştirerek ortaklaşa kariyer geliştirme, iş ve iş gören sağlama proje ve programlarının yürütülmesine destek vermek.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Başarılı meslek sahipleri ve uzmanları öğrencilerle bir araya getirmek ve işletmelere yönelik tanıma gezileri organize etmek.
+
+b) Benzer amaçlarla kurulan ve benzer alanlarda faaliyette bulunan kuruluşlarla ortak çalışmalar yapmak.
+
+c) Eğitim ve istihdam alanında analizler yaparak, üniversite giriş sınavlarında öğrenci tercihlerini belirlemeye yönelik çalışmalar yapmak.
+
+ç) Merkezin faaliyet alanlarına yönelik, basılı yayınlar yanı sıra, e-dergi, e-broşür, e-bülten ve benzeri yayınlar yaparak öğrencileri, akademisyenleri, mezunları, ilgili kurum ve kuruluşları haberdar ederek bilgilendirmek.
+
+d) İlgili mevzuat hükümleri kapsamında eleman talebinde bulunan kuruluşlarla mezunlar arasında sürekli iletişim kurarak iş bulmalarını kolaylaştırmak, kamu ve özel kesim kuruluşlarının ihtiyaç duyduğu insan kaynağının karşılanmasında Üniversite mezunlarının tercih edilebilirliğini artırmak amacıyla çeşitli etkinlikler düzenlemek.
+
+e) Kariyer danışmanlığı alanında ulusal ve uluslararası düzeyde kurslar, seminerler, konferanslar, kongreler, sempozyumlar, eğitimler sunmak ve benzeri faaliyetler düzenlemek.
+
+f) Kariyer günleri ve kariyer fuarları düzenlemek ve sivil toplum örgütleri ile iş birliği içerisinde, bu etkinliklere çeşitli kurum ve kuruluşlarda görev yapan Üniversite mezunlarının da katılımlarını sağlamak.
+
+g) Üniversite öğrencilerinin bireysel özelliklerini tanımalarında gerekli olabilecek test ve teknikleri uygulamak, sonuçlarını yorumlamak, öğrencilerin bu doğrultuda kariyer basamakları oluşturmalarına yardımcı olmak.
+
+ğ) Öğrencilerin mesleki kapasitelerinin ve kariyer gelişimlerinin artması için eğitim faaliyetlerini düzenlemek.
+
+h) Öğrencilerin mezuniyet sonrası kariyerlerinde birbirleri ile yakın ilişki, dayanışma ve iş birliği içinde bulunmaları yönünde onları teşvik etmek için geleneksel mezunlar günü gibi çeşitli faaliyetler düzenlemek.
+
+ı) Üniversitenin tüm birimlerinde kariyer alanında yürütülen eğitime destek vermek, öğrencilerin alan çalışmalarını kolaylaştırmak amacıyla diğer kurumlarla ilişki kurmak, organizasyonlar yapmak.
+
+i) Yurt içi ve yurt dışı eğitim olanaklarıyla ilgili burs ve staj günleri düzenleyerek öğrencileri bu konularda bilgilendirmek ve yönlendirmek.
+
+j) İlgili mevzuat hükümleri kapsamında yurt içinde ve yurt dışında, kamu ve özel kurum ve kuruluşlarla kariyer danışmanlığı alanında uygulama, araştırma, inceleme yapmak, projeler hazırlamak, yapılmakta olan çalışmalara katılmak ve bu tür çalışmaları desteklemek.
+
+k) Merkezin amaçları kapsamında diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanı ile ilgili Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+
+(2) Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanı ile ilgili Üniversitede görevli öğretim elemanları arasından iki kişi, üç yıl için Rektör tarafından müdür yardımcısı olarak görevlendirilir. Rektör gerektiğinde aynı usulle müdür yardımcılarını görevden alabilir.
+
+(3) Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+(4) Müdür; Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin tüm etkinliklerinin gözetim ve denetiminden ve bu konularda gerekli önlemlerin alınmasından Rektöre karşı sorumludur.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek, Yönetim Kuruluna başkanlık etmek.
+
+b) Merkez çalışmalarını yürütmek ve iş bölümü yapmak.
+
+c) Her öğretim yılı sonunda veya istenildiğinde Merkezin genel durumu ve işleyişi hakkındaki yıllık raporunu Yönetim Kurulunda görüşüldükten sonra Rektöre sunmak.
+
+ç) Yönetim Kurulunun aldığı kararları uygulamak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür, müdür yardımcıları ve Merkezin faaliyet alanı ile ilgili Üniversite öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilen dört üye olmak üzere toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu başkanlığını Müdür yapar. Yönetim Kurulu, yılda iki kez olağan ve gerektiğinde olağanüstü olarak Müdürün yazılı çağrısı üzerine salt çoğunlukla toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin eğitim, öğretim, bilimsel araştırma, danışmanlık, yayın faaliyetleri ve bu faaliyetlerle ilgili esasları kararlaştırmak.
+
+b) Merkezin çalışmalarıyla ilgili plan ve programların hazırlanmasını ve uygulanmasını sağlamak.
+
+c) Merkez elemanlarının eğitim, uygulama, araştırma, danışmanlık ve yayım konularındaki isteklerini değerlendirip karara bağlamak.
+
+ç) Gerekli hallerde Merkezin faaliyetleri ile ilgili geçici çalışma grupları kurmak ve bunların görevlerini düzenlemek.
+
+d) Yurt içi ve yurt dışındaki kamu ve özel kuruluşlar ile ortaklaşa yürütülecek çalışmaların temel ilke, esas ve usullerini tespit etmek.
+
+e) Müdürün, Merkezin faaliyetleri ile ilgili getireceği konuları değerlendirerek karara bağlamak.
+
+f) Merkezin yıllık faaliyet ve raporlarını değerlendirip karara bağlamak.
+
+g) Müdür tarafından hazırlanacak olan yılsonu faaliyet raporunu ve bütçe teklifini görüşüp kabul ettikten sonra Rektörlüğe sunmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Kariyer danışmanları
+
+(1) Müdüre yardımcı olmak üzere Müdürün teklifi ile en az 3 kariyer danışmanı Rektör tarafından 3 yıl süre ile görevlendirilir. Müdür tarafından kariyer danışmanlarının görev ve sorumlulukları ayrıca belirlenir.
+
+### MADDE 13 — Kariyer danışmanlarının görevleri
+
+(1) Kariyer danışmanlarının görevleri şunlardır:
+
+a) Tecrübelerini öğrencileriyle paylaşmak.
+
+b) Öğrencilerini Merkezin amaçları doğrultusunda desteklemek.
+
+c) Öğrencilerinin kişisel performansını değerlendirmek.
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personelce karşılanır.
+
+### MADDE 15 — Demirbaş, alet, ekipman
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaşlar Merkezin kullanımına tahsis edilir.
+
+### MADDE 16 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Düzce Üniversitesi Rektörü yürütür.

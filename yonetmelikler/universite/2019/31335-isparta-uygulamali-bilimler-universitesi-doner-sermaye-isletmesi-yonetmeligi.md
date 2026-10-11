@@ -1,0 +1,117 @@
+---
+title: "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ"
+identifier: "8.5.31335"
+number: "31335"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-03-12
+official_gazette_date: 2019-03-12
+official_gazette_number: "30712"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31335&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Isparta Uygulamalı Bilimler Üniversitesi Döner Sermaye İşletmesinin faaliyet alanlarına, yönetim organlarına, sermaye limitine ve işleyişine ilişkin esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Isparta Uygulamalı Bilimler Üniversitesi eğitim, öğretim, araştırma ve uygulama birimlerinin döner sermayeye ilişkin faaliyetlerini kapsar.
+
+### MADDE 3 — Dayanak
+
+**(Değişik:RG-13/3/2021-31422)**
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 58 inci maddeleri ile 18/6/2020 tarihli ve 31159 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Döner Sermaye İşletmelerinin Kurulmasına İlişkin Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) İşletme: Isparta Uygulamalı Bilimler Üniversitesi Döner Sermaye İşletmesini,
+
+b) Rektör: Isparta Uygulamalı Bilimler Üniversitesi Rektörünü,
+
+c) Üniversite: Isparta Uygulamalı Bilimler Üniversitesini,
+
+ç) Yönetim Kurulu: Isparta Uygulamalı Bilimler Üniversitesi Yönetim Kurulunu,
+
+d) Yürütme Kurulu: Isparta Uygulamalı Bilimler Üniversitesi Yönetim Kurulunca oluşturulan Yürütme Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — İşletmenin Faaliyet Alanları, Yönetim Organları ve İşleyişine İlişkin Esaslar
+
+### MADDE 5 — Faaliyet alanları
+
+(1) İşletme, eğitim ve öğretim ile bunlara katkıda bulunan uygulamayı ön planda tutmak ve Üniversitenin esas faaliyetlerini aksatmamak kaydıyla aşağıdaki faaliyetlerde bulunur:
+
+a) Yükseköğretim kurumları dışındaki kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerce talep edilecek, bilimsel görüş, plan, proje, araştırma, prototip geliştirme danışmanlık ve benzeri hizmetleri yapmak ve bunlara ilişkin raporlar, seminer, konferans, sempozyumlar düzenlemek, kurslar açmak.
+
+b) Laboratuvar ve atölyelerde her çeşit cihaz, makine, alet-edevat, tesisat ve benzerlerinin üretim, bakım ve onarımını yapmak.
+
+c) Mevcut fiziki kapasiteyi değerlendirerek birimlerin faaliyet alanları ile sınırlı olarak iş ve hizmetler ile canlı materyal, tarım ve sanayi ürünleri, uzay ve bilişim teknolojilerine ait ürünleri ve diğer malları üretmek, elde edilen ürünleri ilgili mevzuat hükümlerine göre Rektörün izni alınmak şartıyla pazarlamak ve satışını yapmak üzere satış ve teşhir yerleri açmak.
+
+ç) Tarım ve sanayi kuruluşlarınca üretilen çeşitli mal ve hizmetlerin standartlara uygunluğu konusunda ilgili mevzuat hükümlerine göre raporlar düzenlemek, analiz ve ölçümler yapmak, projeler hazırlamak ve/veya uygulamak.
+
+d) Bilimsel sonuçların uygulanmasını ve teknolojiye dönüşümünü sağlamak.
+
+e) Danışmanlık, kontrol, muayene ve benzeri hizmetler vermek, analiz, ölçüm, test ve kalibrasyon yapmak.
+
+f) Faaliyet alanları çerçevesinde; fiziki kapasite oranında iş ve hizmet üretmek, bilgi işlem ve bilgisayar teknolojisini kullanarak her türlü iş ve hizmetleri yapmak, elektronik dizgi ve çoğaltma sistemleri ile kitap ve her türlü basılı evrak çoğaltmak, basmak, cilt ve baskı işleri yapmak, bunların satış ve pazarlamasını yapmak.
+
+g) Pedagojik formasyon, yabancı dil, yabancılara Türkçe öğretimi, bilgi işlem, yazılım ve donanım, bilirkişilik, arabuluculuk eğitimi gibi konularda eğitim hizmetleri faaliyetlerinde bulunmak.
+
+### MADDE 6 — Yönetim organları
+
+(1) Döner Sermaye İşletmesinin Yönetim Kurulu Üniversite Yönetim Kuruludur.
+
+(2) **(Değişik:RG-13/3/2021-31422)** Yönetim Kurulu, işletmeyi idare etmek üzere Yürütme Kurulu oluşturabilir ve yetkilerini uygun gördüğü ölçüde; sınırları belirli olmak ve yazılı olmak kaydıyla Yürütme Kuruluna devredebilir. Yürütme Kurulu, Üniversite Yönetim Kurulu tarafından seçilecek bir rektör yardımcısı, üç öğretim elemanı (dekan ve yüksekokul müdürü de olabilir) ve döner sermaye işletme müdürü olmak üzere beş kişiden oluşur.
+
+(3) Yürütme Kurulu Başkanın çağrısı ile en az üç üyenin katılımı ile toplanır ve kararlar oy çokluğu ile alınır.
+
+### MADDE 7 — Harcama yetkilisi
+
+**(Değişik:RG-13/3/2021-31422)**
+
+(1) Harcama yetkilisi, bütçe ile ödenek tahsis edilen her bir birimin en üst yöneticisi veya anılan görevi yürütmekle görevlendirilen kişidir. İlgili mevzuat hükümleri kapsamında; harcama yetkilileri, yazılı olarak ve sınırları açıkça belirtilmek şartıyla yetkilerini yardımcılarına veya hiyerarşik olarak kendilerine en yakın Üniversite personeline devredebilirler.
+
+### MADDE 8 — Sermaye limiti
+
+(1) İşletmenin sermaye limiti 1.000,00 (Bin) TL’dir.
+
+## ÜÇÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 9 — Yönetmelikte hüküm bulunmayan haller
+
+**(Değişik:RG-13/3/2021-31422)**
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde; 2547 sayılı Kanun, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 1/5/2007 tarihli ve 26509 sayılı Resmî Gazete’de yayımlanan Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği, Yükseköğretim Kurumları Döner Sermaye İşletmelerinin Kurulmasına İlişkin Yönetmelik ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 10 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 11 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Isparta Uygulamalı Bilimler Üniversitesi Rektörü yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>12/3/2019</td><td>30712</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>13/3/2021</td><td>31422</td></tr>
+<tr><td>2.</td><td></td><td></td></tr>
+</table>

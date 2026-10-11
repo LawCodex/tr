@@ -1,0 +1,193 @@
+---
+title: "SİİRT ÜNİVERSİTESİ HAYVAN ISLAHI VE GENETİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.32662"
+number: "32662"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-07-16
+official_gazette_date: 2019-07-16
+official_gazette_number: "30833"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32662&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# SİİRT ÜNİVERSİTESİ HAYVAN ISLAHI VE GENETİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Siirt Üniversitesi Hayvan Islahı ve Genetik Uygulama ve Araştırma Merkezinin amaçlarına, çalışma alanlarına, yönetim organlarına ve yönetim organlarının görevlerine ilişkin esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Siirt Üniversitesi Hayvan Islahı ve Genetik Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma esaslarına ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez : Siirt Üniversitesi Hayvan Islahı ve Genetik Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Siirt Üniversitesi Rektörünü,
+
+d) Senato: Siirt Üniversitesi Senatosunu,
+
+e) Üniversite: Siirt Üniversitesini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Bilimsel temelli ve uygulamalı araştırmalar yaparak; hayvancılık alanında genetik kaynaklarımızın azalması sorununun çözümüne yönelik araştırmalar yapmak.
+
+b) Çalışma alanıyla ilgili hayvancılık konusunda yeni yöntemlerin araştırılıp, geliştirilmesini sağlamak.
+
+c) Üniversite ile yerel işletmeler arasında iş birliği içerisinde araştırma-geliştirme çalışmaları yürütmek.
+
+ç) Üniversiteye bağlı olan tüm enstitü, fakülte, yüksekokul ve meslek yüksekokulu öğrencilerine uygulama imkânı sağlamak.
+
+d) Üniversitenin etki alanındaki hayvan yetiştiricilerinin eğitimine yönelik işlevleri yerine getirmek.
+
+e) Merkezin amaçları doğrultusunda lisans, yüksek lisans, doktora ve doktora sonrası araştırmacıların yer alabileceği araştırma projeleri geliştirmek, eğitim kursları düzenlemek, yerli ve yabancı bilim insanlarının katılabileceği forumlar ve konferanslar düzenlemek, bu programlar ve uygulamalar aracılığı ile Üniversitenin kamu kurum ve kuruluşları, özel sektör ve uluslararası kuruluşlarla ilişkilerinin geliştirilmesine katkıda bulunmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Üniversiteye tahsis edilen alanda hayvancılık işletmesinin kurularak uygulamalı araştırmaların yapılmasını sağlamak.
+
+b) Ön lisans, lisans ve lisansüstü öğretim programlarında yer alan uygulama, pratik çalışma ve staj için yer, materyal ve hizmet sağlamak.
+
+c) Yurt içinde ve yurt dışındaki benzer merkezlerle iş birliği yapmak ve bu amaçla bilimsel toplantılar düzenlemek.
+
+ç) Çalışma alanlarındaki faaliyetler için gerekli görülen laboratuvar, üretim binaları ve çalışma alanları kapsamında önerilen araştırma projelerini imkânlar ölçüsünde desteklemek.
+
+d) Geliştirilecek ve uygulanacak üretim model ve yöntemleri ile bölge üreticilerine önderlik etmek, üreticilere yönelik eğitici seminer, konferans ve kurslar düzenlemek.
+
+e) Ulusal ve uluslararası olmak üzere kamu ve özel sektör kurum ve kuruluşları ile iş birliği imkânlarını geliştirmek, ortak projeler üretmek, yayınlar yapmak, veri bankası ve dokümantasyon merkezi oluşturmak.
+
+f) Yönetim Kurulunun kararlaştıracağı diğer faaliyet ve etkinliklerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür aynı usul ile yeniden görevlendirilebilir. Müdür olmadığı zamanlarda, müdür yardımcılarından biri Müdüre vekâlet eder. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden Rektöre karşı sorumludur ve aynı zamanda Yönetim Kurulunun Başkanıdır.
+
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere Yönetim Kurulu üyeleri arasından iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün görev süresinin dolması ya da herhangi bir sebeple görevinden ayrılması halinde, müdür yardımcılarının da görevi sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Merkezin çalışmalarının düzenli bir biçimde yürütülmesini ve geliştirilmesini sağlamak.
+
+c) Yönetim Kurulu kararlarını uygulamak.
+
+ç) Yönetim Kurulunu toplantıya çağırmak, bu toplantıların gündemini hazırlamak ve toplantılara başkanlık etmek.
+
+d) Merkezin yıllık faaliyet raporunu ve bir sonraki yıla ait yıllık çalışma programını hazırlamak ve Yönetim Kurulunda onaylanmış şekli ile Rektöre sunmak.
+
+e) Projelerin yürütülmesinde ve araştırmalarla ilgili olarak ihtiyaç duyulduğunda Yönetim Kurulu ile birlikte Danışma Kurulunu toplantıya çağırmak.
+
+f) Yurt içi ve yurt dışı eğitim-öğretim, araştırma, uygulama, işletme ve benzeri faaliyetlerde bulunan ilgili kamu ve özel sektör kurum, kuruluş veya kişilerle iş birliği yaparak amacına uygun ve çalışma alanına giren konularda karşılıklı yardımlaşmayı gerçekleştirmek ve ilgili konularda resmi kuruluşlar ve sivil toplum kuruluşları ile iş birliği yapmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür ve Merkezin faaliyet alanlarıyla ilgili çalışmalarda bulunan Üniversite öğretim elemanları arasından üç yıl süre ile Rektör tarafından görevlendirilen 4 üye olmak üzere toplam 5 üyeden oluşur.
+
+(2) Yönetim Kurulu üyeleri Müdürün önerisi üzerine Rektör tarafından üç yıl için görevlendirilir. Görev süresi biten üye yeniden görevlendirilebilir. Görevden ayrılan üyenin yerine kalan süreyi tamamlamak için yeni üye görevlendirilir.
+
+(3) Yönetim Kurulu, Müdürün çağrısı üzerine toplanır ve Merkezin çalışmalarını gözden geçirerek ilgili konularda karar alır. Yönetim Kurulu; salt çoğunlukla toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulu idari ve bilimsel faaliyetlerde Müdüre yardımcı bir organ olup, aşağıdaki görevleri yapar:
+
+a) Bu Yönetmelikte belirlenen amaçlar doğrultusunda Merkezin çalışma ve yönetimi ile ilgili konularda kararlar almak.
+
+b) Merkezin yıllık faaliyet raporları ile yıllık çalışma programını görüşerek hazırlamak.
+
+c) Araştırma ve yayım konularında kararlar almak.
+
+ç) Merkezin çalışmaları için geçici çalışma grupları ve komisyonları kurmak ve personelin görevlendirilmesi için Rektörün onayına sunmak.
+
+d) Danışma Kurulunun görüş ve önerileri doğrultusunda yapılacak uygulamalarda Müdüre yardımcı olmak.
+
+e) Merkezin uzun vadeli bilimsel ve idari plan ve programlarını hazırlamak,
+
+f) Merkezin çalışma alanına giren diğer konularda kararlar almak.
+
+g) Merkezin düzenlediği kurs, seminer, konferans gibi eğitim çalışmaları sonunda başarı belgesi, sertifika ve benzeri belgelerin verilme koşullarını tespit ederek Rektörlüğe önermek.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Merkez projelerine özel uzmanlık alanlarında katkı sağlamak amacıyla Üniversiteye bağlı birimlerden ve istekleri halinde ilgili kamu ve özel sektör kurum ve kuruluş temsilcileri ve uzmanlar arasından, Yönetim Kurulunca belirlenen sayıda ve öngörülen süre için Rektör tarafından görevlendirilir. En fazla yedi kişiden oluşur. Gerektiğinde, Müdürün çağrısı üzerine ve Müdürün Başkanlığında toplanır.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri şunlardır:
+
+a) Araştırma projelerinin etkinlik ve verimliliğinin artırılmasına yardımcı olmak.
+
+b) Ortaya çıkan görüşleri akademik çalışmalara dönüştürerek, bir rapor halinde Merkeze sunmak.
+
+c) Yönetim Kuruluna bilimsel ve teknolojik danışmanlık yapmak ve kendisine sunulan konularda inceleme yaparak görüş bildirmek.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Ekipman ve demirbaşlar
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, makine, teçhizat ve demirbaşlar Merkezin kullanımına tahsis edilir.
+
+### MADDE 15 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 16 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+
+### MADDE 17 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Siirt Üniversitesi Rektörü yürütür.

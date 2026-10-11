@@ -1,0 +1,270 @@
+---
+title: "DUMLUPINAR ÜNİVERSİTESİ AFET VE ACİL DURUM YÖNETİMİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.20354"
+number: "20354"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2014-12-28
+official_gazette_date: 2014-12-28
+official_gazette_number: "29219"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20354&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# DUMLUPINAR ÜNİVERSİTESİ AFET VE ACİL DURUM YÖNETİMİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+**KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ AFET VE ACİL DURUM YÖNETİMİ EĞİTİM**
+
+**UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ (1)**
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+**(Değişik:RG-8/10/2018-30559)**
+
+(1) Bu Yönetmeliğin amacı, Kütahya Dumlupınar Üniversitesi Afet ve Acil Durum Yönetimi Eğitim Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+**(Değişik:RG-8/10/2018-30559)**
+
+(1) Bu Yönetmelik, Kütahya Dumlupınar Üniversitesi Afet ve Acil Durum Eğitim Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma esaslarına ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddelerine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) **(Değişik:RG-8/10/2018-30559)** Danışma Kurulu: Kütahya Dumlupınar Üniversitesi Afet ve Acil Durum Yönetimi Eğitim Uygulama ve Araştırma Merkezinin Danışma Kurulunu,
+
+b) Merkez (AFAMER): Afet ve Acil Durum Yönetimi Eğitim Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) **(Değişik:RG-8/10/2018-30559)** Rektör: Kütahya Dumlupınar Üniversitesi Rektörünü,
+
+d) **(Değişik:RG-8/10/2018-30559)** Üniversite: Kütahya Dumlupınar Üniversitesini,
+
+e) Yönetim Birimleri: Merkezin Yönetim Birimlerini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) **(Değişik paragraf:RG-30/10/2017-30225)** Merkezin amaçları; afet ve acil durum yönetim sürecinin temel unsurları olan oluşum, risk-zarar azaltma, hazırlık, müdahale ve iyileştirme ile mesleki yeterlilik ve iş sağlığı ve güvenliği konularında üniversitenin ilgili akademik-idari birimlerinin ortak çalışmasıyla ve gerektiğinde kamu kurum ve kuruluşları, özel sektör ve sivil toplum kuruluşları ile işbirliği içinde kentsel, bölgesel, ulusal ve uluslararası düzeyde bilimsel, eğitsel ve uygulamalı faaliyetlerde bulunmaktır. Bu çerçevede Merkezin amaçları şu konuları kapsar:
+
+a) Afet ve kaza yönetim sürecindeki konulara yönelik araştırma inceleme ve uygulama çalışmaları ile bilimsel bilginin üretilmesi, var olan bilgi birikimine ulaşılması ve yayılması, bu üretim ve birikimin kamu ve toplum yararına kullanılması.
+
+b) Afet ve kaza yönetim sürecindeki konulara yönelik bilimsel araştırma projelerinin ve sosyal sorumluluk projelerinin hazırlanması ve hayata geçirilmesi, yine çeşitli proje programlarından faydalanarak yeni tasarım, ürün ve yazılımların geliştirilmesi, ihtiyaç durumunda danışmanlık hizmetlerinin verilmesi ve bu suretle kamu ve özel sektöre hizmet sunulması.
+
+c) **(Değişik:RG-30/10/2017-30225)** Afet ve kaza yönetim sürecindeki konular ile mesleki yeterlilik ve iş sağlığı ve güvenliğine yönelik; örgün, uzaktan ve karma olmak üzere toplum bilinçlendirme eğitimleri ve sertifikalı eğitim programlarının düzenlenmesi.
+
+ç) Merkez bünyesinde operasyonel kabiliyeti olan afet ve acil durum yönetim ve müdahale biriminin oluşturulması ve gerekli malzeme, eğitim ve personel altyapısının sağlanması.
+
+d) **(Ek:RG-30/10/2017-30225)** Ulusal ve uluslararası ilgili standartlara uygun ulusal ve uluslararası alanlarda her türlü belgelendirme, TS EN ISO/IEC 17024 ve uluslararası ilgili standartlara uygun olarak personel belgelendirme, danışmanlık hizmeti, seminer, konferans, kongre, sempozyum, çalıştay, alan araştırması, sınav organizasyonu, her türlü eserlerin yayını, ulusal düzeyde Avrupa Birliği normlarına uyum sağlamak amacıyla meslek standartlarını geliştirmeye yönelik çalışmalar düzenlemek ve Üniversitenin kamu, özel sektör ve uluslararası kuruluşlarla işbirliğinin geliştirilmesinin sağlanması.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet ve çalışma alanına giren afet ve kazalar; Deprem, heyelan, kaya düşmesi, volkanik patlamalar ve tsunami, çığ, sel, hava kirliliği, asit yağmurları, orman yangınları, sert rüzgârlar, kuraklık, sıcak ve soğuk dalgası, kara kazaları, su kazaları, kimyasal biyolojik radyoaktif - nükleer kaza ve saldırılar, maden kazaları, ulaşım kazaları, sanayi ve iş kazaları, yangın, salgın - bulaşıcı hastalıklar, göçler, savaşlar ve terör saldırılarıdır.
+
+(2) Merkezin faaliyet alanları, birinci fıkrada belirtilen afet ve kazalara yönelik olarak aşağıdaki hususları kapsar:
+
+a) Afet yönetim sürecinin risk azaltma, hazırlık, müdahale ve iyileştirme aşamalarına yönelik olarak bilimsel düzeyde araştırma, inceleme, uygulama, saha çalışmaları ve benzeri akademik çalışmaların yapılması, desteklenmesi ve gerektiğinde ulusal ve uluslararası kurum, kuruluş ve merkezlerle iletişim ve işbirliği içinde bu çalışmaların yürütülmesi.
+
+b) Afet ve kaza yönetimi alanında; Araştırma, uygulama ve diğer akademik çalışmalar sonunda elde edilen bilimsel ve teknik bulgu ve sonuçların rapor, makale, bildiri, kitap, bülten, dergi ve benzeri yayımlarla duyurulması, ulusal ve uluslararası platformlarda tartışmaya açılması ve kesinleşen sonuçların devletin ilgili birimlerine sunulması.
+
+c) Ulusal ve uluslararası düzeyde seminer, konferans, panel, kongre, sempozyum gibi bilimsel toplantılar düzenlenmesi, düzenlenmesine katkı ve destek verilmesi, düzenlenen bu tür faaliyetlere katınılması.
+
+ç) Gerektiğinde Afet ve Acil Durum Başkanlığı, Sağlık Bakanlığı, Türk Kızılay’ı ve benzeri kamu kurum ve kuruluşları, yetkin sivil toplum kuruluşları ile işbirliği içinde çalışarak, ulusal ve uluslararası kurum ve kuruluşlar tarafından desteklenen ve hibelendirilen bilimsel araştırma ve uygulama projelerinin ve sosyal sorumluluk projelerinin üretilmesi, hayata geçirilmesi.
+
+d) Kamu kurum ve kuruluşları, sivil toplum kuruluşları ve özel sektör kuruluşlarının ihtiyaç ve talepleri doğrultusunda, ekonomik ve emniyetli çözümler sağlayacak etüt ve proje çalışmaları yapılması, bilirkişilik ve danışmanlık hizmeti sunulması.
+
+e) Afet ve kaza yönetiminin tüm araştırma konularına ilişkin olarak, bilgi teknolojisi alanında yeni yazılımların geliştirilmesi, yeni cihaz, makine, ekipman ve malzemenin tasarımı ve üretilmesi.
+
+f) Afet ve kazalara yönelik riskler ve bu risklerden korunma konularında, farkındalık, bilgilenme ve bilinçlenmeyi sağlayacak halk eğitimleri düzenlenmesi, bu konuda gerektiğinde ilgili üniversite birimleri, öğrenci toplulukları ve diğer kamu ve özel kurumlarla ortak çalışılması.
+
+g) Afetlerden korunma, müdahale ve iş sağlığı ve güvenliği konuları kapsamında; Resmi ve özel kuruluşlar ile Üniversite öğrencilerine ve personeline sertifikalı veya katılım belgeli eğitim ve kurs programları düzenlenmesi, bu kapsamda özellikle uygulama ve beceri yeterliliği gerektiren eğitim programları için ihtiyaç duyulacak, uzman ve eğitici kadronun istihdam edilmesi ve yetiştirilmesi, bu uygulama eğitimleri için gerekli diğer kaynakların ve alanların temin ve tahsis edilmesi.
+
+ğ) Merkez bünyesinde kurulacak olan afet ve acil durum yönetimi biriminde afet ve kazalara müdahale kabiliyeti olan müdahale ekiplerinin oluşturulması.
+
+h) Merkezin kuruluş amacına ve Yüksek Öğretim Kanununun amaç ve ilkelerine uygun diğer çalışmaların yapılması.
+
+ı) **(Ek:RG-30/10/2017-30225)** 6331 sayılı İş Sağlığı ve Güvenliği Kanunu hükümlerine göre iş yeri hekimliği, iş güvenliği uzmanlığı ve diğer sağlık çalışanı eğitimlerinin düzenlenmesi, eğitime katılanlara katılım belgesi verilmesi,
+
+i) **(Ek:RG-30/10/2017-30225)** ISO 17024 şartlarına, Türk Akreditasyon Kurumu tarafından öngörülen akreditasyon gerekliliklerine ve Mesleki Yeterlilik Kurumu tarafından belirlenen esaslarla uyumlu olarak ulusal ve uluslararası personel belgelendirme sertifikasyon eğitimi yapılması, sınav düzenlenmesi, belge, sertifika ve katılım belgesi verilmesi,
+
+j) **(Ek:RG-30/10/2017-30225)** Ulusal düzeyde Avrupa Birliği normlarına uyum sağlamak amacıyla meslek standartları geliştirmeye yönelik çalışmalar yapılması.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür; afet yönetimi konusunda bilimsel çalışmalar yapmış Üniversite öğretim üyeleri arasından, Rektör tarafından üç yıl süre ile görevlendirilir. Görev süresi biten Müdür tekrar görevlendirilebilir. Müdürün, kesintisiz olarak üç aydan fazla görevi başında bulunmaması durumunda, Rektör tarafından yeni bir Müdür görevlendirilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur.
+
+(2) Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere Yönetim Kurulu üyeleri arasından en fazla iki kişi, Rektör tarafından üç yıl süre ile müdür yardımcısı olarak görevlendirilebilir.
+
+(3) Müdür yardımcıları, Müdürün verdiği görevleri yürütür ve Müdürün görevi başında bulunmadığı zamanlarda yerine vekâlet eder. Müdürün görevi sona erdiğinde müdür yardımcılarının görevi de kendiliğinden sona erer. Süresi biten müdür yardımcısı da, yeniden görevlendirilebilir. Rektör gerektiğinde aynı usulle müdür yardımcılarını değiştirebilir. Müdür ve müdür yardımcılarının bulunmadığı durumlarda Yönetim Kurulu üyelerinden bir üye Müdüre vekillik eder.
+
+(4) Müdür, Merkezi temsil eder ve Merkezin amaçları doğrultusunda yönetimi ve işleyişinden birinci derecede sorumlu olup, bu yönde bütün tedbirleri alır ve uygular.
+
+(5) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Merkezin bu Yönetmelik ve ilgili mevzuata uygun olarak çalışmasını sağlamak.
+
+c) Gündemi belirleyerek Yönetim Kurulunu toplantıya çağırmak ve toplantıya başkanlık etmek.
+
+ç) Yönetim Kurulunca alınan kararları hayata geçirmek.
+
+d) Merkezin idari ve mali işlerini yürütmek, Merkezin birimleri arasında koordinasyonu ve işbirliğini sağlamak.
+
+e) Merkezin bilimsel, eğitsel ve uygulamalı faaliyetleri ile Merkezce desteklenen araştırma projelerinin yürütülüşünü ve işleyişini izlemek ve denetlemek, Yönetim Kuruluna bilgi vermek.
+
+f) Yönetim Kurulunca hazırlanan ve uygulamaya konulan etkinlikler hakkında Rektöre bilgi vermek.
+
+g) Merkezin personel ihtiyacını tespit etmek ve Yönetim Kurulunun görüşünü alarak Rektörlüğe sunmak.
+
+ğ) Merkez bünyesinde çalışan personelin görev ve sorumluluklarını belirlemek ve bu görevlerin; bu Yönetmelik ve diğer ilgili mevzuat hükümlerine göre sürdürülüp, sürdürülmediğini denetlemek.
+
+h) Her faaliyet dönemi sonunda Merkezin çalışmaları ile ilgili yıllık faaliyet raporunu ve sonraki yıla ilişkin faaliyet programını Yönetim Kurulunun görüşünü alarak Rektörlüğe sunmak.
+
+ı) Merkez çalışmalarının gerektirdiği görevlendirmeleri yapmak.
+
+i) Merkezin yıllık ve uzun vadeli yatırım bütçelerini hazırlamak ve Yönetim Kurulunun görüşünü alarak süresi içinde Rektöre sunmak.
+
+j) Merkezin finans kaynaklarının geliştirilmesi ve bunların en uygun biçimde kullanımını sağlamak amacıyla gerekli çalışmaları yapmak.
+
+k) Danışma Kurulunun gündemini belirlemek.
+
+l) Merkezce verilen hizmetleri planlamak ve uygulamaları denetlemek.
+
+m) Her faaliyet dönemi sonunda ve ayrıca isteği durumunda Rektöre sunulmak üzere, Merkezin araştırma ve uygulama faaliyetleri, işleyişi ve genel durumu hakkında Yönetim Kurulunun görüşünü de alarak rapor hazırlamak.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu, Merkezin karar organıdır.
+
+(2) Yönetim Kurulu; Müdürün önerisi ile Rektör tarafından üç yıl için görevlendirilen altı üye ve Müdür olmak üzere toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Süresi dolmadan boşalan üyelik için veya Üniversite dışında altı aydan uzun süreli görevlendirilen üyelerin yerine, kalan süreyi tamamlamak üzere aynı yöntemle yeni görevlendirme yapılır.
+
+(3) Yönetim Kurulu, en az iki ayda bir toplanır. Toplantı günü ve yeri üyelere toplantı tarihinden en az dört gün önce yazı ile bildirilir. Müdür gerekli gördüğünde Yönetim Kurulunu olağanüstü toplantıya çağırabilir. Yönetim Kurulu, üye tam sayısının salt çoğunluğuyla toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır. Müdür, ihtiyaç duyulduğunda Merkezde çalışan diğer uzman, eğitmen ve akademik personeli, görüş almak üzere oy hakkı olmadan, Yönetim Kurulu toplantılarına davet edebilir. Müdürün olmadığı zamanlarda toplantıya müdür yardımcısı başkanlık eder.
+
+(4) Yönetim Kurulunun görevleri aşağıda belirtilmiştir:
+
+a) Akademik bir organ olarak; Merkezin amacı ve faaliyet alanlarına ilişkin konularda Üniversitenin ilgili birimleri, kamu kurum ve kuruluşları, özel sektör ve sivil toplum kuruluşları ile birlikte yürütülecek yerel, ulusal, uluslararası bilimsel, eğitsel, uygulamalı faaliyetler için gerekli esasları ve ilkeleri belirlemek, protokolleri hazırlamak ve gerekli diğer düzenlemeleri yapmak.
+
+b) Merkezin; bilimsel, eğitsel ve uygulamalı boyutta beş yıllık stratejik planını ve bu plana bağlı yıllık planları ve programları hazırlayarak Rektörün onayına sunmak ve bu planların uygulanmasını sağlamak.
+
+c) Merkezin; planlanan faaliyetleri, uygulamaları, idari, mali ve bütçe konuları ile Yönetim Kurulunun, personel ve diğer kişi ve kurumların araştırma, eğitim, uygulama, danışmanlık ve bilimsel faaliyetler konularındaki görüş ve taleplerini değerlendirip karara bağlamak.
+
+ç) Her faaliyet dönemi sonunda yıllık faaliyet raporlarını görüşüp karara bağlamak, Rektörün onayına sunmak.
+
+d) Merkez bünyesinde yapılacak çalışmaların ve projelerin konularına ve özelliklerine göre yönetim birimlerine bağlı geçici veya sürekli çalışma grupları kurmak.
+
+e) Yönetim birimleri ve çalışma gruplarının koordinasyonunu sağlamak.
+
+f) Danışma Kurulunun görüş ve önerilerini değerlendirerek karara bağlamak.
+
+g) Merkezin idari ve teknik personel ihtiyaçlarını ve niteliklerini belirlemek, bu konuda Rektöre görüş bildirmek.
+
+ğ) Merkezin araç-gereç, malzeme, teçhizat ve benzeri diğer ihtiyaçları hakkında Rektöre görüş bildirmek, Rektörün isteği halinde bu doğrultuda rapor oluşturmak.
+
+h) İlgili mevzuatla verilecek diğer görevleri yapmak.
+
+### MADDE 10 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; afetler ve afet yönetimi konusunda bilgi ve tecrübesi olan yurt içi ve yurt dışında önemli çalışmalar yapmış birikimlerinden yararlanılabilecek Üniversitenin öğretim elemanları, mezunları ve Üniversite dışından yetkinliğini kanıtlamış kişiler arasından, Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına görevlendirilen en az yedi en çok onbeş üyeden oluşur. Görev süresi biten üyeler yeniden görevlendirilebilir. Görev süresi dolmadan herhangi bir sebepten dolayı üyeliği sona eren üyenin yerine, geriye kalan süreyi tamamlamak üzere yeni bir üye görevlendirilir. Kurula oy hakları olmaksızın Yönetim Kurulu üyeleri de katılabilir.
+
+(2) Rektör veya Rektörün görevlendireceği rektör yardımcısı, Danışma Kurulunun doğal başkanıdır. Müdür, Danışma Kurulu toplantılarına katılır ve Rektör veya rektör yardımcısının bulunmaması durumunda kurula vekâleten başkanlık eder. Danışma Kurulu, her faaliyet yılında en az bir kez olağan olarak salt çoğunlukla toplanır. Rektör, gerekli gördüğü hallerde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
+
+(3) Danışma Kurulu üyeleri, görevlendirme tarihinden itibaren en geç bir ay içinde toplanır ve bir başkan yardımcısı ile bir raportör seçerler. Danışma Kurulu üyeliğine seçilme ve üyeliğe son verme Yönetim Kurulu üye tam sayısının salt çoğunluğunun kararı ve Rektörün onayı ile olur.
+
+(4) Danışma Kurulu üyeleri kişisel görüşlerini yazılı olarak Müdüre sunabilirler.
+
+(5) Danışma Kurulu, Merkezin stratejik planları ve etkinlik alanlarıyla ilgili konularda değerlendirmeler yaparak, Yönetim Kuruluna görüş ve tavsiyelerde bulunur.
+
+### MADDE 11 — Uygulama birimleri
+
+(1) Uygulama birimleri, Merkezin bünyesinde gerçekleştirilecek bilimsel ve eğitsel uygulamalı çalışmaları ve diğer hizmetleri etkin ve verimli bir şekilde yürütmek amacıyla Yönetim Kuruluna bağlı olarak çalışan fonksiyonel organlardır. Uygulama birimlerinin başkanları Müdürün önerisi Yönetim Kurulunun onayı ile görevlendirilir.
+
+(2) Merkezin uygulama birimleri şunlardır:
+
+a) **(Değişik:RG-30/10/2017-30225)** Eğitim, bilimsel faaliyetler ve araştırma projeleri birimi.
+
+b) Özel hizmetler birimi.
+
+c) **(Değişik:RG-30/10/2017-30225)** Mesleki Eğitim Birimi.
+
+ç) Afet ve acil durum yönetim birimi.
+
+d) **(Ek:RG-30/10/2017-30225)** Sınav Ölçme, Değerlendirme, Belgelendirme ve Sertifikasyon Birimi.
+
+(3) Her bir uygulama biriminin altında çalışma grupları oluşturulabilir. Bu çalışma gruplarının başkanları ilgili uygulama birim başkanının önerisi ve Yönetim Kurulu onayıyla görevlendirilir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik, uzman ve idari personel ihtiyacı, Müdürün önerisi üzerine 2547 sayılı Yükseköğretim Kanununun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel ile karşılanır.
+
+### MADDE 13 — Ekipman ve demirbaşlar
+
+(1) Merkez tarafından desteklenen bilimsel, eğitsel ve uygulamalı faaliyetler kapsamında alınan her türlü alet, donanım ve demirbaşlar, Merkez hizmetlerine ve gerektiğinde de Üniversitenin kullanımına tahsis edilir.
+
+(2) Merkezin hizmetlerini yerine getirebilmesi için gerekli mekân, araç ve gereç ihtiyacı ilgili mevzuat hükümlerine göre Rektörlük tarafından karşılanır.
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+
+### MADDE 15 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri ile Yönetim Kurulu ve Senato kararları uygulanır.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+**(Değişik:RG-8/10/2018-30559)**
+
+(1) Bu Yönetmelik hükümlerini Kütahya Dumlupınar Üniversitesi Rektörü yürütür.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 8/10/2018 tarihli ve 30559 sayılı Resmi Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı ‘’ Dumlupınar Üniversitesi Afet ve Acil Durum Yönetimi Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği’’ iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.*
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>28/12/2014</td><td>29219</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1</td><td>30/10/2017</td><td>30225</td></tr>
+<tr><td>2</td><td>8/10/2018</td><td>30559</td></tr>
+<tr><td>3</td><td></td><td></td></tr>
+</table>

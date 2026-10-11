@@ -1,0 +1,171 @@
+---
+title: "ACIBADEM ÜNİVERSİTESİ SUÇ VE ŞİDDETLE MÜCADELE UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.22595"
+number: "22595"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2016-06-20
+official_gazette_date: 2016-06-20
+official_gazette_number: "29748"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22595&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ACIBADEM ÜNİVERSİTESİ SUÇ VE ŞİDDETLE MÜCADELE UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Acıbadem Üniversitesi Suç ve Şiddetle Mücadele Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Acıbadem Üniversitesi Suç ve Şiddetle Mücadele Uygulama ve Araştırma Merkezinin amaçlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (ASUMA): Acıbadem Üniversitesi Suç ve Şiddetle Mücadele Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Mütevelli Heyet: Acıbadem Üniversitesi Mütevelli Heyetini,
+
+d) Proje grupları: Merkezin proje gruplarını,
+
+e) Rektör: Acıbadem Üniversitesi Rektörünü,
+
+f) Üniversite: Acıbadem Üniversitesini,
+
+g) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyetleri
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır;
+
+a) Kadın, çocuk ve yaşlıya yönelik şiddetin önlenmesine yönelik olarak araştırmalar yapmak,
+
+b) Şiddet konusunda çalışan uluslararası ve ulusal kurum ve kuruluşlarla işbirliği yaparak ortak çalışmalar ve araştırmalar yapmak,
+
+c) Meslek grupları başta olmak üzere tüm halka yönelik süreli ve kısa dönemli eğitimler düzenlemek,
+
+ç) Şiddet ve önlenmesi konusunda uluslararası ve ulusal düzeyde toplantılar düzenlenerek kamuoyunu ve bu konuda çalışanları bilgilendirmek,
+
+d) Çalıştığı konularda süreli ve diğer her türlü elektronik ortamda ve basılı materyal hazırlamak ve yayınlamak,
+
+e) Suç ve şiddet konusunda çalışan sivil toplum kuruluşları ile birlikte ortak çalışmalarda bulunmak,
+
+f) Konuyla ilgili bakanlıklar ile kamu kurum ve kuruluşlarıyla işbirliği yapmak.
+
+### MADDE 6 — Merkezin faaliyetleri
+
+(1) Merkez, amaçlarını gerçekleştirmek için aşağıdaki faaliyetlerde bulunur;
+
+a) Şiddet konusunda ulusal ve uluslararası boyutta araştırmalar yapmak,
+
+b) Şiddet ve önlenmesi konularında her türlü eğitim çalışması yapmak,
+
+c) Disiplinler arası anlayışla ortak çalışmalar ve araştırmalar yapmak,
+
+ç) Konuyla ilgili akademik, sosyal ve finansal destek sağlamak,
+
+d) İlgili kurum ve kuruluşlarla bilgi alışverişinde bulunmak,
+
+e) Konuyla ilgili araştırma ve uygulama projeleri geliştirmek,
+
+f) Merkezin amaçları doğrultusunda Yönetim Kurulunca karar verilecek konularda faaliyetler yürütmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür; Merkezin faaliyet alanlarında bilgi ve deneyime sahip Üniversitede görevli öğretim üyeleri arasından, Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür; Merkezin bütün etkinliklerinin gözetim ve denetiminin yapılmasından ve sonuçlarının alınmasından Rektöre karşı birinci derecede sorumludur.
+
+(2) Müdür, kendisine çalışmalarında yardımcı olmak üzere, Merkezi oluşturan birimlerde görevli öğretim elemanları arasından en fazla iki kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Müdür yardımcıları aynı usulle görevden alınabilir.
+
+(3) Müdür, görevinden kısa süreli ayrılması halinde yardımcılarından birini vekil bırakır. Göreve vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır;
+
+a) Merkezi temsil etmek,
+
+b) Yönetim Kuruluna ve Danışma Kuruluna başkanlık etmek,
+
+c) Merkez çalışmalarının düzenli ve etkin bir biçimde yürütülmesi ve denetimi ile ilgili gerekli önlemleri almak,
+
+ç) Merkez çalışmalarının gerektirdiği görevlendirmeleri yapmak,
+
+d) Her öğretim yılı sonunda ve istendiğinde Merkezin genel durumu ve işleyişi hakkındaki raporunu Yönetim Kurulunun görüşünü aldıktan sonra Rektörün onayına sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, Müdürün Üniversitede görevli öğretim elemanları arasından önereceği Rektör tarafından üç yıl için görevlendirilen dört öğretim üyesinden oluşur.
+
+(2) Yönetim Kurulu; akademik bir organ olup, yılda en az dört kez ve gerektiğinde Müdürün çağrısı üzerine salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır;
+
+a) Merkezin çalışmalarıyla ilgili plan ve programların hazırlanmasını ve uygulanmasını sağlamak,
+
+b) Merkez elemanlarının eğitim, uygulama, araştırma, danışmanlık ve yayım konularındaki isteklerini değerlendirip önerilerde bulunmak,
+
+c) Müdürün, Merkezin yönetimi ile ilgili getireceği konuları değerlendirerek karar almak,
+
+ç) Gerekli gördüğü hallerde Merkezin faaliyetleri ile ilgili konularda geçici çalışma grupları kurmak ve bunların çalışmalarını düzenlemek,
+
+d) Merkezin sürekli eğitim programlarının planlanması, işbirliği ve iş bölümü çerçevesinde faaliyetlerin nasıl gerçekleştirilebileceğine ilişkin esasları kararlaştırmak,
+
+e) Rektörlükçe verilen diğer görevleri yapmak.
+
+### MADDE 12 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; Merkezin faaliyetleri ile ilgili alanlarda bilgi ve deneyime sahip Üniversite öğretim elemanları veya istekleri halinde Merkezin çalışma alanlarına katkıda bulunabilecek kamu ve özel kurum ve kuruluşlardaki kişiler arasından, Yönetim Kurulunca belirlenecek en fazla sekiz kişiden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Danışma Kurulu yılda en az bir kez Müdürün çağrısıyla toplanır. Merkezin faaliyetleri ile ilgili olarak değerlendirmede bulunur ve istişarî nitelikte görüş bildirir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, Müdürün önerisi üzerine 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 14 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Acıbadem Üniversitesi Rektörü yürütür.

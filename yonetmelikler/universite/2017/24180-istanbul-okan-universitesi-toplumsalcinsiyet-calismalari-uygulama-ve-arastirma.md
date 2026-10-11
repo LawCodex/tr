@@ -1,0 +1,185 @@
+---
+title: "İSTANBUL OKAN ÜNİVERSİTESİ TOPLUMSALCİNSİYET ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.24180"
+number: "24180"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2017-12-15
+official_gazette_date: 2017-12-15
+official_gazette_number: "30271"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24180&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTANBUL OKAN ÜNİVERSİTESİ TOPLUMSALCİNSİYET ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+**UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ (1)**
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak, Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, **(Değişik ibare:RG-27/01/2020-31021)** İstanbul Okan Üniversitesi Toplumsal Cinsiyet Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, organlarına ve bu organların görevlerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; İstanbul Okan Üniversitesi Toplumsal Cinsiyet Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, organlarına ve bu organların görevleri ile çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 ncimaddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+**(Değişik:RG-27/01/2020-31021)**
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: İstanbul Okan Üniversitesi Toplumsal Cinsiyet Çalışmaları Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: İstanbul Okan Üniversitesi Rektörünü,
+
+d) Üniversite: İstanbul Okan Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; eğitimde ve akademide toplumsal cinsiyet eşitliği anlayışının tüm politika ve programlara yerleşmesine katkı sağlamak üzere ileri düzeyde bilimsel araştırmalar yapmak, bilgi üretmek; disiplinler arası bir yaklaşımla, toplumsal cinsiyet sorunlarının çok yönlülüğünü ve çözümlerin de birbirleriyle etkileşimini gözönüne alarak kadınların siyaset ve ekonomiye katılımının teşvik edilmesine yönelik akademik ve uygulamaya açık çalışmalar yürütmek, cinsiyete ve cinsel yönelime dayalı ayrımcılığı ve cinsel tacizi önlemeye yönelik önlemlerin alınmasını sağlamak, Üniversite kamuoyunun bu konulardaki farkındalığını ve duyarlılığını yükseltmeye yönelik eğitim ve bilgilendirme faaliyetlerinde bulunmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez, 5 inci maddedeki amaçlarına ulaşabilmek için aşağıdaki faaliyetlerde bulunur:
+
+a) Toplumsal cinsiyet eşitsizliğinin temel bir problem olduğundan hareket ederek Üniversitede toplumsal cinsiyet eşitliğine ilişkin seminerler ve konferanslar düzenlemek, bilgilendirme toplantıları yapmak, bu konunun genel kabul görmesini sağlamaya yönelik olarak yöneticilere, idari ve akademik personele ve öğrencilere toplumsal cinsiyet eşitliği anlayışını kazandıracak faaliyetlerde ve düzenlemelerde bulunmak,
+
+b) Üniversitede düzenlenen kadın ve toplumsal cinsiyet odaklı etkinliklerin koordinasyonunu sağlamak,
+
+c) Merkezin ilgi alanına giren konularda faaliyette bulunan ulusal ve uluslararası, resmi veya özel kurum ve kuruluşlarla Merkezin amacı doğrultusunda işbirliğinde bulunmak, ortak çalışmalar düzenlemek, uygulama ve araştırma projeleri hazırlamak, bu projelere kaynak yaratmak ve projeleri uygulamak ve/veya uygulamalarının takibini yapmak,
+
+ç) Kadın hakları, toplumsal cinsiyet ile ilgili ulusal ve uluslararası düzeydeki normları, ilgili kararların, anlaşmaların kabulünü, uygulanmasını ve bunlara ilişkin benzer uygulamaları izlemek ve bu konulardaki değerlendirmeleri ilgililerin ve kamunun bilgisine sunmak,
+
+d) Cinsiyete ve cinsel yönelime dayalı şiddet ve ayrımcılığın önlenmesine ve toplumsal cinsiyet konularında farkındalık yaratmaya yönelik tedbir ve destek birimleri oluşturmak,
+
+e) Güvenli bir yaşam çevresi yaratılmasına ve bununla bağlantılı olarak cinsel taciz ve şiddeti engellemeye yönelik düzenlemeler ve çalışmalar yapmak,
+
+f) Disiplinler arası bir yaklaşımla, siyaset, ekonomi, hukuk, psikoloji, toplum, kültür, sanat ve sağlık alanlarını toplumsal cinsiyet perspektifinden incelemek, araştırmak ve bireylerin bu alanlarda üretime eşit katılımının teşvik edilmesine yönelik akademik çalışma yürütmek,
+
+g) Yurt içinde ve dışında toplumsal cinsiyet temelli sorunlarla ilgili konularda araştırma yapmak ve bunları kamuoyuna duyurmak, proje hazırlamak, danışmanlık hizmeti vermek,
+
+ğ) Üniversitede lisans, yüksek lisans ve doktora düzeyinde toplumsal cinsiyet sorunları ile ilgili dersler vermek, açılan, açılacak lisans, lisansüstü ve doktora programlarına destek vermek,
+
+h) Amaçlar doğrultusunda yayın yapmak, ilgili yayınların izlenebilmesi için Üniversite kütüphanesinde arşiv oluşturmak, ulusal ve uluslararası elektronik iletişim ağı kurmak,
+
+ı) Aynı alanda faaliyet gösteren kuruluşlarla akademik iletişim ağı oluşturmak,
+
+i) Değişik sektörlere mensup çalışanların meslek içi eğitimlerinde, toplumsal cinsiyet normları, cinsel kimlik, cinsiyet kimliği ve cinsel yöneliminden bağımsız olarak tüm bireylerin iş hayatında eşit temsil edilmesi ve işgücüne katılımlarının teşvik edilmesini hedefleyen, değişik sektörlerdeki iş yerleri ile işbirliği halinde eğitim çalışmaları hazırlamak ve yürütmek, mesleki kurslar, meslek içi eğitim ve sertifika programları, ulusal ve uluslararası düzeyde seminer, konferans ve çalışmalar düzenlemek,
+
+j) Üniversitenin Sağlık Bilimleri, Fen ve Sosyal Bilimler Enstitülerinde yüksek lisans/doktora çalışmaları yapan akademisyenleri, toplumsal cinsiyet sorunları ile ilgili çalışmalar yapmaya özendirmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları; Müdür, Yönetim Kurulu ve Danışma Kuruludur.
+
+### MADDE 8 — Müdür
+
+(1) **(Değişik:RG-27/01/2020-31021)** Müdür; Üniversitede tam gün çalışan öğretim elemanları ve/veya idari personel arasından üç yıl için Rektör tarafından görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir.
+
+(2) Müdüre yardımcı olmak üzere, Yönetim Kurulu üyelerinden birisi Müdür Yardımcısı olarak görevlendirilir. Müdür, görevi başında olmadığı zaman Müdür Yardımcısı kendisine vekâlet eder. Müdürün görevi sona erdiğinde Müdür Yardımcısının görevi de sona erer.
+
+(3) Müdürün, kesintisiz altı aydan fazla bir süre görevi başında bulunamaması durumunda yeni bir Müdür görevlendirilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil ve Yönetim Kuruluna başkanlık etmek.
+
+b) Yönetim Kurulu kararlarını bu Yönetmelik çerçevesinde uygulamak.
+
+c) Merkezin idari işlerini yürütmek, gerekli eşgüdüm ve denetimi sağlamak, yazışmaları yapmak.
+
+ç) Faaliyet raporunu Rektörlüğe sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) **(Değişik:RG-27/01/2020-31021)** Yönetim Kurulu; Müdür dâhil beş kişiden oluşur. Müdür dışındaki diğer üyeler, aylıklı ve devamlı statüdeki Üniversite öğretim elemanları arasından ve Senato tarafından üç yıllık süre için seçilir ve Rektör tarafından görevlendirilir. Süreleri dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen üyelerin yerine, kalan süreyi doldurmak üzere yenileri görevlendirilir.
+
+(2) Yönetim Kurulu, olağan olarak en az iki ayda bir veya gerekli olduğunda Müdürün çağrısı üzerine ve salt çoğunlukla toplanır. Kararlar, katılanların oy çokluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışma programını hazırlamak ve yürütmek.
+
+b) Merkezin yıllık faaliyet raporunu hazırlamak.
+
+c) Merkezin bünyesinde kurulacak bilimsel çalışma gruplarında görevlendirilecek öğretim elemanlarının seçimini yapmak ve görevlendirilmeleri için Rektörün onayına sunmak.
+
+ç) Araştırma ve uygulama projeleri, kurs ve benzeri eğitim önerilerini bilimsel çalışma kurullarının da katkıları ile değerlendirmek, görevlendirilecek kişi, kuruluş ve Üniversite birimlerini belirlemek.
+
+d) Üniversite dışı ulusal ve uluslararası kurum ve kuruluşlarla işbirliği esaslarını belirlemek, protokol taslaklarını hazırlamak ve Rektörlüğe sunmak.
+
+e) Merkezde görevlendirilecek idari ve teknik personelin seçimini yaparak Rektörün onayına sunmak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Müdür tarafından seçilen ve Rektör tarafından onaylanan en çok on kişiden oluşur.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Merkezin ulusal ve uluslararası bağlantılarını kolaylaştırmak, işbirliklerini sağlamakla yükümlü Danışma Kurulu, yılda en az bir kez Müdürün çağrısı üzerine ve onun başkanlığında toplanır; Merkezin çalışmaları ile ilgili değerlendirmeler yapar ve önerilerde bulunur.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 15 — Ekipman ve demirbaşlar
+
+(1) Merkez tarafından desteklenen araştırmalar kapsamında alınan her türlü alet, donanım ve demirbaşlar Merkez hizmetlerinin kullanımına tahsis edilir.
+
+### MADDE 16 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör, bu görevini Müdüre devredebilir.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+**(Değişik:RG-27/01/2020-31021)**
+
+(1) Bu Yönetmelik hükümlerini İstanbul Okan Üniversitesi Rektörü yürütür.
+
+\_\_\_\_
+
+*(1) 27/01/2020 tarihli ve 31021 sayılı Resmi Gazete’de yayımlanan değişiklik ile Yönetmeliğin başlığı ‘*Okan Üniversitesi Toplumsal Cinsiyet Çalışmaları Uygulama Ve Araştırma Merkezi Yönetmeliği*’ iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.*
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>27/4/2005</td><td>25798</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>27/1/2020</td><td>31021</td></tr>
+<tr><td>2.</td><td></td><td></td></tr>
+</table>

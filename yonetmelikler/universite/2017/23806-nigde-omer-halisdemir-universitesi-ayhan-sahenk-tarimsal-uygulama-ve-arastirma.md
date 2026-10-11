@@ -1,0 +1,194 @@
+---
+title: "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ AYHAN ŞAHENK TARIMSAL UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.23806"
+number: "23806"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2017-07-31
+official_gazette_date: 2017-07-31
+official_gazette_number: "30140"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23806&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ AYHAN ŞAHENK TARIMSAL UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+**NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ AYHAN ŞAHENK TARIMSAL UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ(1)**
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Niğde Ömer Halisdemir Üniversitesi Ayhan Şahenk Tarımsal **(Mülga ibare:RG-19/4/2023-32168)** Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma biçimine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Niğde Ömer Halisdemir Üniversitesi Ayhan Şahenk Tarımsal **(Mülga ibare:RG-19/4/2023-32168)** Uygulama ve Araştırma Merkezinin amaçlarına, faaliyetlerine, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Niğde Ömer Halisdemir Üniversitesi Ayhan Şahenk Tarımsal **(Mülga ibare:RG-19/4/2023-32168)** Uygulama ve Araştırma Merkezinin Danışma Kurulunu,
+
+b) Fakülte: Niğde Ömer Halisdemir Üniversitesi Tarım Bilimleri ve Teknolojileri Fakültesini,
+
+c) Merkez: Niğde Ömer Halisdemir Üniversitesi Ayhan Şahenk Tarımsal **(Mülga ibare:RG-19/4/2023-32168)** Uygulama ve Araştırma Merkezini,
+
+ç) Müdür: Niğde Ömer Halisdemir Üniversitesi Ayhan Şahenk Tarımsal **(Mülga ibare:RG-19/4/2023-32168)**  Uygulama ve Araştırma Merkezi Müdürünü,
+
+d) Rektör: Niğde Ömer Halisdemir Üniversitesi Rektörünü,
+
+e) Üniversite: Niğde Ömer Halisdemir Üniversitesini,
+
+f) Yönetim Kurulu: Niğde Ömer Halisdemir Üniversitesi Ayhan Şahenk Tarımsal **(Mülga ibare:RG-19/4/2023-32168)**  Uygulama ve Araştırma Merkezi Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Tarım bilimleri ve teknolojileri kapsamına giren tüm alanlarda araştırmalar, incelemeler ve uygulamalar yapmak.
+
+b) Bu çalışmaları desteklemek ve yayımlamak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Öncelikli olarak Niğde ve çevre illerdeki tarımsal sorunları belirlemek ve bu sorunların çözümüne yönelik bilimsel araştırmalar yapmak.
+
+b) Araştırma sonuçlarının uygulamaya aktarılması amacıyla eğitim vermek, yayım çalışmaları yapmak ve danışmanlık hizmetleri vermek.
+
+c) Tarımsal üretimin sürdürülebilirliğine katkı sağlayacak modern tarım tekniklerini geliştirmek ve uygulamak.
+
+ç) Üniversite bünyesinde tarımsal konularda yürütülecek her türlü eğitim, araştırma ve uygulama faaliyetleri için altyapı oluşturmak ve bu faaliyetlere destek vermek.
+
+d) Üniversitenin ilgili birimlerindeki öğrencilerin uygulama, staj ve tez çalışmaları için altyapı, materyal ve teknik destek sağlamak.
+
+e) Tarımsal araştırma projeleri için alan, materyal ve hizmet sağlayarak destek olmak.
+
+f) Üniversitenin tarımsal üretime uygun alanları için üretim planları yapmak.
+
+g) Hazırlanan yıllık planlar doğrultusunda üretime ayrılan ve/veya gerekirse kiralanan alanlarda, mevcut doğal kaynaklar, sermaye ve işgücünü kullanarak her türlü bitkisel ve hayvansal üretimi gerçekleştirmek, tarımsal ürünlerin depolanması, işlenmesi ve paketlenmesi gibi faaliyetleri organize etmek.
+
+ğ) Tarımsal sorunların belirlenmesi amacıyla çalıştay ve benzeri toplantılar düzenlemek, anket çalışmaları yapmak.
+
+h) Ülkenin genel tarım politikaları doğrultusunda tarımsal sorunların çözümü, tarımda verimliliğin artırılması, modern tarım tekniklerinin geliştirilmesi ve uygulamaya aktarılması vb. konularda projeler geliştirmek.
+
+ı) Üretim süreçlerinin yönetimi konusunda kamu ve özel sektör kuruluşlarına danışmanlık hizmeti vermek ve bilimsel araştırmalar yapmak.
+
+i) Tarımsal gen kaynaklarının korunması ve zenginleştirilmesine yönelik çalışmalar yapmak.
+
+j) Yerli bitki çeşitleri ve hayvan ırklarının geliştirilmesi amacıyla araştırmalar yapmak.
+
+k) Bölgenin tarımsal üretim deseninin çeşitlendirilmesine yönelik araştırmalar yapmak.
+
+l) Çiftçiler ve teknik personele yönelik kurs ve sertifika programları düzenlemek.
+
+m) Tescil veya ruhsatlandırmaya yönelik olarak çeşit, zirai ilaç, gübre, tarım alet ve makineleri için test ve denemeler yapmak.
+
+n) Tarımı yapılan ürünlerde hastalık ve zararlıların teşhis ve tedavisine yönelik faaliyetler yapmak, bitki ve hayvan klinikleri kurmak.
+
+o) Tarımsal ürünlerde kalite ve kalıntı analizleri yapmak ve raporlandırmak.
+
+ö) Araştırma sonuçlarının patente dönüştürülmesi ve elde edilecek damızlık, tohumluk vb. üretim materyalinin tescili konularında araştırıcılara destek sağlamak.
+
+p) **(Ek:RG-19/4/2023-32168)** Merkezde bulunan hayvansal araştırma ve uygulama alanlarında öğretim elamanları ve öğrencilerin araştırma ile uygulama becerilerinin geliştirilmesi için kamu ve özel sektör kuruluşlarıyla iş birliği protokollerine dayalı projeler yapmak.
+
+r) **(Ek:RG-19/4/2023-32168)** Merkezde tarım dışı arazilerin tarıma kazandırılması, etkinliğinin ve verimliliğinin artırılması için kamu ve özel sektör kuruluşlarıyla iş birliği protokollerine dayalı projeler geliştirmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Üniversitenin ilgili öğretim üyeleri arasından Rektör tarafından üç yıl süreyle görevlendirilir. Görev süresi biten Müdür yeniden görevlendirilebilir, görevlendirildiği usul ile görevden alınabilir. Müdür, Merkezin faaliyetlerinin düzenli olarak yürütülmesinden, gözetim ve denetiminden Rektöre karşı sorumludur.
+
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere ilgili öğretim elemanları veya Merkezde görevli tam zamanlı çalışan uzmanlar arasından en çok iki kişiyi müdür yardımcısı olarak görevlendirir.
+
+(3) Müdür, görevi başında bulunmadığı zamanlarda, yerine müdür yardımcılarından biri vekâlet eder. Vekâlet süresi altı ayı geçemez. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde, müdür yardımcılarının da görevleri kendiliğinden sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkeze bağlı personelin çalışma düzenini planlamak, yönetim ve denetimini yapmak.
+
+b) Merkez işletmelerinin yıllık faaliyetleri ile ilgili hazırlanan raporları, araştırma, uygulama ve yatırım proje tekliflerini inceleyerek kendi görüşleri ile birlikte Yönetim Kuruluna sunmak.
+
+c) Merkezin kadro ihtiyacı ile ilgili önerileri ve görüşülecek diğer konuları tespit ederek gerekçesi ile birlikte Yönetim Kuruluna sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu, Müdür ve müdür yardımcıları dâhil yedi kişiden oluşur. Diğer üyeler; Merkezin çalışma alanı ile ilgili öğretim üyeleri arasından, Üniversite Yönetim Kurulunun önerisi üzerine, Rektör tarafından görevlendirilir. Herhangi bir nedenle görevinden ayrılan Yönetim Kurulu üyesinin yerine, kalan süreyi tamamlamak için aynı yöntemle yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu, yılda en az iki kere salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Kuruluş amaçları doğrultusunda Merkezin faaliyet ve yönetimiyle ilgili kararlar almak, alınan kararların uygulanmasını ve denetimini sağlamak.
+
+b) Yıllık faaliyet raporunu görüşerek karara bağlamak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Rektörün başkanlığında, Yönetim Kurulu üyeleri, Fakülte Dekanı ile bölüm başkanları ve Döner Sermaye İşletme Müdüründen oluşur. Danışma Kuruluna gerektiğinde oy hakkı olmaksızın ilgili birim temsilcileri davet edilebilir.
+
+(2) Danışma Kurulu yılda en az bir kez salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+
+(3) Danışma Kurulu Merkezin çalışmaları ile ilgili tavsiye kararları alır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Yükseköğretim Kanununun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personelle karşılanır.
+
+### MADDE 14 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ve Senato kararları uygulanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Niğde Ömer Halisdemir Üniversitesi Rektörü yürütür.
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 19/4/2023 tarihli ve 32168 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı ‘‘Niğde Ömer Halisdemir Üniversitesi Ayhan Şahenk Tarımsal Araştırmalar Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.*
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>31/7/2017</td><td>30140</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>19/4/2023</td><td>32168</td></tr>
+</table>

@@ -1,0 +1,187 @@
+---
+title: "ÇUKUROVA ÜNİVERSİTESİ İŞ SAĞLIĞI VE GÜVENLİĞİ EĞİTİM, UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.19146"
+number: "19146"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2013-12-20
+official_gazette_date: 2013-12-20
+official_gazette_number: "28857"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19146&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ÇUKUROVA ÜNİVERSİTESİ İŞ SAĞLIĞI VE GÜVENLİĞİ EĞİTİM, UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Çukurova Üniversitesi Rektörlüğüne bağlı olarak kurulan Çukurova Üniversitesi İş Sağlığı ve Güvenliği Eğitim, Uygulama ve Araştırma Merkezinin amaçları, faaliyetleri, yönetim birimleri, bu birimlerin görevleri ile çalışma şekillerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Çukurova Üniversitesi İş Sağlığı ve Güvenliği Eğitim, Uygulama ve Araştırma Merkezinin faaliyetlerine, yönetim birimlerine, yönetim birimlerinin görevlerine ve çalışma şekillerine ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (ÇİSAM): Çukurova Üniversitesi İş Sağlığı ve Güvenliği Eğitim, Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Çukurova Üniversitesi Rektörünü,
+
+d) Üniversite: Çukurova Üniversitesini,
+
+e) Yönetim Kurulu: Merkezi Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Çalışma Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; Üniversite içindeki ilgili akademik birimlerin işbirliği ile yurt içinde ve yurt dışında, iş sağlığı ve güvenliği ile ilgili her alanda eğitim, bilimsel araştırma, uygulama, inceleme, klinik uygulama çalışmalarını yapmak ve danışmanlık hizmeti ile proje yürütücülüğü hizmeti vermektir.
+
+### MADDE 6 — Merkezin çalışma alanları
+
+(1) Merkezin çalışma alanları şunlardır:
+
+a) Yerel, ulusal veya uluslararası olmak üzere, iş sağlığı ve güvenliği ile ilgili her konuda eğitim, bilimsel araştırma, uygulama, inceleme, hizmet, klinik uygulama çalışmalarında bulunmak, aynı konularda yapılmakta olan çalışmalara katılmak ve desteklemek.
+
+b) İş sağlığı ve güvenliği konularında, ulusal veya uluslararası düzeyde kurs, seminer, konferans, sempozyum, kongre ve benzeri bilimsel etkinlikler düzenlemek.
+
+c) Çalışma alanları kapsamında üniversitelerde; tıpta uzmanlık, tıpta yan dal uzmanlığı dahil olmak üzere, lisans ve lisansüstü düzeylerde sürdürülen eğitim çalışmalarını desteklemek, bu eğitim programlarına yönelik uygulama ve araştırma olanakları sağlamak.
+
+ç) Üniversite bünyesindeki tüm çalışanların iş sağlığı ve güvenliğini sağlamak ve mevcut iş sağlığı ve güvenliği koşullarının iyileştirilmesi çalışmalarını yürütmek.
+
+d) Üniversite ile sanayi işbirliği çalışmalarına katkıda bulunmak, bu işbirliğini iş sağlığı ve güvenliği konularında yapan Üniversite birimleri arasında koordinasyon ve organizasyon çalışmalarını sürdürmek.
+
+e) İş sağlığı ve güvenliği konularında çalışan ve işveren temsilcilerine, çalışanlara eğitim vermek, yanı sıra bu alanda çalışan profesyonellere yönelik eğitim programları düzenlemek.
+
+f) İş sağlığı ve güvenliği konularında kamuoyu oluşmasına, bilinçlenmeye, çalışanların sağlık ve güvenliklerinin korunmasına katkıda bulunmak.
+
+g) Çalışma alanları ile ilgili kamu kurum ve kuruluşları ile işçi ve işveren kuruluşları, diğer üniversiteler, gerçek ve tüzel kurum ve kuruluşlarla, sosyal taraf temsilcileri ile işbirliği kurmak, çalışmalar sürdürmek, çalışmalarına katkıda bulunmak, bu kurum ve kuruluşların istek ve ihtiyaçları doğrultusunda araştırma, proje, analiz, laboratuvar incelemeleri ve benzeri çalışmalar yapmak, danışmanlık ve bilirkişilik hizmetleri vermek.
+
+ğ) Merkezin kuruluş amaçlarına uygun olarak basılı ve görsel olmak üzere, ulusal ve uluslararası yayım yapmak, süreli yayımlar çıkarmak, gelişme ve yayımların izlenebilmesi için kitaplık ve dokümantasyon merkezi oluşturmak.
+
+h) Üniversite bünyesinde bulunan, ilgili mevzuat kapsamında kamusal kurumlar ve Üniversite işbirliği ile faaliyet gösteren ya da yeni oluşturulacak olan, iş sağlığı ve güvenliği konularında hizmet sunan ve sunacak olan birimlerin oluşturulmasına, sürdürülmesine ve koordinasyonuna katkıda bulunmak.
+
+ı) İş sağlığı ve güvenliği konularında çalışma yürüten ulusal ve uluslararası kuruluşlarla, bu alanda çalışan uzman kişilerle iletişim ağı kurmak.
+
+i) Merkezin amaçları doğrultusunda, iş sağlığı ve güvenliği ile ilgili insan gücü ve donanımı en etkin biçimde kullanabilecek yapılanmayı sağlamak, 2547 sayılı Kanunun amaç ve ilkelerine uygun diğer çalışmaları yapmak.
+
+j) Yönetim Kurulunun kararlaştıracağı diğer çalışmalarda bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Yönetim Birimleri ve Görevleri
+
+### MADDE 7 — Merkezin yönetim birimleri
+
+(1) Merkezin yönetim birimleri şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür; Merkezin çalışma alanı ile ilgili Üniversitede görevli öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+
+(2) Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere, Merkezin çalışma alanı ile ilgili Üniversitede görevli öğretim üyeleri arasından bir kişi, üç yıl için Rektör tarafından Müdür Yardımcısı olarak görevlendirilir. Rektör gerektiğinde aynı yöntemle Müdür Yardımcısını değiştirebilir.
+
+(3) Müdür görevi başında bulunmadığı zamanlarda Müdür Yardımcısını vekil bırakır. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde Müdür Yardımcısının da görevi sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kurulu kararlarının uygulanmasını ve yürütülmesini sağlamak.
+
+c) Yurt içi ve dışındaki ilgili kurum ve kuruluşlarla işbirliği sağlamak.
+
+ç) Yönetim Kurulunu ve Danışma Kurulunu olağan ve olağan dışı toplantıya çağırmak.
+
+d) Yönetim Kurulu ve Danışma Kuruluna başkanlık etmek.
+
+e) Merkez çalışmalarının gerektirdiği görevlendirmeleri yapmak.
+
+f) Her öğretim yılı sonunda veya istenildiğinde Merkezin genel durumu ve işleyişi hakkındaki raporunu Yönetim Kurulunun görüşünü de aldıktan sonra Rektöre sunmak.
+
+(2) Müdür; Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin tüm etkinliklerinin gözetim ve denetiminden ve bu konularda gerekli önlemlerin alınmasından Rektöre karşı birinci derecede sorumludur.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, Müdür Yardımcısı ile Merkezin çalışma alanları ile ilgili Üniversite öğretim elemanları arasından Üniversite Yönetim Kurulunca önerilen ve Rektör tarafından üç yıl için görevlendirilen beş üye olmak üzere toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine, kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir.
+
+(2) Yönetim Kurulu; Merkezin eğitim, öğretim, bilimsel araştırma, proje, danışmanlık, uygulama, hizmet, yayın çalışmaları ve bu çalışmalarla ilgili esasları kararlaştırır. Yönetim Kurulu ayda en az bir kez olağan ve gerektiğinde olağan dışı olarak Müdürün çağrısı üzerine salt çoğunlukla toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışmalarıyla ilgili plan ve programların hazırlanmasını ve uygulanmasını sağlamak.
+
+b) Merkezin yatırım ve plan tasarısını hazırlamak ve onaylanmak üzere Rektöre sunmak.
+
+c) Merkez elemanlarının eğitim, araştırma, uygulama, danışmanlık ve yayım konularındaki isteklerini değerlendirip karara bağlamak.
+
+ç) Gerekli durumlarda Merkezin faaliyetleri ile ilgili geçici ya da sürekli çalışma grupları kurmak ve bunların görevlerini düzenlemek.
+
+d) Yurt içi ve yurt dışındaki kamu ve özel kuruluşlar ile ortaklaşa yürütülecek çalışmaların temel ilke, esas ve usullerini tespit etmek.
+
+e) Müdürün, Merkezin yönetimi ile ilgili getireceği konuları değerlendirerek karara bağlamak.
+
+f) Yönetim Kurulu üyelerinin veya Danışma Kurulunun getireceği konuları görüşüp karara bağlamak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Merkezin çalışma alanlarında deneyimli, Üniversitenin veya diğer üniversitelerin öğretim elemanları ile istekleri halinde ilgili kurum ve kuruluşlardaki uzman kişiler arasından, Yönetim Kurulunun önerisi üzerine Rektör tarafından seçilen en az on üyeden oluşur. Danışma Kurulunun Üniversite bünyesinde çalışan üyeleri Rektör tarafından, Üniversite dışındaki üyeleri ise Rektörün daveti/talebi üzerine ve ilgili kurum yetkilisinin onayı ile üç yıl için görevlendirilir. Boşalan üyeliklerin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni üye seçilir. Süresi biten üyeler yeniden seçilebilir.
+
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağan dışı olarak da toplantıya çağırabilir. Yönetim Kurulu üyeleri, Danışma Kurulu toplantılarına katılabilirler. Danışma Kuruluna Müdür başkanlık eder.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri; Merkezin çalışmaları ile ilgili olarak Yönetim Kurulunun istediği konularda değerlendirmeler yapmak, görüş ve önerilerde bulunmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Laboratuvar, araştırma ve uygulama birimleri
+
+(1) Yönetim Kurulu kararı ile Merkezin hedefleri doğrultusunda, etkinlik alanlarına uygun biçimde, laboratuvar, araştırma ve uygulama birimleri oluşturulabilir.
+
+### MADDE 15 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel ile karşılanır.
+
+### MADDE 16 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Merkez Müdürüne kısmen ya da tümüyle devredebilir.
+
+### MADDE 17 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde diğer ilgili mevzuat hükümleri ile Üniversite Senatosu kararları uygulanır.
+
+### MADDE 18 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 19 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Çukurova Üniversitesi Rektörü yürütür.

@@ -1,0 +1,330 @@
+---
+title: "DOĞAL GAZ PİYASASI TARİFELER YÖNETMELİĞİ"
+identifier: "7.5.22932"
+number: "22932"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2016-10-13
+official_gazette_date: 2016-10-13
+official_gazette_number: "29856"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22932&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# DOĞAL GAZ PİYASASI TARİFELER YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; doğal gaz piyasası faaliyetlerine ilişkin tarifelerin hazırlanması, incelenmesi, değerlendirilmesi, belirlenmesi, onaylanması, yayımlanması ve revizyonuna ilişkin usul ve esasların düzenlenmesidir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; tarifelere ilişkin genel ilkeler ile bağlantı, iletim ve sevkiyat kontrol, depolama, toptan satış ve perakende satış tarifelerine ilişkin usul ve esasları kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 20/2/2001 tarihli ve 4628 sayılı Enerji Piyasası Düzenleme Kurumunun Teşkilat ve Görevleri Hakkında Kanun ile 18/4/2001 tarihli ve 4646 sayılı Doğal Gaz Piyasası Kanunu (Elektrik Piyasası Kanununda Değişiklik Yapılması ve Doğal Gaz Piyasası Hakkında Kanun)’na dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar ve kısaltmalar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Başkan: Enerji Piyasası Düzenleme Kurulu Başkanını,
+
+b) BOTAŞ: Boru Hatları ile Petrol Taşıma Anonim Şirketini,
+
+c) Dağıtım şebekesi: Bir dağıtım şirketinin belirlenmiş bölgesinde, işlettiği doğal gaz dağıtım tesislerini ve boru hatlarını,
+
+ç) Dağıtım şirketi: Belirlenen bir şehirde doğal gazın dağıtımı ve mahalli gaz boru hattı şebekesi ile nakli faaliyetlerini yapmaya yetkili kılınan tüzel kişiyi,
+
+d) Depolama şirketi: Doğal gazın depolama faaliyetini gerçekleştirmek üzere yetkilendirilen tüzel kişiyi,
+
+e) Depolama: Günlük ve mevsimlik değişiklikleri karşılamak ve doğal gaz temininin azalması veya durması ile meydana gelen doğal gaz açığını gidermek amacıyla doğal gazın, sıvılaştırılmış doğal gaz (LNG) veya gaz olarak depolanmasını,
+
+f) İletim hizmet bedeli: İletim şirketinin sunduğu doğal gaz taşıma hizmeti kapsamında, şebekeden çekilen birim Sm3 doğal gaz için belirlenen bedeli,
+
+g) İletim kapasite bedeli: Tedarikçinin talep ettiği günlük azami doğal gaz miktarının iletim şebekesine getirdiği yüke ve tedarikçiye ayrılan azami günlük kapasiteye göre belirlenen bedeli,
+
+ğ) İletim şirketi: İletim faaliyetlerini gerçekleştiren tüzel kişiyi,
+
+h) İlgili mevzuat: Doğal gaz piyasasına ilişkin Kanun, Yönetmelik, Tebliğ, Genelge ve Kurul Kararı ile ilgili tüzel kişinin sahip olduğu lisans veya lisansları,
+
+ı) İthalatçı şirket: Doğal gazın toptan satış şirketlerine, serbest tüketicilere veya ihracatçı şirketlere satışı veya yurt dışına doğrudan satışı amacıyla yurt dışından LNG veya gaz formunda doğal gaz temin edilmesi faaliyetlerini gerçekleştiren tüzel kişiyi,
+
+i) Kanun: 18/4/2001 tarihli ve 4646 sayılı Doğal Gaz Piyasası Kanunu (Elektrik Piyasası Kanununda Değişiklik Yapılması ve Doğal Gaz Piyasası Hakkında Kanun)’nu,
+
+j) Kesintili doğal gaz satışı: İlgili taraflarca, sözleşme koşulları çerçevesinde, doğal gazın kesilebilmesi esasına dayanan satışını,
+
+k) Kesintili taşıma hizmeti: Sistem kullanıcıları ile iletim şirketi arasında, sözleşme koşulları çerçevesinde, doğal gaz taşıma hizmetinin kesilebilmesi esasına dayanan hizmeti,
+
+l) Kesintisiz doğal gaz satışı: Doğal gazın kesintisiz olarak sağlanması esasına dayanan satışını,
+
+m) Kesintisiz taşıma hizmeti: Sistem kullanıcıları ile iletim şirketi arasında doğal gaz taşıma hizmetinin kesintisiz olarak sağlanmasını,
+
+n) KUE: Temel Kullanım Usul ve Esaslarını,
+
+o) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+
+ö) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+
+p) Lisans: Tüzel kişilere piyasa faaliyetinde bulunabilmeleri için Kanun uyarınca Kurul tarafından her bir piyasa faaliyeti için verilen izin belgesini,
+
+r) Müşteri: Serbest veya serbest olmayan tüketiciyi,
+
+s) Ödeme bildirimi: 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu ile tanımlanan fatura ve fatura yerine geçen belgeler ile diğer mevzuat uyarınca kabul edilen ödeme belgelerini,
+
+ş) Parametre: Tarife hesaplamalarında, ilgili mevzuat uyarınca uygulanan formüllerde yer alan ve tarife uygulama dönemi süresince geçerli olan değerleri,
+
+t) Piyasa faaliyeti: Doğal gazın iletim, dağıtım, toptan satış, ithalat, ihracat ve LNG tesislerinde sıvı olarak veya yer altı ve yer üstü tesislerinde gaz veya sıkıştırılmış gaz olarak depolanması dahil olmak üzere alımı, satımı veya hizmet ve ticari faaliyetleri ile bu faaliyetlere ilişkin işlemlerden oluşan faaliyeti,
+
+u) Serbest olmayan tüketici (abone): Doğal gazı kendi kullanımı için dağıtım şirketlerinden almak zorunda olan gerçek veya tüzel kişiyi,
+
+ü) Serbest tüketici: Yurt içinde herhangi bir üretim şirketi, ithalat şirketi, dağıtım şirketi veya toptan satış şirketi ile doğal gaz alım-satım sözleşmesi yapma serbestisine sahip gerçek veya tüzel kişiyi,
+
+v) Sistem kullanım bedeli: Dağıtım şirketinin bir kWh doğal gazın müşteriye sunumu karşılığında elde edeceği; birim hizmet bedeli, amortisman bedelleri ve diğer faktörleri içeren, belli bir tüketim aralığındaki müşteriler tarafından ödenen, “birim hizmet ve amortisman bedeli” ya da “taşıma bedeli”ni,
+
+y) Standart metreküp (Sm3): On beş santigrat derece (15oC) sıcaklıkta ve bir virgül sıfır bin üç yüz yirmi beş (1,01325) bar mutlak basınçta 1 m3 (bir metreküp)’lük hacim dolduran, su buharı içermeyen ve üst ısıl değeri 9155 (dokuz bin yüzelli beş) kcal olan doğal gaz miktarını,
+
+z) ŞİD: 26/10/2002 tarihli ve 24918 sayılı Resmî Gazete’de yayımlanan Doğal Gaz Piyasası İletim Şebekesi İşleyiş Yönetmeliği uyarınca, iletim şirketlerince hazırlanan ve Kurul tarafından onaylanan şebeke işleyişine ilişkin düzenlemeleri,
+
+aa) Tarife uygulama dönemi: İlgili tarifenin yürürlükte olacağı, Kurul tarafından onaylanmış süreyi,
+
+bb) Tarife: Doğal gazın iletimi, dağıtımı, LNG veya gaz olarak depolanması ve satışı ile bunlara dair hizmetlere ilişkin fiyat, hüküm ve şartları içeren düzenlemeleri,
+
+cc) Tedarikçi: Serbest tüketicilere, toptan satış şirketlerine, ithalatçı şirketlere, ihracatçı şirketlere, CNG dağıtımı, iletimi ve satışı şirketlerine ve dağıtım şirketlerine doğal gaz satan ithalatçı şirketleri, toptan satış şirketleri ve üretim şirketlerini,
+
+çç) Ters yönde taşıma hizmeti: Ulusal iletim şebekesinde akış yönünün tersine yapılan taşıma hizmetini,
+
+dd) TÜFE: T.C. Başbakanlık Türkiye İstatistik Kurumu tarafından aylık olarak ilan edilen Tüketici Fiyat Endeksini,
+
+ee) Ulusal iletim şebekesi: Ulusal iletim sisteminin bir parçası olan yüksek basınçlı boru hatlarını,
+
+ff) Verimlilik hedefi: Dağıtım şirketlerinin verimliliğinin arttırılmasının teşvik edilmesi için; yurt içi ve/veya yurt dışı benzer uygulamalar göz önüne alınarak yüzde cinsinden tespit edilen parametre kapsamında belirlenen hedefi,
+
+gg) Yi-ÜFE: T.C. Başbakanlık Türkiye İstatistik Kurumu tarafından aylık olarak ilan edilen Yurt İçi Üretici Fiyat Endeksini,
+
+ifade eder.
+
+(2) Bu Yönetmelikte geçmekle birlikte tanımlanmamış diğer terim ve kavramlar ilgili mevzuattaki anlam ve kapsama sahiptir.
+
+## İKİNCİ BÖLÜM — Tarife Türleri ve Genel İlkeler
+
+### MADDE 5 — Tarife türleri
+
+(1) Piyasa faaliyeti kapsamında bu Yönetmelikte düzenlenen tarife türleri aşağıdadır:
+
+a) Bağlantı tarifeleri,
+
+b) İletim ve sevkiyat kontrol tarifeleri,
+
+c) Depolama tarifesi,
+
+ç) Toptan satış tarifesi,
+
+d) Perakende satış tarifesi.
+
+### MADDE 6 — Genel ilkeler
+
+(1) Tarifelerin düzenlenmesinde, doğal gazın müşterilere güvenilir, yeterli, kaliteli, sürekli ve düşük maliyetli olarak sunulması, mali açıdan sürdürülebilirliğin sağlanması, yatırıma imkân sağlayacak makul ölçüde kârlılık, rekabetin gelişiminin desteklenmesi, ekonomik verimlilik ve rekabet artışından sağlanan faydanın müşterilere yansıtılması, çapraz sübvansiyon yapılmaması, teşvik esaslılık, eşit taraflar arasında ayrım yapılmaması ve şeffaflık ilkeleri esas alınır.
+
+(2) Tarifelerde, tüzel kişilerin piyasa faaliyetleri ile doğrudan ilişkili olmayan hiçbir unsura yer verilmez.
+
+(3) Tarifesi düzenlemeye tabi tüzel kişilere uygulanan idari para cezaları hazırlanacak tarifelerde maliyet unsuru olarak yer almaz.
+
+(4) Tarifesi düzenlemeye tabi tüzel kişiler, ilgili mevzuat kapsamında belirlenen bedeller haricinde hiçbir bedel uygulayamaz.
+
+## ÜÇÜNCÜ BÖLÜM — Talep Edilecek Bilgi ve Belgeler, Tarife Başvurusu, Onayı ve Revizyonu
+
+### MADDE 7 — Talep edilecek bilgi ve belgeler
+
+(1) Tarifelerin belirlenmesi ve revizyonu amacıyla, tarifeleri düzenlemeye tabi tüzel kişiler tarafından, ilgili mevzuattaki hükümlere uygun olarak hazırlanan aşağıdaki bilgi ve belgelerden Kurumca istenenlerin sunulması zorunludur:
+
+a) Geçmiş yıllara ait mali tablolar,
+
+b) Bir sonraki uygulama dönemine ilişkin gelir-gider ve maliyet tahminleri,
+
+c) Geçmiş yıllara ait tüketim ve satış gerçekleşmeleri ile satışlara ilişkin tahakkuk ve tahsilat tutarları,
+
+ç) Bir sonraki uygulama dönemine ilişkin tüketim ve satış öngörüleri,
+
+d) Geçmiş yıllara ait yatırım gerçekleşmeleri,
+
+e) Bir sonraki uygulama dönemine ilişkin yatırım planları,
+
+f) Hizmet kalitesine ilişkin bilgiler.
+
+(2) Kurum tarife çalışmalarına esas olmak üzere, birinci fıkrada sayılanlara ilaveten gerekli gördüğü her türlü ek bilgi ve belgeyi lisans sahibi tüzel kişilerden isteyebilir ve ilgili tüzel kişileri doğrudan görüşmeye çağırabilir.
+
+### MADDE 8 — Tarife başvurusu ve onay
+
+(1) Kurul tarafından onaylanan tarifeler ve belirlenen usul ve esaslar, ilgili tüm gerçek ve tüzel kişileri bağlar.
+
+(2) İlgili tüzel kişilerce hazırlanacak tarife önerileri ile 7 nci maddede belirtilen bilgi ve belgeler, ilgili mevzuat uyarınca belirlenen süreler içerisinde Kuruma sunulur. Kurum ilgili tüzel kişilerin mali verileri ve tarife önerileri ile piyasa verilerinden hareketle tarifeleri belirler ve Kurul onayına sunar. Onaylanan tarifeler tarife uygulama dönemi boyunca ilgili tüzel kişiler tarafından uygulanır.
+
+(3) Usulüne uygun olarak yapılmadığı tespit edilen tarife başvuruları, eksiklikler giderilene kadar işleme konulmaz ve başvuru sahibine yazılı olarak bildirimde bulunularak, eksikliklerin giderilmesi amacıyla süre verilir. Tüzel kişinin başvurusunu zamanında yapmaması ve/veya eksiklikleri öngörülen sürede gidermemesi halinde tarifeler Kurul tarafından resen belirlenebilir. Ayrıca, ilgili tüzel kişi hakkında Kanunun 9 uncu maddesi hükümleri uygulanır.
+
+(4) İlgili tüzel kişiler, Kurul tarafından onaylanan güncel ve geçmiş tarifelerini, Kurumca belirlenen çerçevede kamuoyuna duyurmakla ve internet sayfalarında yayımlamakla yükümlüdür.
+
+### MADDE 9 — Mücbir sebepler ve tarife onayı
+
+(1) Mücbir sebeplerin gerçekleşmesi halinde, mücbir sebepler ortadan kalkana ve yeni tarifeler onaylanana kadar tarifeler Kurul tarafından resen belirlenir. Söz konusu uygulamanın tarifelere olan etkisi cari ve/veya bir sonraki tarife uygulama dönemine yansıtılır.
+
+### MADDE 10 — Tarife revizyonu
+
+**(Değişik:RG-27/9/2018-30548)**
+
+(1) Aşağıdaki hallerde tarifeler, ilgili tüzel kişinin talebi üzerine veya Kurum tarafından resen revize edilebilir:
+
+a) İlgili veya diğer mevzuat hükümlerinin tarife revizyonu gerektirmesi,
+
+b) Lisans tadillerinin tarifeleri açıkça etkileyebilecek değişikliklere yol açması,
+
+c) Mücbir sebep halleri veya bu hallerin sona ermesi,
+
+ç) Tarifeye esas parametrelerde önemli değişiklikler meydana gelmesi.
+
+(2) Tarife revizyonunun etkisi cari tarife uygulama dönemine ve/veya sonraki tarife uygulama dönemlerine yansıtılır.
+
+## DÖRDÜNCÜ BÖLÜM — Tarifeler
+
+### MADDE 11 — Bağlantı tarifeleri
+
+(1) Bağlantı tarifeleri, iletim veya dağıtım sistemine bağlantı karşılığında oluşan ve iletim ya da dağıtım şirketi tarafından iletim veya dağıtım sistemine bağlantısı yapılan gerçek veya tüzel kişiye tahakkuk ettirilen bağlantı bedeli ile bu bedellerin uygulanmasına ilişkin hüküm ve şartlardan oluşur.
+
+(2) İletim sistemine bağlantı karşılığında iletim şirketi tarafından serbest tüketicilere tahakkuk ettirilecek bağlantı bedeli, ŞİD hükümleri çerçevesinde ve bağlantı için eşit durumda olan serbest tüketiciler arasında ayrım yapılmaması ilkesi esas alınarak, iletim şirketi ile serbest tüketici arasında serbestçe belirlenir.
+
+(3) Dağıtım sistemine bağlantı karşılığında dağıtım şirketi tarafından serbest tüketicilere tahakkuk ettirilecek bağlantı bedeli, bağlantı için eşit durumda olan serbest tüketiciler arasında ayrım yapılmaması ilkesi esas alınarak, Kurul tarafından belirlenen usul ve esaslar çerçevesinde uygulanır.
+
+(4) Dağıtım şirketi tarafından sorumluluk alanı içindeki abonelere, Kurul tarafından onaylanan sabit bağlantı tarifeleri uygulanır.
+
+(5) Dağıtım şirketi tarafından bağlantıya ilişkin Kurul izni alınmak suretiyle, sorumluluk alanı dışındaki müşterilere yapılan bağlantılarda bağlantı bedeli, ilgili taraflar arasında serbestçe belirlenir.
+
+### MADDE 12 — İletim ve sevkiyat kontrol tarifeleri
+
+(1) **(Değişik:RG-27/5/2023-32203)** İletim ve sevkiyat kontrol tarifeleri; üretilen ve ithal edilen doğal gazın nakli için iletim şebekesinden yararlanan eşit taraflar arasında ayrım gözetmeksizin uygulanacak ve ŞİD kapsamında tanımlanan iletim bedeli ile üretilen, ithal ve ihraç edilen doğal gazın sevkiyat kontrolüne ilişkin bedeller ile tarifelerin uygulanmasına ilişkin hüküm ve şartlardan oluşur.
+
+(2) İletim bedeli, ilgili mevzuattaki hükümlere uygun olarak sabit ve değişken maliyetlerinin karşılanması ve yatırımların sürdürülmesi için makul bir getiri elde edilmesine izin verilecek şekilde belirlenir.
+
+(3) İletim bedeli, iletim kapasite bedeli ve iletim hizmet bedelinden oluşur. İlgili mevzuat hükümleri dikkate alınarak belirlenen iletim bedeli, iletim şirketi tarafından tedarikçiye tahakkuk ettirilir.
+
+(4) İletim şirketi Kuruma sunacağı tarife önerisinde; ters yönde, kesintili, kesintisiz ve benzeri taşıma hizmetleri için farklı tarifeler önerebilir.
+
+(5) İletim ve sevkiyat kontrol tarifeleri kapsamındaki bedeller, Kurul tarafından belirlenen usul ve esaslar ile ŞİD hükümleri esas alınarak hesaplanır.
+
+(6) **(Değişik:RG-27/5/2023-32203)** Kurum, transit iletim tarifelerini ve ihracata ilişkin iletim tarifelerini, Enerji ve Tabii Kaynaklar Bakanlığının görüşünü alarak yurt içi iletim tarifelerinden farklı usul ve esaslara göre tespit etme yetkisine sahiptir.
+
+### MADDE 13 — Depolama tarifesi
+
+(1) Depolama tarifesi, sıvılaştırılmış doğal gaz (LNG) ile yer altı doğal gaz depolama hizmeti karşılığında oluşan ve depolama şirketi tarafından depolama hizmeti verilen tüzel kişiye tahakkuk ettirilen bedeller ile bu bedellerin uygulanmasına ilişkin hüküm ve şartlardan oluşur.
+
+(2) Depolama bedellerinin, depolama lisansı sahibi tüzel kişiler tarafından işletilen depolama tesislerine ilişkin olarak Kurul tarafından onaylanmış KUE ile ilgili mevzuat hükümleri çerçevesinde ve eşit taraflar arasında ayrım yapılmaması ilkesi esas alınarak, depolama şirketi ile hizmet alan tüzel kişi arasında serbestçe belirlenmesi esastır.
+
+(3) Depolama tarifeleri, ülkedeki depolama kapasitesi yeterli seviyeye ulaşıncaya kadar Kurul tarafından belirlenebilir. Bu durumda tarifeler, Kurul tarafından belirlenen usul ve esaslar ile KUE hükümleri kapsamında tespit edilir.
+
+(4) Depolama bedelleri, ilgili mevzuattaki hükümlere uygun olarak sabit ve değişken maliyetlerin karşılanması ve yatırımların sürdürülmesi için makul bir getiri elde edilmesine izin verilecek şekilde belirlenir.
+
+### MADDE 14 — Toptan satış tarifesi
+
+(1) Toptan satış tarifelerinde, hakim durumun kötüye kullanılmaması, doğal gaz arz güvenliği ve düzenliliğinin sağlanması ile Kurulun bu konuda belirleyeceği diğer ilkelere uyulması esastır.
+
+(2) Doğal gaz toptan satış fiyatları bu ilkeler çerçevesinde doğal gaz alım satımı yapan taraflar arasında Kurul onayı olmaksızın ve/fakat Kurul tarafından belirlenen usul ve esaslara uygun olmak kaydıyla serbestçe belirlenir.
+
+### MADDE 15 — Perakende satış tarifeleri
+
+(1) Dağıtım şirketinin uygulayacağı perakende satış fiyatı, birim doğal gaz alım fiyatı, sistem kullanım bedeli ile vergi ve vergi benzeri mali yükümlülüklerden oluşur. Bu fiyat, dağıtım şirketinin uygulayacağı perakende satış fiyatının üst sınırını oluşturur. Dağıtım şirketi müşterilerden, ilgili mevzuatta belirlenen bedeller hariç olmak üzere, perakende satış fiyatının dışında herhangi bir ad altında bedel talep edemez.
+
+(2) Sistem kullanım bedeli, müşterilerin sisteme getirdikleri yük ve maliyetler ve/veya Kurul tarafından belirlenen tüketim kademeleri dikkate alınarak ilgili tüzel kişi için belirlenen verimlilik hedeflerine ulaşılması ölçüsünde, ilgili mevzuattaki hükümlere uygun olarak sabit ve değişken maliyetlerin karşılanması ve yatırımların sürdürülmesi için makul bir getiri elde edilmesine izin verilecek şekilde Kurul tarafından belirlenen usul ve esaslar çerçevesinde tespit edilir.
+
+(3) Dağıtım şirketlerinin bir tedarikçiden doğal gaz alan serbest tüketiciler için uygulayacağı sistem kullanım bedeli, Kurul tarafından belirlenen bedeli geçemez.
+
+(4) Dağıtım şirketi sistem kullanım bedeli uygulamalarında kendi müşterileri ile bir tedarikçiden doğal gaz alan serbest tüketiciler arasında ayrım yapamaz.
+
+(5) Kurul belirlenecek olan sistem kullanım bedelini, tüketim miktarlarını ve/veya müşteri gruplarını dikkate alarak kendi içinde kademelendirebilir. Kurul tarafından dağıtım bölgelerinin özellikleri dikkate alınarak farklı kademeler belirlenebilir.
+
+(6) Dağıtım şirketinin dağıtım bölgesi dışında bağlantı yaptığı müşteriler için uygulayacağı sistem kullanım bedeli, Kurul tarafından belirlenen bedeli geçemez.
+
+(7) Sistem kullanım bedeli dağıtım şirketi tarafından;
+
+a) Doğal gazı dağıtım şirketinden satın alan müşteriler için doğrudan müşterilere,
+
+b) Tedarikçiler tarafından dağıtım şebekesi vasıtasıyla müşterilere doğal gaz satışı yapılması durumunda ilgili müşterinin tedarikçilerine,
+
+tahakkuk ettirilir.
+
+## BEŞİNCİ BÖLÜM — Ortak Hükümler
+
+### MADDE 16 — Enflasyon oranı
+
+(1) Tarife hesaplamalarında dikkate alınacak enflasyon oranının tespitinde TÜFE ve/veya Yi-ÜFE esas alınır.
+
+### MADDE 17 — Tarifelerin uygulanması
+
+(1) Tarifelerin uygulanmasına ilişkin hüküm ve şartlar, her bir tarife türü için Kurul tarafından belirlenen usul ve esaslar ile ilgili mevzuat hükümleri çerçevesinde belirlenir.
+
+### MADDE 18 — Tarifeye esas birimler
+
+(1) İlgili tüzel kişiler, tarifelerindeki bedelleri, bağlantı bedeli hariç, enerji (kWh) ve 9155 kcal/m3 üst ısıl değer esas alınarak hacim (Sm3) bazında gösterir.
+
+(2) İlgili tüzel kişilerce tahakkuk ettirilen bedellere esas doğal gaz miktarının tespitinde doğal gazın özellikleri ve m3 cinsinden hacmi esas alınır. Doğal gazın ISO 6976 standardına göre bulunan üst ısıl değeri ile Sm3 cinsinden tespit edilen hacminin çarpımı sonucu bulunan enerji miktarı kWh cinsine çevrilerek belirlenir.
+
+### MADDE 19 — Vergi ve vergi benzeri mali yükümlülükler
+
+(1) Tüzel kişiler, tahsilatına aracı oldukları vergi ve vergi benzeri mali yükümlülükleri, ilgili kanunlarda aksine bir hüküm olmadıkça, düzenledikleri ödeme bildirimlerinde ayrı olarak gösterir.
+
+### MADDE 20 — Lisans iptali halinde uygulanacak hükümler
+
+(1) İlgili tüzel kişilerin lisanslarının sona ermesi veya iptali halinde, Kurulca hizmetin aksamaması için önceden alınacak tedbirler kapsamında, Kurum tarafından uygulanan tarifelere yönelik gerekli revizyon veya güncellemeler yapılabilir.
+
+## ALTINCI BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 21 — Yürürlükten kaldırılan yönetmelik
+
+(1) 26/9/2002 tarihli ve 24888 sayılı Resmî Gazete’de yayımlanan Doğal Gaz Piyasası Tarifeler Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 22 — Atıflar
+
+(1) 26/9/2002 tarihli ve 24888 sayılı Resmî Gazete’de yayımlanan Doğal Gaz Piyasası Tarifeler Yönetmeliğine yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+
+### GEÇİCİ MADDE 1 — İzmit Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi tarafından uygulanacak bedeller
+
+(1) DAG/183-33/028 numaralı dağıtım lisansı sahibi İzmit Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi tarafından özelleştirme tarihinden başlamak ve sekiz (8) yıl boyunca geçerli olmak üzere, sistem kullanım bedelleri olarak; aboneler için 1615 sayılı Kurul Kararı ile belirlenen birim hizmet ve amortisman bedeli, serbest tüketiciler için aynı Kurul Kararı ile belirlenen taşıma bedeli uygulanır.
+
+### GEÇİCİ MADDE 2 — Başkent Doğal Gaz Dağıtım Gayrimenkul Yatırım Ortaklığı Anonim Şirketi tarafından uygulanacak bedeller
+
+(1) DAG/1298/162 numaralı dağıtım lisansı sahibi Başkent Doğal Gaz Dağıtım Gayrimenkul Yatırım Ortaklığı Anonim Şirketi tarafından, hisselerinin özelleştirilmesine dair hisse satış sözleşmesinin imza tarihini takip eden sekiz yıl süresince geçerli olmak üzere sistem kullanım bedelleri; 4646 sayılı Kanun ile belirlenen birim hizmet ve amortisman bedeli ve taşıma bedeli adı altında uygulanır. Aynı süre boyunca, birim hizmet ve amortisman bedeli ile taşıma bedeli uygulamasında 800.000 Sm3 tüketim miktarı dikkate alınır.
+
+### GEÇİCİ MADDE 3 — İhale şartnamelerinde belirlenen sürede uygulanacak bedeller
+
+(1) Kurumun yaptığı ihale sonucunda şehir içi doğal gaz dağıtım lisansı alan tüzel kişilerin ihale şartnamelerinde belirlenen süre boyunca abonelerine uygulayacakları perakende satış fiyatı; birim doğal gaz alım fiyatı, sistem kullanım bedeli ile vergi ve vergi benzeri mali yükümlülükler toplamından oluşan perakende satış fiyatı üst sınırını geçemez. Bu tüzel kişilerin ihale şartnamelerinde belirlenen süre boyunca uygulayacağı sistem kullanım bedeli ihalede teklif etmiş oldukları birim hizmet ve amortisman bedeline eşittir. Bu tüzel kişilerce serbest tüketicilere uygulanacak sistem kullanım bedeli ihalede teklif etmiş oldukları birim hizmet ve amortisman bedeli üst sınırını geçemez.
+
+(2) Birinci fıkra kapsamındaki tüzel kişilerin abonelere yapacakları bağlantı karşılığında uygulayacakları abone bağlantı bedeli, ihale şartnamelerinde belirlenen süre boyunca uygulanmak üzere, ihalede teklif etmiş oldukları abone bağlantı bedeli üst sınırını geçemez.
+
+### GEÇİCİ MADDE 4 — Tüketim kademesi uygulaması
+
+(1) Kurul tarafından sistem kullanım bedellerine ilişkin uygulamalar belirlenene kadar, 800.000 Sm3 tüketim miktarının altında tüketimi olan müşterilere birim hizmet ve amortisman bedeli, bu miktarın üzerinde tüketimi olan müşterilere taşıma bedeli uygulanır.
+
+### MADDE 23 — Yürürlük
+
+(1) Bu Yönetmelik 1/1/2017 tarihinde yürürlüğe girer.
+
+### MADDE 24 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Başkan yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>13/10/2016</td><td>29856</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1</td><td>27/9/2018</td><td>30548</td></tr>
+<tr><td>2</td><td>13/10/2018</td><td>30564</td></tr>
+<tr><td>3</td><td>27/5/2023</td><td>32203</td></tr>
+</table>

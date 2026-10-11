@@ -1,0 +1,230 @@
+---
+title: "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ ANKARA ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.34016"
+number: "34016"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-12-09
+official_gazette_date: 2019-12-09
+official_gazette_number: "30973"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34016&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ ANKARA ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Ankara Yıldırım Beyazıt Üniversitesi Ankara Araştırmaları Uygulama ve Araştırma Merkezi (AYBÜ ANKARAMER)’in amacını, teşkilat, yönetim ve yönetim organlarının çalışma usul ve esaslarını düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Ankara Yıldırım Beyazıt Üniversitesi Ankara Araştırmaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: Ankara Yıldırım Beyazıt Üniversitesi Ankara Araştırmaları Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Ankara Yıldırım Beyazıt Üniversitesi Rektörünü,
+
+d) Senato: Ankara Yıldırım Beyazıt Üniversitesi Senatosunu,
+
+e) Üniversite: Ankara Yıldırım Beyazıt Üniversitesini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Ankara’nın, başta günümüzdeki merkez ve ilçeleri olmak üzere, geçmişten bugüne tarihi süreç içerisinde idari yapısı içinde yer almış çevresinin; tarihi, yerleşme durumu, nüfus yapısı ve özellikleri, idari yapısı, sosyal ve ekonomik durumu, idari, siyasi, sosyal ve dini kurumları ile din, eğitim, sağlık, kültür, sanat, edebiyat gibi alanlarla, araştırma alanında yaşayan insan unsuru üzerine çeşitli akademik ve bilimsel araştırmalar, incelemeler ve yayınlar yapmak.
+
+b) (a) bendinde belirtilen konular üzerine çalışmalar yapacak olan kişilere ve kurumlara; bilgi aktarma, beceri kazandırma, danışmanlık ve rehberlik yapma gibi faaliyetleri yerine getirmek ve organize etmek.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez, amaçları doğrultusunda aşağıdaki faaliyetlerde bulunur:
+
+a) Ankara’nın başta merkez ve ilçeleri olmak üzere çevresi ile ilgili her türlü bilimsel ve akademik araştırmalar yapmak; projeler hazırlamak; sempozyumlar, paneller, konferanslar, çalıştaylar ve benzeri faaliyetler düzenlemek; buralarda ele alınan konuları ve sonuçları kamuoyu ve bilim dünyası ile paylaşmak, yayınlar (yazılı, görsel, işitsel, dijital ve benzeri) yapmak.
+
+b) Ankara’nın merkez ve ilçelerinin, geçmişten günümüze uzanan tarihi sürecine ışık tutacak, kent belleğini oluşturmaya katkı sağlayacak arşiv, kütüphane ve arkeolojik malzemelerin suretlerini (mümkünse asıllarını) toplamak/elde etmek, tarihi malzeme olarak tespitini yapmak, envanterini çıkartmak, transkripsiyonunu yapmak/yaptırmak, elde edilen bilgi, belge ve materyalleri kamuoyunun istifadesine sunmak, sözlü tarih çalışmaları yapmak, somut ve somut olmayan kültürel mirası ortaya çıkarmak ve araştırma konusu olan şehrin tarihi üzerine farkındalık oluşturmak.
+
+c) Üniversitemizin kurulduğu mahalde gerçekleşen 1402 tarihli Ankara Savaşı, bu savaşın alanı ve tarafları üzerine yazılı, sözlü, görsel, işitsel ve benzeri akademik ve bilimsel çalışmalar yapmak.
+
+ç) Merkezin amacı doğrultusunda Osmanlı Türkçesi ve arşiv belgelerinin diplomatik özellikleri üzerine eğitim vermek, kurslar düzenlemek ve bu eğitimler sonrası katılımcılara ilgili mevzuat hükümleri çerçevesinde sertifika vermek.
+
+d) Merkezin amacına uygun yurt içinde ve yurt dışında sergiler düzenlemek ve tanıtımlar yapmak.
+
+e) Merkezin amacına uygun tarihi ve güncel konularla ilgili analizler yapmak, raporlar ve projeler hazırlamak.
+
+f) Merkezin amacına uygun olarak, ulusal ve uluslararası kurum ve kuruluşlarla iş birliği yapmak, ortak akademik ve bilimsel çalışmalar yapmak.
+
+g) Merkez ile ilgili Üniversite tabanlı web sayfası oluşturmak ve bu sayfa için veri toplamak.
+
+ğ) Merkezin amacına uygun diğer çalışmaları yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür; Üniversitenin **(Değişik ibare:RG-30/6/2022-31882)** öğretim elemanları arasından, Rektör tarafından en fazla üç yıl süre ile görevlendirilir. Görev süresi biten Müdür yeniden görevlendirilebilir.
+
+(2) Müdür görevi başında bulunmadığı hallerde, yardımcılarından birini yerine vekil bırakır.
+
+(3) Müdür, görevlendirilmesindeki aynı usulle görevden alınabilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı birinci derecede sorumlu olup, Merkezi temsil eder. Müdürün başlıca görevleri şunlardır:
+
+a) Merkezin idari işlerini yürütmek.
+
+b) Üniversitenin idari birimleri ve Üniversite dışı kurum ve kişilerle yazışmalar yapmak.
+
+c) Merkezin amaçları doğrultusunda Merkezin yönetimi ve işleyişi konusunda tedbirleri almak ve uygulamak.
+
+ç) Yönetim Kurulu ve Danışma Kurulunun gündemini oluşturmak, üyeleri toplantıya çağırmak, Yönetim Kuruluna başkanlık etmek ve Yönetim Kurulunda alınan kararları uygulamak.
+
+d) Merkez tarafından desteklenen araştırma projelerinin yürütülüşünü ve işleyişini izlemek ve denetlemek.
+
+e) Merkeze bağlı çalışma ofisinin kaliteli hizmet vermesi ve ilgili cihaz, araç ve gereçlerin maksimum verimle kullanımı, sağlıklı işlemesi ve çalışması için her türlü tedbiri almak ve uygulamak.
+
+f) Merkez tarafından verilen hizmetleri planlamak ve uygulamaları denetlemek, bu çerçevede konu ile ilgili kurum ve kuruluşlarla ilişki kurmak.
+
+g) Merkezin yıllık faaliyet raporunu, Yönetim Kurulunun görüşünü alarak süresi içinde Rektöre sunmak.
+
+ğ) Merkezin finans kaynaklarının geliştirilmesi ve bunların en uygun biçimde kullanımı amacı ile girişimlerde bulunmak.
+
+h) Danışma Kurulunca belirlenen görüş ve önerilerden uygulamaya konulanlar hakkında Danışma Kuruluna rapor sunmak.
+
+ı) Merkezde görev alacak her türlü akademik, idari, teknik ve diğer personel ihtiyacını ve görevlendirilmeleriyle ilgili teklifleri Rektörlüğe sunmak.
+
+i) Rektör tarafından verilen merkezin amacına uygun diğer görevleri yapmak.
+
+### MADDE 10 — Müdür yardımcıları
+
+(1) Müdür, çalışmalarında kendisine yardımcı olmak üzere, Üniversitenin tam zamanlı çalışan öğretim elemanları arasından en fazla iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar.
+
+(2) Müdür yardımcılarının görev süresi üç yıldır. Görev süresi biten müdür yardımcısı yeniden görevlendirilebilir. Görevinden ayrılan müdür yardımcısının yerine kalan süreyi tamamlamak üzere yenisi görevlendirilir. Müdürün görevi sona erdiğinde, müdür yardımcılarının da görevi sona erer.
+
+(3) Müdürün görevlendireceği müdür yardımcısı, Müdürün katılamadığı toplantılara başkanlık eder ve Müdürlüğe altı aya kadar vekâlet eder.
+
+### MADDE 11 — Müdür yardımcısının görevleri
+
+(1) Müdür yardımcısı, Müdüre karşı sorumlu olup görevleri şunlardır:
+
+a) Kendisine bağlı birimlerin amacına uygun olarak işleyişini sağlamak, buna ilişkin tüm tedbirleri almak ve uygulamak.
+
+b) Müdürün görevlerinin yerine getirilmesine yardımcı olmak.
+
+c) Müdürün vereceği görevleri yapmak.
+
+ç) Gerekli hallerde Müdüre vekâlet etmek.
+
+### MADDE 12 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür, müdür yardımcıları ve Müdürün önerdiği Merkezin faaliyet alanında eğitimi ve deneyimi olan ya da Merkezin amaçlarına katkı sağlayabilecek nitelikteki öğretim elemanları arasından Rektör tarafından üç yıl süre ile görevlendirilen dört üye ile birlikte toplam yedi kişiden oluşur. Süresi biten üyeler tekrar görevlendirilebilir. Süresi dolmadan boşalan üyelik için veya Üniversite dışında altı aydan uzun süreli görevlendirilen üyelerin yerine kalan süreyi tamamlamak üzere yeni görevlendirme yapılır.
+
+(2) Görev süresi dolan üye yeniden görevlendirilebilir.
+
+(3) Yönetim Kurulu, Müdürün çağrısı üzerine altı ayda en az bir kez olmak üzere toplanır.
+
+(4) Yönetim Kurulu, Müdürün daveti üzerine salt çoğunluk ile toplanır ve kararlar toplantıya katılanların salt çoğunluğuyla alınır. Oyların eşitliği halinde, Müdürün veya toplantı başkanının kullandığı oy yönünde çoğunluk sağlanmış kabul edilir. Mazereti olmadan toplamda üç toplantıya katılmayan üyenin üyeliği düşer.
+
+### MADDE 13 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışma ve yönetimi ile ilgili kararları almak.
+
+b) Merkezin ilgili esaslara uygun olarak araştırma alanlarına ilişkin uygulama, plan ve prosedürlerinin taslaklarını hazırlamak ve Rektörün onayına sunmak.
+
+c) Merkezin yıllık faaliyet raporunu ve yıllık çalışma programını görüşerek karara bağlamak.
+
+ç) Merkezde yürütülecek araştırma projelerinin desteklenme esaslarını tespit etmek, bu esaslar doğrultusunda desteklenecek projeleri belirlemek, Rektörün onayına sunmak ve bunların yürütülmesini izlemek.
+
+d) Merkezin bünyesinde kurulacak olan birimler ile çalışma ve proje gruplarını oluşturmak, çalışma usul ve esaslarını belirlemek.
+
+e) Müdürlükçe hazırlanan programları incelemek ve karara bağlamak.
+
+f) Mali ve idari işlerde Müdüre yardımcı olmak üzere karar almak.
+
+g) Müdür tarafından önerilen konuları karara bağlamak.
+
+ğ) Danışma Kurulunda belirlenen görüş ve öneriler hakkında karar almak.
+
+### MADDE 14 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; Yönetim Kurulunca teklif edilen, Üniversitenin Merkeze katkı sunabilecek alanlarda akademik faaliyetler ve/veya araştırma faaliyetleri gerçekleştiren anabilim dalları, bölümleri, diğer araştırma merkezleri, fakülteleri ve benzeri birimlerinin yanı sıra bu alan ile ilgili kamu ve özel sektör, ulusal ve uluslararası sivil toplum kuruluşları, yasal otoriteler, meslek örgütleri gibi organizasyonlardan belirlenmiş en fazla on beş kişiden oluşur. Danışma Kurulu üyeleri üç yıl için seçilir. Görev süresi dolan Danışma Kurulu üyesi yeniden seçilebilir. Danışma Kurulu, Müdürün yazılı daveti üzerine yılda en az bir kez toplanır.
+
+(2) Yönetim Kurulunca Üniversite dışından önerilen Danışma Kurulu üyeleri ile ilgili görevlendirme talepleri Rektör tarafından yapılır.
+
+(3) Danışma Kurulu Merkezin çalışmaları konusunda görüş ve önerilerini Yönetim Kuruluna bildirir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 15 — Çalışma/proje grupları
+
+(1) Gerektiğinde Müdürün önerisi ve Yönetim Kurulu kararı ile Merkezin çalışma alanına giren konularda iş bölümü yapmak üzere, Merkez birimleri ile çalışma grupları veya proje grupları kurulabilir.
+
+### MADDE 16 — Personel ihtiyacı
+
+(1) Merkezin sekretarya, akademik, idari ve teknik personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+(2) Merkezin bünyesinde, ihtiyaca göre Yükseköğretim Kanununun 46 ncı maddesine göre kısmi zamanlı öğrenci çalıştırılabilir.
+
+### MADDE 17 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+
+### MADDE 18 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 19 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 20 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Ankara Yıldırım Beyazıt Üniversitesi Rektörü yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>9/12/2019</td><td>30973</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>30/6/2022</td><td>31882</td></tr>
+</table>

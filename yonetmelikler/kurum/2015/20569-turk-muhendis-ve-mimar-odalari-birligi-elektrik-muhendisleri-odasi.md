@@ -1,0 +1,160 @@
+---
+title: "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK MÜHENDİSLERİ ODASI YENİLENEBİLİR ENERJİ KAYNAKLARINDAN ELEKTRİK ENERJİSİ ÜRETİMİNE AİT ELEKTRİK MÜHENDİSLİĞİ HİZMETLERİ YÖNETMELİĞİ"
+identifier: "7.5.20569"
+number: "20569"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2015-02-28
+official_gazette_date: 2015-02-28
+official_gazette_number: "29281"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20569&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK MÜHENDİSLERİ ODASI YENİLENEBİLİR ENERJİ KAYNAKLARINDAN ELEKTRİK ENERJİSİ ÜRETİMİNE AİT ELEKTRİK MÜHENDİSLİĞİ HİZMETLERİ YÖNETMELİĞİ
+
+## MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; yenilenebilir enerji kaynaklarından elektrik enerjisi üretimi ile ilgili elektrik, elektrik-elektronik ve elektronik mühendisliği hizmetlerinin tanımlanması ve bu hizmetleri yürütecek EM’lerin görev, yetki ve sorumlulukları ile bu hizmetlerin denetlenmesine ilişkin usul ve esasları düzenlemektir.
+
+## MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, yenilenebilir enerji kaynaklarından elektrik enerjisi üretimi ile ilgili 18/3/2004 tarihli ve 25406 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odası Serbest Müşavir Mühendislik Hizmetleri Yönetmeliğinde belirtilen hizmetleri üretecek EM’lerin görev, yetki ve sorumluluklarına ilişkin düzenlemeleri kapsar.
+
+## MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanununun 39 Uncu maddesine dayanılarak hazırlanmıştır.
+
+## MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) AG: Alçak Gerilimi,
+
+b) Bakım Hizmetleri: EMO Bakım Hizmetleri Sözleşmesi kapsamındaki hizmetleri,
+
+c) Bakım Sorumlusu: YG ve AG tesislerinin ilgili mevzuata göre bakım sorumluluğunu üstlenen Oda tarafından belgelendirilmiş EM’yi,
+
+ç) Belge: Oda tarafından belirlenen uygulama esaslarına göre düzenlenmiş belgeyi,
+
+d) Elektrik üretim kuruluşu: Yenilenebilir enerji kaynaklarından elektrik enerjisi üreten ve 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanuna dayanarak üretim yapan gerçek ya da tüzel kişiliği,
+
+e) EM: Elektrik, Elektronik, Elektrik Elektronik Mühendisleri ile Lisans Diploması Yüksek Mühendis olanları,
+
+f) İşletme Sorumluluğu: YG veya AG tesislerinin ilgili mevzuata göre üstlenilen işletme sorumluluğu hizmetlerini,
+
+g) İşletme Sorumlusu: Oda tarafından belgelendirilmiş YG veya AG tesislerinde teknik konulardan sorumlu EM’yi,
+
+ğ) İşveren: Mühendislik hizmetlerini yaptıracak tesisin mülkiyet ve/veya kullanım hakkı sahibi, veya işin yüklenicisi gerçek ve tüzel kişileri,
+
+h) MİSEM: Elektrik Mühendisleri Odası Meslek İçi Sürekli Eğitim Merkezini,
+
+ı) Oda: Elektrik Mühendisleri Odasını,
+
+i) Serbest Müşavir Mühendis (SMM): 3458 sayılı Mühendislik ve Mimarlık Hakkında Kanunun verdiği yetkiyle 18/3/2004 tarihli ve 25406 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odası Serbest Müşavir Mühendislik Hizmetleri Yönetmeliğinde belirtilen elektrik, elektronik, elektrik elektronik mühendisliği hizmetlerinden birini ya da birkaçını Elektrik Mühendisleri Odasına kayıt ve tescilini yaptırarak, ücreti karşılığında, kendi hesabına ya da kamu kurum ve kuruluşları dışında bir gerçek-tüzel kişi hesabına ücretli, sözleşmeli, ortak ve benzeri bir bağlantı içinde yapan elektrik, elektronik, elektrik elektronik mühendisleri ile yüksek mühendislerini,
+
+j) TMMOB: Türk Mühendis ve Mimar Odaları Birliğini,
+
+k) Yenilenebilir Enerji Kaynakları (YEK): Rüzgâr, güneş, jeotermal, biyokütle, biyokütleden elde edilen gaz (çöp gazı dâhil), dalga, akıntı enerjisi ve gel-git ile kanal veya nehir tipi veya rezervuar alanı onbeş kilometrekarenin altında olan veya pompaj depolamalı hidroelektrik üretim tesisi kurulmasına uygun elektrik enerjisi üretim kaynaklarını,
+
+l) YG: Yüksek Gerilimi,
+
+ifade eder.
+
+## MADDE 5 — İlkeler
+
+(1) Bu Yönetmeliğin uygulanmasında aşağıda belirtilen temel ilkeler gözetilir:
+
+a) Bu Yönetmelik kapsamında yer alan Yenilenebilir Enerji Kaynaklarından elektrik enerjisi üretimine ait elektrik mühendisliği hizmetleri Oda tarafından belgelendirilmiş EM’ler tarafından yapılır.
+
+b) Bu Yönetmelik kapsamındaki hizmetleri üstlenecek EM’ler MİSEM tarafından düzenlenen meslek içi eğitimlere katılırlar.
+
+c) **(Değişik:RG-23/2/2019-30695)** Şebekeye AG ve YG seviyesinden bağlanacak üretim tesislerinin yapımı, işletmeye alınması, işletilmesi ve iş güvenliği sorumluluğu üretim yapan gerçek veya tüzel kişiye aittir. Bu kapsamda, üretim tesisi sahibi gerçek veya tüzel kişiler YG seviyesinden yapılacak bağlantılar için, üretim tesisinin geçici kabulünden başlamak üzere işletme süresince, ilgili teknik mevzuata göre görev yapacak yetkili işletme sorumlusu istihdam etmek ve/veya bu konuda gerekli hizmetleri almakla yükümlüdür.
+
+ç) Yenilenebilir enerji kaynaklarında elektrik enerjisi üretimine ilişkin işletme sorumluluğu hizmetleri 30/11/2000 tarihli ve 24246 sayılı Resmî Gazete’de yayımlanan Elektrik Kuvvetli Akım Tesisleri Yönetmeliği ve 18/3/2004 tarihli ve 25406 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odası Elektrik Yüksek Gerilim İşletme Sorumluluğu Yönetmeliği hükümleri çerçevesinde yürütülür.
+
+d) İşletme sorumlusu, üretim tesisi ve mütemmim cüzlerinin ilgili mevzuata uygun olarak teçhiz edilmesi ve işletilmesine nezaretle görevlidir.
+
+e) İşletme sorumlusunun elektrik üretimi yapan kuruluş bünyesinde istihdam edilmesi esastır. Ancak kuruluş bünyesinde gerekli özelliklere sahip EM’nin bulunmaması durumunda anılan hizmet SMM belgesine sahip EM’ler tarafından Oda onaylı sözleşme ile gerçekleştirilir.
+
+f) Oda Yönetim Kurulu, bu Yönetmelikte yer alan işletme sorumluluğu ve bakım sorumluluğuna ilişkin güç, sayı, kapasite, bölge ve benzeri konularda sınırlamayı belirler.
+
+g) Bu Yönetmelikte tanımlanan hizmetlerin yürütülmesinde Oda; mevzuat ile belirlenen görev ve yetkilerini kullanarak bir yandan hizmetin yürütülmesindeki teknik gereklilikleri ve hizmet kalitesini sağlar, diğer yandan üyelerin haklarının korunmasında gerekli gördüğü girişim ve müdahalelerde bulunur.
+
+ğ) Bu Yönetmelik hükümlerinin uygulanmasında EM yürürlükteki tüm mevzuat, şartname ve standartlar ile Oda Yönetim Kurulu kararlarına uymak ve üretmiş olduğu mühendislik hizmetini Odanın mesleki denetimine sunmak zorundadır.
+
+h) İşveren, İşletme sorumlusu ve bakım sorumlusunun görevlerini yerine getirebilmesi için gerek duyduğu imalatların ya da hizmetlerin yerine getirilmesini sağlamak, donanım ile ilgili bakım ve onarım işlerini yaptırmak, talep edilen güvenlik malzemelerini almak, işletme sorumlusunu görevin gerektirdiği ölçüde yetkili kılmak, işletme sorumlusu değişikliklerini ruhsat veren kuruluşa ve Odaya bildirmek, işletme sorumlusu ve bakım sorumlusunun talimatları ve uyarılarını dikkate alarak uyulmasını sağlamakla yükümlüdür.
+
+## MADDE 6 — Hizmet alanları
+
+(1) Serbest Müşavir Mühendis (SMM) belgesi bulunan EM’nin belgesinin niteliğine göre imzaya yetkili ve sorumlu olduğu hizmet alanları aşağıda belirtilmiştir.
+
+a) Etüd ve Yapılabilirlik Hizmetleri.
+
+b) Proje Hizmetleri;
+
+1) Öneri Projesi: Genel olarak, hazırlanacak tasarımın, projenin esaslarına ilişkin açıklamaları, bu esasların kabulü için zorunlu nedenleri, teknik ve ekonomik hesapları gösteren proje.
+
+2) Ön Proje (avan proje): Tesisin veya sistemin, hangi gereçlerle ve nasıl yapılacağını gösteren açıklama, şema, plan ve resimlerle, bunların düzenlenmesine dayanak olan hesap ve raporlardan oluşan proje.
+
+3) Kesin Proje: Ön projede belirtilen tesis veya sistem gereçleri veya kabul edilmiş ilkelere uygun nitelikteki ayrıntılı açıklama, şema, plan ve resimlerle bunların düzenlenmesine dayanak olan teknik özellikler, hesap, keşif (metraj listesi) ve şartnamelerden oluşan proje.
+
+4) Uygulama Projesi: Tesisin veya sistemin yapımına başlanmadan önce, onaylanmış kesin projesine ve imalatçı firmalara göre seçilen cihazların tip ve ölçüleri esas alınarak yüklenicisi tarafından hazırlanacak proje.
+
+5) Röleve Projesi (Son Durum): Uygulama aşamasında, varsa yapılan değişikliklerin işlendiği tesis sahibi veya yüklenici tarafından hazırlanacak, tesisin geçici kabule esas olan en son gerçekleşen durumunu gösteren proje.
+
+6) Değişiklik Projesi (tadilat projesi): Tesisin veya sistemin yapımına başlanmadan önce, onaylanmış kesin projesine ve imalatçı firmalara göre seçilen cihazların tip ve ölçüleri esas alınarak yüklenicisi tarafından hazırlanacak proje.
+
+7) Detaylar: Kesin projede belirlenmiş tesisatlara ait özel imalatlarla ilgili prensip resimlerini içeren, tesis elemanlarının birbirleri ile ilgisini etraflı bir şekilde anlatmak için plan, kesit, görünüş şeklinde hazırlanmış ölçekli çizimler.
+
+c) Araştırma ve Geliştirme Hizmetleri.
+
+ç) İhale Dosyası ve Keşif-Şartname Düzenleme Hizmetleri.
+
+d) Mesleki Kontrollük Hizmetleri: İlgili mevzuata göre tasarım ve proje denetim, şantiye koordinasyonu, ölçüm, test ve tesisat denetleme işidir.
+
+e) Hakediş ve Kesin Hesap Hizmetleri.
+
+f) Devreye Alma, Kontrol ve Kabul Hizmetleri.
+
+g) İşletme ve Bakım Hizmetleri: Yüksek gerilim (YG) veya alçak gerilim (AG) tesislerinin ilgili mevzuata göre yapılan işletme sorumluluğu ve bakım hizmetleridir.
+
+ğ) Danışmanlık Hizmetleri (müşavirlik hizmetleri): Oda üyesinin, uzmanı olduğu konularda danışmanlık, müşavirlik, proje yönetimi, yapılabilirlik, fizibilite çalışmaları, program hazırlığı, özel araştırma ve çalışmalar, dosya hazırlığı, iş ve işlem takibi gerektiren işlerin yapılması, ihale dosyası hazırlanması, keşif, şartname hazırlanması gibi hizmetlerdir.
+
+h) Yapım Hizmetleri ve/veya Sorumluluğu: Her türlü yapı ve tesisin meslek alanı ile ilgili yapım ve imalat aşamalarında yürürlükteki mevzuat hükümlerine, fen, sanat ve iş güvenliği ve sağlık kurallarına uygun olarak tesis edilmesinden, tamamlanmasından, sağlamlığından, niteliklerinden, usulsüz ve tekniğe aykırı yapılmasından doğacak zararlardan sorumlu olarak yapılan hizmettir.
+
+ı) Test ve Ölçüm Hizmetleri.
+
+i) Teknik Dosya Hazırlama Hizmetleri.
+
+j) Bilirkişilik ve Eksperlik Hizmetleri: Bilimsel, teknik ve ekonomik sahalarda belirtilen konulardan isteneni, yerinde ya da dosya üzerinde inceleme yaparak fiyat takdiri, kıymet, nitelik, kusur ve durum tespiti için rapor tanzimi ile lüzum görülecek hallerde bunların dışındaki hususların tayin ve tespitinin yapılması hizmetleridir.
+
+## MADDE 7 — Hizmet bedelleri ve mesleki denetim
+
+(1) Yenilenebilir enerji kaynaklarından elektrik enerjisi üretimine ilişkin mühendislik hizmetlerinin en az ücretlerinin belirlenmesi ve mesleki denetim uygulamaları, 9/12/2010 tarihli ve 27780 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odası En Az Ücret ve Mesleki Denetim Uygulama Esasları Yönetmeliği hükümlerine göre gerçekleştirilir.
+
+## MADDE 8 — Özellik taşıyan sorunların çözümü
+
+(1) Bu Yönetmelikte tanımlanmayan ve karşılaşılabilecek diğer hususlar ve sorunlar Oda Yönetim Kurulu kararı ile çözümlenir.
+
+## MADDE 9 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+## MADDE 10 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini TMMOB Elektrik Mühendisleri Odası Yönetim Kurulu yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>28/2/2015</td><td>29281</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>25/02/2019</td><td>30695</td></tr>
+</table>

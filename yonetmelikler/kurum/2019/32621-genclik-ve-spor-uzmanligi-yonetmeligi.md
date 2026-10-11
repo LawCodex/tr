@@ -1,0 +1,415 @@
+---
+title: "GENÇLİK VE SPOR UZMANLIĞI YÖNETMELİĞİ"
+identifier: "7.5.32621"
+number: "32621"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-06-25
+official_gazette_date: 2019-06-25
+official_gazette_number: "30812"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32621&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# GENÇLİK VE SPOR UZMANLIĞI YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, Gençlik ve Spor Bakanlığında görev yapan gençlik ve spor uzman yardımcılarının mesleğe alınmalarına, yetiştirilmelerine, gençlik ve spor uzmanlığına atanmalarına; gençlik ve spor uzmanları ile uzman yardımcılarının, görev, yetki, sorumluluk ve çalışmalarına ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Gençlik ve Spor Bakanlığında görev yapan gençlik ve spor uzmanı ve uzman yardımcılarını kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun ek 41 inci maddesi ile 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 205 inci maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Bakan: Gençlik ve Spor Bakanını,
+
+b) Bakan Yardımcısı: Personel Genel Müdürlüğünün bağlı olduğu Bakan Yardımcısını,
+
+c) Bakanlık: Gençlik ve Spor Bakanlığını,
+
+ç) Birim: Bakanlık hizmet birimlerini,
+
+d) Genel Müdür: Personel Genel Müdürünü,
+
+e) Genel Müdürlük: Personel Genel Müdürlüğünü,
+
+f) KPSS: Kamu Personel Seçme Sınavını,
+
+g) Tez: Gençlik ve spor uzman yardımcılarının hazırlayacakları uzmanlık tezini,
+
+ğ) Uzman: Gençlik ve spor uzmanını,
+
+h) Uzman yardımcısı: Gençlik ve spor uzman yardımcısını,
+
+ı) Yarışma sınavı: Gençlik ve spor uzman yardımcılığı için yapılacak yazılı ve sözlü veya yalnızca sözlü sınavını,
+
+i) Yarışma sınavı komisyonu: Gençlik ve spor uzman yardımcılığı yarışma sınavı komisyonunu,
+
+j) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+
+k) Yeterlik sınavı: Gençlik ve spor uzmanlığı yeterlik sınavını,
+
+l) Yeterlik sınavı komisyonu: Gençlik ve spor uzman yardımcılarının tezlerini değerlendiren ve yeterlik sınavını yapan komisyonu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Yarışma Sınavı ve Atamaya İlişkin Esaslar
+
+### MADDE 5 — Yarışma sınavı
+
+(1) Uzman yardımcıları, mesleğe yarışma sınavı ile alınır. Yarışma sınavı, kadro ve ihtiyaç durumuna göre Bakanlıkça uygun görülen zamanlarda ve öğrenim dallarında yarışma sınavı komisyonu tarafından yapılır. Yarışma sınavının, yazılı ve sözlü olarak iki aşamalı veya yalnızca sözlü olarak yapılmasına yarışma sınav komisyonunca karar verilir.
+
+(2) Yazılı sınav; klasik, test ya da karma usulde yapılabilir. Bakanlık, uygun gördüğü takdirde yazılı sınavı Ölçme, Seçme ve Yerleştirme Merkezi, Milli Eğitim Bakanlığı veya bu konuda uzmanlaşmış diğer kamu kurum ve kuruluşlarına da yaptırabilir. Bu durumda sınava ilişkin hususlar, Bakanlık ile sınavın yaptırılacağı kuruluş arasında yapılan protokolle belirlenir.
+
+### MADDE 6 — Yarışma sınavı duyurusu
+
+(1) Yarışma sınavına katılma şartları, sınavın yapılış şekli, sınav tarihi, KPSS puan türleri ve asgari puanlar, puan sıralamasına göre kaç adayın çağrılabileceği, başvuru tarihi, başvuru yeri, başvuru şekli ve başvuruda istenecek belgeler, öğrenim dalları ve kontenjanları, sınav konuları, uzman yardımcısı olarak en fazla kaç kişinin atanacağı ve diğer hususlar, son başvuru tarihinden en az otuz gün önce Resmî Gazete’de, Cumhurbaşkanınca belirlenen kurumun internet sitesinde ve Bakanlık internet sayfasında ilan edilmek suretiyle duyurulur.
+
+(2) Yarışma sınavına, öğrenim dalları itibarıyla alınacak uzman yardımcısı sayısı kadar başvurunun olmaması halinde kadro ve ihtiyaç durumuna göre, öğrenim dallarına göre alınacak uzman yardımcısı sayısında değişiklik yapma yetkisi Bakanlığa aittir.
+
+### MADDE 7 — Başvuru şartları
+
+(1) Yarışma sınavına katılabilmek için aşağıdaki şartlar aranır:
+
+a) 657 sayılı Kanunun 48 inci maddesinin birinci fıkrasının (A) bendinde yer alan genel şartları taşımak.
+
+b) Üniversitelerin Bakanlıkça belirlenecek en az dört yıllık lisans eğitimi veren bölümlerinden ya da bu bölümlere denkliği onaylanmış yurt dışındaki öğretim kurumlarından mezun olmak.
+
+c) Yarışma sınavının yapıldığı yılın Ocak ayının birinci günü itibarıyla otuz beş yaşını doldurmamış olmak.
+
+ç) Erkek adaylar için askerlikle ilişiği olmamak.
+
+d) Yarışma sınavı başvuru tarihinin son günü itibarıyla, geçerlik süresi henüz sona ermemiş olan KPSS’deyarışma sınavı duyurusunda belirtilen puan türlerinden asgari puanı almış olmak.
+
+e) Devamlı olarak görev yapmasına engel olabilecek hastalığı bulunmamak.
+
+f) Sınav ilanında belirtilen diğer şartları taşımak.
+
+(2) Bakanlık, birinci fıkranın (b) bendinde belirtilen mezuniyet koşulunun yerine getirilmesi kaydıyla, ihtiyaç duyulan öğrenim dallarına göre ayrı ayrı kontenjan belirleyebilir.
+
+### MADDE 8 — Başvuru şekli, istenen belgeler ve başvurunun sonuçlandırılması
+
+(1) Yarışma sınavına başvuru, sınav duyurusunda belirtilmesi kaydıyla şahsen, posta yoluyla veya elektronik ortamda yapılır. Posta yoluyla yapılan başvurularda, başvuru belgelerinin Bakanlığa ulaştığı tarih dikkate alınır. Süresi içinde yapılmayan veya postadaki gecikme nedeniyle Bakanlığa geç ulaşan başvurular dikkate alınmaz.
+
+(2) Adaylar, Bakanlıktan veya Bakanlık internet sitesinden temin edecekleri başvuru formuna aşağıdaki belgeleri ekler:
+
+a) Yükseköğrenim diploması veya mezuniyet belgesinin ya da eğitimini yurtdışında tamamlamış olanlar için diploma denklik belgesinin aslı veya resmi makamlardan alınan onaylı örneği.
+
+b) KPSS sonuç belgesinin aslı veya Bakanlıkça onaylı örneği.
+
+c) Yazılı özgeçmiş.
+
+ç) İki adet vesikalık fotoğraf.
+
+d) Sağlıkla ilgili olarak görevini devamlı yapmaya engel bir hali olmadığına dair adayın yazılı beyanı.
+
+e) Erkek adaylar için askerlikle ilişiği olmadığına dair adayın yazılı beyanı.
+
+f) Adli sicil beyanı.
+
+(3) Sınav duyurusunda başvurunun elektronik ortamda yapılacağının ilan edilmesi halinde; istenilen belgeler, elektronik ortamda sınav başvuru sistemine, adaya ait özgeçmiş ile birlikte eklenir.
+
+(4) Yarışma sınavına katılabilecek aday adaylarının isim listesi Bakanlık internet sayfasında ilan edilir.
+
+(5) Yarışma sınavının yazılı bölümünün Bakanlıkça yapılmasına karar verilmesi halinde, yarışma sınavına girme hakkı kazanan aday adaylarına fotoğraflı sınav giriş belgesi verilir. Sınav giriş belgesinde kimlik bilgileri, sınav yeri ve tarihi yer alır. Sınav giriş belgesi olmayan aday adayları sınava katılamaz.
+
+(6) Yarışma sınavına katılacak aday adaylarının listesine, isim listesinin ilanından itibaren beş gün içinde itiraz edilebilir. Yapılan itirazlar, yarışma sınavı komisyonunca itiraz tarihinden itibaren en geç beş gün içerisinde sonuçlandırılır. Bu süre, incelemenin zorunlu kılması halinde en fazla on güne kadar uzatılabilir.
+
+(7) Başvurusu kabul edilip, isimleri yarışma sınavına katılabilecekler arasında yer alanlardan, gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz. Bunların atamaları yapılmış olsa dahi iptal edilir. Bunlar hiçbir hak talep edemez ve haklarında Cumhuriyet Başsavcılığına suç duyurusunda bulunulur.
+
+(8) Başvuru şartlarına haiz olmayanların başvuru belgeleri, talep etmeleri halinde, isim listesinin ilanından itibaren otuz gün içerisinde elden teslim edilir ya da posta yoluyla adreslerine gönderilir.
+
+(9) Yarışma sınavına ilişkin sekretarya hizmetleri Genel Müdürlükçe yürütülür.
+
+### MADDE 9 — Yarışma sınavı komisyonunun oluşumu
+
+(1) Yarışma sınavı komisyonu, Bakanın görevlendireceği bir Bakan Yardımcısı veya Genel Müdürün başkanlığında; birim amirleri ve uzmanlar ile gerekli görülmesi halinde yükseköğretim kurumları öğretim üyeleri arasından görevlendirilecek dört üye olmak üzere toplam beş asıl ve üç yedek üyeden oluşur. Yükseköğretim kurumları öğretim üyeleri arasından görevlendirilecek üye sayısı ikiyi geçemez. Asıl üyelerin herhangi bir nedenle yarışma sınav komisyonuna katılamamaları halinde yerlerine sırasıyla yedek üyelerin katılması sağlanır.
+
+(2) Yarışma sınavı komisyonu, üye tam sayısıyla toplanır ve oy çokluğu ile karar alır.
+
+(3) Yarışma sınavı komisyonunun başkan ve üyeleri, boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının veya evlatlıklarının katıldıkları sınavda görev alamazlar. Bu durumda olan üyelerin yerine yedek üye görevlendirilir.
+
+### MADDE 10 — Yarışma sınavı komisyonunun görevleri
+
+(1) Yarışma sınavı komisyonunun görevleri şunlardır:
+
+a) 6 ncı maddenin birinci fıkrasına göre yarışma sınavı ilanında yer alacak hususları tespit etmek.
+
+b) Yarışma sınavı sorularını hazırlamak veya hazırlatmak.
+
+c) Aday adaylarının 7 nci maddede belirtilen şartları sağlayıp sağlayamadıklarını tespit ederek sınava katılabileceklerin listesini oluşturmak.
+
+ç) Yarışma sınavını yapmak ve değerlendirmek veya gerektiğinde yazılı sınavı yaptırmak.
+
+d) Yarışma sınavına ilişkin olarak yapılan itirazları değerlendirmek ve sonuçlandırmak.
+
+### MADDE 11 — Yazılı sınav
+
+(1) Yazılı sınav sorularının dağılımı, genel kültür ve genel yetenek alanında yüzde otuz, mesleki alan bilgisinde ise yüzde yetmiş oranında olmak üzere hazırlanır.
+
+(2) Genel kültür ve genel yetenek konuları mesleki alan bilgisi bölümleri için ortaktır. Mesleki alan bilgisi soruları, sınav ilanında belirtilen öğrenim dalları dikkate alınarak her mesleki alan bilgisi bölümü için ayrı ayrıdüzenlenir ve yarışma sınavı komisyonu üyelerince imzalanarak mühürlü zarf içinde yarışma sınavı komisyonu başkanına teslim edilir.
+
+(3) Yarışma sınavı komisyonu başkanı tarafından muhafaza edilen mühürlü zarflar, sınav salonunda, adayların huzurunda açılır.
+
+(4) Sınava, sınav ilanında belirtilen KPSS puan türüne göre en yüksek puana sahip olandan başlanarak, atama yapılacak kadro sayısının en fazla yirmi katına kadar aday çağrılır. Son sıradaki adayla aynı puanı alan adaylar da yarışma sınavına çağrılır.
+
+(5) Yazılı sınav;
+
+a) Genel kültüre ve genel yeteneğe,
+
+b) Mesleki alan bilgilerine,
+
+c) Bakanlığın görev alanına ait bilgilere,
+
+ilişkin konulardan yapılır.
+
+(6) Sınav konuları, sınav ilanında duyurulur.
+
+(7) Yazılı sınavdan başarılı sayılmak için en az yetmiş puan almak gerekir.
+
+### MADDE 12 — Sözlü sınava çağrı
+
+(1) Yazılı sınavdan yüz tam puan üzerinden en az yetmiş puan alarak başarılı olan adaylar arasından en yüksek puandan başlamak kaydıyla atama yapılacak kadro sayısının en fazla dört katı kadar aday ismi (son sıradaki adaya eşit alan adaylar dahil), yalnızca sözlü sınav yapılmasına karar verilmesi halinde ise ilanda belirtilen KPSS puanına göre en yüksek puandan başlamak üzere atama yapılacak kadro sayısının en fazla dört katı kadar aday ismi (son sıradaki adayın puanına eşit puan alan adaylar dahil), sözlü sınav tarihi ve yeri de belirtilerek Bakanlığın internet sitesinde ilan edilir.
+
+### MADDE 13 — Sözlü sınav
+
+(1) Sözlü sınavda adaylar;
+
+a) Sınav duyurusunda belirtilen yazılı sınav konularına ilişkin bilgi düzeyi,
+
+b) Bir konuyu kavrayıp özetleme, ifade yeteneği ve muhakeme gücü,
+
+c) Liyakati, temsil kabiliyeti, davranış ve tepkilerinin mesleğe uygunluğu,
+
+ç) Özgüveni, ikna kabiliyeti ve inandırıcılığı,
+
+d) Genel yetenek ve genel kültürü,
+
+e) Bilimsel ve teknolojik gelişmelere açıklığı,
+
+yönlerinden ayrı ayrı puan verilmek suretiyle değerlendirilir.
+
+(2) Adaylar, yarışma sınavı komisyonu tarafından, birinci fıkranın (a) bendi için elli puan, diğer bentlerinde yazılı özelliklerden her biri için onar puan üzerinden değerlendirilir. Sorular, cevaplar ve puanlar bir tutanağa ayrı ayrıgeçirilir.
+
+(3) Sözlü sınavda başarılı sayılmak için yarışma sınavı komisyonu başkan ve üyelerinin yüz tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az yetmiş olması zorunludur.
+
+### MADDE 14 — Yarışma sınavı sonuçları
+
+(1) Yarışma sınavı komisyonu; yazılı ve sözlü sınav sonucunda alınan notların aritmetik ortalamasını veya yalnızca sözlü sınav yapılması halinde, sözlü sınav notunu esas alarak başarılı olanların listesini belirler. Adayların yarışma sınavı puanlarının aynı olması halinde sırasıyla, yazılı sınav puanı ve KPSS puanı yüksek olana öncelik tanınır. Ayrıca, yarışma sınavı ilanında belirtilen kadro sayısının en fazla yarısı oranında yedek aday listesi tespit edilir. Yarışma sınavı komisyonu bu şekilde belirlediği nihai listeyi sözlü sınavın bittiği günü takip eden üç iş günü içinde Genel Müdürlüğe teslim eder.
+
+(2) Sınav duyurusunda atama yapılacağı belirtilen kadro sayısı kadar adayın sınav başarı puanına göre sıralandığı isim listesi, sonuçların teslim tarihinden itibaren üç iş günü içerisinde Bakanlık ilan panosunda ve Bakanlık internet sayfasında ilan edilir. Sınavda başarılı olanların sayısı ilan edilen kadro sayısından daha az ise sadece başarılı olanlar sınavı kazanmış kabul edilir. Yarışma sınavında yetmiş ve üzerinde puan almış olmak ve yedek aday listesinde yer almak, adaylar için daha sonraki sınavlar için kazanılmış hak veya herhangi bir öncelik hakkı teşkil etmez.
+
+(3) Sınav sonuçlarının ilan edilmesinden itibaren yedi gün içinde yazılı olarak yarışma sınavı komisyonuna itiraz edilebilir. İtirazlar, yarışma sınavı komisyonunca en fazla yedi iş günü içinde incelenerek karara bağlanır. İtiraz sonucu, adaya yazılı olarak bildirilir.
+
+(4) Yarışma sınavını kazanıp uzman yardımcısı kadrolarına atananların sınavla ilgili belgeleri özlük dosyalarına konulur; atanamayanların sınavla ilgili belgeleri ise dava açma süresinden az olmamak kaydıyla bir sonraki sınav tarihine kadar saklanır.
+
+### MADDE 15 — Uzman yardımcılığına atanma
+
+(1) Uzman yardımcılığı kadrolarına atanma ve adaylık işlemleri 657 sayılı Kanun hükümlerine göre yapılır.
+
+(2) Belge ile ispatı mümkün olan zorunlu haller olmaksızın belirtilen süreler içinde müracaat etmeyenlerin atama işlemleri yapılmaz. Bunlardan belge ile ispatı mümkün olan zorunlu haller nedeniyle göreve başlamama hali iki ayı aşanların atama işlemleri iptal edilir.
+
+(3) Sınavda başarılı olup göreve başlamayanların veya ataması yapılıp herhangi bir sebeple görevden ayrılanların yerine, altı aylık bir süreyi aşmamak üzere yarışma sınavı yedek listesindeki başarı sırası dikkate alınarak atama yapılabilir.
+
+(4) Atanma şartlarını taşımadıkları sonradan anlaşılanların sınavları geçersiz sayılarak atamaları yapılmaz, yapılmış olsa dahi iptal edilir.
+
+## ÜÇÜNCÜ BÖLÜM — Uzman Yardımcılığı Süresi ve Yetiştirme Süreci
+
+### MADDE 16 — Uzman yardımcılığı süresi ve çalışma düzeni
+
+(1) Uzman yardımcılığı süresi en az üç yıldır. Uzman yardımcıları, bu süre içinde Genel Müdürlükçe belirlenecek bir uzmanın refakatinde ve gözetiminde çalışır. Uzman yardımcıları ayrıca 18 inci madde hükümleri uyarınca eğitim ve staja tabi tutulur. Süre sonunda refakat eden uzman, yeterlik sınavı komisyonuna sunulmak üzere görüşlerini içeren bir rapor hazırlar.
+
+### MADDE 17 — Yetiştirme ilkeleri
+
+(1) Uzman yardımcısı olarak atananlar, bu kadroda bulundukları sürece uzmanlığın gerektirdiği bilgi, beceri ve etik değerler ile kurumsal kültürü kazanmaları amacıyla yetiştirilir.
+
+(2) Uzman yardımcıları;
+
+a) Bakanlığın teşkilat yapısı, görevleri ve çalışma düzeni hakkında bilgi edinilmesi,
+
+b) Resmi yazışma, rapor yazma, inceleme ve araştırma teknikleri konularında gerekli bilgi ve yeteneğin kazandırılması,
+
+c) Mesleki konularda bilimsel çalışma ve araştırma alışkanlığının edinilmesi,
+
+ç) Yabancı dil bilgisinin geliştirilmesi,
+
+d) Yurt içi veya yurt dışında görevleriyle ilgili konferans, seminer ve benzeri programlara katılım sağlanarak deneyim kazandırılması,
+
+e) Kamu kurum ve kuruluşlarında ortak projelerde görevlendirilerek mesleki bilgilerinin artırılması ile uygulama yeteneğinin kazandırılması,
+
+esasları gözetilerek yetiştirilir.
+
+### MADDE 18 — Çalışma ve yetiştirme planı
+
+(1) Uzman yardımcıları için, Genel Müdürlükçe, çalıştıkları birimlerin görüşleri de alınarak üç yıllık süreyi kapsayacak şekilde çalışma ve yetiştirme planı hazırlanır ve bu plan Bakan veya Bakan Yardımcısının onayına sunulur.
+
+(2) Çalışma ve yetiştirme planı iki ayrı dönemden oluşur:
+
+a) Birinci dönem; uzman yardımcıları, 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik çerçevesinde temel eğitim, hazırlayıcı eğitim ve staj eğitimine tabi tutulur. Staj eğitimi, Bakanlık merkez ve taşra birimleri ve ilgili kurumlarda gerçekleştirilecek staj programını kapsar. Bu dönem, altı ay temel ve hazırlayıcı eğitim ve üç ay staj programı olmak üzere dokuz aydır.
+
+b) İkinci dönem; yabancı dil eğitimi, yurt dışı eğitim programı ve bilimsel araştırma yöntemleri eğitimini kapsar. Eğitim süreleri, dokuz ay yabancı dil eğitimi, üç ay yurt dışı eğitim programı ve üç ay bilimsel araştırma yöntemi eğitimleri olmak üzere on beş ay olarak planlanabilir.
+
+(3) Toplamda iki yıl sürecek eğitim dönemi tamamlandıktan sonra uzman yardımcıları tez sürecine başlar.
+
+(4) Bakanlık, uzman yardımcılarının yetiştirilmesi için görev alanı ile ilgili ulusal ve uluslararası, resmi veya özel kuruluşlar ve üniversitelerle staj, eğitim, inceleme ve araştırma yapılması amacı ile işbirliği yapabilir.
+
+(5) Yetiştirme eğitimi kapsamında yurt dışına gönderilmiş uzman yardımcılarının, uzmanlığa atandıklarında bilgi, görgü ve yükseköğrenim nedeni ile yurt dışına gönderilme hakları saklı kalır.
+
+## DÖRDÜNCÜ BÖLÜM — Uzmanlık Tezi ve Yeterlik Sınavı Süreci
+
+### MADDE 19 — Tez konusunun belirlenmesi
+
+(1) Uzman yardımcıları; ücretsiz izin, askerlik hizmetinde geçen süreler, toplamda üç ayı aşan hastalık ve refakat izni hariç olmak üzere, adaylıkta geçen süre dahil iki yılı tamamladıklarında, Bakanlığın görev alanı ile ilgili bir konuda tez hazırlama sürecine girer.
+
+(2) Uzman yardımcıları, Bakanlığın görev alanına giren konuları içeren üç farklı tez konusunu yeterlik sınavı komisyonuna bir ay içinde bildirir. Yeterlik sınavı komisyonu, uzman yardımcısınca verilen konuları değerlendirir, konuların uygun görülmemesi halinde önceden hazırlanmış tez konusu havuzunda yer alan bir konunun uzman yardımcısı tarafından seçilmesi esastır.
+
+(3) Yeterlik sınavı komisyonu, tez konularını bir aylık süre içerisinde kesinleştirir. Her halde tez konularının kesinleşmesi, birinci fıkrada belirtilen sürenin başlamasından önce tamamlanır.
+
+### MADDE 20 — Tez danışmanı
+
+(1) Uzman yardımcısı, uzmanlık tez konusunun kesinleşmesinden itibaren en geç bir ay içerisinde, kendisine rehberlik etmek ve tezinin bilimsel tez yazım usul ve esaslarına, seçilen konunun niteliğine, Bakanlığın görev alanı ile ilgili hususlara uygunluğunu temin etmek maksadıyla bir danışman belirler ve yeterlik sınavı komisyonunun onayına sunar. Yeterlik sınavı komisyonu, gerektiğinde başka bir danışman da belirleyebilir.
+
+(2) Tez danışmanı, uzman yardımcısına tez hazırlama sürecinde yardımcı olmak maksadıyla tavsiyelerde bulunur.
+
+(3) Tez danışmanı, uzmanlar ile Bakanlık teşkilatı veya diğer kamu kuruluşlarında görev yapan ve daha önce lisansüstü programlarda akademik çalışma yapmış, konusunda uzman kamu görevlileri arasından belirlenir. Ayrıca, yükseköğretim kurumlarında görevli öğretim üyelerinden de danışman belirlenebilir.
+
+### MADDE 21 — Tez hazırlama süresi ve tezin teslimi
+
+(1) Uzman yardımcısı, tez konusunun kesinleştiği tarihten itibaren en geç bir yıl içerisinde, hazırladığı tezini teslim etmek zorundadır. Bu sürenin son iki ayı içerisinde uzman yardımcılarına başka görev verilmemesi esastır. Zorunlu haller sebebiyle tezini zamanında teslim edemeyen uzman yardımcısına talebi halinde, yeterlik sınavı komisyonunun onayı ile zorunlu halin gerektirdiği kadar ek süre verilir. Zorunlu bir hal olmaksızın tezini süresinde teslim etmeyen uzman yardımcısına, bir defaya mahsus olmak üzere yeterlik sınavı komisyonunun kararı ile altı ayı aşmamak üzere ek süre verilir.
+
+(2) Uzman yardımcısı, tezini tez danışmanı rehberliğinde hazırlar. Uzman yardımcısının hazırlayacağı tezin kendi görüş ve değerlendirmeleri ile önerilerini içermesi ve bilimsel çalışma etiğine uygun olması gerekir. Tez konusunun başka bir kurum ve kuruluşta uzmanlık, yüksek lisans, doktora tezi veya başka bir ad altında içerik ve sonuçları açısından aynı şekilde incelenip savunulmamış olması esastır. İntihal yapıldığı tespit edilen tez geçersiz sayılır, uzmanlığa atanmış olsa dahi ilgili kişinin ataması iptal edilir ve hakkında idari işlem yapılır.
+
+(3) Uzman yardımcısınca hazırlanan tez, belirlenen sürenin sonunda tez danışmanının tez hakkındaki yazılı görüşünü içeren raporu ile birlikte beş nüsha olarak Genel Müdürlüğe teslim edilir. Teslim edilen tezler ve raporlar, Genel Müdürlük tarafından tez jürisi üyelerine gönderilir.
+
+(4) Tezin kabul edilmesinden sonra tezden faydalanılması maksadıyla Genel Müdürlükçe bir veri tabanı oluşturularak tezlerin veri tabanına kaydedilmesi sağlanır.
+
+### MADDE 22 — Tez değerlendirme ve tez savunması
+
+(1) Tez jürisi, tezleri tez danışmanın raporlarını da dikkate alarak bir ay içerisinde inceler ve değerlendirir. Uzman yardımcısı, tez jürisi ön değerlendirmesinden sonra en geç iki ay içinde hazırladığı tezin savunmasını yapar.
+
+(2) Tez jürisi, uzman yardımcısının hazırlamış olduğu tezi, tezin içeriğini ve tezin sözlü savunmasını göz önüne alarak değerlendirir.
+
+(3) Oylar yeterli veya yetersiz şeklinde kullanılır. Yeterliliğin tespitinde oy çokluğu esastır.
+
+### MADDE 23 — Tez düzeltme
+
+(1) Tezi yeterli bulunmayan uzman yardımcısına bir hak daha tanınır. Uzman yardımcısı ikinci hakkını, yetersiz olma gerekçesinin yer aldığı raporu dikkate almak suretiyle, daha önceden hazırlamış olduğu tezi düzelterek veya yeni bir tez hazırlayarak kullanır. Tezin düzeltilmesi veya yeni bir tez hazırlama için verilecek süre, tez savunması sonucunun ilanından itibaren altı ayı geçemez.
+
+### MADDE 24 — Yeterlik sınavı komisyonu
+
+(1) Yeterlik sınavı komisyonu, Genel Müdürün başkanlığında; birim amirleri ve uzmanlar ile gerekli görülmesi halinde yükseköğretim kurumları öğretim üyeleri arasından Bakan tarafından seçilecek dört üye olmak üzere toplam beş asıl ve üç yedek üyeden oluşur. Asıl üyelerin herhangi bir nedenle yeterlik sınavı komisyonuna katılamamaları halinde, yerlerine sırasıyla yedek üyelerin katılması sağlanır.
+
+(2) Yeterlik sınavı komisyonu, tez jürisi olarak görev yapabileceği gibi ayrı bir tez jürisi de belirleyebilir.
+
+### MADDE 25 — Tez jürisi
+
+(1) Yeterlik sınavı komisyonu tarafından belirlenmesi halinde tez jürisi; yeterlik sınavı komisyonu başkanı veya görevlendireceği bir üyenin başkanlığında, uzman yardımcısının tez danışmanı ile birim yöneticileri, uzmanlar ve öğretim üyeleri arasından yeterlik sınavı komisyonu başkanı tarafından belirlenen beş asıl üyeden oluşur. En çok iki üye yükseköğretim kurumları öğretim üyeleri arasından seçilebilir. Asıl üyelerin herhangi bir nedenle tez jürisine katılamamaları halinde, çalışmalara katılmak üzere ayrıca iki yedek üye belirlenir.
+
+(2) Tez jürisi, üye tam sayısı ile toplanır ve oy çokluğu ile karar alır.
+
+### MADDE 26 — Yeterlik sınavı
+
+(1) Yeterlik sınavına girebilmek için;
+
+a) Uzman yardımcısı kadrosunda, ücretsiz izin ve askerlik hizmetinde geçen süreler ile uzman yardımcılığı süresince alınan toplam hastalık izninin iki aydan fazla süren kısmı hariç üç yıl çalışmış olmak,
+
+b) Tezi kabul edilmiş olmak,
+
+gerekir.
+
+### MADDE 27 — Yeterlik yazılı sınavı
+
+(1) Tezi yeterli görülen uzman yardımcısı, sonucun ilanından itibaren altı aydan fazla olmamak kaydıyla, yeterlik sınavı komisyonunca belirlenen tarihte yazılı sınava alınır.
+
+(2) Yeterlik sınavı komisyonu tarafından Bakanlığın görev alanına ilişkin mevzuat göz önüne alınarak hazırlanan sorulardan oluşan klasik ve/veya test usulünde yapılan yazılı sınavdan yüz tam puan üzerinden en az yetmiş puan almış olanlar, yazılı sınavda başarılı olmuş sayılır.
+
+(3) Uzman yardımcılarının yeterlik aşamasında sorumlu oldukları mevzuat ve konular yeterlik sınavı komisyonunca tespit edilerek duyurulur. Yeterlik sınavı komisyonu, yazılı sınav tarihinden iki ay öncesine kadar, gerektiğinde sorumlu olunan mevzuat ve konularda değişiklik yapabilir.
+
+(4) Geçerli bir mazereti olmaksızın yazılı sınava girmeyen veya yazılı sınavda başarısız olan uzman yardımcısına bir sınav hakkı daha tanınır. Uzman yardımcısı, yazılı sınav tarihinden itibaren en geç bir yıl içinde olmak kaydıyla, yeterlik sınavı komisyonu tarafından belirlenen süre sonunda ikinci kez yazılı sınava girer.
+
+(5) Yeterlik sınavı sonuçlarına on gün içinde itiraz edilebilir. İtirazlar, ilgisine göre yeterlik sınavı komisyonu veya tez jürisi tarafından on gün içinde sonuçlandırılarak ilgiliye tebliğ edilir.
+
+(6) Yeterlik sınavına katılamayanlar veya ikinci kez başarısız olanlar için 29 uncu maddede yer alan hükümler uygulanır.
+
+## BEŞİNCİ BÖLÜM — Uzmanlığa Atanma, Görev, Yetki, Sorumluluk ve Eğitim
+
+### MADDE 28 — Uzmanlığa atanma
+
+(1) Uzman olarak atanabilmek için;
+
+a) Tezi kabul edilmek ve yeterlik yazılı sınavında başarılı olmak,
+
+b) Yeterlik sınavı tarihinde geçerli olan veya yeterlik sınavından itibaren en geç iki yıl içerisinde alınmış bulunan YDS’den asgari (C) düzeyinde puanı veya dil yeterliliği bakımından ÖSYM Başkanlığınca bunlara denkliği kabul edilen ve uluslararası geçerliği bulunan başka bir belgeyi ibraz etmek,
+
+gerekir.
+
+(2) Birinci fıkradaki şartları sağlayan uzman yardımcıları, birinci fıkranın (b) bendinde belirtilen belgeyi ibraz ettiği tarih itibarıyla; kadro durumu, uzmanlığa atanmaya hak kazanılan tarih ve yeterlik sınavında alınan puan sıralaması dikkate alınarak uzman kadrolarına atanırlar.
+
+### MADDE 29 — Başarısızlık halinde başka kadroya atama
+
+(1) Uzman yardımcılarından; verilen ilave süre içerisinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içerisinde yabancı dil yeterliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybederler ve Bakanlıkta durumlarına uygun memur unvanlı kadrolara atanırlar.
+
+### MADDE 30 — Görev ve yetkiler
+
+(1) Uzman ve uzman yardımcılarının görev ve yetkileri şunlardır:
+
+a) Kanun, yönetmelik ve diğer mevzuatta belirtilen iş ve işlemleri yapmak.
+
+b) Bakanlığın görev ve amaçları kapsamında, araştırma, inceleme, analiz yapmak, proje üretmek ve geliştirmek.
+
+c) Bakanlığın görev alanına giren konulardaki mevzuat çalışmalarına yardımcı olmak, ulusal ve uluslararası toplantı, eğitim, seminer ve benzeri organizasyonlara katılım sağlamak.
+
+ç) Bağlı oldukları birimlere ait görevleri tarafsızlık, güvenilirlik ve sır saklama ilkelerine göre yürütmek.
+
+d) Amirlerince verilen diğer görevleri yerine getirmek.
+
+### MADDE 31 — Sorumluluk
+
+(1) Uzman ve uzman yardımcıları uzmanlık çalışmalarının gereği gibi ve süresinde tamamlanmasından, emir ve direktifler doğrultusunda mevzuata, plan ve programlara uygun olarak yürütülmesinden, bağlı oldukları amire karşı sorumludur. Birim amiri, maiyetindeki uzman ve uzman yardımcısının yetiştirilmesinden sorumludur.
+
+### MADDE 32 — Eğitim
+
+(1) Uzmanlar, Bakanlığın görev ve faaliyetleri çerçevesinde; oluşturulan politikaların uygulanması, strateji geliştirilmesi, analiz yapılması, verimliliğin artırılması, iş görme kapasitesinin yükseltilmesi, kariyerin geliştirilmesi, bilimsel ve teknolojik değişim ve gelişmelere uyum sağlanması, bilgi ve birikimlerinin artırılması ile yeteneklerinin geliştirilmesi amacıyla Genel Müdürlük tarafından kurumsal eğitime tabi tutulabilir.
+
+(2) Uzmanlar ve uzman yardımcıları, Bakanlıkça uygun görülen kurum dışı ve sertifika programı niteliğindeki eğitimlerden ve Genel Müdürlükçe hazırlanan bir program dâhilinde yabancı dil eğitimlerinden yararlandırılabilir.
+
+## ALTINCI BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 33 — Uzmanlığa yeniden atama
+
+(1) Gençlik ve spor uzmanı sıfatını kazandıktan sonra herhangi bir sebeple meslekten ayrılanlar müracaatları halinde, kadro ve ihtiyaç durumuna göre uzman kadrosuna yeniden atanabilirler.
+
+### MADDE 34 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 1 sayılı Cumhurbaşkanlığı Kararnamesi, 657 sayılı Kanun ve 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümleri uygulanır.
+
+### MADDE 35 — Yürürlükten kaldırılan mevzuat
+
+(1) 7/10/2011 tarihli ve 28077 sayılı Resmî Gazete’de yayımlanan Gençlik ve Spor Uzman ve Uzman Yardımcılığı Sınav, Atama, Yetiştirilme, Görev ve Çalışma Usul ve Esasları Hakkında Yönetmelik, 25/7/2013 tarihli ve 28718 sayılı Resmî Gazete’de yayımlanan Spor Hizmetleri Uzmanlığı Yönetmeliği ve 6/11/2013 tarihli ve 28813 sayılı Resmî Gazete’de yayımlanan Kredi ve Yurt Hizmetleri Uzmanlığı Yönetmeliği yürürlükten kaldırılmıştır.
+
+### GEÇİCİ MADDE 1 — Geçiş hükümleri
+
+(1) Bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla, daha önce Bakanlık kadrolarında gençlik ve spor uzman yardımcısı olarak çalışanlar ile 703 sayılı Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname gereğince gençlik ve spor uzman yardımcısı kadrolarına atanmış sayılanların gençlik ve spor uzmanlığına atanmaları, bu Yönetmelikle yürürlükten kaldırılan ilgili yönetmeliklerde belirtilen usule göre yapılır.
+
+### MADDE 36 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 37 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Gençlik ve Spor Bakanı yürütür.

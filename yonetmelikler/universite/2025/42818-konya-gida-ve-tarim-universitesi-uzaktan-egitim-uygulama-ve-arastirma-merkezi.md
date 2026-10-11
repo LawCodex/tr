@@ -1,0 +1,179 @@
+---
+title: "KONYA GIDA VE TARIM ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.42818"
+number: "42818"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2025-12-29
+official_gazette_date: 2025-12-29
+official_gazette_number: "33122"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42818&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KONYA GIDA VE TARIM ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Konya Gıda ve Tarım Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Konya Gıda ve Tarım Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına ve yönetim organlarının görevlerine ve çalışma esaslarına ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez (UZEM): Konya Gıda ve Tarım Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Mütevelli Heyet: Konya Gıda ve Tarım Üniversitesi Mütevelli Heyeti,
+
+ç) Rektör: Konya Gıda ve Tarım Üniversitesi Rektörünü,
+
+d) Üniversite: Konya Gıda ve Tarım Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; bilgi ve iletişim teknolojilerine dayalı olarak Üniversitedeki yabancı dil hazırlık, lisans ve lisansüstü ve sürekli eğitim dahil tüm eğitim programları kapsamında uzaktan yapılan eğitimler için plan, program, koordinasyon ve uygulama faaliyetlerine destek sağlamak ve uzaktan eğitim kalite ve etkinliğini artıracak araştırmalar gerçekleştirmektir.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) İletişim ve bilgi teknolojilerine dayalı olarak Üniversitedeki ön lisans, lisans, yüksek lisans ve sürekli eğitim dahil tüm eğitim programları kapsamında uzaktan yapılan eğitim için plan, program, koordinasyon ve uygulama faaliyetlerine destek sağlamak, bu eğitimlerin etkin yapılabilmesi için e-öğrenme tabanlı ders ve programlar geliştirmek.
+
+b) Üniversitede örgün öğretim kapsamında verilmekte olan dersleri ihtiyaç ve talep olması halinde uzaktan eğitim teknolojileri ile desteklemek; örgün derslerin, ihtiyaç duyulması halinde uzaktan eğitim yöntemi ile yapılması için destek sağlamak.
+
+c) Üniversite tarafından uzaktan eğitim yoluyla yürütülecek olan ders içeriklerini hazırlamak, paydaşlara gerekli eğitimleri vermek, gerekli öğrenim yönetim sistemi ve sunucu altyapılarını hazırlamak.
+
+ç) İlgili mevzuat hükümleri kapsamında Üniversite öğretim elemanlarına uzaktan eğitim platformunun kullanımı, ders materyali tasarımı ve geliştirilmesi ile ölçme ve değerlendirme konularında eğitim ve danışmanlık hizmeti vermek.
+
+d) Üniversite içinde ve dışındaki birim, kamu kurum ve kuruluşları, özel kurum ve kuruluşlar ile sivil toplum kuruluşlarının uzaktan eğitim ihtiyaç ve isteklerine yardımcı olmak.
+
+e) İlgili mevzuat hükümleri kapsamında yurt içi ve yurt dışındaki diğer uzaktan eğitim birim ve merkezleriyle iş birliği, ortak proje ve programlar yapmak.
+
+f) Uzaktan eğitim konusunda oluşan bilgi birikimi ve tecrübeyi ilgili kurum ve kuruluşlara aktarmak ve bu amaçları gerçekleştirmeye yönelik idari, mali ve teknik uygulama esaslarını belirlemek, projeler geliştirmek.
+
+g) İlgili mevzuat hükümleri kapsamında uzaktan eğitim konularında ulusal ve uluslararası toplantı, seminer, çalıştay, konferans ve sempozyumlar düzenlemek, süreli ve/veya süresiz yayınlar yapmak.
+
+ğ) Bilgi toplumuna geçiş sürecinde Türkiye’nin kalkınmasına ve gelişmesine yardımcı nitelikteki eğitimlerin e-öğrenme vasıtasıyla yaygınlaştırılması için bilimsel ve teknolojik araştırmalar yapmak ve önermek.
+
+h) Üniversite içi ve Üniversite dışı projelerde ihtiyaç duyulan yazılım ihtiyaçlarını tedarik ederek UZEM sistemine entegre etmek ve ders içeriklerini gerçekleştirmek, bu konularda danışmanlık yapmak ve gerekli koordinasyonu sağlamak.
+
+ı) Kamu kurum ve kuruluşları ile özel sektör kuruluşlarının eğitim programlarını e-öğrenmeye uyarlamalarına ve uzaktan eğitim sistemleri geliştirmelerine katkıda bulunmak.
+
+i) İlgili kurullardaki mazereti nedeniyle derslere katılamayan öğretim elemanlarının uzaktan eğitim metoduyla derse katılımlarına destek sağlamak; aynı şekilde ihtiyaç olması ve gerekli kararların alınması halinde yeterlilik ve tez savunma sınavları gibi sınavların uzaktan eğitim metoduyla yapılmasını sağlamak.
+
+j) Değişen ve gelişen teknoloji veya koşullara göre uzaktan eğitime bağlı her türlü görevin güncellenmesini sağlamak amacıyla gerekli çalışmaları yürütmek.
+
+k) Rektörlük tarafından uzaktan eğitimle ilgili verilecek diğer faaliyetleri gerçekleştirmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezi yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin tam zamanlı çalışan öğretim üyeleri arasından, Rektör tarafından üç yıl süre için görevlendirilir. Görev süresi sona eren Müdür aynı usulle yeniden görevlendirilebilir.
+
+(2) Müdüre çalışmalarında yardımcı olmak üzere Müdürün önerisi üzerine Üniversitenin öğretim elemanları arasından Rektör tarafından müdür yardımcısı görevlendirilir. Müdürün görev süresinin sona ermesi durumunda, müdür yardımcısının da görevi sona erer. Müdürün görevi başında bulunmadığı durumlarda, müdür yardımcısı Müdüre vekâlet eder. Vekâlet süresi altı ayı aşarsa yeni bir Müdür görevlendirilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkez çalışmalarının gerektirdiği görevlendirmeleri yapmak.
+
+b) Her öğretim yılı sonunda ve istenildiğinde Merkezin genel durumu ve işleyişi hakkındaki raporunu Yönetim Kurulunun görüşünü de aldıktan sonra Rektöre sunmak.
+
+c) Merkezin idari işlerini yürütmek.
+
+ç) Merkezin çalışmalarına yönelik eğitim, araştırma ve danışmanlık ile ilgili bütçe, plan ve programları hazırlamak.
+
+d) Rektör tarafından uygun görülmesi durumunda sınav ve belgelendirme süreçlerini yönetmek ve bu süreçlerde Rektörlüğü temsil etmek.
+
+e) Merkezin amaçları doğrultusunda ilgili mevzuat hükümleri kapsamında verilen diğer görevleri yapmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, müdür yardımcısı ve Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin öğretim elemanları arasından Rektör tarafından üç yıl süreyle görevlendirilen üç üye olmak üzere toplam beş üyeden oluşur. Üyelik süresi sona erenler, aynı usulle yeniden görevlendirilebilir. Süresi bitmeden ayrılanların yerine yeni üyeler görevlendirilebilir.
+
+(2) Yönetim Kurulu; Müdürün daveti üzerine yılda en az bir kez salt çoğunluk ile toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin eğitim, öğretim, bilimsel araştırma, danışmanlık, yayın faaliyetleri ve bu faaliyetlerle ilgili esasları kararlaştırmak.
+
+b) Merkezin çalışmalarıyla ilgili plan ve programların hazırlanmasını ve uygulanmasını sağlamak.
+
+c) Merkezin yatırım ve plan tasarısını hazırlamak ve onaylanmak üzere Rektöre sunmak.
+
+ç) Merkez elemanlarının eğitim, uygulama, araştırma, danışmanlık ve yayın konularındaki isteklerini değerlendirip karara bağlamak.
+
+d) Merkezde görevli personelin hizmet içi eğitim amacı ile yurt içi ve yurt dışında görevlendirilmesini Rektöre teklif etmek.
+
+e) Gerekli hallerde Merkezin faaliyetleri ile ilgili geçici çalışma grupları kurmak ve bunların görevlerini düzenlemek.
+
+f) İlgili mevzuat hükümleri kapsamında yurt içi ve yurt dışındaki kamu kurum ve kuruluşları ve özel kurum ve kuruluşlar ile ortaklaşa yürütülecek çalışmaların temel ilke, esas ve usullerini tespit etmek.
+
+g) Müdürün, Merkezin yönetimi ile ilgili getireceği konuları değerlendirerek karara bağlamak.
+
+ğ) Merkezin amacı doğrultusunda ilgili mevzuatla verilen diğer görevleri yapmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 12 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Rektör tarafından görevlendirilen personel tarafından karşılanır.
+
+### MADDE 13 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Mütevelli Heyet Başkanıdır. Mütevelli Heyet Başkanı bu yetkisini uygun gördüğü ölçü ve sürede Başkan Vekiline, Rektöre ve Müdüre devredebilir.
+
+### MADDE 14 — Ekipman ve demirbaşlar
+
+(1) Merkez tarafından desteklenen bilimsel araştırma ve uygulamalar için alınan her türlü alet, ekipman ve demirbaşlar Merkez hizmetlerine ve gerektiğinde Üniversitenin kullanımına tahsis edilir.
+
+### MADDE 15 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde; ilgili mevzuat hükümleri uygulanır.
+
+### MADDE 16 — Yürürlükten kaldırılan yönetmelik
+
+(1) 17/9/2020 tarihli ve 31247 sayılı Resmî Gazete’de yayımlanan Konya Gıda ve Tarım Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Konya Gıda ve Tarım Üniversitesi Rektörü yürütür.

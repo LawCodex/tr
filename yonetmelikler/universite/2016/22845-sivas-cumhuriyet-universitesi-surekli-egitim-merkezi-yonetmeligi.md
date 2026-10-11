@@ -1,0 +1,190 @@
+---
+title: "SİVAS CUMHURİYET ÜNİVERSİTESİ SÜREKLİ EĞİTİM MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.22845"
+number: "22845"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2016-09-16
+official_gazette_date: 2016-09-16
+official_gazette_number: "29829"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22845&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# SİVAS CUMHURİYET ÜNİVERSİTESİ SÜREKLİ EĞİTİM MERKEZİ YÖNETMELİĞİ[^1]
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; **(Değişik ibare:RG-9/3/2025-32836)** Sivas Cumhuriyet Üniversitesi Sürekli Eğitim Merkezinin amaçlarına, faaliyetlerine, yönetim organlarına ve yönetim organlarının görevlerine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; **(Değişik ibare:RG-9/3/2025-32836)** Sivas Cumhuriyet Üniversitesi Sürekli Eğitim Merkezinin amaçlarına, faaliyetlerine, yönetim organlarına ve yönetim organlarının görevlerine ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: **(Değişik ibare:RG-9/3/2025-32836)** Sivas Cumhuriyet Üniversitesi Sürekli Eğitim Merkezi Danışma Kurulunu,
+
+b) Merkez: **(Değişik ibare:RG-9/3/2025-32836)** Sivas Cumhuriyet Üniversitesi Sürekli Eğitim Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: **(Değişik ibare:RG-9/3/2025-32836)** Sivas Cumhuriyet Üniversitesi Rektörünü,
+
+d) Senato: **(Değişik ibare:RG-9/3/2025-32836)** Sivas Cumhuriyet Üniversitesi Senatosunu,
+
+e) Üniversite: **(Değişik ibare:RG-9/3/2025-32836)** Sivas Cumhuriyet Üniversitesini,
+
+f) Yönetim Kurulu: **(Değişik ibare:RG-9/3/2025-32836)** Sivas Cumhuriyet Üniversitesi Sürekli Eğitim Merkezi Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları ve faaliyet alanları
+
+(1) Merkezin amaçları ve faaliyet alanları şunlardır:
+
+a) Üniversitece örgün eğitim verilen alanların dışında, araştırma yapılan ve proje geliştirilen tüm alanlarda halkın eğitime ihtiyaç duyduğu konularda ve ara eleman yetiştirmeye yönelik alanlarda eğitim vermek.
+
+b) Kamu, özel sektör, ulusal ve uluslararası kuruluş ve kişilerin ihtiyaç duydukları alanlarda eğitim ve sosyal etkinlik programları düzenlemek, bunları ilan ederek yürütmek ve böylece Üniversitenin kamu-özel sektör ve uluslararası kuruluşlarla işbirliğinin gelişmesine katkıda bulunmak.
+
+c) Merkezin amaçları doğrultusunda, ulusal ve uluslararası düzeyde kurslar, seminerler, konferanslar, sempozyumlar, çalıştaylar, fuarlar ve benzeri faaliyetler düzenlemek veya düzenlemesinde paydaşlık yapmak.
+
+ç) Üniversite-şehir-sanayi işbirliği çerçevesinde gelişen ve sürekli değişen iş dünyasının çalışanlarına yeni teknolojileri tanıtma ve bu yönde bilgi ve becerileri kazandırma, kariyer planlama ve mesleki gelişimi sağlamaya yönelik, sertifika ve benzeri eğitim programları düzenlemek.
+
+d) Üniversitenin akademik ve bilimsel birikiminden yararlanarak her türlü danışmanlık hizmeti vermek.
+
+e) İlgili kamu kurum ve kuruluşlarıyla işbirliği yaparak ortaöğretim öğrencilerine yönelik meslek seçimi, mesleki tanıtım ve yükseköğretimi tanıtıcı bilgilendirme etkinlikleri yapmak.
+
+f) Diğer üniversitelerde bulunan sürekli eğitim veya yaşam boyu öğrenme merkezleriyle işbirliği, paydaşlık temelinde ortaklıklar yapmak, ortaklaşa kurs, sertifika programları, seminer, konferans, tanıtım etkinlikleri ve benzeri etkinlikler düzenlemek.
+
+g) Üniversitenin ilgili birimlerinin talebi üzerine her türlü bilimsel, eğitsel ve sosyal çalışmanın organizasyonlarını yapmak ve bunların araç-gereç ve sunu olanaklarını sağlamak.
+
+ğ) İnternet üzerinden eşzamanlı veya eşzamanlı olmayan her türlü kurs veya eğitim programı düzenlemek, program veya kitap, görüntü, ses kaydı ve benzeri eğitim materyali sunmak.
+
+h) Merkezin faaliyet alanına giren bütün konularda kitap, dergi, broşür, katalog ve benzeri yayınlar yapmak, her türlü basım ve yayın işlerini yürütmek.
+
+ı) Diğer ülkelerden gelen öğrencilere, öğretim elemanlarına yönelik kurslar ve programlar düzenlemek.
+
+i) İlgili mevzuat hükümlerine göre Üniversitede iş yeri hekimliği ve iş güvenliği uzmanlığı ve iş sağlığı ve güvenliği konusunda eğitimler düzenlemek, eğitime katılanlara belge düzenlemek.
+
+j) İlgili mevzuat hükümlerine göre ulusal ve uluslararası personel belgelendirme sertifikasyonu eğitimleri düzenlemek, sınavlar yapmak, belge, sertifika ve katılım belgesi vermek.
+
+k) Ulusal düzeyde Avrupa Birliği normlarına uyum sağlamak amacıyla meslek standartları geliştirmeye yönelik çalışmaları gerçekleştirmek, ilgili birimlerle işbirliği yapmak.
+
+l) Sürekli eğitim kapsamında Rektörlükçe önerilen ve/veya Yönetim Kurulunca kararlaştırılan diğer faaliyetleri gerçekleştirmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 6 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 7 — Müdür
+
+(1) Müdür, Rektör tarafından Üniversite **(Değişik ibare:RG-9/3/2025-32836)** öğretim elemanları arasından üç yıl için görevlendirilir. Müdür aynı zamanda Yönetim Kurulu başkanıdır. Süresi sona eren Müdür tekrar görevlendirilebilir. Müdür görevlendirildiği usul ile görevden alınabilir.
+
+### MADDE 8 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek, Yönetim Kuruluna ve Danışma Kuruluna başkanlık etmek.
+
+b) Yönetim Kurulu gündemini oluşturmak ve alınan kararları uygulamak veya ilgili birimler aracılığıyla uygulanmasını sağlamak.
+
+c) Merkezin amaçlarını gerçekleştirmeye yönelik faaliyetlerini gerektiğinde ilgili birimleri de harekete geçirerek planlamak ve yürütmek.
+
+ç) Merkeze bağlı olarak çalışan birimleri Merkezin amaç ve faaliyetleri doğrultusunda koordine etmek ve yönetmek.
+
+d) Merkez ve Merkeze bağlı birimlerin yıllık faaliyet raporlarını hazırlamak ve Rektörlüğe sunmak.
+
+### MADDE 9 — Müdür yardımcıları
+
+(1) Rektör tarafından, Müdürce önerilen Üniversitenin dört öğretim elemanı arasından en fazla iki tane Müdür yardımcısı görevlendirilir. Müdürün görev süresinin bitmesiyle Müdür yardımcılarının görev süreleri sona erer. Müdürün önerisi ve Rektörün onayı ile Müdür yardımcıları görevden alınabilir.
+
+### MADDE 10 — Müdür yardımcılarının görevleri
+
+(1) Müdür yardımcılarının görevleri şunlardır:
+
+a) Müdürün görevde bulunmadığı sürelerde Müdürlüğe vekâlet etmek ve Müdürün görevlerini üstlenerek Merkezi temsil etmek.
+
+b) Müdürün isteği üzerine Yönetim Kurulu toplantılarına katılmak.
+
+c) Merkezin amaçları doğrultusunda düzenlenecek ve yürütülecek tüm faaliyetlerin yürütülmesinde Müdürle birlikte çalışmak, yardımcı olmak ve gerektiğinde rapor hazırlamak.
+
+### MADDE 11 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür ve Müdür tarafından teklif edilen Üniversite öğretim elemanları arasından Rektör tarafından görevlendirilen dört kişi olmak üzere toplam beş üyeden oluşur. Müdür, Müdür yardımcılarını oy hakkı olmaksızın Yönetim Kurulu toplantılarına davet edebilir. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üyeler aynı usulle yeniden görevlendirilebilir. Süreleri dolmadan ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+
+(2) Yönetim Kurulu Müdürün davetiyle yılda en az iki kez olmak üzere salt çoğunlukla toplanır ve yapılan faaliyetleri gözden geçirerek oy çokluğuyla karar alır.
+
+### MADDE 12 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Her faaliyet dönemi/eğitim-öğretim yarıyılı sonunda hazırlanacak faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek, Müdürün sunduğu faaliyet raporunu değerlendirmek ve bir sonraki döneme ait faaliyet raporunu düzenlemek.
+
+b) Eğitim programları sonunda başarı belgesi, sertifika ve benzeri belgelerin verilme koşullarını belirlemek.
+
+c) Merkezce yürütülecek her türlü program ve etkinliğin koşullarını ve işleyiş biçimini kararlaştırmak.
+
+### MADDE 13 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu, Müdürün farklı alanlardan önereceği on beş Üniversite öğretim elemanı arasından Rektör tarafından görevlendirilen on kişi ve istekleri halinde Yönetim Kurulunun önerisi ile Üniversite dışından Rektör tarafından görevlendirilen en fazla üç üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üyeler aynı usulle yeniden görevlendirilebilir. Süreleri dolmadan ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yenileri görevlendirilir. Danışma Kurulu, Müdürün çağrısı üzerine toplanır. Müdürün isteği üzerine Danışma Kurulu toplantılarına Müdür yardımcıları da katılabilir.
+
+(2) Danışma Kurulu, Merkezin faaliyetleriyle ilgili değerlendirmeler yapar ve yapılacak etkinlikler için öneri ve tavsiyelerde bulunur.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+
+### MADDE 15 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, ilgili diğer mevzuat hükümleri ve Senato kararları uygulanır.
+
+### MADDE 16 — Yürürlükten kaldırılan yönetmelik
+
+(1) 21/4/2014 tarihli ve 28979 sayılı Resmî Gazete’de yayımlanan Cumhuriyet Üniversitesi Recai Toydemir Sürekli Eğitim Merkezi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini **(Değişik ibare:RG-9/3/2025-32836)** Sivas Cumhuriyet Üniversitesi Rektörü yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>16/9/2016</td><td>29829</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>9/3/2025</td><td>32836</td></tr>
+</table>
+
+---
+
+[^1]: *9/3/2025 tarihli ve 32836 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Cumhuriyet Üniversitesi Sürekli Eğitim Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.*

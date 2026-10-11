@@ -1,0 +1,253 @@
+---
+title: "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.39433"
+number: "39433"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2022-03-21
+official_gazette_date: 2022-03-21
+official_gazette_number: "31785"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39433&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Nevşehir Hacı Bektaş Veli Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına ve yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Nevşehir Hacı Bektaş Veli Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Dekan: Diş Hekimliği Fakültesi Dekanını,
+
+c) Fakülte: Nevşehir Hacı Bektaş Veli Üniversitesi Diş Hekimliği Fakültesini,
+
+ç) Merkez: Nevşehir Hacı Bektaş Veli Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezini,
+
+d) Müdür (Başhekim): Merkezin Müdürünü,
+
+e) Rektör: Nevşehir Hacı Bektaş Veli Üniversitesi Rektörünü,
+
+f) Senato: Nevşehir Hacı Bektaş Veli Üniversitesi Senatosunu,
+
+g) Üniversite: Nevşehir Hacı Bektaş Veli Üniversitesini,
+
+ğ) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Ağız ve diş sağlığı ile ilgili fakülte, enstitü ve yüksekokulların lisans, lisansüstü, doktora ve uzmanlık öğrencilerine uygulamalı eğitim ve öğretim imkânlarını sağlayarak ağız ve diş sağlığı eğitiminin bütün alanlarında deneyim kazanmış sağlık personeli yetiştirmek, öğretim elemanları ile öğrencilere bilimsel araştırma yapma koşullarını hazırlayarak onların kendilerini geliştirmelerini ve bilime katkı sağlamak.
+
+b) Merkeze başvuran acil ve diğer hastalara ayakta veya yatırılarak ağız, diş ve çene sağlığı hizmeti vermek için çağın gereklilikleri doğrultusunda ihtiyaç ve beklentilere uygun, hasta haklarına saygılı, kaliteli ve modern bir teşhis ve tedavi hizmeti sunmak.
+
+c) Diş hekimi ve uzman diş hekimi yetiştirilmesine katkı sağlamak.
+
+ç) Üniversitenin sağlık bilimleri alanında ön lisans, lisans ve lisansüstü eğitim-öğretime devam eden öğrencilerin eğitim ve uygulamalarına akademik olarak katkıda bulunmak.
+
+d) Bilimsel eğitim-öğretim, araştırma ve uygulama olanağı sağlamak amacıyla Üniversite bünyesindeki sağlık hizmetleri ile ilgili alanlarda faaliyet gösteren fakülte, enstitü, yüksekokul, uygulama ve araştırma merkezleri ve diğer kurumlarla işbirliği yapmak; eğitim ve sağlık hizmetlerinin verimliliği ile niteliğini artırmak.
+
+e) Tıbbi araştırma ve uygulamaların en üst düzeyde gerçekleşmesi için bilimsel araştırma koşullarını hazırlamak, çağdaş hastane işletme yönetimi ilkeleri doğrultusunda faaliyette bulunmak ve ulaşılabilir kaliteli sağlık hizmeti sunulmasını sağlamak.
+
+f) Yardımcı sağlık personeli yetiştirilmesine destek vermek.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Merkez bünyesinde, diş hekimliği uzmanlık disiplinlerinin tedavi protokolleri kapsamında girişimsel cerrahi teknikleri uygulayarak lokal ve genel ameliyathanelerle hastaların ayakta veya yatarak müşahede, muayene, teşhis, tedavi ve rehabilite edilmelerini sağlamak ve bu konuyla ilgili birimleri oluşturmak.
+
+b) Koruyucu diş hekimliği uygulamaları kapsamında ve ilgili mevzuat hükümleri çerçevesinde sahada hizmet sunan toplum ağız ve diş sağlığı birimi oluşturmak ve Rektörlüğün bilgisi dâhilinde bu birime saha çalışmalarında destek verebilecek kamu/özel sektör kurum ve kuruluşları ve sivil toplum örgütleri ile işbirliği yapmak.
+
+c) Ağız, diş ve çene sağlığı alanında hizmet verilmesini sağlamak ve bu konu ile ilgili araştırma ve uygulamalarda bulunmak.
+
+ç) Klinik dalları ve diğer disiplinlerle toplum sağlığına yönelik araştırmalar konusunda işbirliğini sağlamak.
+
+d) İlgili mevzuat hükümleri kapsamında Merkezin amaçları ile ilgili kamu kurum ve kuruluşlarıyla ortak projelerin geliştirilmesine imkân sağlamak.
+
+e) Üniversite öğrencilerinin ağız ve diş sağlığı konusunda yaşam bilinci kazanmalarını ve Merkez projelerinde etkin görev almalarını sağlamak, bu amaçla özendirici eğitsel faaliyetlerde bulunmak ve bu alanda çalışmak isteyenleri desteklemek.
+
+f) İlgili mevzuat hükümleri kapsamında ulusal ve uluslararası kamu ve özel sektör kurum ve kuruluşlarına Merkezin amaçları doğrultusunda projeler hazırlamak, sertifika ve eğitim programları düzenlemek, kurslar, kongreler gibi benzeri hizmetleri vermek ve bilimsel mütalaada bulunmak.
+
+g) Toplumun ağız ve diş sağlığı konusunda bilgilendirilmesi ve eğitilmesi amacıyla kitap, dergi, broşür ve benzeri basımları yapmak, yazılı ve görsel basın organlarında programlar düzenlemek ve projeler geliştirmek.
+
+ğ) Merkezin faaliyet alanları kapsamında Rektörlüğün ve Merkezin yönetim organlarının kararlaştıracağı diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür (Başhekim).
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür (Başhekim)
+
+(1) Müdür, Fakülte bünyesinde tam zamanlı statüde görev yapan klinik bilimler bölümünde görevli öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden aynı usul ile görevlendirilebilir. Rektör gerekli gördüğü hâllerde Müdürü süresinden önce görevden alabilir.
+
+(2) Müdürün görevi başında bulunmadığı zamanlarda yardımcılardan biri, Müdürün teklifi ve Rektörün onayı ile kendisine vekalet eder.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezin stratejik plan ve hedefleri doğrultusunda gelişmesi için gerekli tedbirleri almak, gerekli düzenleme ve çalışmaları yapmak.
+
+b) Merkezin düzenli, uyumlu, etkin, sürekli ve verimli biçimde çalışmasını sağlamak ve Merkezi denetlemek.
+
+c) Yönetim Kurulu tarafından alınan kararların uygulanmasını sağlamak.
+
+ç) Merkeze bağlı idari, sağlık ve teknik tüm personelin yönetim, koordinasyon, denetim ve genel gözetimini yapmak.
+
+d) Merkezin gerekçeli bütçe, ödenek, kadro ve personel ihtiyaçlarını ve yıllık faaliyet raporunu hazırlayarak Rektörlüğe sunmak.
+
+e) Merkez hizmetlerinin yürütülmesi için gerekli her türlü cari mal ve hizmet alımı ile cihaz ve diğer demirbaş malzeme temin ve bakım-onarım ihtiyacının, bina bakım-onarım ihtiyacının tespiti, zamanında temin edilmesi ve yapılması için gerekli tedbirleri almak, koordinasyonu sağlamak ve gerekli girişimde bulunmak.
+
+f) Merkeze alınacak her türlü cari mal ve demirbaş malzemenin ilgili mevzuat hükümleri çerçevesinde giriş-çıkış, yılsonu devir ve düşüm işlemlerinin yapılması ile kurulacak muayene kabul komisyonlarının görev ve işlemlerini izlemek.
+
+g) Merkez döner sermaye faaliyetlerinin etkin ve verimli olarak yürütülmesi, gelir kaybının azaltılması ile giderlerinin rasyonel olarak yapılması için gerekli koordinasyonu sağlamak, tedbirleri almak ve gerekli girişimlerde bulunmak, bünyesinde hizmet veren anabilim dalı, bilim dalı faaliyetlerinin gelir-gider dengesine göre performanslarını tespit etmek.
+
+ğ) Merkez hizmetlerinin hizmet içi programlara, toplam kalite yönetimine ve kurum kültürü çalışmalarına uygun olarak yürütülmesini temin etmek.
+
+h) Rektör tarafından kendisine verilen diğer görevleri yapmak.
+
+### MADDE 10 — Müdür yardımcısı (başhekim yardımcısı) ve görevleri
+
+(1) Müdürün önerisiyle Fakültede tam zamanlı statüde görev yapan klinik bilimler bölümünde görevli öğretim üyeleri arasından en fazla iki kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir.
+
+(2) Müdür yardımcılarının görev süresi, Müdürün görevi bittiğinde sona erer. Rektör gerekli gördüğü hâllerde müdür yardımcılarını görev süresinden önce görevden alabilir.
+
+(3) Müdür yardımcıları, Müdürün yapacağı yetki devrine göre, hizmetlerin yürütülmesinde Müdüre yardımcı olur.
+
+### MADDE 11 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür, Dekan, müdür yardımcısı/yardımcıları ve Fakültenin farklı anabilim dallarından öğretim üyeleri arasından Rektör tarafından üç yıllığına görevlendirilen en fazla üç üye olmak üzere toplam en fazla 7 üyeden oluşur.
+
+(2) Yönetim Kurulu toplantılarına Müdür başkanlık eder. Yönetim Kurulu, Müdürün daveti üzerine üyelerin salt çoğunluğuyla yılda en az altı kere olağan ve gerekli hâllerde de daha sık toplanır. Müdür, gerekli gördüğü hâllerde ilgili birim sorumlularını ve yöneticilerini, oy hakkı olmadan toplantılara davet edebilir.
+
+(3) Yönetim Kurulunun almış olduğu kararlar Rektörlük tarafından onaylandıktan sonra uygulamaya konulur. Yönetim Kurulu, bütün kararların uygulanmasında Rektöre karşı sorumludur.
+
+(4) Yönetim kurulunun raportörlüğünü Hastane Müdürü yapar.
+
+### MADDE 12 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkez hizmetlerinin verimli ve düzenli bir şekilde yürütülmesi için; ilgili mevzuat hükümleri ve Danışma Kurulunun tavsiye kararları dikkate alınarak, Merkezin yönetimi ve işletilmesi için gerekli kararları almak ve Merkezin yönetiminde Müdüre yardımcı olmak.
+
+b) Merkezin çalışma raporlarını ve istatistiki verilerini değerlendirmek ve gerektiğinde Merkezin faaliyetlerinin geliştirilmesi ve iyileştirilmesi için kararlar almak.
+
+c) Merkezin faaliyette bulunan klinik ve laboratuvar birimlerinin, idari ünitelerin, ortak kullanım sahalarının ve yeni kurulan ünitelerin etkin çalışması için yerleşim planlarını yapmak ve koordinasyonu sağlamak.
+
+ç) Merkezin daha iyi sağlık hizmeti verebilmesi için gerekli olan birimleri, klinikleri, laboratuvarları, hastalara yönelik tanı ve tedavi üniteleri ile eğitim birimlerini kurmak ve bu birimlerin yönetim esaslarını ilgili birimlerle işbirliği içinde hazırlamak.
+
+d) Merkezin kadro ve mali kaynaklarını, performansa dayalı olarak inceleyerek gerekli kararları almak ve her yıl sonunda birimlerin hizmet performanslarını inceleyerek ertesi yıl için teşvik yönünde tedbirler almak.
+
+### MADDE 13 — Danışma Kurulu
+
+(1) Danışma Kurulu, Rektör veya Rektör tarafından görevlendirilen rektör yardımcısı başkanlığında aşağıdaki üyelerden oluşur:
+
+a) Dekan ve dekan yardımcıları.
+
+b) Müdür ve müdür yardımcıları.
+
+c) Diş Hekimliği Fakültesi anabilim dalı başkanları.
+
+ç) Diş hekimliği uzmanlık öğrencilerinin kendi aralarından seçeceği bir temsilci.
+
+d) Diş hekimliği araştırma görevlilerinin kendi aralarından seçeceği bir temsilci.
+
+e) Hastane Müdürü.
+
+f) Başhemşire.
+
+(2) Danışma Kurulu, Başkanının daveti üzerine yılda en az iki defa olağan ve gerekli hallerde de daha sık toplanır. Danışma Kurulunun raportörlüğünü Müdür yapar.
+
+### MADDE 14 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri şunlardır:
+
+a) Merkezin faaliyet alanları ile ilgili her kesimden gelen eleştiri ve önerileri değerlendirmek ve bunlar da dikkate alınarak Merkezin amaçlarına uygun ve Merkezin hizmetleri açısından yararlı bulunan tavsiye niteliğinde görüş ve önerilerde bulunmak.
+
+b) Merkezin verimlilik ve etkinliğinin arttırılması, hizmet kontrolünün sağlanması ve değerlendirilmesi ile ilgili görüş ve önerilerde bulunmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 15 — Klinik sorumlusu ve görevleri
+
+(1) Klinik sorumlusu görevlendirmesi, ilgili anabilim/bilim dalının öğretim üyeleri arasından yoksa diğer anabilim dallarından Dekanlık görevlendirmesi ve Müdürün uygunluk görüşü yöntemiyle haftalık/aylık periyotlar için veya belirli bir süre için düzenlenerek yapılır.
+
+(2) Klinik sorumlusu, ilgili klinikte sunulan tıbbi uygulamalar ile ilgili olarak Müdüre karşı sorumludur.
+
+(3) Klinik sorumlusu; ilgili kliniğin bu Yönetmelik ve ilgili diğer mevzuat hükümleri çerçevesinde çalıştırılmasından, ilgili kayıtların tutulmasından ve korunmasından ayrıca altyapı ile ilgili donanımın usulüne uygun kullandırılmasından sorumludur.
+
+(4) Klinik sorumlusu, klinikte hizmet sunan ve/veya eğitim alan öğrenciler ve doktora/uzmanlık öğrencilerinin, bunun dışındaki personelin bu Yönetmeliğe göre çalışmalarından ve diğer ilgili bütün mevzuat hükümlerine göre hizmet üretmelerinden sorumludur.
+
+### MADDE 16 — Hastane Müdürü
+
+(1) Hastane Müdürü, ilgili mevzuat hükümlerine göre ve Müdürün teklifi ile Rektör tarafından görevlendirilir. Hastane Müdürü, Müdürün görev ve sorumluluk alanları ile sınırlı olarak; Merkezin idari, mali ve teknik konularında, planlama, örgütlenme, koordinasyon ve denetim gibi temel yönetim işlevlerinde yetkili olup Müdüre karşı sorumludur.
+
+### MADDE 17 — Hastane müdür yardımcıları
+
+(1) Merkezin yönetim hizmetlerinde deneyimli ve ilgili mevzuat hükümlerine göre görevlendirilmeleri uygun olan kişiler arasından en fazla iki kişi Müdürün teklifi ile Rektör tarafından hastane müdür yardımcı olarak görevlendirilir.
+
+(2) Hastane müdür yardımcıları, Merkez tarafından yürütülen idari, mali ve teknik hizmetlerden kendilerine verilenleri ilgili mevzuat hükümleri çerçevesinde yerine getirir ve hizmetlerin yürütülmesinde Müdüre yardımcı olur.
+
+### MADDE 18 — Başhemşire (sorumlu hemşire), yardımcısı ve görevleri
+
+(1) Başhemşire; hemşirelik lisans mezunu, tercihen lisansüstü eğitim yapmış ve ilgili mevzuat hükümlerine göre atanmaları uygun olan kişiler arasından, Müdürün teklifi ile Rektör tarafından atanır.
+
+(2) Başhemşire, hemşirelik hizmetlerine yönelik çalışmaları ile idari faaliyetlerini Hastane Müdürü ile koordinasyon hâlinde yürütür ve Müdüre karşı sorumludur.
+
+(3) Görevlendirme şartlarına uygun kişiler arasından, Başhemşirenin görüşü ve Müdürün önerisi ile en fazla iki kişi Rektör tarafından başhemşire yardımcısı olarak görevlendirilir. Başhemşire yardımcıları Başhemşireye karşı sorumludur.
+
+### MADDE 19 — Oylama usulü
+
+(1) Bu Yönetmelikte geçen kurullarda her üye oyunu kabul veya ret olarak vermekle görevlidir. Çekimser oy kullanamaz. Toplantı yeter sayısı kurul üye tam sayısının yarıdan bir fazlasıdır. Tüm kurullarda kararlar toplantıya katılanların salt çoğunluğu ile alınır. Oyların eşitliği hâlinde başkanın oyu yönünde çoğunluk sağlanmış sayılır.
+
+### MADDE 20 — Merkez birimlerinin çalışma usul ve esasları
+
+(1) Merkezde ve Merkeze bağlı olarak çalışan sağlık hizmetleriyle görevli ünitelerde bulunan servis, klinik veya laboratuvar birimleri ile Merkezin idari işlerinde görevli diğer idari birimler, yürüttükleri hizmetler açısından Müdüre karşı sorumludurlar.
+
+(2) Merkezin faaliyet alanlarında görevli ana bilim dalı başkanları, bilim dalı başkanları ve laboratuvar ve klinik sorumluları; sorumluluk alanlarına giren bölgelerde hizmetlerin en verimli ve en iyi şekilde gerçekleştirilmesinden Merkezin yönetimi ile işbirliği ve koordinasyon içinde olmakla yükümlü ve sorumludurlar.
+
+### MADDE 21 — Hüküm bulunmayan hâller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hâllerde; ilgili diğer mevzuat hükümleri ile Yükseköğretim Kurulu, Senato ve Üniversite Yönetim Kurulu kararları uygulanır.
+
+### MADDE 22 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 23 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Nevşehir Hacı Bektaş Veli Üniversitesi Rektörü yürütür.

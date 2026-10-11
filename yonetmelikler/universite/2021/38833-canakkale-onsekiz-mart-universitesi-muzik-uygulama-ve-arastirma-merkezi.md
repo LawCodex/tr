@@ -1,0 +1,163 @@
+---
+title: "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ MÜZİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.38833"
+number: "38833"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2021-08-08
+official_gazette_date: 2021-08-08
+official_gazette_number: "31562"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38833&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ MÜZİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Çanakkale Onsekiz Mart Üniversitesi Müzik Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Çanakkale Onsekiz Mart Üniversitesi Müzik Uygulama ve Araştırma Merkezinin amacına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (ÇOMÜMUAM): Çanakkale Onsekiz Mart Üniversitesi Müzik Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkez Müdürünü,
+
+ç) Rektör: Çanakkale Onsekiz Mart Üniversitesi Rektörünü,
+
+d) Üniversite: Çanakkale Onsekiz Mart Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; müzik biliminin bütün tür ve dalları ile çalışma alanlarını kapsayacak şekilde araştırma, geliştirme, uygulama çalışmaları gerçekleştirmek, bu alanda Üniversitede mevcut bilgi ve deneyimlerle ülkenin bilimsel, sanatsal ve teknolojik alt yapısının güçlendirilmesine katkı sağlamak; ulusal ve uluslararası iş birliğine yönelik bilgi ve hizmet üretmek, müzik bilimine ve müzik eğitim-öğretimine katkıda bulunmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Merkezin amacı doğrultusunda bilimsel araştırma, uygulama ve eğitim faaliyetleri düzenlemek ve Üniversitenin ilgili birimleri ile ortak projeler oluşturmak.
+
+b) Merkezin amacına yönelik faaliyetlerinin gerçekleştirilmesi için yurt içindeki ve yurt dışındaki benzer kuruluşlarla iş birliği yapmak ve danışmanlık hizmeti vermek, ortak bilimsel-sanatsal proje ve çalışmalar için gerekli girişimlerde bulunmak.
+
+c) Ulusal ve uluslararası düzeyde konferans, seminer, sempozyum, kongre, resital, konser, yarışma, kurs, sergi ve benzeri etkinleri düzenlemek; başarılı araştırmacılara ve öğrencilere burs vermek.
+
+ç) Merkezin amacına yönelik görsel-işitsel yayınlar yapmak, süreli-süresiz yayımlar yapılmasına destek olmak.
+
+d) Müzik kitaplığı, nota koleksiyonu, basma-yazma müzik belgeleri, fotoğraf, afiş, broşür, taş plak, LP, CD, kaset, bant, DVD, VCD gibi yazılı-sesli-görsel dokümanın yer aldığı belgeleri oluşturmak.
+
+e) Merkez bünyesinde kurulacak olan ulusal ve uluslararası müzik toplukları ile (oda müziği-orkestra-koro ve benzeri) düzenli konser etkinlikleri düzenlemek.
+
+f) Çanakkale’nin tarihi önemini ortaya koyacak etkinlikleri desteklemek.
+
+g) Müziğin, engelli bireyler üzerindeki etkilerine yönelik bilimsel araştırmalar yapmak, sonuçlarını ilgililerle paylaşmak ve bu konuda projeler üretmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanıyla ilgili çalışmalarda bulunan Üniversite öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Görev süresi sona eren Müdür yeniden görevlendirilebilir. Müdür, Merkezin çalışmalarının yürütülmesinden Rektöre karşı sorumludur.
+
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere Üniversite öğretim elemanları arasından iki kişiyi yardımcısı olarak görevlendirilebilmesi için Rektörün onayına sunar. Müdürün görevi sona erdiğinde yardımcılarının da görevi kendiliğinden sona erer. Müdür, görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının görevi de kendiliğinden sona erer. Rektör gerekli gördüğü durumlarda Müdürü görev süresi bitmeden önce görevinden alabilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek, Merkezin faaliyetlerinin düzenli ve etkin bir şekilde yürütülmesini sağlamak.
+
+b) Merkezin kısa, orta ve uzun vadeli amaç ve politikalarını ve bunlara dayalı eğitim, araştırma ve danışmanlık ile ilgili plan ve programlarını Üniversitenin ilgili birimleri ile görüşerek hazırlamak ve birimler arasında koordinasyonu sağlamak.
+
+c) Yönetim Kurulunu ve Danışma Kurulunu toplantıya çağırmak, bu toplantıların gündemini belirlemek ve toplantılara başkanlık etmek.
+
+ç) Merkezin ödenek ve akademik, idari, teknik personel ihtiyacını belirleyip Yönetim Kuruluna sunmak.
+
+d) Araştırma ve proje çalışma ekipleri kurmak.
+
+e) Merkezin çalışmaları ile ilgili yıllık faaliyet raporunu hazırlamak, Yönetim Kurulunda onaylanmış şekliyle Rektöre sunmak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür, müdür yardımcıları ve Müdürün önerisiyle Merkezin faaliyet alanı ile ilgili çalışmalarda bulunan Üniversite öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilen dört üye olmak üzere toplam yedi üyeden oluşur.
+
+(2) Görevden ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen bir üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir. Görevi sona eren üyeler yeniden görevlendirilebilirler.
+
+(3) Yönetim Kurulu, yılda en az iki defa olağan veya gerekli hallerde Müdürün çağrısı üzerine olağanüstü olarak salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Oyların eşit olması halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışmalarıyla ilgili plan ve programların hazırlanmasını ve uygulanmasını sağlamak.
+
+b) Bir önceki yıla ait faaliyet raporunu ve bir sonraki yıla ait çalışma programını değerlendirmek ve Rektöre iletmek üzere karara bağlamak.
+
+c) Merkezin yatırım ve plan tasarısını hazırlamak ve onaylanmak üzere Rektöre sunmak.
+
+ç) Merkezin faaliyet alanı kapsamında yapılacak olan eğitim, uygulama, araştırma, danışmanlık ve yayım konularını değerlendirip karara bağlamak.
+
+d) Danışma Kurulunun üyelerini seçmek üzere Rektöre öneride bulunmak.
+
+### MADDE 12 — Danışma Kurulu ve görevi
+
+(1) Danışma Kurulu, Yönetim Kurulu tarafından önerilen ve Rektör tarafından üç yıllığına seçilen, Üniversite içinden veya istekleri halinde Üniversite dışından Merkezin faaliyet alanı ile ilgili çalışmalarda bulunan kamu ve özel sektör kurum ve kuruluş temsilcilerinden olmak üzere toplam yedi üyeden oluşur.
+
+(2) Danışma Kurulu, yılda en az iki kez veya gerekli hallerde Müdürün çağrısı üzerine olağanüstü olarak toplanır.
+
+(3) Danışma Kurulunun görevi; Merkezin faaliyet alanı ile ilgili konularda görüşlerini bildirmek ve tavsiyelerde bulunmaktır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Müdürdür.
+
+### MADDE 15 — Ekipman ve demirbaşlar
+
+(1) Merkezin faaliyetlerini yürütebilmesi için alınan her türlü alet, ekipman ve demirbaşlar Merkezin kullanımına tahsis edilir.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Çanakkale Onsekiz Mart Üniversitesi Rektörü yürütür.

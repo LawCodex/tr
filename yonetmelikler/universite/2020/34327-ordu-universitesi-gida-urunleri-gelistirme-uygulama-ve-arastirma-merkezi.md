@@ -1,0 +1,131 @@
+---
+title: "ORDU ÜNİVERSİTESİ GIDA ÜRÜNLERİ GELİŞTİRME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.34327"
+number: "34327"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2020-03-03
+official_gazette_date: 2020-03-03
+official_gazette_number: "31057"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34327&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ORDU ÜNİVERSİTESİ GIDA ÜRÜNLERİ GELİŞTİRME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Ordu Üniversitesi Gıda Ürünleri Geliştirme Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Ordu Üniversitesi Gıda Ürünleri Geliştirme Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez: Ordu Üniversitesi Gıda Ürünleri Geliştirme Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkezin Müdürünü,
+
+c) Rektör: Ordu Üniversitesi Rektörünü,
+
+ç) Üniversite: Ordu Üniversitesini,
+
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları; Ordu ili ve bölge illerindeki bitkisel ve hayvansal kaynaklı gıda ürünlerinin (fındık, kivi, balık, arı ürünleri -bal, polen, propolis, bal mumu, arı sütü, arı ekmeği, arı zehiri, apilarnil ve ana arı larvası-, süt ürünleri, tıbbi-aromatik bitkiler ile diğer yöresel ürünler) kimyasal analizlerinin yapılarak besin değerlerinin ortaya konulması, biyoaktif bileşiklerinin tespiti ve izolasyonu ile bunlardan katma değeri yüksek yeni fonksiyonel ürünler geliştirmek, tüketicileri bu ürünler konusunda bilinçlendirmek, bu alanda faaliyet gösteren ulusal ve uluslararası kuruluşlar ile kamu ve özel kurum ve kuruluşlarla iş birliği yapmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Bölge halkı için halen ticari öneme sahip olan fındık, kivi, balık ve arı ürünleri başta olmak üzere yöresel gıda ürünleri ile ticari potansiyeli olan tıbbi ve aromatik bitkilerin analizi için laboratuvarlar oluşturmak, yeni analiz metotları geliştirmek ve bu ürünlerin standartlarının belirlenmesinde görev yapmak.
+
+b) Birinci fıkranın (a) bendinde yer alan gıdaların içeriğindeki biyoaktif etken maddelerin tanımlanmasını ve izolasyonunu yaparak bunların ilaç etken maddesi dahil katma değeri çok yüksek ürünlere işlenmesini sağlamak.
+
+c) Yöresel gıda ürünlerinin çikolata gibi katma değeri yüksek ürünlerde kullanılmasını sağlamak.
+
+ç) Yöresel gıda ürünleri ve bileşenlerinden inovatif ve katma değeri yüksek ürünlerin elde edilmesi için AR-GE projeleri yapmak, proje kabul etmek, başlatmak ve yürütmek.
+
+d) Yöresel gıda ürünlerini tanıtmak amacıyla uygulama grupları kurmak ve Merkezin faaliyet alanıyla ilgili konuların eğitimine yönelik programlar düzenlemek.
+
+e) Yöresel gıda ürünlerinin sağlığa faydalı etkilerini ortaya çıkaracak doğru kullanımı hakkında bilimsel çalışmalar yapmak.
+
+f) Tüketicilerin korunmasına yardımcı olmak için yöresel gıda ürünlerinde olabilecek tağşişler hakkında raporlar hazırlayıp halkı bilgilendirmek.
+
+g) Ulusal ve uluslararası eğitici ve tanıtıcı seminer, kongre, konferans, sempozyum gibi bilimsel toplantılar düzenlemek, yapılan toplantılara katılmak, benzer amaçlı kamu ve özel kurum ve kuruluşlarla iş birliğinde bulunmak.
+
+ğ) Danışmanlık hizmeti vermek ve yayım faaliyeti yapmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür, Rektör tarafından Üniversitenin tam zamanlı öğretim elemanları arasından üç yıl süreyle görevlendirilir. Görev süresi biten Müdür yeniden görevlendirilebilir.
+
+(2) Müdür, kendisine çalışmalarında yardımcı olmak üzere Üniversitenin öğretim elemanları arasından en fazla 2 öğretim elemanını üç yıl için müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Görev süresi sona eren müdür yardımcısı tekrar görevlendirilebilir. Müdürün görevi sona erdiğinde müdür yardımcısının da görevi sona erer. Müdürün görevi başında olmadığı zamanlarda, müdür yardımcısı Müdüre vekalet eder.
+
+(3) Müdür; Merkezin uygulama, araştırma ve yayım faaliyetlerinin düzenli bir şekilde yürütülmesinden, bütün faaliyetlerinin gözetim ve denetiminin yapılmasından, sonuçların alınmasından Rektöre karşı birinci derecede sorumludur.
+
+(4) Müdürün görevleri şunlardır:
+
+a) Yönetim Kuruluna başkanlık etmek, Merkez çalışmalarının gerektirdiği görevlendirmeleri yapmak, Merkezin çalışmalarını denetlemek.
+
+b) Merkezin ödenek ve eleman ihtiyaçlarını, gerekçeleri ile Rektörlüğe bildirmek.
+
+c) Yurt içinde ve yurt dışında araştırma ve uygulama merkezleriyle iş birliği yapmak, projeler geliştirmek ve karşılıklı yardımlaşmayı sağlamak ve konu ile ilgili çalışmaları koordine etmek.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, müdür yardımcısı/yardımcıları ile Üniversitenin öğretim üyeleri arasından Müdür tarafından önerilen ve Rektör tarafından üç yıl için görevlendirilen beş üyeden oluşur. Süresi dolan üyeler yeniden görevlendirilir. Süresi dolmadan görevden ayrılan üyelerin yerine, kalan süre için aynı usulle yeni üyeler görevlendirilir.
+
+(2) Yönetim Kurulu, Müdürün daveti üzerine toplanır. Kararlar oy çokluğu ile alınır. Oyların eşitliği durumunda Müdürün oyu yönünde karar alınmış sayılır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 10 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör, bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+
+### MADDE 11 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 12 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 13 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 14 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Ordu Üniversitesi Rektörü yürütür.

@@ -1,0 +1,125 @@
+---
+title: "KARADENİZ TEKNİK ÜNİVERSİTESİ STRATEJİK ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.11188"
+number: "11188"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2007-03-14
+official_gazette_date: 2007-03-14
+official_gazette_number: "26462"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11188&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KARADENİZ TEKNİK ÜNİVERSİTESİ STRATEJİK ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Karadeniz Teknik Üniversitesine bağlı olarak kurulan, Karadeniz Teknik Üniversitesi Stratejik Araştırma Merkezinin yönetim, çalışma usul ve esaslarını düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Karadeniz Teknik Üniversitesine bağlı olarak kurulan, Karadeniz Teknik Üniversitesi Stratejik Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Üniversite: Karadeniz Teknik Üniversitesini,
+
+b) Rektör: Karadeniz Teknik Üniversitesi Rektörünü,
+
+c) Merkez: Karadeniz Teknik Üniversitesi Stratejik Araştırma Merkezini,
+
+ç) Merkez Müdürü: Merkezin Müdürünü,
+
+d) Merkez Yönetim Kurulu: Merkezin Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; disiplinler arası bir anlayışla, Karadeniz, Kafkasya ve Orta Asya ülkeleriyle ilgili olarak tarihi, kültürel, sosyal, siyasal, ekonomik alanlarda ulusal ve uluslar arası düzeylerde bilimsel araştırmalar yapmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkez; bu Yönetmeliğin 5 inci maddesinde belirtilen amaçlarını gerçekleştirmek için, çalışma alanına giren konularla ilgili olarak aşağıdaki faaliyetleri yapar:
+
+a) Ulusal ve uluslar arası düzeylerde bilimsel araştırma projeleri hazırlar, bu projeleri yürütecek bilim insanı grupları oluşturur ve finansman kaynaklarını bulur.
+
+b) Yurt içi ve yurt dışındaki bilim ve araştırma kurumları ile bilimsel işbirliği yapar, gereğinde bu kurumlara üye olur.
+
+c) Kongre, konferans, sempozyum, seminer, panel, kurs, sergi ve benzeri ulusal ve uluslar arası bilimsel toplantılar düzenler ve bu tür toplantılara katılır.
+
+ç) Özel ve kamu sektöründeki kurumlara danışmanlık ve Merkezin ilgi alanına giren konularda uygulamalı çalışmalar yapar.
+
+d) Kitap, dergi, bülten, çalışma raporu ve benzeri yayınlar yapar; bu alanda uluslar arası kuruluşlarla ortak çalışmalar yürütür.
+
+e) Üniversitenin fakülte ve enstitüleri ile işbirliği yaparak, Merkezin ilgi alanına giren konularda lisans ve lisansüstü eğitime katkıda bulunur.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Merkez Müdürü,
+
+b) Merkez Yönetim Kurulu.
+
+### MADDE 8 — Merkez müdürü ve görevleri
+
+(1) Merkez Müdürü; Rektör tarafından Üniversite öğretim üyeleri arasından üç yıl için görevlendirilir. Süresi biten Merkez Müdürü yeniden görevlendirilebilir. Merkez Müdürü, Rektöre karşı sorumludur. Merkez Müdürünün önerisi ile Üniversite öğretim üyeleri arasından iki kişi müdür yardımcısı olarak Rektör tarafından görevlendirilir. Müdür yardımcıları Merkez Müdürünün vereceği işleri yürütür ve Merkez Müdürünün görevi başında bulunmadığı zamanlarda Müdüre vekalet eder. Merkez Müdürünün görevi sona erdiğinde müdür yardımcılarının görevi de kendiliğinden sona erer.
+
+(2) Merkez Müdürünün görevleri şunlardır:
+
+a) Merkezi temsil etmek, Merkez Yönetim Kuruluna başkanlık etmek,
+
+b) Merkezin kısa, orta ve uzun dönemli amaç ve politikalarını ve bunlara dayalı eğitim ve araştırma ile ilgili plan ve programlarını hazırlamak, Merkez Yönetim Kurulunun onayından sonra uygulamak,
+
+c) Merkez Yönetim Kurulunca alınan kararları uygulamak,
+
+ç) Merkezin personel ihtiyacını belirleyip Merkez Yönetim Kuruluna sunmak,
+
+d) Araştırma ve proje ekipleri kurmak,
+
+e) Her yılın sonunda Merkezin çalışmaları ile ilgili yıllık faaliyet raporunu ve bir sonraki yıla ait çalışma programını hazırlamak, Merkez Yönetim Kurulunun görüşlerini aldıktan sonra Rektörün onayına sunmak.
+
+### MADDE 9 — Merkez yönetim kurulu ve görevleri
+
+(1) Merkez Yönetim Kurulu; Merkez Müdürü ve müdür yardımcıları ile Merkez Müdürünün Üniversite öğretim üyeleri arasından önereceği yedi kişi arasından Rektör tarafından üç yıl için görevlendirilen dört üyeden oluşur. Süresi bitmeden ayrılan veya başka nedenlerle görevi sona eren üyelerin yerine, kalan süreyi tamamlamak üzere aynı usulle yenileri görevlendirilir. Süresi biten üye yeniden görevlendirilebilir.
+
+(2) Merkez Yönetim Kurulu, Merkez Müdürünün daveti üzerine salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+
+(3) Merkez Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışma programlarının etkin bir şekilde yürütülmesi için gerekli tedbirleri almak,
+
+b) Merkezin çalışmalarıyla ilgili yıllık faaliyet raporu ile çalışma programını değerlendirmek ve Rektörün onayına sunulmak üzere karara bağlamak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 10 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı; Merkez Müdürünün önerisi üzerine, 2547 sayılı Yükseköğretim Kanununun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 11 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 12 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Karadeniz Teknik Üniversitesi Rektörü yürütür.

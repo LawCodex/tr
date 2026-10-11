@@ -1,0 +1,246 @@
+---
+title: "GÖÇ İDARESİ GENEL MÜDÜRLÜĞÜ YAYIN YÖNETMELİĞİ"
+identifier: "7.5.34544"
+number: "34544"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2020-05-23
+official_gazette_date: 2020-05-23
+official_gazette_number: "31135"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34544&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# GÖÇ İDARESİ GENEL MÜDÜRLÜĞÜ YAYIN YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı, Göç İdaresi Genel Müdürlüğü tarafından basılacak bütün yayınların planlanması, basılması ve dağıtımı ile ilgili kural ve ilkeleri belirlemek, yayın hizmetlerinin etkili bir şekilde yürütülmesini sağlamaktır.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Göç İdaresi Genel Müdürlüğü tarafından yayınlanacak telif ve işlenme eserlerin hizmet konuları bakımından planlanması, yayın kurallarına uygunluğunun sağlanması, incelenmesi, değerlendirilmesi, basılması, dağıtılması, satışı ve internet sayfasında yayınlanması ile ilgili her türlü işlemlere ilişkin usul ve esasları kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununun 121 inci maddesi, 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 161 inci maddesi ve 23/8/2006 tarihli ve 2006/10932 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmeliğin 21 inci maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Daire Başkanlığı: Göç İdaresi Genel Müdürlüğü Eğitim Dairesi Başkanlığını,
+
+b) Eser: Sahibinin hususiyetini taşıyan ve bilim ve edebiyat, müzik, güzel sanatlar veya sinema eserleri olarak sayılan her türden fikir ve sanat ürünlerini,
+
+c) Genel Müdür: Göç İdaresi Genel Müdürünü,
+
+ç) Genel Müdürlük: Göç İdaresi Genel Müdürlüğünü,
+
+d) İşlenme eser: Diğer bir eserden yararlanma yoluyla meydana getirilip de bu esere nispetle bağımsız olmayan ve işleyenin hususiyetini taşıyan fikir ve sanat ürünlerini,
+
+e) Yayın: Yerli ve yabancı her türlü yazılı, basılı ve sanal eserleri,
+
+f) Yayın Kurulu: Göç İdaresi Genel Müdürlüğü Yayın Kurulunu,
+
+g) Yayın Kurulu Başkanı: Göç İdaresi Genel Müdürlüğü Yayın Kurulu Başkanını,
+
+ğ) Yayın Kurulu Başkanlığı: Göç İdaresi Genel Müdürlüğü Yayın Kurulu Başkanlığını,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Yayın Amaçları, Faaliyetleri, İlkeleri ve Şartları
+
+### MADDE 5 — Yayın amaçları
+
+(1) Genel Müdürlüğün yayın amaçları şunlardır:
+
+a) Genel Müdürlüğün görev alanına giren faaliyetleri toplumun bütün kesimlerine duyurmak, Genel Müdürlüğün görevleri ile ilgili olarak toplumsal bilincin gelişmesine ve kamuoyu oluşmasına katkıda bulunmak.
+
+b) Genel Müdürlüğün görev alanına giren konulardaki araştırma ve incelemeleri yayınlayarak bu konulardaki literatürün zenginleşmesine katkıda bulunmak ve bu alanda hizmet veren kişi, kurum ve kuruluşlar arasındaki bilgi alışverişini güçlendirmek.
+
+c) Genel Müdürlük personelinin hizmet içi eğitimine katkıda bulunmak, verilen hizmetlerin kalitesini artırmak, stratejik planlamaların oluşturulmasına yardımcı olmak.
+
+### MADDE 6 — Yayın faaliyetleri
+
+(1) Genel Müdürlüğün yayın faaliyetleri; yayın amaçları doğrultusunda süreli veya süreli olmayan yayınlar, görme engelliler için hazırlanmış olan yayın, afiş, broşür, bilgilendirici belge gibi basılı eserler ile basılı olmayan dijital ortamda depolanan ve Genel Müdürlük internet sitesinde hizmete sunulacak elektronik eserleri hazırlamak, hazırlatmak, temin etmek, yayınlamak ve dağıtmaktır.
+
+### MADDE 7 — Yayın faaliyetlerinin yürütülmesi
+
+(1) Genel Müdürlük tarafından yayınlanacak telif ve işlenme eserlerle ilgili iş ve işlemler Yayın Kurulu tarafından yürütülür.
+
+### MADDE 8 — Yayın ilkeleri
+
+(l) Yayınlarda uyulması gereken ilkeler şunlardır:
+
+a) Genel Müdürlüğün kuruluş, amaç ve görevleri doğrultusunda doğru bilgi verici, eğitici, öğretici ve tanıtıcı nitelikte olmak.
+
+b) Kişi, kurum ve kuruluşlara zarar veren veya menfaat sağlayıcı unsurlar içermemek.
+
+c) Millî birlik ve beraberliği bozucu görüşlere; insanı, aileyi veya toplumun bir kesimini küçük düşürücü bilgi, belge ve yorumlara yer vermemek.
+
+ç) Türkiye Cumhuriyeti Anayasasına ve kanunlara göre suç teşkil eden unsurları bulundurmamak.
+
+d) Siyasî amaçlı ve propagandaya yönelik olmamak.
+
+e) Türkçe yazılan eserlerde, Türk dilinin zengin varlığından da yararlanılarak, herkesin kolayca anlayabileceği şekilde, yaşayan dilin gereklerine uygun ifadelere yer vermek.
+
+### MADDE 9 — Yayın şartları
+
+(1) Genel Müdürlük merkez ve taşra teşkilatı tarafından yayınlanacak eserler ve tercüme eser yayını teklifleri hakkında aşağıda belirtilen hükümlere göre işlem yapılır:
+
+a) Yazar, eserin ilk ve sonraki baskılarına ait bütün haklarını ilgili mevzuat hükümlerine uygun olarak Genel Müdürlüğe devrettiğine dair noterlikçe düzenlenecek bir temliknameyi Genel Müdürlüğe vermekle yükümlüdür. Ancak Genel Müdürlüğün süreli yayınlarında yer alacak yazılarda temliknamenin noterlikçe düzenlenmesi şartı aranmaz, EK-1’de yer alan matbu temliknamenin imzalanıp iletilmesi şeklinde yapılan yazılı bildirim yeterli olur.
+
+b) Makale eserlerde yazar, makale yayın dilekçesi, telif ve tercüme eser temliknamesi, saymanlık dilekçesi ve harcama pusulasını Yayın Kuruluna verir. Yazar, eserinin daha önce herhangi bir şekilde yayınlanıp yayınlanmadığı hususunu dilekçesinde belirtmek zorundadır. İşlenme eserlerde gerek görüldüğünde, asıl eser sahibinden alınacak izin belgesi de eklenir. Ortak eserlerle ilgili temliknameyi ve gerekli izin belgesini ise eser sahiplerinden birisi, diğerlerinin vekâletini almak suretiyle Genel Müdürlüğe verebilir.
+
+c) Çeviri eserlerde 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu gereğince yazardan veya yayın hakkına sahip kişi ve kurumdan yazılı yayın izninin alınması ve bu izin belgesinin başvuru belgelerine eklenmesi gerekir.
+
+ç) Eser içinde veya ek olarak yer alan resim, grafik, çizelge, şekil, harita ve benzerlerinin basımının güncel teknolojiye göre hazırlanmış olması gerekir.
+
+d) Bastırılacak dergilerde yayınlanacak eserlerin, yazım kurallarına uygun olarak hazırlanması, yazar bilgisi içeren ve içermeyen en az iki örneğinin gönderilmesi gerekir.
+
+e) Bastırılacak dergilerde yayınlanacak makale ve çevirilerde gerektiğinde yazarın veya yazarların izni alınarak kısaltma yapılabilir.
+
+f) Eserlerde ileri sürülen görüş ve düşünceler ile bunlardan doğabilecek her türlü bilimsel sorumluluk eser sahibine aittir.
+
+g) Genel Müdürlük tarafından düzenlenen kongre, sempozyum, çalıştay ve panellerde sunulan bildiri metinleri Genel Müdür onayıyla yayınlanabilir.
+
+ğ) Bilimsel makaleler içeren süreli yayınlar için dergi editörü, Yayın Kuruluna derginin yayınlanma amacını belirten bir rapor sunarak başvuruda bulunur. Yayınlanması talep edilen derginin danışma kurulu, hakem listesi ve makale formatlarının ulusal/uluslararası indeks kriterlerine uygun olarak oluşturulması gerekir. Yayın Kurulunca basılması ve dağıtılması uygun görülen süreli ve süresiz yayınlar her defasında, Genel Müdür onayı ile basılır ve dağıtılır.
+
+## ÜÇÜNCÜ BÖLÜM — Yayın Kurulu ve İnceleme
+
+### MADDE 10 — Yayın Kurulu
+
+(1) Genel Müdürlüğün yayın faaliyetlerinin bu Yönetmelik hükümlerine göre yerine getirilmesini sağlamak üzere Yayın Kurulu oluşturulur. Yayın Kurulu Başkanı, Genel Müdür tarafından genel müdür yardımcıları arasından görevlendirilir.
+
+(2) Yayın Kurulu aşağıda yer alan üyelerden oluşur:
+
+a) Eğitim Dairesi Başkanı.
+
+b) Uyum ve İletişim Dairesi Başkanı.
+
+c) Strateji Geliştirme Dairesi Başkanı.
+
+ç) Birinci Hukuk Müşaviri.
+
+(3) Yayın Kurulu, üye sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların oy çokluğu ile karar alır. Oyların eşitliği halinde Yayın Kurulu Başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+
+(4) Yayın Kurulu üyelerine ait eserlerin Yayın Kurulunda görüşülmesi sırasında, eser sahibi toplantıda bulunamaz.
+
+(5) Yayın Kurulu kararları Genel Müdürün onayı ile kesinleşir.
+
+(6) Yayın Kurulunun sekretarya hizmetleri, Daire Başkanlığınca yürütülür.
+
+### MADDE 11 — Yayın Kurulunun görevleri
+
+(1) Yayın Kurulunun görevleri şunlardır:
+
+a) Genel Müdürlük birimlerince yayınlanması planlanan eserlerin Yıllık Yayın Planında yer alıp almayacağına karar vermek, yayınlanması kararlaştırılan yayınları dikkate alarak bir sonraki yılın Yıllık Yayın Planı Taslağını hazırlamak.
+
+b) Genel Müdürlük tarafından çıkarılacak süreli yayınlar ile internet sayfasının biçim ve içerik bakımından devamlı olarak geliştirilmesini, düzenli olarak yayında kalmasını sağlayacak önlemleri belirlemek, süreli yayınlara girecek eserleri tespit etmek ve öncelik sırasına koymak.
+
+c) Yayınlanacak kitap ve dergilerin teknik özelliklerini, baskı adedini ve baskı şartnamesinin esaslarını belirlemek.
+
+ç) Yayınlanmak üzere gönderilen eserlerin değerlendirilmesinde esas alınacak ilke ve özellikleri belirlemek.
+
+d) Telif ve işlenme ücretinin ödenip ödenmeyeceği, telif ücretlerinde artırma yapılıp yapılmayacağı, hangi gösterge rakamının uygulanacağı ve ödenecek telif ve işlenme ücreti miktarının tespiti konularında Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik hükümlerine göre karar vermek.
+
+e) Basıma hazır olarak gelen eserleri incelemek, eserlerin bilimsel niteliğini de göz önünde bulundurarak Genel Müdürlük tarafından yayınlanmasının uygun olup olmadığına karar vermek, eserlerin basılma sırası, baskı adedi ve basılma şeklini belirlemek.
+
+f) Genel Müdürlük personeline verilecek hizmet içi eğitimlerde kullanılmak üzere yeterli kaynak bulunmadığı durumlarda hizmet içi eğitim ders aracı olarak kullanılacak olan kitap, yardımcı ders kitabı, çeviri ders kitabı ve ders notu ile araştırma-inceleme kitapları, kongre kitapları, dergiler ve el kitapları yayınlanmasını sağlamak.
+
+g) Genel Müdürlük yayınlarında yayımlanacak eserlerin incelemesini yapmak, söz konusu eserleri alanında uzman hakemlere göndererek içerik ve niteliği hakkında rapor hazırlanmasını istemek.
+
+ğ) Hakemli yayınlarda basılacak eserlerin ön incelemesini yapmak, hakemlerini belirlemek ve incelenen hakem raporları doğrultusunda ilgili eserin yayınlanıp yayınlanmayacağı hususunda nihai kararı vermek.
+
+### MADDE 12 — İnceleme usul ve esasları
+
+(1) Yayınlanacak telif ve işlenme eserler, Yayın Kurulu Başkanının havalesi üzerine, Yayın Kurulunca belirlenen yayın ilke ve özellikleri ile yazım kuralları da dikkate alınarak Daire Başkanlığı tarafından;
+
+a) Şekil yönünden; ilgili yayın için Genel Müdürlükçe belirlenen eser gönderim kuralları ve yazım kurallarına uygun olarak hazırlanıp hazırlanmadığı hususlarında incelemeye tabi tutulur.
+
+b) İçerik yönünden; Atatürk ilke ve inkılapları ile Türkiye Cumhuriyeti Anayasasına uygunluğu, kanunlara göre suç oluşturup oluşturmadığı, kamu hukuku, yönetim bilimi ve sosyoekonomik konularla doğrudan ilgili olup olmadığı, Genel Müdürlüğün merkez ve taşra teşkilatı personeli için yardımcı ve yol gösterici olup olmadığı, uygulama, personel ve teşkilatlanmaya ilişkin fiili veya hukuki sorunlara değinen, çözüm arayan ya da çözüm getiren bir nitelik taşıyıp taşımadığı, Genel Müdürlüğün görev alanını oluşturan konularla ilgili yeni yaklaşımlar içerip içermediği, daha önce yayınlanıp yayınlanmadığı, akademik-hakemli yayınlarda hakem raporlarının gereğinin yapılıp yapılmadığı hususlarında incelemeye tabi tutulur.
+
+### MADDE 13 — İnceleme sonucunda yapılacak işlemler
+
+(1) Daire Başkanlığı tarafından yapılan inceleme sonucunda verilen görüş ve Yayın Kurulunun kararı doğrultusunda uygun bulunmayan eserler yayınlanmaz.
+
+(2) Olumlu bulunduğu halde, iki yıl süreyle basılmak üzere stokta bekletilen eserler, süre bitiminde henüz yayınlanmamış ise olumsuz sayılır. İnceleme sonucunda olumsuz bulunan eserler için yazarına bildirimde bulunulur. Bildirimin yapılmaması durumunda ise ilgili süre sonunda yazardan alınan temlikname hükümsüz hale gelir.
+
+(3) Daha önce yayınlanmış eserlerin yayınlanıp yayınlanmamasına, Genel Müdürlüğün hizmetleri bakımından taşıdığı önem ve niteliği dikkate alınarak, Yayın Kurulu tarafından karar verilir.
+
+(4) Yayınlanacak eserlerdeki bariz maddi hatalar, Daire Başkanlığı tarafından düzeltilerek yazarına bilgi verilir. Eser, Daire Başkanlığı ya da Yayın Kurulunun uygun görmesi halinde, düzeltilmek ya da güncellenmek üzere yazarına iade edilebilir. Düzeltilerek üç ay içinde Genel Müdürlüğe teslim edilen eserler yeniden değerlendirmeye alınır.
+
+### MADDE 14 — Danışma Kurulu
+
+(1) Genel Müdürlüğün akademik-hakemli yayınları için ayrıca Danışma Kurulu oluşturulur.
+
+(2) Danışma Kurulu, Genel Müdürlüğün görev alanında ve yayının ilgili olduğu alanda çalışmalar yürüten akademisyenlerden oluşur.
+
+(3) Danışma Kurulunun oluşturulması ve değiştirilmesi için Yayın Kurulu kararı gerekir.
+
+(4) Yayının ilgili olduğu konularda, ilgili birim tarafından gerçekleştirilecek faaliyetlerde ve hakemlik tekliflerinde Danışma Kurulunda yer alan akademisyenler öncelikli olarak değerlendirilir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 15 — Telif haklarının belirlenmesi
+
+(1) Bu Yönetmelik hükümlerine göre yayınlanacak telif ve işlenme eserlere uygulanacak telif, işlenme ücreti ve diğer ücret ödemeleri, Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik hükümlerine göre hesaplanır ve ilgililere ödenir. Ödemeler için gerekli belgeler yazar tarafından hazırlanarak Daire Başkanlığına sunulur.
+
+### MADDE 16 — Yayın hakları
+
+(1) Genel Müdürlük yayınlarının her hakkı saklıdır. Bu yayınlar izin alınmaksızın, ticari amaçlarla kısmen veya tamamen çoğaltılamaz, dağıtılamaz ve yayınlanamaz ancak ticari amaçlar dışında kaynak göstermek suretiyle alıntı yapılabilir.
+
+### MADDE 17 — Yayınların numaralandırılması
+
+(1) Genel Müdürlüğün bütün yayınları için Yayın Kurulu Başkanlığı aracılığıyla ISBN (Uluslararası Kitap Barkod Numarası) ve ISSN (Uluslararası Dergi Barkod Numarası) alınır.
+
+### MADDE 18 — Basım ve satın alma işlemleri
+
+(1) Yayınlanmasına karar verilen eserlerin basımına ve satın alınmasına ilişkin işlemler 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ile 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu hükümlerine göre Daire Başkanlığı tarafından yerine getirilir.
+
+### MADDE 19 — Şartnamenin hazırlanması ve ihalenin yapılması
+
+(1) Baskı adedi belirlenen yazılı eser ve işlemlerin boyutu, yaklaşık forma adedi, kâğıt cinsi, kapağın cins, renk ve mizanpajı gibi teknik konular ile basım ile ilgili diğer hususları ihtiva eden şartnameler, Daire Başkanlığı tarafından 4734 sayılı Kanun hükümlerine uygun olarak hazırlanır. Daire Başkanlığı tarafından 4734 sayılı Kanun hükümlerine göre ihalesi yapılır.
+
+### MADDE 20 — Dağıtım
+
+(1) Yayınlanan eserlerin dağıtımı, Yayın Kurulu Başkanının uygun gördüğü dağıtım planı uyarınca 4734 sayılı Kanun hükümlerine göre piyasaya yaptırılır.
+
+### MADDE 21 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 22 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İçişleri Bakanı yürütür.
+
+**EK-1**
+
+**T.C.**
+
+**İÇİŞLERİ BAKANLIĞI**
+
+**GÖÇ İDARESİ GENEL MÜDÜRLÜĞÜ**
+
+**GÖÇ ARAŞTIRMALARI DERGİSİ**
+
+Derginize göndermiş olduğum ………………………………………………………... başlıklı makalemin daha önce herhangi bir yerde yayımlanmadığını, yayımlanmak üzere kabul edilmediğini ve halen başka bir yerde yayımlanmak üzere değerlendirme aşamasında olmadığını açıkça bildiririm. Yayıma kabul edilen makalemin bütün yayın haklarına Göç Araştırmaları Dergisi’nin sahip olduğunu kabul ederim. ... / ... /20..
+
+| Ad Soyad | : |
+| --- | --- |
+| Unvan | : |
+| Telefon Numarası | : |
+| Adres | : |
+| Elektronik Posta Adresi | : |
+| Kurum/Birim | : |
+| Makale Gönderim Tarihi | : |
+| Open Researcher and Contributor ID (ORCID) | : |
+| İmza | : |

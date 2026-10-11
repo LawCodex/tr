@@ -1,0 +1,149 @@
+---
+title: "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ İSLAM DÜNYASI VE KÜRESEL İLİŞKİLER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.40088"
+number: "40088"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2023-02-27
+official_gazette_date: 2023-02-27
+official_gazette_number: "32117"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40088&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ İSLAM DÜNYASI VE KÜRESEL İLİŞKİLER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; İstanbul Sabahattin Zaim Üniversitesi İslam Dünyası ve Küresel İlişkiler Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; İstanbul Sabahattin Zaim Üniversitesi İslam Dünyası ve Küresel İlişkiler Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organların görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez: İstanbul Sabahattin Zaim Üniversitesi İslam Dünyası ve Küresel İlişkiler Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: İstanbul Sabahattin Zaim Üniversitesi Rektörünü,
+
+d) Üniversite: İstanbul Sabahattin Zaim Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Güncel araştırma analizleri yapmak, öneriler sunmak ve mevcut olan araştırma yapısını genişletmek.
+
+b) Akademisyenleri, araştırmacıları, uzmanları ve halkı Merkezin faaliyet alanları kapsamında bilgilendirerek bu konularla ilgili bilgi artışına katkı sağlamak.
+
+c) Kamu ve özel sektör kurum ve kuruluşları ile işbirliği yapmak.
+
+ç) Konferanslar, sempozyumlar ve etkinlikler düzenleyerek etkileşimi ve fikir alışverişini kolaylaştırmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Merkezin amaçları doğrultusunda kitap ve dergiler yayımlamak.
+
+b) Ulusal ve uluslararası düzeyde kurslar, seminerler ve konferanslar düzenlemek, hizmet içi eğitim programları, ilgili mevzuat hükümleri çerçevesinde sertifika programları planlamak ve bu faaliyetlerin koordinasyonunu sağlamak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür ve görevleri
+
+(1) Müdür; Merkezin faaliyet alanı ile ilgili konularda çalışmaları bulunan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl süre için görevlendirilir. Görev süresi biten Müdür aynı usulle yeniden görevlendirilebilir.
+
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere Üniversite öğretim elemanları arasından bir kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür, görevi başında bulunmadığı zamanlarda yardımcısını vekil olarak bırakır. Göreve vekâletin altı aydan uzun sürmesi durumunda yeni bir Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcısının görevi de kendiliğinden sona erer.
+
+(3) Müdürün görevleri şunlardır:
+
+a) Merkezin idari işlerini yürütmek ve Merkezi temsil etmek.
+
+b) Merkezin çalışma planını oluşturmak ve çalışmaların düzenli olarak yürütülmesini ve geliştirilmesini sağlamak.
+
+c) Yönetim Kurulunu ve Danışma Kurulunu toplantıya çağırmak, bu toplantıların gündemini hazırlamak ve toplantılara başkanlık etmek.
+
+ç) Merkezin yıllık faaliyet raporunu Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunmak.
+
+### MADDE 9 — Yönetim Kurulu ve görevleri
+
+(1) Yönetim Kurulu; Müdür ve Müdürün önerisiyle Merkezin faaliyet alanlarında çalışmaları bulunan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilecek altı öğretim üyesi olmak üzere toplam yedi üyeden oluşur. Görev süresi sona eren üye yeniden görevlendirilebilir. Görevden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.
+
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine yılda en az iki defa salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Oyların eşit olması durumunda Müdürün kullandığı oy yönünde çoğunluk sağlanmış kabul edilir.
+
+(3) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin çalışmaları ve yönetimi ile ilgili kararlar almak.
+
+b) Merkezin ödenek ve akademik, idari, teknik personel ihtiyacını Müdürün önerileri doğrultusunda belirlemek.
+
+c) Müdürün faaliyet dönemi sonunda hazırlayacağı yıllık faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek, sunulan yıllık faaliyet raporunu ve bir sonraki yıla ait çalışma programını değerlendirmek.
+
+### MADDE 10 — Danışma Kurulu ve görevi
+
+(1) Danışma Kurulu; Müdür ve Merkezin faaliyet alanları doğrultusunda çalışmalar yürüten Üniversite öğretim elemanları ile istekleri halinde kamu ve özel sektör kurum ve kuruluş temsilcileri arasından Rektör tarafından üç yıl için görevlendirilen en çok sekiz üye olmak üzere toplam dokuz üyeden oluşur. Görev süresi sona eren üyeler yeniden görevlendirilebilir.
+
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda bir defa toplanır. Bunun dışında Müdür gerekli gördüğü hallerde Danışma Kurulunu toplantıya çağırabilir.
+
+(3) Danışma Kurulunun görevi; Merkeze yeni çalışma konuları önermek ve mevcut çalışmalarla ilgili sorunların çözümüne yönelik öneriler getirmektir.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 11 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 12 — Ekipman ve demirbaşlar
+
+(1) Merkezin çalışmaları için alınan her türlü alet, ekipman ve demirbaşlar Merkezin kullanımına tahsis edilir.
+
+### MADDE 13 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür.
+
+### MADDE 14 — Yönetmelikte hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun ve diğer ilgili mevzuat hükümleri uygulanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini İstanbul Sabahattin Zaim Üniversitesi Rektörü yürütür.

@@ -1,0 +1,183 @@
+---
+title: "HARRAN ÜNİVERSİTESİ YAŞAM BOYU EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.40384"
+number: "40384"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2023-10-28
+official_gazette_date: 2023-10-28
+official_gazette_number: "32353"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40384&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# HARRAN ÜNİVERSİTESİ YAŞAM BOYU EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Harran Üniversitesi Yaşam Boyu Eğitim Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Harran Üniversitesi Yaşam Boyu Eğitim Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (HAYEM): Harran Üniversitesi Yaşam Boyu Eğitim Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Harran Üniversitesi Rektörünü,
+
+d) Üniversite: Harran Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amaçları ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amaçları
+
+(1) Merkezin amaçları şunlardır:
+
+a) Üniversitenin faaliyette bulunduğu akademik programlar dışında yaşam boyu eğitim-öğretim programları düzenlemek.
+
+b) Bölgede sürdürülebilir kalkınmaya katkıda bulunacak alanlarda proje hazırlamak, rehberlik ve danışmanlık hizmetleri vermek.
+
+c) Kamu kurumları ve özel sektör kuruluşları ile uluslararası kuruluşlarla iş birliğini geliştirerek ulusal kalkınmaya katkıda bulunmak.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Kamu kurumları ve özel sektör kuruluşları ile uluslararası kuruluş ve kişilere ihtiyaç duydukları alanlarda eğitim programları planlamak ve vermek.
+
+b) Ulusal ve uluslararası düzeyde kurslar, seminerler ve konferanslar gibi faaliyetler düzenlemek ve bu faaliyetlerin koordinasyonunu sağlamak.
+
+c) Bölgenin kalkınma ve gelişmesine katkıda bulunacak alanlarda proje önerilerini sunmak.
+
+ç) Uzaktan eğitim ve erişim sistemleri ile yüz yüze sınavlar gerçekleştirerek Üniversite içi ve Üniversite dışı görevde yükselme sınavlarının yapılmasına destek olmak veya yürütmek.
+
+d) İlgili mevzuat hükümleri çerçevesinde Üniversitede iş yeri hekimliği, iş güvenliği uzmanlığı ve iş sağlığı güvenliği konularında eğitimler düzenlemek.
+
+e) İlgili mevzuat hükümleri çerçevesinde ISO 17024 standartlarına, Türk Akreditasyon Kurumu tarafından öngörülen akreditasyon gereklerine ve Mesleki Yeterlilik Kurumu tarafından belirlenen tüm yeterliliklere ilişkin eğitim düzenlemek, gezici veya sabit sınav merkezleri oluşturmak ve sınav yapmak, belge, sertifika ve katılım belgesi vermek.
+
+f) Ulusal ve uluslararası proje hazırlamak veya hazırlatmak ve projeye ait planlama, yürütme ve koordinasyon süreçlerini yönetmek.
+
+g) Genel katılıma açık eğitim ve sertifika programı düzenlemek.
+
+ğ) Diğer üniversitelerin uygulama ve araştırma merkezleri ile iş birliği yapmak, görüş birliği sağlamak ve eğitim faaliyetlerini geliştirmek ve yaygınlaştırmak üzere çalışmalar yapmak.
+
+h) Üniversitenin bünyesinde yaygın eğitim, sınav ve proje/danışmanlık hizmetleri kapsamında yürütülen her türlü etkinliğin eş güdümüne katkıda bulunmak.
+
+ı) Mesleki ve teknik eğitimin geliştirilmesine yönelik Üniversite-sanayi iş birliklerinin kurulmasına ve geliştirilmesine katkıda bulunmak.
+
+i) Üniversitenin akademik ve bilimsel birikiminden yararlanarak, danışmanlık hizmeti vermek.
+
+j) Merkezin amaçlarına uygun olarak Yönetim Kurulu tarafından belirlenen diğer faaliyetlerde bulunmak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Üniversite öğretim elemanları arasından Rektör tarafından üç yıllık süre için görevlendirilir. Görev süresi sona eren Müdür yeniden görevlendirilebilir.
+
+(2) Müdüre çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanları ile ilgili Üniversite öğretim elemanları arasından en fazla iki kişi, Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için müdür yardımcısı olarak görevlendirilir.
+
+(3) Müdürün görevi başında bulunmadığı zamanlarda müdür yardımcılarından biri yerine vekâlet eder. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi amaçları doğrultusunda yönetmek.
+
+b) Yönetim Kurulunu ve Danışma Kurulunu toplantıya çağırmak.
+
+c) Merkezin yıllık faaliyet raporunu hazırlamak, Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunmak.
+
+ç) Yurt içi ve yurt dışında benzer faaliyetlerde bulunan kuruluşlarla iş birliği yapmak.
+
+d) Personel görevlendirilmesi ile ilgili teklifleri Rektöre sunmak.
+
+e) Yönetim Kurulunun aldığı kararları ve hazırladığı çalışma programlarını uygulamak.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdürün başkanlığında, müdür yardımcıları ve Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanları arasından Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için görevlendirilen dört üye olmak üzere en fazla yedi üyeden oluşur. Görev süresi biten üye yeniden görevlendirilebilir. Süresi dolmadan görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.
+
+(2) Yönetim Kurulu, Müdürün daveti üzerine en az üç ayda bir kez salt çoğunlukla toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezin yönetimi ile ilgili kararlar almak.
+
+b) Merkezin çalışma plan ve programını hazırlamak ve yürütmek.
+
+c) Rektörlüğe sunulacak faaliyet raporunu görüşmek ve karara bağlamak.
+
+ç) Programlar sonunda verilecek katılım belgesi, başarı belgesi, sertifika ve benzeri belgelere ilişkin esasları belirlemek.
+
+d) Personel ihtiyacını belirlemek.
+
+e) Merkezin eğitim, öğretim, bilimsel araştırma, danışmanlık, yayın faaliyetleri ve bu faaliyetlerle ilgili esasları kararlaştırmak.
+
+### MADDE 12 — Danışma Kurulu
+
+(1) Danışma Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanlarında deneyimli, Üniversitede veya diğer kamu ve özel sektör kurum ve kuruluşlarında görevli uzman kişiler arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına görevlendirilen beş üyeden oluşur. Süresi biten üyeler aynı usulle yeniden görevlendirilebilir. Süresi tamamlanmadan ayrılanların yerine aynı yöntemle yeni üyeler görevlendirilir.
+
+(2) Danışma Kurulu; Müdürün çağrısı üzerine yılda en az bir kez toplanır.
+
+### MADDE 13 — Danışma Kurulunun görevleri
+
+(1) Danışma Kurulunun görevleri şunlardır:
+
+a) Eğitim faaliyetleri konusunda Yönetim Kuruluna danışmanlık yapmak.
+
+b) Merkez faaliyetlerini gözden geçirerek ilgili konularda gerekli tavsiyelerde bulunmak.
+
+c) Dönemsel faaliyet raporunu ve çalışma programını değerlendirerek görüş bildirmek.
+
+ç) Gerektiğinde faaliyet alanları ile ilgili alt komisyonlar oluşturmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 14 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilen personel ile karşılanır.
+
+### MADDE 15 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 16 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Harran Üniversitesi Rektörü yürütür.

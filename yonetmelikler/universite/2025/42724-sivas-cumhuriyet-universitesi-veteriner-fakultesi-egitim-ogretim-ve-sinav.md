@@ -1,0 +1,287 @@
+---
+title: "SİVAS CUMHURİYET ÜNİVERSİTESİ VETERİNER FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ"
+identifier: "8.5.42724"
+number: "42724"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2025-11-30
+official_gazette_date: 2025-11-30
+official_gazette_number: "33093"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42724&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# SİVAS CUMHURİYET ÜNİVERSİTESİ VETERİNER FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Sivas Cumhuriyet Üniversitesi Veteriner Fakültesinde eğitim gören öğrencilerin kayıt, eğitim-öğretim, staj ve sınavlarıyla ilgili genel esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik, Sivas Cumhuriyet Üniversitesi Veteriner Fakültesinde eğitim gören öğrencilerin kayıt, eğitim-öğretim, staj ve sınavlarına ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Akademik danışman: Öğrencilerin eğitim-öğretim ve diğer sorunlarıyla ilgilenmek üzere Fakülte Yönetim Kurulu tarafından görevlendirilen öğretim elemanını,
+
+b) Avrupa Kredi Transfer Sistemi (AKTS): Öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin ve notlarının bir yükseköğretim kurumundan diğerine transferini sağlayan Avrupa Kredi Transfer Sistemini,
+
+c) Dekan: Sivas Cumhuriyet Üniversitesi Veteriner Fakültesi Dekanını,
+
+ç) Ders kredisi: Bir dersin başarıyla tamamlanabilmesi için, öğrencinin yapması gereken çalışmaların tümünü, teorik dersler, uygulama, seminer, bireysel çalışma, sınavlar, ödevler, kütüphane çalışmaları, proje, stajlar, mezuniyet tezi ve benzeri çalışmaları ifade eden değeri,
+
+d) Ekle sil dönemi: Derslerin kayıt süresi bittikten sonra yanlış veya eksik alınan derslerin eklenmesi ve silinmesi için verilen ek süreyi,
+
+e) Fakülte: Sivas Cumhuriyet Üniversitesi Veteriner Fakültesini,
+
+f) Fakülte Kurulu: Veteriner Fakültesi Kurulunu,
+
+g) Fakülte Yönetim Kurulu: Veteriner Fakültesi Yönetim Kurulunu,
+
+ğ) GNO (Genel Not Ortalaması): Öğrencinin ilgili birime kayıt olduğu andan itibaren bulunduğu zamana kadar aldığı ve sayısal değeri olan her bir dersin kredi değeri ile o dersten alınan notun katsayısı çarpılarak bulunan değerlerin toplamının, bu derslerin toplam kredi değerine bölünmesi ile elde edilen not ortalamasını,
+
+h) Ortak zorunlu dersler: 2547 sayılı Kanunun 5 inci maddesinde belirtilen ve tüm üniversitelerde ortak olarak alınması gereken Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili ve yabancı dil derslerini,
+
+ı) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+
+i) Rektör: Sivas Cumhuriyet Üniversitesi Rektörünü,
+
+j) Seçmeli ders: Öğrencinin zorunlu dersler dışında, alan içinden veya alan dışından seçerek aldığı dersi,
+
+k) Senato: Sivas Cumhuriyet Üniversitesi Senatosunu,
+
+l) Staj: Öğrencinin eğitim-öğretim dönemi dışında dördüncü sınıfın yaz tatilinde değişik kurum ve kuruluşlarda yaptığı, edinilen bilgi, beceri ve yetkinlikleri pekiştirmeye yönelik uygulamayı,
+
+m) Transkript (Öğrenci durum belgesi): Öğrencilerin öğrenimleri boyunca almış oldukları dersleri ve bu derslerden aldıkları notları ve kredileri gösterir belgeyi,
+
+n) Üniversite: Sivas Cumhuriyet Üniversitesini,
+
+o) Veteriner hekimliği intörn olgunlaşma eğitimi (VEHİP) programı: Veteriner Fakültesinde eğitim-öğretimin dokuzuncu ve onuncu yarıyıllarında uygulanan uygulama ağırlıklı programı,
+
+ö) Zorunlu ders: Bir programda öngörülen ve öğrencinin alması gerekli olan dersi,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Öğrenci Kabulüne İlişkin Esaslar
+
+### MADDE 5 — Kayıt şartları ve işlemleri
+
+(1) Fakülteye kayıt olacak öğrenciler için aşağıdaki şartlar aranır:
+
+a) ÖSYM tarafından yapılan yerleştirme sınavları ile yerleştirilmeleri sonucunda ilgili öğretim yılında Üniversitenin birimlerine kayıt hakkı kazanmış olmak.
+
+b) Kayıt için ÖSYM kılavuzunda belirtilen belgeleri getirmek.
+
+c) Yabancı öğrenciler için lise diplomalarının denkliğini yaptırmış olmak.
+
+ç) Başka bir yükseköğretim kurumunda kayıtlı olmamak.
+
+(2) Fakülteye kayıt hakkı kazanan adayların kayıt için bizzat başvurmaları gerekir. Ancak mazeretleri sebebiyle bizzat başvuramayan adaylar, noter tarafından düzenlenen vekâletnameyi haiz vekilleri veya kanuni temsilcileri aracılığı ile kayıt yaptırabilirler.
+
+(3) Kayıt için istenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır.
+
+### MADDE 6 — Kayıt yenileme ve dondurma
+
+(1) Öğrenci her yarıyıl başında akademik takvimde belirtilen süre içinde 2547 sayılı Kanunun 46 ncı maddesinde öngörülen şartları yerine getirerek kaydını yeniletmek, ders kaydını yaptırmak ve danışmanına onaylatmak zorundadır.
+
+(2) Birinci sınıfa yeni kayıt yaptıran öğrenci, aynı zamanda birinci yarıyıl programında yer alan derslere kaydını yaptırmış olur.
+
+(3) Akademik takvimde belirtilen sürelerde 2547 sayılı Kanunun 46 ncı maddesinde öngörülen şartları yerine getirmeyen ve kaydını yeniletmeyen öğrenci, o yarıyıl öğrencilik haklarından yararlanamaz, derslere devam edemez ve sınavlara giremez. Bu süre, azami eğitim-öğretim süresinden sayılır. Ancak süresi içinde kaydını yeniletmeyenlerden haklı ve geçerli mazereti olan öğrencinin, akademik takvimde belirtilen mazeretli geç kayıt süresi içerisinde mazeretini belirten dilekçe ile başvurması kaydıyla kaydının yenilenmesine Fakülte Yönetim Kurulu karar verir.
+
+(4) Akademik takvimde belirtilen ekle sil dönemi içerisinde öğrenci, danışmanın onayı ile yeni ders seçebilir veya seçtiği dersi bırakabilir.
+
+(5) Kaydını dondurmak isteyen öğrencinin, haklı ve geçerli mazeretini bildirmesi ve belgelemesi halinde, Fakülte Yönetim Kurulu kararı ile kaydı bir veya iki yarıyıl için bir defaya mahsus dondurulur. Bu süre program süresine ve azami eğitim süresine dâhil değildir.
+
+(6) Öğrencinin tutuklu veya hükümlü olması durumunda, müracaat etmesi hâlinde ilgili yönetim kurulunun kararı ile bu durumun sona ereceği tarihe kadar kaydı dondurulur.
+
+(7) Ciddi sağlık sorunları nedeniyle tüm öğrenim süresi içinde en fazla iki yıl süreyle kayıt dondurulabilir. Bu süreyi aşan öğrencilerden yeniden sağlık raporu istenmek ve incelenmek suretiyle, kayıt dondurma işleminin devam edip etmeyeceğine ilgili yönetim kurulu karar verir.
+
+(8) Öğrenci, kayıt dondurduğu yarıyılda/yılda öğrenimine devam edemez ve sınavlara giremez. Kayıt donduran öğrencinin azami öğrenim süresi kayıt dondurma süresi kadar uzatılır.
+
+## ÜÇÜNCÜ BÖLÜM — Eğitim-Öğretim ile İlgili Esaslar
+
+### MADDE 7 — Eğitim-öğretim esasları
+
+(1) Fakültede eğitim-öğretim dönemleri; güz ve bahar yarıyıllarından oluşur. Fakültede eğitim-öğretim süresi en az beş yıl, on yarıyıldır. Asgari eğitim süresi beş yıldan az olamaz.
+
+(2) Fakültenin eğitim-öğretim dönemleri; her bir yarıyılı en az on altı haftadan oluşan birinci, ikinci, üçüncü, dördüncü, beşinci, altıncı, yedinci, sekizinci yarıyıl derslerini ve dokuzuncu ile onuncu yarıyıl VEHİP derslerini kapsar. Dersler, Fakülte Kurulu kararı ile yıllık olarak da düzenlenebilir.
+
+### MADDE 8 — Eğitim-öğretim programı ve haftalık ders programlarının düzenlenmesi
+
+(1) Fakülte eğitim-öğretim programında yer alacak derslerin yarıyıllara dağılımı ve yapılacak değişiklikler, ana bilim dalı kurulunun önerisi üzerine Fakülte Kurulu tarafından düzenlenir ve Senato tarafından karara bağlanır:
+
+a) Derslerin öğretim elemanlarına dağıtımı; ana bilim dalı içi, bölüm içi (ana bilim dalında ders verecek öğretim elemanı yoksa bölümdeki çalışma alanı en yakın ana bilim dalından olacak şekilde), Fakülte içi (bölümde ders verecek öğretim elemanı yoksa başka bölümlerdeki çalışma alanı en yakın ana bilim dalından olacak şekilde) ve Üniversite içi (Fakültede ders verecek öğretim elemanı yoksa başka fakültelerdeki çalışma alanı en yakın ana bilim dalından olacak şekilde) öncelik sıralamasına göre ana bilim dalı/bölüm kurul kararı önerisi üzerine Fakülte Kurulu tarafından karara bağlanır.
+
+b) Ders görevlendirilmesinde, derslerin öğretim elemanlarına dengeli bir şekilde dağılımı esastır. Derslerin öğretim elemanlarına dağıtımında önce ana bilim dalı içi derslere görevlendirme yapılır. Haftalık ders yükü dolmayan öğretim elemanları talep etmeleri halinde sırasıyla; bölüm içi, Fakülte içi, Üniversite içi, yükseköğretim kurumları ve diğer kurum/kuruluşlar şeklindeki öncelik sıralamasına göre diğer birimlerde de ders verebilir.
+
+c) Doktora çalışmalarını başarı ile tamamlamış öğretim elemanlarına talepleri üzerine bağlı bulundukları ana bilim dalı, bölüm ve Yönetim Kurulunun önerisi ile Üniversite Yönetim Kurulunun uygun görmesi halinde ders görevi verilebilir. İhtiyacın yine de ana bilim dalında karşılanamaması durumunda 2547 sayılı Kanunda yer verilen usullerle ilgili dersi verebilecek, alanında uzman en az ilgili ana bilim dalından doktora mezunu olan birisi görevlendirilebilir.
+
+ç) Öğretim elemanlarına geçici görev, sevk, rapor ve izinli olmaları gibi nedenlerle haftalık ders programında belirtilen gün, saat ve yerde ders verme görevlerini yerine getirememeleri halinde anılan mazeretlerin bitiminden sonra vermek istedikleri dersler ve yürütülen faaliyetler için, birim Yönetim Kurulunun ders programlarının tespitinde takip ettiği usul ve esaslara göre kararlaştıracağı telafi programı gerçekleştirilir.
+
+(2) Eğitim-öğretim programı, teorik dersler, uygulama dersleri ve klinik uygulamalardan oluşur.
+
+(3) Eğitim-öğretim programındaki toplam ders kredisi, Avrupa Kredi Transfer Sistemi (AKTS)’ne ve Yükseköğretim Kurulunca diploma düzeyi ve alan için Yükseköğretim Yeterlilikler Çerçevesine göre belirlenen kredi aralığına uygun olarak 300’dür.
+
+(4) Haftalık teorik ve uygulama ders saatleri ve sayıları Fakülte Kurulu tarafından düzenlenir ve Dekanlık tarafından haftalık program düzenlenerek ilan edilir. Gerekli durumlarda Fakülte Kurulu kararı ile dersler resmi tatil günleri hariç cumartesi ve pazar günleri de yapılabilir.
+
+### MADDE 9 — Akademik takvim
+
+(1) Fakültenin eğitim-öğretim yılına ait akademik takvimi Fakülte Kurulu tarafından belirlenir ve Senato tarafından onaylanır.
+
+## DÖRDÜNCÜ BÖLÜM — Dersler, VEHİP Eğitimi ve Staj
+
+### MADDE 10 — Dersler
+
+(1) Fakültenin eğitim-öğretim programında aşağıda belirtilen dersler okutulur:
+
+a) Ortak zorunlu dersler; 2547 sayılı Kanunun 5 inci maddesinde belirtilen Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili ve yabancı dil dersleridir. Bu dersler ile ilgili düzenlemeler ve işlemler Senato kararları doğrultusunda yapılır.
+
+b) Seçmeli dersler; öğrencinin alan içinden veya dışından isteği doğrultusunda seçerek aldığı derslerdir. Öğrenci bu dersleri, seçmeli ders adı altında açılmış olan dersler arasından seçer. Öğrenci seçmeli dersleri, öğretim planında yer alan sayıda ve derslerin yer aldığı yarıyıllarda almak ve başarmakla yükümlüdür. Ana bilim dalları tarafından önerilen seçmeli derslerden hangilerinin açılacağı Fakülte Kurulunda görüşülerek Senatoya sunulur ve kararlaştırılır. Seçmeli dersler yabancı dilde de açılabilir.
+
+c) Zorunlu dersler; Fakülte Kurulu tarafından belirlenen ve öğrencinin mutlaka almakla yükümlü olduğu derslerdir.
+
+### MADDE 11 — VEHİP eğitimi
+
+(1) VEHİP eğitimi; öğrencilerin veteriner hekimlik nosyonu ile ilgili teorik bilgileri tamamlama ve daha fazla uygulama yaparak beceri kazanmalarını sağlamak amacıyla dokuzuncu ve onuncu yarıyılda verilen eğitimdir.
+
+(2) VEHİP ile ilgili hususlar ana bilim dallarının ve ilgili bölümün önerisi üzerine, Fakülte Kurulu tarafından düzenlenen yönergeyle belirlenir. Senato tarafından onaylandıktan sonra belirlenen esaslar çerçevesinde yürütülür.
+
+### MADDE 12 — Staj
+
+(1) Fakültenin eğitim-öğretim programında sekizinci yarıyılını tamamlayan öğrenciler ders ve sınav dönemlerinin dışında, Fakülte içinde, başka bir kurumda veya mesleki çalışma alanlarında yirmi iş günü staj yaparlar. Staj ile ilgili hususlar ilgili yönerge ve/veya Senato tarafından belirlenen esaslar çerçevesinde düzenlenir.
+
+(2) Öğrenciler staj sonunda hazırlayacakları bir raporu Dekanlığa sunarlar. Dekanlık tarafından oluşturulan staj komisyonu bu raporları inceler ve yapacakları değerlendirme sonucunda öğrenciyi başarılı (G) veya başarısız (K) olarak değerlendirir. Başarısız olan öğrenciler stajı tekrarlamak ve değerlendirmeyi başarmak zorundadır.
+
+## BEŞİNCİ BÖLÜM — Dersler, Sınavlar ve Değerlendirme Esasları
+
+### MADDE 13 — Derslere devam ve sınıf geçme
+
+(1) Öğrenci teorik derslere ve uygulamalarına devam etmek zorundadır. Teorik derslerin %30’undan, uygulamaların %20’sinden fazlasına devam etmeyen öğrenci devamsız sayılır ve o dersin yılsonu sınavına alınmaz. Devam durumu, dersi veren öğretim üyesi tarafından otomasyon sistemine girilir ve yılsonu sınavları öncesinde ilan edilir.
+
+### MADDE 14 — Ders alma
+
+(1) Öğrenci, yarıyıl başında öncelikle alt sınıflarda hiç almadığı, devamsız kaldığı veya başarısız olduğu dersleri almak kaydıyla bulunduğu yarıyıl derslerinden de alır. Öğrenci, bulunduğu yarıyıldan alacağı derslerin sayısına, alt sınıflardan başarısız ve devam etmek zorunda olduğu dersler ve ders programını dikkate alarak, danışmanı ile birlikte karar verir. Öğrenci bir önceki yıldan aldığı fakat devamsızlıktan kaldığı dersle birlikte senesindeki dersin ders programında çakışma olması halinde senesindeki dersi alamaz; bunun yerine alttan kalan ilgili dersi alır.
+
+(2) Öğrenci, danışmanın olumlu görüşü ile alt sınıflardaki tüm derslerden başarılı olması ve GNO’su en az 3.00 olması şartı ile bulunduğu yarıyıl programında bulunan derslerin 36 saati aşmaması kaydıyla bir üst sınıfın aynı yarıyılından ders alabilir.
+
+(3) Öğrenci bir önceki eğitim-öğretim yılındaki CB notundan daha düşük not aldığı dersi/dersleri not yükseltmek için tekrar alabilir. Bu durumda alınan son not geçerli olur.
+
+(4) Uzaklaştırma, başarısızlık ve ders kaydı yaptırmayarak dönem kaybeden öğrenciler öğrenimlerine kaldıkları yarıyıldan devam ederler. Bir üst yarıyıldan/yıldan ders alamazlar. Bu süre toplam eğitim-öğretim süresinden sayılır.
+
+(5) Programda açılmayan, kaldırılan ya da başarısız olunan seçmeli ders yerine aynı kredide herhangi bir ana bilim dalının seçmeli bir dersini alabilir. Ayrıca Erasmus, Farabi, Orhun ve benzeri çeşitli programlarla yurt dışına giden öğrencilerin ders intibakları eğitim-öğretim komisyonu tarafından yapılır.
+
+(6) Öğrenciler, Fakülte Yönetim Kurulunun uygun gördüğü hallerde ulusal ve uluslararası öğrenci değişim programları ile öğrenimlerine başka üniversitelerde devam edebilirler. Ayrıca öğrenciler, eğitim programlarında yer aldığı takdirde seçmeli dersler havuzunda bulunan aynı veya başka birimlerin bölüm/programlarında yer alan dersleri alabilirler.
+
+(7) Herhangi bir dersten başarısız olan öğrenci ya da dersi alması gereken yarıyılda almayan öğrenci bu dersi açıldığı ilk yarıyılda öncelikle almak zorundadır.
+
+### MADDE 15 — Sınav türleri, uygulanması ve değerlendirilmesi
+
+(1) Sınavlar; ara sınav, yılsonu sınavı (final), bütünleme sınavı, tek ders sınavı, muafiyet sınavı ve mazeret sınavlarıdır. Söz konusu sınavlara ilişkin esaslar şunlardır:
+
+a) Ara sınav (vize): Her ders için en az bir ara sınav yapılır. Sınavın ağırlığı %40’tır. Ara sınavların sayı, kapsam, biçim ve değerlendirme esasları Fakülte Kurulunca belirlenir. Ara sınavların hangi tarihte ve nerede yapılacağı, sınav tarihinden önce Dekanlık tarafından belirlenir ve ilân edilir.
+
+b) Yıl sonu sınavı (final): Dersin tamamlandığı yarıyıl sonunda yapılır. Yıl sonu sınavına, devam zorunluluğunu yerine getiren öğrenciler girebilir. Final sınavının ağırlığı %60’tır. Dersi geçebilmek için final sınavından en az 60 alınması gerekir.
+
+c) Bütünleme sınavı: Bütünleme sınavına, yıl sonu sınavına girme hakkına sahip olup da sınava girmeyen veya girdiği halde dersten başarısız olan öğrenciler girebilir. Bütünleme sınavı yıl sonu sınavı yerine geçer ve ders başarı notunun belirlenmesinde aynı şekilde değerlendirilir. Bütünleme sınavları, yıl sonu sınavlarının bitiminden sonra akademik takvimde belirtilen tarihler arasında yapılır.
+
+ç) Tek ders sınavı: Mezuniyetleri için tek dersi kalan öğrencilere dilekçe ile başvurmaları halinde bütünleme sınav sonuçlarının ilanından sonraki üç iş günü içerisinde Fakülte Yönetim Kurulu kararıyla tek ders sınav hakkı tanınır. Öğrenciler daha önce alınmamış ya da devam şartı yerine getirilmemiş bir dersten tek ders sınavına giremez. Tek ders sınavından en az CC alan öğrenci başarılı sayılır.
+
+d) Muafiyet sınavı: Fakülteye yeni kayıt yaptıran öğrenciler için ortak zorunlu yabancı dil derslerinden, Yabancı Diller Yüksekokulu tarafından yarıyıl başında açılan sınavdır. Bu sınavlara ilişkin esaslar Senato tarafından belirlenir.
+
+e) Mazeret sınavı: Haklı ve geçerli nedenlerle ara sınavlara giremeyen öğrencilere tanınır. Bunun dışında başka hiçbir sınav için mazeret sınav hakkı verilmez. Ara sınavlara giremeyenlerden, sınavları takip eden yedi gün içerisinde başvuran öğrencilerden haklı ve geçerli mazeretleri Fakülte Yönetim Kurulu tarafından kabul edilenler için ara sınav, aynı yarıyıl içinde Dekanlık tarafından ilân edilen tarih aralığında yapılır. Mazeret sınavları için ikinci bir mazeret sınav hakkı verilmez.
+
+(2) Birinci fıkrada sayılan sınavlar; yazılı, sözlü, yazılı-sözlü veya uygulamalı olarak yapılabilir. Sınavların hangi şekilde yapılacağına ve uygulama, proje ve benzeri çalışmaların nasıl değerlendirileceğine ilgili ana bilim dalının/dallarının görüşü alınarak Fakülte Kurulu karar verir.
+
+(3) Sınavlar akademik takvimde belirlenen tarihlerde, Dekanlık tarafından belirlenen sınav programına uygun bir şekilde yapılır ve sınavların yeri ve zamanı sınavlardan önce ilân edilir. Öğrenciler sınava ilân edilen gün, saat ve yerde, kimlik belgeleri ile istenebilecek diğer belgeleri yanlarında bulundurmak şartıyla girerler. Fakülte Yönetim Kurulu kararı ile sınavlar resmî tatil günleri hariç cumartesi ve pazar günleri de yapılabilir.
+
+(4) Ara sınav sonuçlarının final sınavları başlamadan önce, yılsonu sınav sonuçlarının ise o dersin bütünleme sınavından öncesine kadar ilân edilmesi ve otomasyon sistemine girilmesi gerekir.
+
+(5) Dersi geçebilmek için yılsonu sınavından veya bütünleme sınavından en az 60 alınması, dersin not ortalamasının da en az 55 olması zorunludur.
+
+### MADDE 16 — Sınav notuna itiraz
+
+(1) Öğrenciler sınav sonuçlarına itirazını, notların ilanından itibaren en geç üç iş günü içinde Dekanlığa yazılı olarak yaparlar. İtiraz üzerine Dekanlık, öğrencinin kâğıdının incelenmesini ilgili öğretim elemanına bildirir. Maddi hata varsa gerekli not düzeltmesi yapılır. Öğrenci itirazını tekrar ederse Fakülte eğitim-öğretim komisyonunca yapılacak inceleme sonucu, Fakülte Yönetim Kurulu kararı ile kesinlik kazanır ve sonuç öğrenciye ve ilgili öğretim elemanına bildirilir. İtirazda bulunulan dersin sorumlu öğretim elemanları toplantılara katılamaz.
+
+### MADDE 17 — Sınav düzeni
+
+(1) Sınavlarda kopya çekenler, kopyaya teşebbüs edenler veya yardım edenler ile sınav evrakının incelenmesi sırasında kopya çektiği veya yardım ettiği tespit edilen öğrenciler o sınavdan sıfır (0) almış sayılır ve haklarında, ilgili mevzuat hükümlerine göre işlem yapılır.
+
+### MADDE 18 — Ders başarı notu
+
+(1) Fakültede, bağıl değerlendirme sistemi uygulanır. Öğrencinin bir dersten başarılı sayılabilmesi için, yarıyıl sonu sınavında o dersten en az 60 alması kaydıyla ara sınav not ortalamasının %40’ı ile yarıyıl sonu sınav notunun %60’ının toplamının en az 55 olması gerekir.
+
+(2) Akademik takvim belirlenirken Fakülte Kurulunda, Fakülte öğretim elemanlarından birisi VEHİP koordinatörü olarak belirlenir. Öğrencilerin VEHİP eğitiminde başarılı olabilmeleri için her bir ana bilim dalı tarafından yapılan sınavlardan en az 60 puan almaları gereklidir. Öğrencilerin VEHİP notu, her bir ana bilim dalından alınan puanlar ana bilim dalındaki ders süresi ile çarpılır, elde edilen rakamlar toplanarak VEHİP eğitimi boyunca alınan toplam ders saatine bölünerek hesaplanır. Koordinasyondan ve başarı notlarının sisteme girilmesinden koordinatör sorumludur.
+
+## ALTINCI BÖLÜM — Eğitim-Öğretim Süreleri, Öğrenimi Bitirme ve Diplomalar
+
+### MADDE 19 — Eğitim-öğretim süresi ve öğrenimi bitirme
+
+(1) Öğrenciler, Fakültedeki öğrenimlerini 2547 sayılı Kanunun 44 üncü maddesi ile belirlenen azami öğrenim süresi olan sekiz yıl içinde bitirmek zorundadır. Bu süre içerisinde öğrenimlerini tamamlayıp mezun olamayan öğrenciler 2547 sayılı Kanunun 46 ncı maddesinde öngörülen şartları yerine getirmek koşuluyla öğrenimlerine devam etmek için kayıt yaptırabilirler. Bu durumda ders ve sınavlara katılma hariç, öğrencilere tanınan diğer haklardan yararlandırılmadan öğrencilik statüleri devam eder. Öğrenim süresinin hesaplanmasında kayıt dondurma süreleri dikkate alınmaz, ancak Üniversiteden süreli uzaklaştırma cezası alan öğrencilerin bu süreleri öğretim süresinden ve devamsızlıktan sayılır.
+
+### MADDE 20 — Kayıt silme ve sildirme
+
+(1) Öğrencinin aşağıda belirtilen durumlarda Üniversite ile ilişiği kesilir:
+
+a) İlgili mevzuat hükümlerine göre Üniversiteden çıkarma cezası almış olması.
+
+b) Öğrenci tarafından yazılı olarak Fakülteden kaydının silinmesi talebinde bulunulması.
+
+### MADDE 21 — Derse ve uygulamalara devam bakımından mazeretler
+
+(1) Fakülte ve/veya Rektörlük tarafından izin verilerek iştirak edilen bilimsel, kültürel, sosyal faaliyetler hariç ders ve uygulamalara her ne sebeple olursa olsun yapılan devamsızlıklar mazeret sunularak silinemez.
+
+(2) Sağlıkla ilgili mazeretler sadece ara sınavlar için ve Fakülte Yönetim Kurulu kararı ile geçerli olabilir. Mazeretini yedi günlük süre içinde bildirmeyen öğrencinin mazereti kabul edilmez. Öğrencilerin sağlıkla ilgili mazeretlerinin ara sınavda kabul edilmesi için sağlık raporlarının aile hekiminden, Üniversitenin sağlık kuruluşlarından veya yataklı diğer sağlık kurumlarından alınmış olması gerekir.
+
+### MADDE 22 — Yatay ve dikey geçişler
+
+(1) Yatay ve dikey geçiş ile gelen öğrencilerin intibakları Fakülte eğitim-öğretim komisyonu önerisi üzerine Fakülte Yönetim Kurulunca karara bağlanır.
+
+### MADDE 23 — Diplomalar
+
+(1) Bir öğrencinin Fakülteden mezun olabilmesi için, eğitim-öğretim programında öngörülen mezuniyeti için gerekli olan dersleri alması ve başarılı olması, beş yıl/on yarıyıl süresini doldurması, stajını tamamlaması ve mezuniyet ağırlıklı not ortalamasının en az 2.00 olması gerekir.
+
+(2) Fakültenin eğitim-öğretim programında öngörülen tüm dersleri bu Yönetmelik hükümlerine göre alarak başarıyla tamamlayan öğrenciler Veteriner Fakültesi diploması ve diploma eki almaya hak kazanırlar.
+
+(3) Diplomaların şekli ve üzerinde yer alacak bilgiler Rektörlük tarafından düzenlenir. Diplomalar Rektör ve Dekan tarafından imzalanır ve Rektörlük tarafından soğuk damga ile mühürlenir.
+
+(4) Diplomalar hazırlanıncaya kadar talep eden öğrencilere, diplomasını alırken iade etmek üzere geçici mezuniyet belgesi verilebilir.
+
+### MADDE 24 — Mezuniyet tarihi ve derecesi
+
+(1) Diploma ve mezuniyet belgelerine yazılacak mezuniyet tarihi, son sınavın sonucunun ilan tarihinden sonraki gün olarak belirlenir.
+
+### MADDE 25 — Başarı değerlendirmelerine ilişkin esaslar
+
+(1) Mezuniyet aşamasına gelen ve tüm derslerden başarılı olan, GNO değeri 3.00-3.49 arasındaki öğrenci onur öğrencisi listesinde, 3.50-4.00 arasındaki öğrenci ise yüksek onur öğrencisi listesinde yer alır. Onur belgesi/yüksek onur belgesi, Fakülte Dekanlığı tarafından verilir. Disiplin cezası alan öğrenciler, onur öğrencisi ve yüksek onur öğrencisi sayılmaz ve ilan edilmez.
+
+## YEDİNCİ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 26 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hallerde, 2547 sayılı Kanun, 7/10/2018 tarihli ve 30558 sayılı Resmî Gazete’de yayımlanan Sivas Cumhuriyet Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 27 — Yürürlükten kaldırılan yönetmelik
+
+(1) 13/8/2023 tarihli ve 32278 sayılı Resmî Gazete’de yayımlanan Sivas Cumhuriyet Üniversitesi Veteriner Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 28 — Yürürlük
+
+(1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+
+### MADDE 29 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Sivas Cumhuriyet Üniversitesi Rektörü yürütür.

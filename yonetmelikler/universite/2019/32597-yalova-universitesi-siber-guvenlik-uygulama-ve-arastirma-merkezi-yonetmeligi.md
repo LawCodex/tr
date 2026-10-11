@@ -1,0 +1,165 @@
+---
+title: "YALOVA ÜNİVERSİTESİ SİBER GÜVENLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.32597"
+number: "32597"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2019-06-17
+official_gazette_date: 2019-06-17
+official_gazette_number: "30804"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32597&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# YALOVA ÜNİVERSİTESİ SİBER GÜVENLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı; Yalova Üniversitesi Siber Güvenlik Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; Yalova Üniversitesi Siber Güvenlik Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 ncimaddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+
+b) Merkez (YÜSİMER): Yalova Üniversitesi Siber Güvenlik Uygulama ve Araştırma Merkezini,
+
+c) Müdür: Merkezin Müdürünü,
+
+ç) Rektör: Yalova Üniversitesi Rektörünü,
+
+d) Üniversite: Yalova Üniversitesini,
+
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 5 — Merkezin amacı
+
+(1) Merkezin amacı; siber güvenlik alanında bölge ve ülke çapında bilinçlenmeye katkıda bulunmak, kurumların isteği üzerine siber güvenlik alanında rapor hazırlamak, nitelikli insan gücünü yetiştirmek ve siber güvenlik alanında akademik çalışmalar yapmaktır.
+
+### MADDE 6 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Ulusal ve uluslararası kuruluşlarla işbirliği yapmak, ortak çalışmaları özendirmek ve organize etmek.
+
+b) Kamu ve özel kuruluşlara danışmanlık, araştırma, eğitim ve uygulama hizmeti vermek.
+
+c) Ulusal ve uluslararası seminerler, sempozyumlar, kongreler, konferanslar, kurslar ve diğer bilimsel etkinlikler düzenlemek ve gerektiğinde sertifika veya katılım belgeleri vermek.
+
+ç) Siber güvenlik alanında çağın ihtiyaçlarına uygun laboratuvar ve tesisleri kurmak.
+
+d) Araştırma ve uygulama çalışmaları sonunda elde edilen bilimsel ve teknik bulguları ve verileri açıklayan, sorunlara çözüm önerileri getiren rapor, bülten, proje, kitap, makale, dergi ve benzeri yayınlar yapmak.
+
+e) Öğrencilerin Merkezin görev alanına giren konularda yaptığı yüksek lisans ve doktora çalışmalarına destek vermek, gerekli altyapıyı sağlayarak uzman insan gücü yetiştirmek.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 7 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) Müdür.
+
+b) Yönetim Kurulu.
+
+c) Danışma Kurulu.
+
+### MADDE 8 — Müdür
+
+(1) Müdür, Bilgisayar Bilimleri alanı ile ilgili araştırma, geliştirme veya uygulama deneyimi bulunan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıllık süre için görevlendirilir. Aynı kişi Müdür olarak üst üste en fazla iki kez görevlendirilebilir.
+
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere Üniversite bünyesindeki öğretim elemanları arasından iki kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Müdürün görevi sona erdiğinde müdür yardımcılarının görevi de sona erer. Müdür, görevi başında olmadığı zaman müdür yardımcılarından birini vekil bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir.
+
+### MADDE 9 — Müdürün görevleri
+
+(1) Müdürün görevleri şunlardır:
+
+a) Merkezi temsil etmek.
+
+b) Yönetim Kuruluna ve Danışma Kuruluna başkanlık etmek.
+
+c) Yönetim Kurulu ve Danışma Kurulu üyelerini toplantıya davet etmek.
+
+ç) Yönetim Kurulunun gündemini hazırlamak.
+
+d) Yönetim Kurulu kararlarının uygulanmasını sağlamak.
+
+e) Merkezin yıllık faaliyet raporunu ve yıllık çalışma programını hazırlamak ve bunu Yönetim Kurulunun görüşü alındıktan sonra Rektöre sunmak.
+
+f) Merkezin çalışmalarının düzenli olarak yürütülmesini ve ilgili birimler arasındaki koordinasyonu sağlamak.
+
+g) Merkez bünyesinde çalışan personelin görevlerini; etik ve bilimsel kurallara, ilgili mevzuata ve bu Yönetmeliğe göre sürdürüp sürdürmediğini denetlemek.
+
+ğ) İlgili mevzuat hükümleri ile verilen diğer görevleri yürütmek.
+
+### MADDE 10 — Yönetim Kurulu
+
+(1) Yönetim Kurulu; Müdür ve müdür yardımcılarından biri ile Üniversitede çalışan öğretim elemanları arasından Müdür tarafından önerilen Rektör tarafından görevlendirilen üç kişi olmak üzere toplam beş kişiden oluşur. Yönetim Kurulu üyelerinin görev süreleri üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir. Üyeliğin herhangi bir nedenle boşalması halinde kalan süreyi tamamlamak üzere yeni üye görevlendirilebilir.
+
+(2) Yönetim Kurulu, Müdürün daveti üzerine en az iki ayda bir kez salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Oylamada eşitlik durumunda Müdürün bulunduğu taraf çoğunluğu sağlamış sayılır.
+
+### MADDE 11 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) Merkezdeki çalışmaların etik ve bilimsel kurallara, bu Yönetmelik ve ilgili diğer mevzuat hükümlerine göre daha iyi ve verimli şekilde yürütülmesi için gerekli tedbirleri ve kararları almak.
+
+b) Müdür tarafından her faaliyet dönemi sonunda hazırlanan yıllık faaliyet raporunun ve yıllık çalışma programının düzenlenmesine ilişkin esasları tespit etmek, sunulan raporu değerlendirmek.
+
+c) Yurt içindeki ve yurt dışındaki kuruluşlarla ortaklaşa yürütülecek çalışmaların ilke, esas ve usullerini tespit etmek ve hazırlanan protokol taslağını değerlendirmek.
+
+ç) Merkez personelinin eğitim, uygulama, araştırma, danışmanlık ve yayım konularındaki isteklerini değerlendirip karara bağlamak.
+
+d) Merkezin çalışmaları için gerekli görülen çalışma grupları ve komisyonları kurmak ve bunların görevlerini düzenlemek.
+
+e) İlgili mevzuat hükümleriyle verilen diğer görevleri yapmak.
+
+### MADDE 12 — Danışma Kurulu ve görevleri
+
+(1) Danışma Kurulu; Müdür ve müdür yardımcıları ile Yönetim Kurulu tarafından önerilen ve Rektör tarafından görevlendirilen, Merkezin amaçları doğrultusunda çalışmaları, bilimsel ve teknolojik araştırma veya uygulamaları olan Üniversite içinden veya dışından olmak üzere en az beş en çok dokuz kişiden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir. Görev süresi bitmeden ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+
+(2) Danışma Kurulu, yılda en az bir kez Müdürün daveti üzerine salt çoğunluk ile toplanır ve katılanların salt çoğunluğu ile karar alır.
+
+(3) Danışma Kurulu; yıllık faaliyet raporu, çalışma programı, eğitim faaliyetleri, çalışmalar ile bir sonraki çalışma yılına ait programla ilgili Yönetim Kuruluna görüş ve önerilerde bulunur.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Personel ihtiyacı
+
+(1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Müdürün önerisi üzerine Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+
+### MADDE 14 — Harcama yetkilisi
+
+(1) Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+
+### MADDE 15 — Hüküm bulunmayan haller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hâllerde, 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.
+
+### MADDE 16 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 17 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Yalova Üniversitesi Rektörü yürütür.

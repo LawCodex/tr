@@ -1,0 +1,136 @@
+---
+title: "SAĞLIK BAKANLIĞI 4924 SAYILI KANUNA TABİ SÖZLEŞMELİ SAĞLIK PERSONELİ ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİ"
+identifier: "7.5.20525"
+number: "20525"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2015-02-11
+official_gazette_date: 2015-02-11
+official_gazette_number: "29264"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20525&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# SAĞLIK BAKANLIĞI 4924 SAYILI KANUNA TABİ SÖZLEŞMELİ SAĞLIK PERSONELİ ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİ
+
+**SAĞLIK BAKANLIĞI 4924 SAYILI KANUNA TABİ SÖZLEŞMELİ SAĞLIK PERSONELİ ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİ (1)**
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Yönetmelik, Sağlık Bakanlığı **(Mülga ibare:RG-9/2/2019-30681)** (…) taşra teşkilatında 10/7/2003 tarihli ve 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanuna göre istihdam edilecek sözleşmeli sağlık personelinin atanmalarına ilişkin usul ve esasları belirlemek amacıyla düzenlenmiştir.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Yönetmelik, 4924 sayılı Kanunun 4 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Atama: Hizmet sözleşmesinin karşılıklı olarak imzalanması suretiyle sözleşmeli personel pozisyonlarına ilk defa, yeniden veya yer değiştirme suretiyle yapılacak atama işlemlerini,
+
+b) **(Mülga:RG-9/2/2019-30681)**
+
+c) Bakanlık: Sağlık Bakanlığını,
+
+ç) Hizmet bölgesi: 19/4/1983 tarihli ve 83/6525 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmeliğin ekinde yer alan (1) sayılı cetvelde gösterilen illerin gruplarını,
+
+d) **(Mülga:RG-9/2/2019-30681)**
+
+e) Kura: Tıpta uzmanlık mevzuatına göre uzman olanlar ile tabip, diş tabibi ve eczacı pozisyonlarına yapılacak yerleştirmelerde; ilgililerin katılımına açık olarak Bakanlık **(Mülga ibare:RG-9/2/2019-30681)** (…) tarafından yapılacak tespit yöntemini,
+
+f) Merkezi yerleştirme: Kamu Personel Seçme Sınavı sonucu esas alınarak Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca yapılacak olan yerleştirme işlemini,
+
+g) Sözleşmeli personel: 4924 sayılı Kanuna ekli (1) sayılı cetvelde belirtilen pozisyon unvanlarından birinde görev yapan personeli,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Atama ve Yerleştirme İşlemlerine İlişkin Usul ve Esaslar
+
+### MADDE 4 — Atanma şartları
+
+(1) Sözleşmeli personel olarak atanacakların; 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartlar ile 4924 sayılı Kanuna ekli (1) sayılı cetvelde belirtilen niteliklere sahip olmaları şarttır. Bunun yanında Bakanlık **(Mülga ibare:RG-9/2/2019-30681)** (…), sözleşmeli personel olarak atanacaklar için, istihdam edilecek unvan ve hizmet biriminin gerektirdiği özel koşulları ayrıca belirleyebilir.
+
+### MADDE 5 — Atama ve yerleştirme işlemleri
+
+(1) Bir sözleşmeli personel pozisyonundan diğer bir sözleşmeli personel pozisyonuna yer değiştirme veya unvan değişikliği suretiyle atanmak üzere yerleştirmeler yılda bir kez, ilk defa ve yeniden atanmak üzere sözleşmeli personel pozisyonlarına yerleştirmeler ise yılda en fazla üç kez yapılabilir.
+
+(2) Atama, yerleştirme ve yer değiştirme işlemlerine ilişkin usul ve esaslar aşağıda belirtilmiştir.
+
+a) Sınav ve kura sonucu yerleştirmesi yapılanlar ilanda belirtilen şekilde atanmak üzere Bakanlık **(Mülga ibare:RG-9/2/2019-30681)** (…) taşra teşkilatına başvururlar.
+
+b) Tıpta uzmanlık mevzuatına göre uzman olanlar ile tabip, diş tabibi, eczacı pozisyonlarına yapılacak yerleştirme işlemleri kura ile diğer sözleşmeli personel pozisyonlarına ise merkezi yerleştirme sonuçlarına göre gerçekleştirilir. Atama işlemleri **(Mülga ibare:RG-9/2/2019-30681)** (…) ilan metninde belirtilen şekilde sonuçlandırılır.
+
+c) Daha önce Devlet memurluğu hizmeti bulunanlar, halen Devlet memuru olarak çalışanlar, diğer personel kanunlarına tabi olanlar ile 4924 sayılı Kanuna tabi olarak istihdam edilip de hizmet sözleşmesini feshedenler veya sözleşmesi feshedilenlerin yeniden sözleşmeli pozisyonlara yerleştirme işlemleri merkezi yerleştirme sonucuna göre yapılır.
+
+ç) Sınavla atanması öngörülen sözleşmeli personel pozisyon unvanında görev yapmakta iken, diğer bir pozisyon unvanına yapılacak atama işlemleri merkezi yerleştirme puanına göre yapılır. Kendi unvanını ve branşını haiz boş pozisyonlara yapılacak yer değiştirme işlemlerinde ise; Sağlık Bakanlığı **(Mülga ibare:RG-9/2/2019-30681)** (…) Atama ve Yer Değiştirme Yönetmeliğinin hizmet puanı ile ilgili hükümleri çerçevesinde yapılacak sıralama esas alınır.
+
+d) Kurayla atanması öngörülen sözleşmeli personel pozisyon unvanından, aynı veya diğer pozisyon unvanına yapılacak atama ve yerleştirme işlemleri kurayla yapılır.
+
+e) Sözleşmeli personel pozisyonları arasında kura veya hizmet puanıyla yapılacak yer değişikliklerinde sözleşmeli personelin istihdam edildiği hizmet biriminde en az bir yıl çalışmış olması şarttır.
+
+f) Aynı hizmet bölgesi illerde aynı unvan ve branşta bir yıl çalışan sözleşmeli personel, uygun görülmesi hâlinde **(Mülga ibare:RG-9/2/2019-30681)** (…) karşılıklı olarak yer değiştirebilir.
+
+g) Norm pozisyon sayısında değişiklik olması, sözleşmeli personel pozisyonlarının vizelendiği birimin kapatılması veya bu birimlerde sözleşmeli personel istihdamından vazgeçilmesi sebebiyle sözleşmesi feshedilenler hariç olmak üzere, sözleşmesi feshedilenler ile **(Ek ibare:RG-10/2/2023-32100)** usulüne uygun veya usulüne uygun olmadan sözleşmesini feshedenler iki yıl geçmedikçe yeniden sözleşmeli personel pozisyonlarında istihdam edilemezler.
+
+ğ) Uzman tabip ve tabipler hariç olmak üzere, herhangi bir sosyal güvenlik kurumundan emeklilik veya yaşlılık aylığı alanlar sözleşmeli personel olarak istihdam edilemezler.
+
+h) **(Değişik:RG-10/2/2023-32100)** 3359 sayılı Sağlık Hizmetleri Temel Kanununa göre; Devlet hizmet yükümlüsü olarak çalışmakta olanlardan, sözleşmeli pozisyonlara geçmek isteyenlerin görev yaptıkları birimde yerleştirilmelerine ilişkin usul ve esaslar Bakanlıkça belirlenir.
+
+ı) 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin birinci fıkrasının (A) bendine tabi olarak tıpta uzmanlık mevzuatına göre uzman, tabip, diş tabibi ve eczacı olarak çalışanların; sözleşmeli personel pozisyonlarına yerleştirme işlemleri kura ile yapılır. Söz konusu unvanlar için yapılacak olan kura, öncelikli olarak personelin istihdam edildikleri birimlerdeki durumlarına uygun boş sözleşmeli personel pozisyonlarına yerleştirilmesi kaydıyla ilan metninde belirtilen şekilde **(Değişik ibare:RG-9/2/2019-30681)** İl Sağlık Müdürlüğünce sonuçlandırılır. Bu fıkra kapsamında sözleşmeli personel statüsüne geçmiş olanlar, sözleşmelerinin bitiminde istekleri halinde 657 sayılı Kanunun ilgili hükümlerine göre söz konusu statüye geçerken çalıştığı il emrindeki boş Devlet memurluğu kadrolarına naklen atanırlar.
+
+i) Eşi vefat eden sözleşmeli personel, eşinin vefatından itibaren bir yıl içerisinde müracaat etmesi halinde durumuna uygun boş sözleşmeli personel pozisyonlarına Bakanlık **(Mülga ibare:RG-9/2/2019-30681)** (…) tarafından atanırlar.
+
+j) Sözleşmeli personel; pozisyonunun vizeli olduğu birimin bulunduğu ilde fiilen en az bir yıl görev yapması, kamu personeli olan eşinin; kurum içi görev yeri değişikliği mümkün olmayan veya mevzuatı uyarınca zorunlu yer değiştirmeye tabi tutulan bir görevde bulunduğunu belgelendirmesi kaydıyla, Bakanlık **(Mülga ibare:RG-9/2/2019-30681)** (…) tarafından, hizmet ihtiyaçları ve sözleşmeli personelin dengeli dağılımı göz önünde bulundurularak ilan edilen vizeli, aynı unvanlı boş pozisyonlara tercihleri doğrultusunda hizmet puanına göre eş durumu nedeniyle naklen atanabilir. Bu bendin uygulama esasları, Bakanlık ve Bağlı Kuruluşları tarafından yapılacak ilanlarda belirtilir.
+
+k) Sözleşmeli personel; pozisyonunun vizeli olduğu ilde kendisinin, eşinin, annesinin, babasının, bakmakla yükümlü olduğu çocuklarının ve yargı kararı ile vasi tayin edildiği kardeşinin hastalığının tedavisinin mümkün olmadığını, üniversiteler veya eğitim ve araştırma hastanelerinden alınacak sağlık kurulu raporu ile belgelendirmesi halinde; Sağlık Bakanlığı **(Mülga ibare:RG-9/2/2019-30681)** (…) Atama ve Yer Değiştirme Yönetmeliğine göre oluşturulan sağlık komisyonu tarafından, sağlık kurulu raporunda yer alan teşhis ve uygulanacak tedavi imkânları dikkate alınarak söz konusu tedavinin yapılabileceği sağlık kurum veya kuruluşunun bulunduğu bir ilin aynı unvan ve branşa sahip boş sözleşmeli personel pozisyonuna naklen atanabilir. Sağlık komisyonu, gerekli durumlarda bu raporların ilgili mevzuatına göre belirlenen hakem hastaneler vasıtasıyla sağlık kurullarınca da usule ve fenne uygunluğunun tespit edilmiş olma şartını arayabilir. Bu bendin uygulama esasları, Bakanlık ve Bağlı Kuruluşları tarafından yapılacak ilanlarda belirtilir.
+
+l) Herhangi bir nedenle görev yaptığı ilde kendisinin, eşinin veya bakmakla yükümlü olduğu çocuklarının can güvenliğinin tehlikeye düştüğünü adli veya mülki idare makamlarınca verilen belgeyle belgelendiren sözleşmeli personel, aynı pozisyon unvanlı ve branşlı boş bir pozisyona yer değişikliği suretiyle atanabilir.
+
+m) 8/3/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi uyarınca hakkında adli makamlarca iş yerinin değiştirilmesine ilişkin koruyucu tedbir kararı alınan sözleşmeli personelin yer değiştirme talebi, kurumuna ait aynı unvan ve nitelikte boş pozisyon bulunması kaydıyla yerine getirilir.
+
+n) **(Değişik ibare:RG-9/2/2019-30681)** Hazine ve Maliye Bakanlığı tarafından birimler itibarıyla vize edilmiş pozisyonlarda istihdam edilecek personel; pozisyonunun tahsis edildiği yer dışındaki birimlerde sürekli olarak görevlendirilemez ve çalıştırılamaz. Ancak sözleşmeli personel; deprem, yangın, su baskını, yer kayması, çığ ve benzeri afetler, sıkıyönetim, olağanüstü hal, seferberlik ve savaş hali ile yılda bir ayı geçmeyen hizmet içi eğitim çalışmaları esnasında, tabip ve hemşireler diyaliz eğitimi amacıyla en fazla bir defa ve toplam üç ayı geçmemek üzere ve bu sürenin dört katı mecburi hizmet yükümlüsü olarak çalışmayı taahhüt etmek kaydıyla, pozisyonunun tahsis edildiği yer dışındaki birimlerde geçici olarak görevlendirilebilir.
+
+## ÜÇÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 6 — Kısıtlayıcı hükümler
+
+(1) Atama için öngörülen koşullara uymayan veya gerekli belgeleri süresi içinde teslim etmeyen adayların atamaları yapılmaz. Bu durumda olanlar ile yerleştirme sonucunda atamaları yapıldığı halde belirtilen süre içinde göreve başlamayanlar, göreve başlamaları gereken tarihten itibaren bir yıl boyunca sözleşmeli personel olarak atanamazlar.
+
+(2) Gerçeğe aykırı beyanda bulunanlar ile başvuruda ve tercih formunda kodlanmayan, yanlış kodlanan veya tutarsızlık bulunan bilgiler yüzünden yerleştirmesi yapılmayan veya daha alt tercihlere yerleştirilen adaylar, bu durumdan dolayı bir hak iddia edemezler.
+
+(3) Sözleşmeli personel olarak atanabilmek için öngörülen şartlardan herhangi birini taşımadığı sonradan anlaşılanlar, atanmış ve göreve başlatılmış olsalar bile sözleşmeleri feshedilerek yerleştirmeden doğan tüm haklarını kaybederler.
+
+### MADDE 7 — Yürürlükten kaldırılan yönetmelik
+
+(1) 2/9/2003 tarihli ve 25217 sayılı Resmî Gazete’de yayımlanan Sözleşmeli Sağlık Personeli Atama ve Nakil Yönetmeliği yürürlükten kaldırılmıştır.
+
+### MADDE 8 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 9 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 9/2/2019 tarihli ve 30681 sayılı Resmi Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Sağlık Bakanlığı ve Bağlı Kuruluşları 4924 Sayılı Kanuna Tabi Sözleşmeli Sağlık Personeli Atama ve Yer Değiştirme Yönetmeliği” iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.*
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>11/2/2015</td><td>29264</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>17/11/2015</td><td>29535</td></tr>
+<tr><td>2.</td><td>9/2/2019</td><td>30681</td></tr>
+<tr><td>3.</td><td>10/2/2023</td><td>32100</td></tr>
+</table>

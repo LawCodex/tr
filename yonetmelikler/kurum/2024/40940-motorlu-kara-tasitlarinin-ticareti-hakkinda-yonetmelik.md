@@ -1,0 +1,638 @@
+---
+title: "MOTORLU KARA TAŞITLARININ TİCARETİ HAKKINDA YÖNETMELİK"
+identifier: "7.5.40940"
+number: "40940"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2024-08-27
+official_gazette_date: 2024-08-27
+official_gazette_number: "32645"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40940&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# MOTORLU KARA TAŞITLARININ TİCARETİ HAKKINDA YÖNETMELİK
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Yönetmeliğin amacı motorlu kara taşıtı ticaretine ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Yönetmelik; gerçek veya tüzel kişi tacirler ile esnaf ve sanatkârların motorlu kara taşıtı ticareti faaliyetlerini, motorlu kara taşıtı ticaretiyle iştigal eden gerçek veya tüzel kişilerin yükümlülüklerini, ikinci el motorlu kara taşıtı ticareti yetki belgesinin verilmesi, **(Ek ibare:RG-29/4/2026-33238)** tadili, yenilenmesi ve iptaline ilişkin usul ve esasları, Bilgi Sistemi ve Ödeme Sisteminin kurulması, işletilmesi ve ikinci el motorlu kara taşıtı satışında ödeme sisteminin gerçek ve tüzel kişiler tarafından kullanılması ile ekspertiz raporlarının düzenlenmesine ilişkin usul ve esasları, motorlu kara taşıtı ihale, ilan ve ön değerlemesine ilişkin ilke, kural ve yükümlülükleri, toplu iş yeri ve taşıt pazarlarında aranan şartları ve Bakanlık, yetkili idare ve diğer ilgili kurum ve kuruluşların motorlu kara taşıtı ticaretine ilişkin görev, yetki ve sorumluluklarını kapsar.
+
+(2) Aşağıda belirtilen ikinci el motorlu kara taşıtı satışları bu Yönetmeliğin kapsamı dışındadır:
+
+a) İşletmeler arasında gerçekleştirilen satışlar.
+
+b) Motorlu kara taşıtı kiralama faaliyetinde bulunan gerçek veya tüzel kişiler adına en az altı ay süreyle tescilli olan taşıtların bu gerçek veya tüzel kişilerce satışı.
+
+c) 5/1/1961 tarihli ve 237 sayılı Taşıt Kanununa tabi idare, kurum ve kuruluşlar ile kamu kurumu niteliğindeki meslek kuruluşlarınca yapılan satışlar.
+
+ç) 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu ile 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu kapsamında yapılan satışlar.
+
+d) Haciz, müsadere, zapt, buluntu, trafikten men gibi nedenlerle icra müdürlükleri, alacaklı amme idareleri, milli emlak müdürlükleri, tahsil daireleri, sulh hukuk mahkemesi satış veya tereke tasfiye memurlukları ve 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununda tanımlanan kredi kuruluşları ile diğer yetkili kamu kurum ve kuruluşları tarafından yapılan satışlar.
+
+e) 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanunu kapsamında finansal kiralama sözleşmesine konu motorlu kara taşıtlarının kiralayan tarafından kiracıya satışı.
+
+(3) Yetkili satıcılar arasında gerçekleştirilen tescilsiz motorlu kara taşıtı satışları bu Yönetmeliğin kapsamı dışındadır.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Yönetmelik, 14/1/2015 tarihli ve 6585 sayılı Perakende Ticaretin Düzenlenmesi Hakkında Kanunun 16 ncı maddesinin birinci fıkrasının (b) ve (ç) bentleri, 23/10/2014 tarihli ve 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanunun 11 inci maddesinin birinci fıkrası ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 446 ncı maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Yönetmeliğin uygulanmasında;
+
+a) Bakanlık: Ticaret Bakanlığını,
+
+b) Bilgi Sistemi: Motorlu Kara Taşıtı Ticareti Bilgi Sistemini,
+
+c) Distribütör: Motorlu kara taşıtı üreticisiyle yaptığı sözleşme kapsamında ilgili taşıt markasına ait motorlu kara taşıtlarının Türkiye’de dağıtımı ve satışı konusunda yetkilendirilen gerçek veya tüzel kişiyi,
+
+ç) ESBİS: Esnaf ve Sanatkâr Bilgi Sistemini,
+
+d) İhale platformu: Motorlu kara taşıtı ihalesi düzenlenmesine elektronik ortam sağlayan gerçek kişiyi veya özel hukuk tüzel kişisini,
+
+e) İkinci el motorlu kara taşıtı ticareti: Doğrudan veya aracılık yapılmak suretiyle gerçekleştirilen tescilli motorlu kara taşıtlarının pazarlama ve satışıyla ilgili faaliyetler bütününü,
+
+f) İl müdürlüğü: Ticaret il müdürlüğünü,
+
+g) İlan platformu: Kendine veya başkalarına ait motorlu kara taşıtlarının pazarlama ve satışına yönelik ilanlara elektronik ortam sağlayan gerçek veya tüzel kişiyi,
+
+ğ) İşletme: İkinci el motorlu kara taşıtı ticaretiyle iştigal eden ticaret şirketi, ticari işletme, esnaf ve sanatkâr işletmesi ve bunların şubelerini,
+
+h) MERSİS: Merkezi Sicil Kayıt Sistemini,
+
+ı) Meslek odası: İlgili esnaf ve sanatkârlar odası ile ticaret ve sanayi odasını, ticaret ve sanayi odalarının ayrı kurulduğu yerlerde ticaret odasını,
+
+i) Mesleki yeterlilik belgesi: Mesleki Yeterlilik Kurumu tarafından onaylanarak bireyin bilgi, beceri ve yetkinliğini ifade eden motorlu kara taşıtları alım satım danışmanı (Seviye 4) ve motorlu kara taşıtları alım satım sorumlusu (Seviye 5) ulusal yeterliliklerine dayalı belgeyi,
+
+j) Motorlu kara taşıtı: 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 3 üncü maddesinde tanımlanan motosiklet, otomobil, arazi taşıtı, otobüs, kamyonet, kamyon ve lastik tekerlekli traktör niteliğindeki taşıtları,
+
+k) Motorlu kara taşıtı ticareti: Doğrudan veya aracılık yapılmak suretiyle gerçekleştirilen tescilli veya tescilsiz motorlu kara taşıtlarının pazarlama ve satışıyla ilgili faaliyetler bütününü,
+
+l) Motorlu kara taşıtları alım satım danışmanı: İşletmede iş sözleşmesiyle çalışan pazarlama ve satış personelini,
+
+m) Motorlu kara taşıtları alım satım sorumlusu: İkinci el motorlu kara taşıtı ticaretiyle iştigal eden gerçek kişi tacirler ile esnaf ve sanatkârların kendilerini, ticaret şirketleri ve diğer tüzel kişi tacirler ile şubelerde ise bu faaliyetleri yürüten yetkili temsilcileri,
+
+n) Tescilsiz motorlu kara taşıtı ticareti: Doğrudan veya aracılık yapılmak suretiyle gerçekleştirilen tescili yapılmamış motorlu kara taşıtının pazarlama ve satışıyla ilgili faaliyetler bütününü,
+
+o) TSE: Türk Standardları Enstitüsünü,
+
+ö) Üst meslek kuruluşu: Türkiye Odalar ve Borsalar Birliği ile Türkiye Esnaf ve Sanatkârları Konfederasyonunu,
+
+p) Yetki belgesi: İkinci el motorlu kara taşıtı ticaretiyle iştigal edilebilmesi için işletme adına düzenlenen belgeyi,
+
+r) Yetkili idare: İşyeri açma ve çalışma ruhsatını vermeye yetkili belediye veya il özel idareleri ile diğer idareleri,
+
+s) Yetkili satıcı: Üretici veya distribütör ile aralarında kurulan sözleşme kapsamında tescilsiz motorlu kara taşıtı perakende ticaretiyle iştigal eden gerçek veya tüzel kişileri,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Yetki ve Yeterlilik Belgeleri
+
+### MADDE 5 — Yetki belgesi
+
+(1) Yetki belgesi olmadan ticari faaliyet kapsamında ikinci el motorlu kara taşıtı pazarlama veya satışı yapılamaz. Bir takvim yılı içinde doğrudan veya aracılık yapılmak suretiyle üçten fazla ikinci el motorlu kara taşıtı satışı yapılması halinde, aksi Bakanlıkça tespit edilmedikçe her bir satış ticari faaliyet kabul edilir.
+
+(2) Yetki belgesi, işletmenin bulunduğu yerdeki il müdürlüğü tarafından Bilgi Sistemi üzerinden verilir, **(Ek ibare:RG-29/4/2026-33238)** tadil edilir, yenilenir ve iptal edilir.
+
+(3) Yetki belgesinde asgari olarak, MERSİS numarası ve MERSİS’e kayıtlı işletme adı ve adresi ile ticaret unvanına veya ESBİS’e kayıtlı işletme adı ve adresi ile işletme sahibinin adı, soyadı ve T.C. kimlik numarasına veya yabancı kimlik numarasına yer verilir.
+
+(4) Yetki belgesi, her bir işletme için ayrı ayrı düzenlenir ve devredilemez.
+
+(5) Bakanlık, yetki belgesinin içeriği ile yetki belgesinin düzenlenmesine ilişkin diğer usul ve esasları belirlemeye yetkilidir.
+
+### MADDE 6 — Yetki belgesi verilmesinde aranan şartlar
+
+(1) İşletmeye yetki belgesi verilebilmesi için;
+
+a) Gelir veya kurumlar vergisi mükellefi olunması,
+
+b) Meslek odasına kayıtlı olunması,
+
+c) Meslek odası ve vergi kayıtlarındaki faaliyet konuları arasında ikinci el motorlu kara taşıtı ticaretinin bulunması,
+
+ç) Yetki belgesi başvurusunda bulunan alım satım sorumlusunun;
+
+1) On sekiz yaşını doldurmuş olması,
+
+2) En az **(Değişik ibare:RG-29/4/2026-33238)** ilköğretim mezunu olması,
+
+3) İflas etmemiş veya iflas etmiş olsa bile 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu hükümlerine göre itibarının yerine gelmiş olması,
+
+4) Kasten işlenen suçlardan dolayı beş yıldan fazla kesinleşmiş hapis cezası almamış veya devletin güvenliğine, anayasal düzene ve bu düzenin işleyişine, milli savunmaya ve devlet sırlarına karşı suçlar ile casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, terörizmin finansmanı, kaçakçılık, vergi kaçakçılığı veya haksız mal edinme, işkence, cinsel saldırı ve çocukların cinsel istismarı suçlarından hüküm giymemiş ya da ticaret ve sanat icrasından hükmen yasaklanmamış olması,
+
+5) Seviye 5 mesleki yeterlilik belgesine sahip olması,
+
+gerekir.
+
+(2) Bakanlık, yetki belgesi verilmesi için mesleki eğitim şartı getirmeye ve bu eğitime ilişkin usul ve esaslar ile bu şarttan muafiyet sağlayan eğitim alanlarını ilgili kamu kurum ve kuruluşlarının görüşlerini alarak belirlemeye yetkilidir. Mesleki eğitim, Bakanlık veya Bakanlıkça uygun görülen kurum ve kuruluşlar tarafından verilir.
+
+### MADDE 7 — Yetki belgesinin verilmesi
+
+(1) Yetki belgesi başvurusu, yetki belgesi verilmesinde aranan şartların taşındığını gösteren belgelerle birlikte Bilgi Sistemi üzerinden yapılır.
+
+(2) İl müdürlüğünce, ilgili kurum ve kuruluşların elektronik bilgi sistemlerinden sağlanabilen belgeler bu sistemlerden temin edilir ve işletme adına elektronik ortamda oluşturulan dosyada diğer başvuru evrakı ile birlikte saklanır.
+
+(3) Yetki belgesi verilmesinde aranan şartları taşıdığı anlaşılan işletmelere, başvuru tarihinden itibaren on gün içinde yetki belgesi düzenlenir.
+
+(4) Yetki belgesi başvurusu ret gerekçelerine, başvuruda bulunan işletmenin erişebileceği şekilde Bilgi Sisteminde yer verilir.
+
+### MADDE 8 — Yetki belgesinin tadili ve yenilenmesi
+
+**(Başlığı ile Birlikte Değişik:RG-29/4/2026-33238)**
+
+(1) Yetki belgesi, ticaret ünvanı veya işletme adı değişikliği hariç olmak üzere, içeriğindeki bilgilerden herhangi birinde değişiklik olması durumunda tadil edilir. Ticaret ünvanı veya işletme adının değişmesi durumunda yetki belgesi yenilenir. Tadil ve yenileme başvurusu, değişikliğin gerçekleştiği tarihten itibaren otuz gün içinde Bilgi Sistemi üzerinden yapılır ve il müdürlüğünce başvuru tarihinden itibaren on gün içinde sonuçlandırılır.
+
+### MADDE 9 — Yetki belgesinin iptali
+
+(1) Yetki belgesi;
+
+a) 6 ncı maddede belirtilen şartlardan herhangi birini kaybeden işletmenin bu durumun gerçekleştiği tarihten itibaren on gün içinde Bilgi Sistemi üzerinden yapacağı başvuru üzerine,
+
+b) 6 ncı maddede belirtilen şartlardan herhangi birine sahip olunmadığının Bakanlıkça tespit edilmesi halinde,
+
+c) 8 inci maddenin birinci fıkrasında belirtilen süre içinde **(Ek ibare:RG-29/4/2026-33238)** tadil veya yenileme başvurusunda bulunulmaması nedeniyle Bilgi Sistemi üzerinden veya yazılı olarak Bakanlıkça yapılan uyarıya rağmen on gün içinde **(Ek ibare:RG-29/4/2026-33238)** tadil veya yenileme başvurusunda bulunulmaması halinde,
+
+ç) Bu Yönetmelik hükümlerine aykırı hareket eden işletmeye Bilgi Sistemi üzerinden veya yazılı olarak Bakanlıkça yapılan uyarıya rağmen;
+
+1) Verilen süre içinde aykırılığın ortadan kaldırılmaması halinde,
+
+2) Aynı takvim yılı içinde aykırılığın tekrarlanması halinde,
+
+d) Tescilsiz motorlu kara taşıtı ticareti faaliyetinde de bulunan işletmenin bu faaliyeti yürütürken satıştan kaçınması, taşıtın üretici veya distribütör tarafından tavsiye edilen satış fiyatının üzerinde fiyat talep etmesi, tüketiciyi aksesuar almaya veya takas yapmaya zorlaması ya da takas fiyatını piyasa fiyatının önemli ölçüde altında belirlemesi gibi tescilsiz motorlu kara taşıtına ulaşılmasını zorlaştırıcı faaliyette bulunması halinde,
+
+iptal edilir.
+
+(2) Yetki belgesi iptal gerekçelerine, yetki belgesi iptal edilen işletmenin erişebileceği şekilde Bilgi Sisteminde yer verilir.
+
+(3) Birinci fıkranın (ç) ve (d) bentleri gereğince yetki belgesi iptal edilen işletmeye ve işletme sahibi ile işletmeyi temsile yetkili olanların sahibi veya temsile yetkili olduğu diğer işletmelere iptal tarihinden itibaren bir yıl süreyle yetki belgesi verilmez.
+
+### MADDE 10 — Mesleki yeterlilik belgesi
+
+(1) Motorlu kara taşıtları alım satım sorumlularının Seviye 5, motorlu kara taşıtları alım satım danışmanlarının ise Seviye 4 mesleki yeterlilik belgesine sahip olması gerekir.
+
+(2) Motorlu kara taşıtları alım satım sorumlularının, yükseköğretim kurumlarının; motorlu kara taşıtları alım satım danışmanlarının ise ortaöğretim ve yükseköğretim kurumlarının motorlu kara taşıtı ticareti ile ilgili alanlarından veya bunlara denkliği kabul edilen yurt dışındaki öğretim kurumlarından mezun olmaları durumunda mesleki yeterlilik belgesi şartı aranmaz. Mesleki yeterlilik belgesi şartından muafiyet sağlayan motorlu kara taşıtı ticareti ile ilgili alanlar Bakanlıkça belirlenir.
+
+(3) Bakanlık, yetki belgesine sahip işletmelerce çalıştırılması gereken mesleki yeterlilik belgesine sahip asgari personel sayısı ile ulusal yeterliliğin yapısını oluşturan ve personelin sahip olduğu mesleki yeterlilik belgesinde yer alması gereken seçmeli birimleri belirlemeye yetkilidir.
+
+## ÜÇÜNCÜ BÖLÜM — Motorlu Kara Taşıtı Ticaretiyle İştigal Edenlerin Yükümlülükleri
+
+**ve Haksız Ticari Uygulamalar**
+
+### MADDE 11 — Distribütörlerin haksız ticari uygulamaları ve yükümlülükleri
+
+(1) Distribütörlerin, yetkili satıcıların ticari faaliyetlerini önemli ölçüde bozan, makul karar verme yeteneğini azaltan veya normal şartlarda taraf olmayacağı bir ticari ilişkinin tarafı olmasına sebep olan faaliyetleri haksız ticari uygulamadır. Haksız ticari uygulamalarda bulunulamaz.
+
+(2) Distribütörlerin aşağıda belirtilen faaliyetleri her durumda haksız ticari uygulama kabul edilir:
+
+a) Yetkili satıcıyı bir ay içinde son üç yıllık satışlarının aylık ortalamasından fazla taşıt almaya zorlamak.
+
+b) Fatura tarihinden sonra taşıt fiyatında artış yapmak veya taşıtı on beş gün içinde yetkili satıcıya teslim etmemek.
+
+c) Taşıt satışını, kendisinin veya bir başkasının mal veya hizmetini alma şartına bağlamak.
+
+ç) Yetkili satıcının taşıt satışlarına ilişkin kampanyalardan faydalanmasını diğer ürün ve hizmetlerin satışı, fiyat indirimi, yetkili satıcının kâr marjının kısıtlanması ve taşıt satış kotası gibi şartlara bağlamak.
+
+(3) Distribütörler, tavsiye edilen taşıt satış fiyatının elektronik ortam üzerinden erişilebilir olmasını sağlar.
+
+### MADDE 12 — Yetkili satıcıların yükümlülükleri
+
+(1) Yetkili satıcılar tescilsiz motorlu kara taşıtlarının pazarlama ve satışında aşağıdaki hususlara uymakla yükümlüdür:
+
+a) Tescilsiz motorlu kara taşıtına ilişkin vergilerin alıcı tarafından ödendiği andan itibaren taşıtın satış fiyatını arttırmamak ve alıcıya taşıt fiyatını sabitleme hakkını bildirmek.
+
+b) Alıcının vergileri ödediği tarihten itibaren on beş gün içinde taşıtı alıcıya teslim etmek.
+
+(2) Motorlu kara taşıtı ticaretiyle iştigal edilen iş yerinde sigorta, finansman, aksesuar, yedek parça satışı, servis ve satış sonrası hizmetler gibi faaliyetler dışında ticari faaliyette bulunulamaz.
+
+### MADDE 13 — Yetkili satıcıların sipariş usulü satışları
+
+(1) Alıcının tescilsiz motorlu kara taşıtının satış bedelinin bir kısmını önceden ödemeyi, satıcının da bedelin kısmen veya tamamen ödenmesinden sonra taşıtı alıcıya devir ve teslim etmeyi üstlendiği sipariş usulü satışlarda yazılı olarak veya elektronik ortamda sipariş formu düzenlenir ve aynı gün alıcıya teslim edilir. Bu form düzenlenmeden alıcıdan herhangi bir ödeme veya alıcıyı borç altına sokan belge alınamaz.
+
+(2) Sipariş edilen taşıtın, kırk beş günden fazla olmayacak şekilde formda belirtilen süre içinde alıcıya teslimi zorunludur. Bu süre, formun düzenlendiği veya kısmi ödemenin yapıldığı tarihlerden hangisi önce ise o tarih esas alınarak hesaplanır.
+
+(3) Taşıt yedi gün içinde alıcıya teslim edilebilir duruma gelinceye kadar alıcıdan en fazla nihai satış fiyatının yüzde onu oranında kısmi ödeme veya alıcıyı borç altına sokan belge alınabilir.
+
+(4) Alıcı, sipariş formunun düzenlendiği tarihten itibaren on dört gün içinde herhangi bir gerekçe göstermeksizin ve cezai şart ödemeksizin siparişi iptal edebilir. Siparişin iptal edildiğine dair bildirimin bu süre içinde satıcıya yöneltilmiş olması yeterlidir. Mevcut donanım listesinde yer almayan özelliklerle kişiselleştirilmiş siparişler ile özel tertibatlı taşıtlar için bu hüküm uygulanmaz.
+
+(5) Yetkili satıcı, sipariş iptali konusunda alıcıyı yazılı olarak bilgilendirmekle yükümlüdür. Bilgilendirmenin yapıldığına dair ispat yükü yetkili satıcıya aittir.
+
+(6) Siparişin iptal edilmesi durumunda, alıcı tarafından yapılan tüm ödemeler ile alıcıyı borç altına sokan her türlü belge iptal bildiriminin yetkili satıcıya ulaştığı tarihten itibaren on gün içinde iade edilir.
+
+### MADDE 14 — Distribütörler haricinde taşıt ithal edenler
+
+(1) Distribütörler haricinde taşıt ithal edenler, yetkili satıcılara satış yapmaları halinde 11 inci maddeye, diğer gerçek veya tüzel kişilere satış yapmaları halinde 12 nci ve 13 üncü maddelere tabidir.
+
+### MADDE 15 — İşletmelerin yükümlülükleri
+
+(1) İşletmeler aşağıdaki hususlara uymakla yükümlüdür:
+
+a) Mesleki yeterlilik belgesinin aranmayacağı haller hariç olmak üzere, mesleki yeterlilik belgesine sahip olmayan kişileri motorlu kara taşıtı alım satım sorumlusu veya danışmanı olarak istihdam etmemek.
+
+b) Yetki belgesi numarasını ekspertiz raporunun düzenlenmesi sırasında ekspertiz işletmesine ve satış sırasında notere beyan etmek.
+
+c) Ekspertiz raporunun bir nüshasını satış sırasında notere ibraz etmek.
+
+ç) Satışına yetkili olmadığı ikinci el motorlu kara taşıtına ilişkin pazarlama ve aracılık faaliyetinde bulunmamak.
+
+d) Yol ve kaldırım gibi kamunun ortak kullanımına ayrılmış alanları taşıt teşhir alanı olarak kullanmamak.
+
+(2) 14/7/2005 tarihli ve 2005/9207 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik hükümleri saklı kalmak kaydıyla, ikinci el motorlu kara taşıtı ticaretiyle iştigal edilen iş yerinde başka bir ticari faaliyette bulunulamaz ve bu iş yeri ikamet amacıyla kullanılamaz.
+
+### MADDE 16 — Ekspertiz raporu
+
+(1) TSE hizmet yeterlilik belgesine sahip ekspertiz işletmesi bulunmayan illerde faaliyet gösteren işletmeler hariç olmak üzere, işletme tarafından, tescil belgesinde araç sınıfı M1, M1G, N1 ve N1G olan taşıt satışlarından önceki on gün içinde ekspertiz raporu alınır. Ekspertiz raporu ücreti, satış işleminin alıcıdan kaynaklanan bir nedenle gerçekleşmemesi durumunda alıcı, diğer hallerde işletme tarafından ödenir.
+
+(2) Ekspertiz raporu, ilgili standarda göre verilen TSE hizmet yeterlilik belgesi bulunan ekspertiz işletmeleri tarafından düzenlenir. Üç nüsha düzenlenen raporun iki nüshası satıcı işletmeye verilir. Rapor, satıcı işletme ile ekspertiz işletmesi tarafından en az beş yıl süreyle saklanır.
+
+(3) Model yılına göre sekiz yaşın veya yüz altmış bin kilometrenin üzerindeki taşıtlar için ekspertiz raporu alınması zorunlu değildir.
+
+(4) Ekspertiz raporunda asgari olarak aşağıdaki hususlara yer verilir:
+
+a) Taşıtın markası, ticari adı, cinsi, tipi, model yılı ve kilometresi.
+
+b) Ekspertiz raporunu düzenleyen ticari işletmenin hizmet yeterlilik belgesi ve MERSİS numaraları ile MERSİS’e kayıtlı ticaret unvanı ve işletme adı veya ekspertiz raporunu düzenleyen esnaf ve sanatkâr işletmesinin hizmet yeterlilik belgesi numarası ve ESBİS’e kayıtlı işletme adı ile işletme sahibinin adı, soyadı ve T.C. kimlik numarası veya yabancı kimlik numarası.
+
+c) Ekspertiz raporunu alan işletmenin yetki belgesi numarası ile MERSİS numarası, MERSİS’e kayıtlı ticaret unvanı ve işletme adı veya ESBİS’e kayıtlı işletme adı, işletme sahibinin adı, soyadı ve T.C. kimlik numarası veya yabancı kimlik numarası.
+
+ç) Ekspertiz raporunu alan işletmenin yetki belgesinin bulunmaması durumunda, yetki belgesinin bulunmadığı hususu.
+
+d) TSE’nin ilgili standardı ile belirlenen diğer hususlar.
+
+(5) Ekspertiz işletmesi, ekspertiz raporundaki bilgilerin taşıtın gerçek durumunu yansıtmamasından sorumludur. Taşıtın gerçek durumuna aykırı ekspertiz raporu düzenleyen ve Bakanlıkça yapılan uyarıya rağmen aynı takvim yılı içinde bu aykırılığı tekrarlayan ekspertiz işletmesinin hizmet yeterlilik belgesi Bakanlıkça yapılan bildirim tarihinden itibaren on gün içinde TSE tarafından iptal edilir. Hizmet yeterlilik belgesi iptal edilen ekspertiz işletmesine ve ekspertiz işletmesinin sahibi ile işletmeyi temsile yetkili olanların sahibi veya temsile yetkili olduğu diğer ekspertiz işletmelerine iptal tarihinden itibaren bir yıl süreyle yetki belgesi verilmez. Aldatıcı ve yanıltıcı ekspertiz raporları ile ilgili olarak tüketicilerin 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun ayıplı hizmete ilişkin hakları saklıdır.
+
+(6) Bakanlık, TSE hizmet yeterlilik belgesine sahip işletme sayısını ve taşıt türleri itibarıyla ekspertiz hizmetinin yaygınlaşmasını dikkate alarak ekspertiz raporu alma zorunluluğu bulunan diğer araç sınıflarını, ekspertiz raporunda yer verilecek diğer bilgileri, TSE hizmet yeterlilik belgesi verilecek ekspertiz işletmelerinde ve bu işletmelerde çalıştırılan kişilerde aranan nitelikleri, ekspertiz raporu düzenleyenlerin yükümlülük ve sorumluluklarını, hizmet yeterlilik belgesi ile ekspertiz raporu ücretinin üst sınırını ilgili kamu kurum ve kuruluşları ile üst meslek kuruluşlarının görüşünü alarak belirlemeye yetkilidir.
+
+### MADDE 17 — İkinci el motorlu kara taşıtı ticaretinde garanti
+
+(1) Model yılına göre sekiz yaşın veya yüz altmış bin kilometrenin altında olan ve tescil belgesinde araç sınıfı M1, M1G, N1 ve N1G olan taşıtların motor ve şanzımanı ile elektrik ve elektronik sistemleri, satış tarihinden itibaren üç ay veya beş bin kilometre işletmenin garantisi altındadır. Üretici tarafından yenilenmiş ikinci el motorlu kara taşıtı satışlarında garanti, satış tarihinden itibaren bir yıl veya yirmi bin kilometredir. İşletme, garanti kapsamına giren hususları sigorta yaptırmak suretiyle karşılayabilir.
+
+(2) Birinci fıkrada sayılan parçalarda garanti süresi veya kilometresi içinde meydana gelen arızalar azami kırk beş iş günü içinde giderilir. Bu sürenin tespitinde taşıt sahibinin arızalı taşıtı işletmeye teslim ettiği tarih veya ilgili il müdürlüğüne yazılı başvurusu üzerine il müdürlüğünce işletmeye yapılan bildirim tarihi dikkate alınır. İl müdürlüğüne yapılan başvuruya, satış sözleşmesinin bir örneği ile arızaya ilişkin belgeler eklenir. Arızanın giderilmesine ilişkin masraflar işletmeye aittir.
+
+(3) Garanti süresi veya kilometresi içinde arızalanan taşıtın işletmeye veya işletmenin belirleyeceği onarım noktasına teslim edilmesi halinde işletme tarafından, arızalı taşıtın teslim alındığına dair iki nüsha belge düzenlenerek bir nüshası taşıt sahibine teslim edilir. Bu belgede asgari olarak aşağıdaki bilgilere yer verilir:
+
+a) Taşıtı teslim edenin adı, soyadı ve imzası.
+
+b) Taşıtı teslim alanın adı, soyadı ve imzası.
+
+c) Taşıta ilişkin şikâyet ve talepler.
+
+ç) Taşıtın markası, ticari adı, cinsi, tipi ve model yılı.
+
+d) Taşıtın arıza bildirim ve işletmeye teslim tarihi.
+
+(4) Birinci fıkrada sayılan parçalarda garanti süresi içinde arıza meydana gelmesi durumunda, arıza nedeniyle taşıtın kullanılamadığı süre garanti süresine eklenir.
+
+(5) İşletmeler birinci fıkrada belirtilenlere ilave garantiler verebilir.
+
+(6) 6502 sayılı Kanunun 56 ncı maddesi kapsamında üretici veya ithalatçı garantisi devam eden taşıtlar hakkında bu madde uygulanmaz.
+
+(7) Bakanlık, garanti kapsamına giren diğer ikinci el motorlu kara taşıtı türleri ile garantiye ilişkin diğer usul ve esasları belirlemeye yetkilidir.
+
+(8) İkinci el motorlu kara taşıtı satışlarında tüketicilerin 6502 sayılı Kanunun ayıplı mal ve hizmetlere ilişkin hakları saklıdır.
+
+### MADDE 18 — Garanti kapsamına girmeyen hususlar
+
+(1) İkinci el motorlu kara taşıtının satışında aşağıdaki parça, durum, işlem ve arızalar garanti kapsamı dışındadır:
+
+a) Model yılına göre sekiz yaşın veya yüz altmış bin kilometrenin üzerindeki taşıtlar.
+
+b) Satış sırasında alıcı tarafından bilindiği işletme tarafından belgelendirilen arıza ve hasarlar.
+
+c) Ekspertiz raporunda belirtilen arıza ve hasarlar.
+
+ç) Taşıtın olağan kullanımı nedeniyle kayışlar, egzoz, amortisör, debriyaj, ön dişli takımı, fren balataları ve pabuçları, diskler, contalar gibi parçalarda meydana gelen aşınma ve yıpranmalar.
+
+d) Garanti kapsamındaki bir parçada meydana gelen arızanın doğrudan sonucu olarak hasar görmedikçe veya zayi olmadıkça; bujiler, katalitik konvertörler, hava filtresi, yağ filtresi, yakıt filtresi, cam silecek lastikleri, klima devresinin doldurulması için kullanılan maddeler, ilave edilen yağlar, soğutma sıvıları, fren sıvıları ve diğer katkı maddeleri.
+
+e) Garanti kapsamındaki bir parçada meydana gelen arızanın doğrudan sonucu olarak hasar görmedikçe veya zayi olmadıkça, koltuk aksesuarlarının temizlenmesi ve onarılması dâhil olmak üzere kaportanın ve kabinin olağan bakımı için yapılan masraflar.
+
+f) Kaporta işleri, süslemeler, paspas, lastikler, jantlar, akü, farlar, park lambaları, camın ve farların kırılması veya çatlaması.
+
+g) Parça değişimi yapılarak veya yapılmaksızın düzenli önleyici işlemler, kontroller ve ayarlamalar.
+
+ğ) İkaz lambaları sistem arızası gösterdiği halde taşıtı kullanmaya devam etmenin veya bilerek veya bilmeyerek uygun olmayan yakıtın kullanılmasının sebep olduğu arızalar.
+
+h) Hatalı kullanım, kaza, hırsızlık, hırsızlık girişimi, yangın, infilak, vandallık veya doğal afetler nedeniyle hasar gören veya zayi olan parçalar.
+
+ı) Taşıtın ihmal edilmesinin veya uygun olmayan bir şekilde kullanılmasının veya taşıtın gereği gibi çalışması için lüzumlu olan sıvıların donmasının sebep olduğu arızalar.
+
+i) Bakım işlemlerinin muayene ve bakım planına uygun olarak yapılmaması nedeniyle meydana gelen arızalar.
+
+j) Satış sonrasında taşıta yapılan herhangi bir eklenti nedeniyle oluşan hasar ve arızalar.
+
+k) Tescil belgesinde “Trafikten çekilerek tescil kaydı kapatılmıştır.” şerhi bulunan taşıtlar.
+
+(2) Kullanım hatasının tespitinde 13/6/2014 tarihli ve 29029 sayılı Resmî Gazete’de yayımlanan Garanti Belgesi Yönetmeliğinin 11 inci maddesi uygulanır.
+
+### MADDE 19 — İkinci el motorlu kara taşıtı satışına aracılık ve taşıt teslim belgesi
+
+(1) Satışa sunulmak üzere işletmeye teslim edilen ikinci el motorlu kara taşıtı için taşıt teslim belgesi düzenlenir.
+
+(2) Taşıt teslim belgesi, ikinci el motorlu kara taşıtının adına tescilli olduğu kişi ile işletme arasında birer nüshası taraflarda kalacak şekilde en az iki nüsha düzenlenir ve işletme tarafından en az beş yıl süreyle saklanır.
+
+(3) Taşıt teslim belgesinde asgari olarak aşağıdaki bilgilere yer verilir:
+
+a) Tarafların adı ve soyadı veya ticaret unvanı ve işletme adı ile kimlik ve iletişim bilgileri.
+
+b) İkinci el motorlu kara taşıtının tescil belgesi ve kilometre bilgileri ile boyalı ve değişen parça bilgileri.
+
+c) İkinci el motorlu kara taşıtının adına tescilli olduğu kişi tarafından beyan edilen taşıta ilişkin arıza ve hasar bilgileri ile güvenlik, iç donanım, dış donanım ve multimedya özellikleri gibi diğer bilgiler.
+
+ç) Aracılık hizmeti karşılığında işletmeye ödenecek ücretin tutarı veya satış bedeli üzerinden oranı.
+
+d) İkinci el motorlu kara taşıtının işletmede kalacağı süre.
+
+e) Tarafların tebligat adresleri ve imzaları.
+
+f) Taşıt üzerindeki rehin veya haciz gibi şerh bilgileri.
+
+(4) İkinci el motorlu kara taşıtında üçüncü fıkranın (d) bendinde belirtilen süre içinde oluşan arıza ve hasardan işletme sorumludur.
+
+(5) Bakanlık, taşıt teslim belgesinin şekli ve içeriği ile aracılık hizmeti karşılığında işletmeye ödenecek ücretin üst sınırını üst meslek kuruluşlarının görüşünü alarak belirlemeye yetkilidir.
+
+### MADDE 20 — Taşıt tanıtım kartı
+
+(1) Satışa sunulan ikinci el motorlu kara taşıtında, kolaylıkla görülebilir ve okunabilir şekilde taşıta ilişkin tanıtıcı güncel bilgilerin yer aldığı tanıtım kartı bulundurulur.
+
+(2) Tanıtım kartında yetki belgesi numarasına ve ikinci el motorlu kara taşıtına ilişkin aşağıdaki asgari bilgilere yer verilir:
+
+a) Markası, ticari adı, cinsi, tipi ve model yılı ile donanım ve aksesuar bilgileri.
+
+b) Şasi numarasının son 6 hanesi.
+
+c) Plaka numarası.
+
+ç) Yakıt türü.
+
+d) Kilometresi.
+
+e) Satış fiyatı.
+
+f) Boyalı ve değişen parçaları.
+
+g) Niteliği belirtilmek suretiyle hasar kaydı.
+
+ğ) Üzerinde rehin veya haciz gibi şerhlerin bulunup bulunmadığı.
+
+h) 6502 sayılı Kanunun 56 ncı maddesi kapsamında üretici veya ithalatçı garantisi devam eden taşıtlar için kalan garanti süresi ve kilometresi.
+
+## DÖRDÜNCÜ BÖLÜM — Elektronik Ortamdaki Faaliyetlere İlişkin Yükümlülükler
+
+### MADDE 21 — İşletmelerin ilanlara ilişkin yükümlülükleri
+
+(1) İşletmeler ilan verirken aşağıdaki hususlara uymakla yükümlüdür:
+
+a) Yetki belgesi numarası ve yetki belgesindeki işletme adı veya unvanı ile 20 nci maddenin ikinci fıkrasında belirtilen diğer bilgilere güncel olarak yer vermek.
+
+b) Üçüncü kişileri yanıltıcı bilgi ve belgelere yer vermemek.
+
+c) İkinci el motorlu kara taşıtının satılması, taşıt teslim belgesi süresinin veya ilan verme yetkisinin sona ermesi halinde ilan faaliyetine gecikmeksizin son vermek.
+
+### MADDE 22 — İlan platformlarının yükümlülükleri
+
+(1) Başkalarına ait motorlu kara taşıtlarının pazarlama ve satışına yönelik ilanlara elektronik ortam sağlayan platformlar aşağıdaki hususlara uymakla yükümlüdür:
+
+a) İşletmelerin üyeliğinin veya kaydının yapılmasından ve yenilenmesinden önce Bilgi Sistemi üzerinden yetki belgesi kontrolü yapmak ve yetki belgesine sahip olmayan işletmelerin üyeliğine veya kaydına izin vermemek.
+
+b) Gerçek kişinin adı, soyadı ve T.C. kimlik numarası ya da yabancı kimlik numarası ile telefon numarasını; tüzel kişinin unvanı ve telefon numarasını üyelikten veya ilanın yayımlanmasından önce doğrulamak. Her takvim yılında en az bir defa bu bilgilerin doğruluğunu kontrol etmek, güncellenmesini sağlamak ve bu bilgileri beş yıl süreyle saklamak.
+
+c) İlan veren gerçek kişilerin ad soyad bilgilerinin tam ad ve soyadı veya tam ad ve soyadın/soyadlarının baş harflerini ve varsa tescil edilmiş işletme adını, tüzel kişilerin ise tescil edilmiş unvanını ve varsa işletme adını içerecek şekilde gösterilmesini sağlamak.
+
+ç) İlana konu taşıtın ilan veren kişiye veya ilan verenin gerçek kişi olması halinde birinci ve ikinci derece kan hısımlarına veya eşine ait olduğunu ya da ilanı veren kişinin ilana konu taşıt sahibi tarafından yetkilendirildiğini ilanı yayımlamadan önce Bakanlığın elektronik sistemleri üzerinden doğrulamak.
+
+d) İlanlara ilişkin talep ve şikâyetlerin internet tabanlı iletişim yöntemlerinden en az biri ve telefon aracılığıyla iletebilmesi için müşteri hizmetleriyle iletişim imkânı sunmak. Bu talep ve şikâyetlerin etkin şekilde yönetilerek sonuçlandırılmasını sağlamak.
+
+e) Piyasa yapısını bozucu veya tüketiciyi yanıltıcı ilanları önlemeye yönelik tedbirleri almak.
+
+### MADDE 23 — İhale platformlarının yükümlülükleri
+
+(1) İhale platformları aşağıdaki hususlara uymakla yükümlüdür:
+
+a) İhalenin şeffaflığını, güvenliğini ve adil rekabet ortamında gerçekleştirilmesini sağlamak için gerekli önlemleri almak.
+
+b) İhaleyi, ihale tarihinden en az iki saat önce ihale platformunda ilan etmek ve bu ilanlarda asgari olarak aşağıdaki bilgi ve belgelere yer vermek:
+
+1) İhalenin başlangıç ve bitiş tarihi ile ihale yöntemi ve kuralları.
+
+2) İhale kapsamında satışa sunulan her bir taşıtın detaylı görseli, markası, ticari adı, cinsi, tipi, model yılı, şasi ve plaka numaraları, yakıt, şanzıman, donanım, kasa, kilometre ve renk bilgileri, taşıtın kaporta aksamındaki boyanan ve değişen parça bilgileri ile satıcının taşıt üzerinde satış ve/veya devri kısıtlayıcı herhangi bir tedbir veya kayıt bulunup bulunmadığına dair beyanı.
+
+3) Alıcının işletme olduğu durumlar hariç olmak üzere, satıcı tarafından ilan tarihinden önceki on gün içinde alınan 16 ncı madde uyarınca düzenlenmiş ekspertiz raporu.
+
+4) İhaleye konu her bir taşıt için belirlenen açılış fiyatı.
+
+5) Bakanlıkça gerekli görülen diğer bilgi ve belgeler.
+
+c) Satıcı ve alıcılarla yazılı şekilde veya elektronik ortamda ihale şartlarının açıkça yer aldığı üyelik sözleşmesi imzalamak. Her bir üye için kişiye özel üye numarası tanımlamak ve ihaleye alıcı veya satıcı olarak yalnızca üyelerin katılmasını sağlamak.
+
+ç) Gerçek kişi üyelerin adı, soyadı, T.C. kimlik numarası veya yabancı kimlik numarası; tüzel kişi üyelerin ticaret unvanı, vergi kimlik numarası, MERSİS numarası ile ihalede verilen tekliflerin zamanı ve tutarı, teklif veren katılımcılar ile diğer katılımcılara ait IP adresleri, üye numaraları ve iletişim bilgilerini ihalenin düzenlendiği tarihten itibaren beş yıl süreyle saklamak.
+
+d) İhaleye katılan toplam katılımcı sayısı ile teklif veren katılımcılar için her bir ihale özelinde oluşturulan katılımcı numarasının ihale kesinleşene kadar tüm katılımcılar tarafından görülmesini sağlamak.
+
+e) İlanlara ilişkin talep ve şikâyetlerin internet tabanlı iletişim yöntemlerinden en az biri ve telefon aracılığıyla iletebilmesi için müşteri hizmetleriyle iletişim imkânı sunmak, bu talep ve şikâyetlerin etkin şekilde yönetilerek sonuçlandırılmasını sağlamak.
+
+(2) İhaleye konu taşıtın satıcısı veya ihale platformu tarafından alıcı sıfatıyla ihaleye doğrudan veya dolaylı olarak katılım sağlanamaz ve teklif verilemez.
+
+(3) İhale platformu, ihaleye çıkan taşıtın hedeflenen en düşük satış fiyatı olan rezerv fiyat uygulamasının kullanılması halinde;
+
+a) İhale öncesi rezerv fiyatı kayıt altına alır ve ihale sırasında artmasını engeller.
+
+b) Taşıtın rezerv fiyata ulaşması halinde bu durumun kolaylıkla görülebilir veya okunabilir şekilde taşıtın satışa uygun hale geldiğini belirten bir görsele veya ibareye yer verir.
+
+(4) Belirli zaman dilimi içinde fiyat teklifi verilen ihalelerde, ihale bitiş saatinde verilen en yüksek teklif ile; rezerv fiyat uygulaması kullanılan ihalelerde, rezerv fiyatın altında verilen nihai teklifin satıcı tarafından kabul edilmesi veya ihale bitiş saatinde rezerv fiyatın üzerinde verilen en yüksek teklif ile ihale kesinleşir.
+
+(5) İhalenin kesinleşmesi, ihale platformunun kararına veya onayına bağlanamaz. Alıcının menfaatine olan veya alıcının sözleşmede belirtilen süre içinde satış bedelini ödemediği durumlar hariç olmak üzere, kesinleşen ihalede satıştan imtina edilemez.
+
+(6) İhalenin iptali durumunda, ihale platformunca gerekçeli iptal nedeni hakkında üyelere platform üzerinden bilgi verilir.
+
+(7) Bu madde, işletmeler veya motorlu kara taşıtı kiralama faaliyetinde bulunan gerçek veya tüzel kişiler arasında gerçekleştirilen ihaleler hakkında da uygulanır.
+
+### MADDE 24 — Ön değerlemeye ilişkin yükümlülükler
+
+(1) Elektronik ortamda ikinci el motorlu kara taşıtı ön değerlemesi yapan gerçek veya tüzel kişiler asgari olarak satıcının beyan ettiği taşıtın marka, ticari ad, cins, tip, kasa, yakıt, şanzıman, donanım, aksesuar, kilometre ve renk bilgileri ile taşıtın arızalı, boyalı ve değişen parça bilgilerini dikkate alarak ön değerleme yapar.
+
+(2) Ön değerleme sonucunda fiyat teklifi verilen ve fiziksel incelemesi tamamlanan taşıtlara aynı gün nihai teklif verilir. Satıcı, nihai teklif verilmeyecek durumlar hakkında ön değerleme aşamasında bilgilendirilir. Bu durumlar dışında nihai teklif verilmesi zorunludur.
+
+(3) Model yılına göre sekiz yaşın ve yüz altmış bin kilometrenin altındaki taşıtlar için ön değerleme sonucunda verilen fiyat teklifi ile nihai teklif arasındaki fark yüzde beşten fazla olamaz. Fiziksel inceleme sonucunda tespit edilen satıcı beyanına ilave arıza ve kusurların giderilmesine ilişkin bedel bu farka eklenebilir. Bakanlık bu fıkrada belirtilen oranı iki katına kadar artırmaya veya sıfıra kadar indirmeye yetkilidir.
+
+(4) Fiziksel inceleme sonucunda belirlenen ihale açılış fiyatı da nihai teklif kabul edilir.
+
+(5) Ön değerleme sonucunda alt ve üst sınırlar belirtilerek fiyat teklifi verilmesi durumunda, ikinci fıkrada belirtilen yüzde beşlik fark üst sınır üzerinden hesaplanır.
+
+(6) Ön değerleme sonucunda verilen fiyat teklifi, asgari yirmi dört saat geçerlidir.
+
+## BEŞİNCİ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 25 — Bilgi Sistemi ve entegrasyon
+
+(1) Motorlu kara taşıtı ticaretinin takip ve kontrolü amacıyla Bakanlık tarafından Bilgi Sistemi oluşturulur.
+
+(2) Yetki belgesine sahip işletmelerin güncel listesine Bilgi Sistemi üzerinden erişilir.
+
+(3) Tescilsiz motorlu kara taşıtlarının tedarik zincirinde gerçekleşen üretim, ithalat, sipariş, alış, satış, devir ve teslim gibi hareketleri Bilgi Sistemi üzerinden Bakanlıkça takip edilebilir.
+
+(4) Bakanlıkça gerekli görülen bilgi ve belgeler, belirlenen usul ve esaslara uygun şekilde motorlu kara taşıtı üretici ve distribütörleri, yetkili satıcılar, işletmeler, ekspertiz işletmeleri ve ilgili diğer kişi, kurum ve kuruluşlar tarafından Bilgi Sistemine aktarılır.
+
+(5) Bilgi Sistemi ilgili kamu kurum ve kuruluşlarının erişimine açılabilir ve ihtiyaç duyulan diğer bilgi sistemlerine entegre edilebilir.
+
+### MADDE 26 — Ödeme Sistemi
+
+(1) İşletmelerin ve diğer gerçek veya tüzel kişilerin ikinci el motorlu kara taşıtı satışlarında ödemenin bir kısmının veya tamamının nakit, havale, elektronik fon transferi veya Bakanlıkça belirlenen diğer ödeme yöntemleriyle yapılması halinde taşıt satış bedeli, Bakanlıkça yetkilendirilen kuruluş tarafından taşıt mülkiyeti ile satış bedelinin eş anlı el değiştirmesini sağlayacak şekilde oluşturulan elektronik sistem üzerinden ödenir.
+
+(2) Taşıt satış bedelinin bir kısmının veya tamamının 5411 sayılı Kanunda tanımlanan kredi kuruluşları veya 6361 sayılı Kanunda tanımlanan finansman ve tasarruf finansman şirketleri tarafından kredilendirilmesi halinde kredi tutarı haricindeki ödemeler için elektronik sistem kullanılır.
+
+(3) Elektronik sistemin kullanılmasına ilişkin masraflar satıcıya aktarılan taşıt satış bedelinden mahsup edilir.
+
+(4) Bakanlık, birinci fıkrada belirtilen elektronik sistem için gerekli altyapının oluşturulmasına ve işletilmesine ilişkin usul ve esaslar ile verilen hizmetler karşılığında alınacak ücretlerin üst sınırını Türkiye Noterler Birliğinin görüşünü alarak belirlemeye yetkilidir.
+
+### MADDE 27 — Türkiye Noterler Birliğinin ve noterlerin yükümlülükleri
+
+(1) İkinci el motorlu kara taşıtı alım satımında noterler, yetki belgesi bilgilerini Bakanlığın; ekspertiz raporu ibraz edilmesi halinde, ekspertiz işletmesinin hizmet yeterlilik belgesi bilgilerini TSE’nin elektronik sistemlerinden kontrol eder.
+
+(2) İkinci el motorlu kara taşıtı satış sözleşmesinde asgari olarak aşağıdaki bilgilere yer verilir ve bu bilgiler Bakanlığın taleplerine uygun olarak Türkiye Noterler Birliği tarafından Bilgi Sistemine aktarılır:
+
+a) Taşıtın ilk tescil tarihi, markası, ticari adı, cinsi, tipi, model yılı ile şasi ve plaka numaraları.
+
+b) Taşıt satışının yapıldığı tarih, saat ve dakika bilgileri.
+
+c) Alıcı ve satıcının adı, soyadı ve T.C. kimlik numarası ya da yabancı kimlik numarası veya ticaret unvanı ve vergi numarası ile iletişim bilgileri.
+
+ç) İşletmenin ve varsa alıcının yetki belgesi numarası veya yetki belgesinin bulunmadığı hususu.
+
+d) Ekspertiz raporunun düzenlendiği tarihte hizmet yeterlilik belgesinin geçerli olup olmadığı hususu.
+
+e) Ekspertiz raporunun tarih ve sayısı ile ekspertiz raporunda yer alan TSE hizmet yeterlilik belgesi numarası ve kilometre bilgisi.
+
+f) Ekspertiz raporu ibraz edilmemesi durumunda, bu belgenin ibraz edilmediği hususu ile satış anında taşıtın kilometresine ilişkin alıcı ve satıcı taraf beyanı.
+
+g) Vekâleten yapılan alım satımlarda, noterde alım satım işlemini gerçekleştiren kişilerin adı, soyadı, T.C. kimlik numarası veya yabancı kimlik numarası ile iletişim bilgileri.
+
+ğ) Bakanlıkça gerekli görülen diğer bilgiler.
+
+### MADDE 28 — Müşterek ilke ve kurallar
+
+(1) Motorlu kara taşıtı üreticileri, distribütörler, yetkili satıcılar, distribütörler haricinde taşıt ithal edenler, işletmeler, ekspertiz işletmeleri, ilan ve ihale platformları ile elektronik ortamda ikinci el motorlu kara taşıtı ön değerlemesi yapan işletmeler aşağıdaki hususlara uymakla yükümlüdür:
+
+a) Aldatıcı veya dürüstlük kuralına aykırı davranışlar ile haksız ve hukuka aykırı ticari uygulamalarda bulunmamak, hizmet verdiği kişilerin alım satım tercihlerini etkileyecek nitelikteki bilgileri gizlememek ve bu kişileri yasa dışı veya etik olmayan uygulamalara teşvik etmemek.
+
+b) Motorlu kara taşıtı ticaretinin geliştirilmesi, piyasa aksaklıklarının giderilmesi veya ortaya çıkmasının önlenmesi ve tüketicinin korunması gibi amaçlarla Bakanlıkça alınan tedbirlere ve verilen talimatlara uymak, Bakanlıkça talep edilen bilgi ve belgeleri talebe uygun şekilde Bakanlığa sunmak.
+
+### MADDE 29 — Toplu iş yeri
+
+(1) Bir yapı veya alan bütünlüğünde; nüfusu yüz elli binden az olan yerleşim yerlerinde en az on beş, nüfusu yüz elli bin ve üzerinde olan yerleşim yerlerinde ise en az otuz işletmenin faaliyet göstereceği toplu iş yerleri oluşturulabilir. Toplu iş yerleri oluşturulurken, bu iş yerlerinin çevreye ve trafiğe getireceği yükler ile ikamet amacıyla kullanılan yerlere uzaklığı ve ulaşım imkânları dikkate alınır.
+
+(2) Toplu iş yerleri aşağıdaki nitelikleri haiz olmalıdır:
+
+a) Yönetim odası, kadın ve erkekler için ayrı ayrı ibadet yeri, çalışanlar ve ziyaretçiler için beslenme ve dinlenme alanı ile yeterli sayıda tuvalet bulunması.
+
+b) Ortak kullanım alanlarının engelliler de dikkate alınarak tasarlanmış olması.
+
+c) En az yüz işletmenin bulunduğu toplu iş yerlerinde sağlık odası ve en az bir sağlık personeli bulunması.
+
+ç) 22/2/2018 tarihli ve 30340 sayılı Resmî Gazete’de yayımlanan Otopark Yönetmeliğinde belirtilen otopark şartlarına sahip olması.
+
+(3) Toplu iş yeri projelerinin bu maddede belirtilen fiziksel şartları haiz olup olmadığı yapı ruhsatı verilmeden önce yetkili idarece kontrol edilir ve bu şartları taşımayan iş yerlerine ruhsat verilmez.
+
+(4) Toplu iş yerlerinde, taşıt alım ve satımı ile devir işlemlerinin hızlı ve etkin şekilde yapılabilmesi amacıyla noterlik ve banka gibi birimlere yer verilebilir.
+
+### MADDE 30 — Taşıt pazarı
+
+(1) İkinci el motorlu kara taşıtı pazarları yetkili idare veya bu faaliyet konusunda iş yeri açma ve çalışma ruhsatı düzenlenen işletmeler tarafından kurulur ve işletilir.
+
+(2) İkinci el motorlu kara taşıtı pazarları aşağıdaki nitelikleri haiz olmalıdır:
+
+a) Çevreye ve trafiğe yük getirmeyen, ikamet amacıyla kullanılan yerlere uzaklığı yeterli olan ve uygun ulaşım imkânı bulunan alanlarda kurulması.
+
+b) Nüfusu on binden az olan yerleşim yerlerinde en az beş bin metrekare, on binden fazla olan yerleşim yerlerinde en az on bin metrekare büyüklüğünde olması.
+
+c) İkinci el motorlu kara taşıtı satışı için ayrılan alanların zemininin beton, asfalt veya diğer uygun malzemelerden oluşturulması ve olumsuz hava şartlarından korunmaya uygun tedbirlerin alınmış olması.
+
+ç) İhtiyacı karşılayacak şekilde hoparlör sistemi, çöp kutusu, aydınlatma sistemi, yangın söndürme araç ve gereci, güvenlik kamerası, zabıta bürosu, kadın ve erkekler için ayrı ayrı ibadet yeri, taşıt yıkama yeri, tuvalet ve dinlenme alanı bulunması.
+
+d) Ortak kullanım alanlarının engelliler de dikkate alınarak tasarlanmış olması.
+
+e) On bin metrekareden küçük olan ikinci el motorlu kara taşıtı pazarlarında en az üç bağımsız giriş ve çıkış kapısı, on bin metrekareden büyük olan ikinci el motorlu kara taşıtı pazarlarında ise en az beş bağımsız giriş ve çıkış kapısının bulunması, giriş ve çıkışların iç ve dış trafiği aksatmayacak şekilde düzenlenmesi ve yönlendirme levhalarıyla gösterilmesi.
+
+f) Ziyaretçilerin ihtiyacını karşılayacak şekilde ücretsiz otopark alanına sahip olması.
+
+### MADDE 31 — Denetim ve ceza hükümleri
+
+(1) Bakanlık, motorlu kara taşıtı ticaretinin geliştirilmesi ve tüketicinin korunması amacıyla her türlü tedbiri almaya ve bu Yönetmeliğin uygulanmasına yönelik denetim yapmaya yetkilidir. Bakanlık denetim yetkisini il müdürlükleri aracılığıyla da kullanabilir.
+
+(2) Yetkili idareler, Bakanlığın talebi üzerine, bu Yönetmelik kapsamında ön inceleme mahiyetinde denetim yapmakla görevlidir. Bu kapsamda yapılan denetimin sonuçları, denetimin sonuçlandığı tarihten itibaren on beş gün içinde il müdürlüğüne bildirilir.
+
+(3) Belediyeler, yetkilerini devrettikleri kamu kurumu niteliğindeki meslek kuruluşları veya özel hukuk tüzel kişilerince kurulan ve işletilen ikinci el motorlu kara taşıtı pazarları nezdinde denetim yapmakla görevli ve yetkilidir.
+
+(4) Bakanlık idari para cezası uygulama yetkisini il müdürlüklerine devredebilir.
+
+(5) Bu Yönetmeliğin 22 nci maddesine aykırı hareket edenler hakkında 6563 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (d) bendinde, diğer hükümlere aykırı hareket edenler hakkında 6585 sayılı Kanunun 18 inci maddesinde öngörülen idari para cezaları Bakanlıkça uygulanır.
+
+(6) Bakanlık, 23 üncü maddenin uygulanmasına yönelik denetimlerde, 6563 sayılı Kanunun 11 inci maddesinin ikinci fıkrası kapsamında bilirkişi görevlendirmeye yetkilidir.
+
+### MADDE 32 — Yürürlükten kaldırılan yönetmelik
+
+(1) 13/2/2018 tarihli ve 30331 sayılı Resmî Gazete’de yayımlanan İkinci El Motorlu Kara Taşıtlarının Ticareti Hakkında Yönetmelik yürürlükten kaldırılmıştır.
+
+(2) Diğer mevzuatta, İkinci El Motorlu Kara Taşıtlarının Ticareti Hakkında Yönetmeliğe yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+
+### GEÇİCİ MADDE 1 — Geçiş hükümleri
+
+(1) **(Mülga:RG-29/4/2026-33238)**
+
+(2) 15/8/2020 tarihinden önce Seviye 5 mesleki yeterlilik belgesi sınavına giren veya bu belgeyi alan motorlu kara taşıtları alım satım danışmanlarının belgeleri ilgili mevzuatı kapsamında iptal edilmediği sürece bu kişilerde Seviye 4 mesleki yeterlilik belgesi şartı aranmaz.
+
+### GEÇİCİ MADDE 2 — Pazarlama ve satış kısıtlaması
+
+(1) İkinci el motorlu kara taşıtı ticaretiyle iştigal edenler, motosiklet, otomobil ve arazi taşıtlarının pazarlanmasını veya satışını ilk tescil tarihinden itibaren altı ay ve altı bin kilometre geçmedikçe **(Değişik ibare:RG-27/12/2025-33120)** 1/7/2026 tarihinden önce doğrudan veya dolaylı olarak yapamaz. **(Ek cümle:RG-26/12/2024-32764)** Bakanlık, bu tarihi altı aya kadar uzatmaya yetkilidir.
+
+### GEÇİCİ MADDE 3 — İlan kısıtlaması
+
+(1) İkinci el motorlu kara taşıtlarının üretici veya distribütör tarafından tavsiye edilen güncel satış fiyatının üzerinde bir fiyattan ilan yoluyla pazarlanması bu maddenin uygulanması bakımından ikinci el motorlu kara taşıtı ticareti kabul edilir.
+
+(2) İkinci el motorlu kara taşıtlarının üretici veya distribütör tarafından tavsiye edilen güncel satış fiyatının üzerinde bir fiyattan ilan yoluyla pazarlaması **(Değişik ibare:RG-27/12/2025-33120)** 1/7/2026 tarihine kadar yapılamaz. **(Ek cümle:RG-26/12/2024-32764)** Bakanlık, bu tarihi altı aya kadar uzatmaya yetkilidir.
+
+(3) İkinci el motorlu kara taşıtı satışına yönelik ilan verilmesine aracılık eden gerçek veya tüzel kişiler, ikinci fıkraya aykırı ilan girişi yapanları ilan yayımlanmadan önce uyarmakla ve anılan fıkraya aykırı ilanlar ile ilan sahiplerine ilişkin tüm bilgileri Bakanlığın taleplerine uygun olarak Bakanlığa iletmekle yükümlüdür. Uyarma yükümlülüğü, ilan verene taşıtın üretici veya distribütör tarafından tavsiye edilen güncel satış fiyatı bilgisini ve girişi yapılmak istenen ilan fiyatının bu Yönetmeliğe aykırılık teşkil edeceği bilgisini içerir.
+
+(4) Bakanlık, ikinci fıkra uyarınca ikinci el motorlu kara taşıtlarının sınıfını, markasını, ticari adını, tipini, cinsini, model yılını ve aksesuar ve/veya donanım eklenmesi halinde, üretici veya distribütör tarafından tavsiye edilen güncel satış fiyatının üzerine eklenebilecek azami tutar ve/veya oranı belirlemeye yetkilidir.
+
+### GEÇİCİ MADDE 4 — Önceki mevzuat uyarınca düzenlenen yetki belgeleri
+
+(1) Bu Yönetmeliğin yayımı tarihinden önce düzenlenen yetki belgeleri geçerlidir.
+
+### MADDE 33 — Yürürlük
+
+(1) Bu Yönetmeliğin;
+
+a) 12 nci, 13 üncü, 14 üncü, 23 üncü ve 24 üncü maddeleri 1/1/2025 tarihinde,
+
+b) 26 ncı maddesi işletmeler için yayımı tarihinde, diğer gerçek veya tüzel kişiler bakımından yayımı tarihinden bir ay sonra,
+
+c) Diğer maddeleri yayımı tarihinde,
+
+yürürlüğe girer.
+
+### MADDE 34 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Ticaret Bakanı yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>27/8/2024</td><td>32645</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>26/12/2024</td><td>32764</td></tr>
+<tr><td>2.</td><td>27/12/2025</td><td>33120</td></tr>
+<tr><td>3.</td><td>29/4/2026</td><td>33238</td></tr>
+</table>

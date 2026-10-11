@@ -1,0 +1,157 @@
+---
+title: "ANADOLU ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ"
+identifier: "8.5.22659"
+number: "22659"
+type: regulation
+category: "Üniversite Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2016-07-14
+official_gazette_date: 2016-07-14
+official_gazette_number: "29770"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22659&MevzuatTur=8&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ANADOLU ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç ve Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç ve kapsam
+
+**(Değişik:RG-28/10/2023-32353)**
+
+(1) Bu Yönetmeliğin amacı, Anadolu Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezi (Anadolu TÖMER)’nin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine, çalışma şekline ilişkin usul ve esasları düzenlemektir.
+
+(2) Bu Yönetmelik; Anadolu Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezi (Anadolu TÖMER)’nin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Yönetmelikte geçen;
+
+a) Merkez **(Değişik ibare:RG-28/10/2023-32353)** (Anadolu TÖMER): Anadolu Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezini,
+
+b) Müdür: Merkez Müdürünü,
+
+c) Rektör: Anadolu Üniversitesi Rektörünü,
+
+ç) Sertifika: Farklı düzeylerde Türkçe öğretimi sonrasında yapılan sınava bağlı olarak verilen sertifikayı,
+
+d) **(Değişik ibare:RG-28/10/2023-32353)** Düzey belirleme sınavı: Türkçe öğrenmek isteyenlerin Türkçe düzeylerini ölçmeye dayalı olarak yapılan sınavı,
+
+e) Üniversite: Anadolu Üniversitesini,
+
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Merkezin Amacı ve Faaliyet Alanları
+
+### MADDE 4 — Merkezin amacı
+
+(1) Türkçe dil bilincini ve duyarlılığını geliştirmek, yurt içinde/yurt dışında örgün ve uzaktan eğitim yoluyla Türkçenin anadil ve yabancı dil olarak öğretimi faaliyetlerinde bulunmak, **(Değişik ibare:RG-28/10/2023-32353)** Türkçe düzey belirleme sınavı ve yeterlik sınavı yapmak, ilgili kurum/kuruluşlarla Türkçe öğretimini destekleyecek ortak projeler hazırlamak, bilimsel araştırma, uygulama ve yayın faaliyetlerinde bulunmak, sertifika programı açmak ve Türk kültürünü tanıtmaktır.
+
+### MADDE 5 — Merkezin faaliyet alanları
+
+(1) Merkezin faaliyet alanları şunlardır:
+
+a) Anadolu Üniversitesine veya diğer yükseköğretim kurumlarına Türkçe öğrenim görmek üzere gelen başta öğrenci, öğretmen ve akademisyenlere, yurt dışında yaşayan ve/veya Türkiye’ye dönen Türklere, Eskişehir ve çevresinde yaşayan yabancı uyruklulara, dünyada Türkçeyi öğrenmek isteyen tüm kesimlere örgün ve uzaktan eğitim yoluyla Türkçe öğreterek sonunda başarılı olanlara sertifika vermek.
+
+b) Yabancı dil olarak Türkçe dil düzeylerini belirlemek amacıyla **(Değişik ibare:RG-28/10/2023-32353)** düzey belirleme ve yeterlik sınavları yaparak Avrupa dil pasaportuna uygun belge vermek.
+
+c) Türkçenin anadil ve yabancı dil olarak öğretiminde ve sözlü/yazılı kullanımında karşılaşılan sorunları gidererek doğru ve etkili kullanımını sağlamak amacıyla öğrencilere, öğretmenlere, akademisyenlere yönelik olarak; örgün ve uzaktan eğitim yoluyla kurslar/yaz okulları, sertifika programları açmak, seminerler/yarışmalar düzenlemek ve başarılı olanları ödüllendirmek.
+
+ç) Yurt içinde/yurt dışında Türkçenin anadil ve yabancı dil olarak öğretimini gerçekleştiren eğitimcilere; örgün ve uzaktan eğitim yoluyla kurslar/yaz okulları, sertifika programları açmak ve seminerler vermek.
+
+d) Merkezin amaçları doğrultusunda yurt içindeki/yurt dışındaki ilgili kurum/kuruluşlarla ortak araştırma, uygulama ve yayın faaliyetlerinde bulunmak.
+
+e) Türkçe öğretimi programı oluşturulması ve ölçme-değerlendirme standartlarının geliştirilmesine katkı sağlamak, projeler üretmek, pilot uygulamalar gerçekleştirmek, veri bankası ve dil laboratuvarları oluşturmak, yapılacak çalışmaları kitap, dergi, broşür, **(Değişik ibare:RG-28/10/2023-32353)** internet ve benzeri yayın araçlarıyla paylaşmak.
+
+f) Kurum/kuruluşlara faaliyet alanlarına ilişkin konularda danışmanlık hizmeti vermek, ihtiyaçlar doğrultusunda hizmet içi eğitim sağlamak.
+
+## ÜÇÜNCÜ BÖLÜM — Merkezin Yönetim Organları ve Görevleri
+
+### MADDE 6 — Merkezin yönetim organları
+
+(1) Merkezin yönetim organları şunlardır:
+
+a) **(Değişik:RG-28/10/2023-32353)** Müdür.
+
+b) Yönetim Kurulu.
+
+### MADDE 7 — Müdür ve müdür yardımcıları (Değişik başlık:RG-28/10/2023-32353)
+
+(1) **(Değişik:RG-24/6/2017- 30106)** Müdür, Üniversite öğretim elemanları arasından üç yıl süreyle Rektör tarafından görevlendirilir. Müdürün altı aydan fazla süreyle görevi başında bulunmaması durumunda görevi kendiliğinden sona erer. Süresi dolmadan boşalan Müdürlük için Rektör tarafından aynı usulle yeniden görevlendirme yapılır.
+
+(2) **(Değişik:RG-28/10/2023-32353)** Müdürün önerisiyle Üniversitede görevli öğretim elemanları arasından Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan en fazla iki kişi, Rektör tarafından üç yıl süreyle müdür yardımcısı olarak görevlendirilir. Süresi dolmadan boşalan müdür yardımcılığı için Müdürün önerisiyle Rektör tarafından aynı usulle yeniden görevlendirme yapılır. Müdür yardımcıları, Müdürün verdiği görevleri yerine getirir ve Müdürün görevi başında bulunmadığı durumlarda müdür yardımcılarından biri Müdüre vekâlet eder. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması durumunda müdür yardımcısının da görevi sona erer.
+
+### MADDE 8 — Müdürün görev ve yetkileri
+
+(1) Müdürün görev ve yetkileri şunlardır:
+
+a) Merkezi ulusal/uluslararası ölçekte temsil etmek, benzer faaliyetler gösteren kurum/kuruluşlarla iletişim kurmak, faaliyet alanları kapsamında yerel ve küresel ölçekteki gelişmeleri takip etmek.
+
+b) Merkezin faaliyet alanlarına yönelik araştırmalar yapmak ve Merkezin gelişimine yönelik Yönetim Kuruluna öneriler sunmak.
+
+c) Merkez personelinin çalışma programını belirlemek, iş bölümünü sağlamak ve Merkez personelini denetlemek.
+
+ç) Yönetim Kuruluna başkanlık etmek, Yönetim Kurulunu toplantıya davet etmek ve toplantının gündemini belirlemek.
+
+d) Yönetim Kurulunun aldığı kararları uygulamak.
+
+e) Merkezin diğer görev ve sorumluluklarını yerine getirmek.
+
+f) Merkezin çalışmalarıyla ilgili yıllık faaliyet raporu ile bir sonraki yıla ait çalışma programını her yıl ocak ayı sonuna kadar hazırlamak ve Yönetim Kurulunun görüşünü alarak Rektörün onayına sunmak.
+
+### MADDE 9 — Yönetim Kurulu
+
+(1) **(Değişik:RG-28/10/2023-32353)** Yönetim Kurulu, Üniversitede görevli Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan öğretim elemanları arasından Müdürün önerisiyle Rektörün görevlendireceği üç üye, Müdür ve Müdürün görevlendirdiği bir müdür yardımcısından oluşur.
+
+(2) Üyelerin görev süresi üç yıldır. Süresi dolmadan boşalan üyelik için aynı usulle kalan süre için başka bir öğretim elemanı görevlendirilir.
+
+(3) Yönetim Kurulu, Müdürün çağrısı üzerine ayda en az bir defa salt çoğunlukla toplanır ve kararlar üye tam sayısının salt çoğunluğuyla alınır.
+
+### MADDE 10 — Yönetim Kurulunun görevleri
+
+(1) Yönetim Kurulunun görevleri şunlardır:
+
+a) **(Değişik:RG-28/10/2023-32353)** Merkezin eğitim-öğretim faaliyetleri ve idari çalışmalarını incelemek ve karara bağlamak.
+
+b) Müdürün her yılın sonunda hazırlayacağı faaliyet raporunu onaylamak ve bir sonraki yıla ait çalışma programını karara bağlamak.
+
+c) **(Değişik:RG-28/10/2023-32353)** Merkezin bilimsel araştırma ve yayın faaliyetleri ile ilgili konularda kararlar almak.
+
+ç) Müdür tarafından sunulan önerileri karara bağlamak.
+
+d) **(Ek:RG-28/10/2023-32353)** Merkezin faaliyetleri ile ilgili geçici çalışma grupları, eğitim koordinatörlükleri ve birimlerin kurulması konusunda Rektöre teklifte bulunmak ve bunların görevlerini düzenlemek.
+
+e) **(Ek:RG-28/10/2023-32353)** Program/Kurs ve sınav ücretlerinin belirlenmesiyle ilgili konularda kararlar almak ve Üniversite Yönetim Kuruluna sunmak.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 11 — Personel ihtiyacı
+
+(1) Merkezin akademik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektörün görevlendireceği personel tarafından karşılanır.
+
+### MADDE 12 — Mali konular
+
+(1) Merkezin mali konulardaki iş ve işlemlerinde ilgili mevzuat hükümleri uygulanır.
+
+### MADDE 13 — Hüküm bulunmayan hâller
+
+(1) Bu Yönetmelikte hüküm bulunmayan hâllerde ilgili diğer mevzuat hükümleri uygulanır.
+
+### MADDE 14 — Yürürlük
+
+(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### MADDE 15 — Yürütme
+
+(1) Bu Yönetmelik hükümlerini Anadolu Üniversitesi Rektörü yürütür.
