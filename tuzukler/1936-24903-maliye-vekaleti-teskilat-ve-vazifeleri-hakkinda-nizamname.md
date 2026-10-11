@@ -312,7 +312,7 @@ Nakit İşleri Umum Müdürlüğü; umum müdürün idaresi altında 1) muamelat
 
 Düyunu Umumiye, (Nakit, Esham ve Tahvilat Borsası ve Osmanlı Bankası) Komiserlikleri ve bankalar murakıpları bu umum müdürlüğe bağlıdır.
 
-**Madde 34:**
+### Madde 34
 
 a) Hazine muamelelerini ifa ve vilayet ve müesseselerin nakit ihtiyacını takip ve temin etmek;
 
