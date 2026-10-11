@@ -34,36 +34,36 @@ Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 1459
 
 ## Madde 1
 
-***(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
+**(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
 
 ## Madde 2
 
-***(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
+**(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
 
 ## Madde 3
 
-***(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
+**(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
 
 ## Madde 4
 
-***(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
+**(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
 
 ## Madde 5
 
-***(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
+**(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
 
 ## Madde 6
 
-***(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
+**(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
 
 ## Madde 7
 
-***(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
+**(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
 
 ## Madde 8
 
-***(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
+**(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
 
 ## Madde 9
 
-***(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
+**(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)***
