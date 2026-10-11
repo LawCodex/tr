@@ -1,0 +1,71 @@
+---
+title: "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2009/16)"
+identifier: "9.5.13134"
+number: "13134"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2009-06-18
+official_gazette_date: 2009-06-18
+official_gazette_number: "27262"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13134&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2009/16)
+
+## BİRİNCİ KISIM — Genel Bilgi ve İşlemler
+
+### MADDE 1 — Başvuru ve soruşturma
+
+(1) 4412 sayılı Kanunla değişik 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarih ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde yerli üreticiler Telasis Tekstil Ürünleri Sanayi ve Ticaret A.Ş., Hassan Tekstil Ürünleri Sanayi ve Ticaret A.Ş., Vateks Tekstil Sanayi ve Ticaret A.Ş., Telateks Tekstil Ürünleri Sanayi ve Ticaret A.Ş., Bezci Tekstil Sanayi A.Ş. tarafından gerçekleştirilen ve Cavit Çiçek Tekstil Sanayi ve Ticaret Ltd.Şti. tarafından desteklenen başvuru üzerine İran, İtalya, İsrail, Suudi Arabistan ve Çin Halk Cumhuriyeti menşeli “muhtelif mensucat”ın ithalatına ilişkin olarak, 2/8/2008 tarihli ve 26955 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren İthalatta Haksız Rekabetin Önlenmesine İlişkin 2008/26 sayılı Tebliğ ile bir damping soruşturması başlatılmıştır.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Tebliğ, 4412 sayılı Kanunla değişik 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun (Kanun), 20/10/1999 tarihli ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar (Karar) ve 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde başlatılan damping soruşturması çerçevesinde alınan kararı içermektedir.
+
+### MADDE 3 — Bilgilerin toplanması ve değerlendirilmesi
+
+(1) Soruşturma açılışının akabinde Müsteşarlık tarafından ticaret unvanları ve adresleri bilinen soruşturmaya konu ülkelerde yerleşik üretici/ihracatçılara soru formları gönderilmiştir. Diğer taraftan, ticaret unvanları ve adresleri bilinmeyen üreticilere soru formlarının iletilebilmesini teminen soru formunun, başvurunun gizli olmayan özetinin ve 2008/26 sayılı Tebliğ’in örnekleri soruşturma açılışına ilişkin bildirimlerle birlikte ilgili ülkelerin Ankara Büyükelçiliklerine iletilmiştir.
+
+(2) Taraflara soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmış olup, tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+
+(3) Başvuru sahibi yerli üreticiler, soruşturmanın başlangıcından itibaren Müsteşarlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+
+(4) Öte yandan, soruşturmaya konu maddelerin Müsteşarlıkça tespit edilen ithalatçılarına da soru formları gönderilerek işbirliğine davet edilmiştir.
+
+## İKİNCİ KISIM — Başvurunun Temsil Niteliği
+
+### MADDE 4 — Başvurunun temsil niteliğine ilişkin iddialar
+
+(1) İlgili taraflardan gelen yanıtlar incelendiğinde başvuru sahibi yerli üreticiler tarafından gerçekleştirilen üretim miktarının Türkiye toplam benzer mal üretiminin %25’ini oluşturmadığı öne sürülerek destek nispetinin tekrar gözden geçirilmesinin talep edildiği görülmüştür. Bahse konu iddiaların doğruluğu araştırıldığında, başvuru sahibi yerli üreticilerin de üyesi olduğu Konfeksiyon Yan Sanayicileri Derneği tarafından, başvuru aşamasında sağlanan verilerin toplam Türkiye üretimini tam olarak yansıtmadığı anlaşılmıştır. Bu nedenle, benzer ürünü ürettikleri iddia edilen ve başvuruda adı geçmeyen üreticiler nezdinde anket çalışması yapılarak yıllık üretim miktarlarına ilişkin bilgi toplanmıştır.
+
+(2) Gelen yanıtlar çerçevesinde elde edilen yeni bulgular ışığında, başvuru sahibi yerli üreticiler tarafından gerçekleştirilen benzer ürün üretiminin Türkiye toplam benzer mal üretiminin %25’ini oluşturmadığı tespit edilmiştir.
+
+(3) Söz konusu tespite ilişkin değerlendirmeler, başvuru sahibi yerli üreticiler ile soruşturma kapsamında işbirliğine gelen ithalatçı ve ihracatçı firmalara bildirilmiş, konu hakkında olası görüşlerin Müsteşarlığımıza iletilmesi talep edilmiştir. Bununla beraber, destek nispetine ilişkin yukarıda açıklanan tespiti değiştirecek herhangi bir verinin sunulmadığı, bu konuda herhangi bir itirazın da dile getirilmediği görülmüştür.
+
+### MADDE 5 — Değerlendirme
+
+(1) İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik’in 20 nci maddesi uyarınca bir damping soruşturması açılabilmesi için diğer şartlar yanında, şikayetin yerli üretim dalı tarafından veya üretim dalı adına yapıldığının tespit edilmesi gerekmektedir. Adı geçen madde hükümlerine göre bir şikayetin üretim dalı tarafından veya üretim dalı adına yapılmış sayılabilmesi için ise şikayeti destekleyen üreticilerin toplam benzer mal üretiminin, şikayeti destekleyen üreticiler ile şikayete karşı çıkan üreticilerin toplam benzer mal üretiminin %50’sinden fazla olması ve toplam Türkiye benzer mal üretiminin %25’inden az olmaması gerekmektedir.
+
+(2) Yönetmeliğin ilgili hükmü çerçevesinde, başvuruyu destekleyen yerli üreticilerin toplam benzer mal üretiminin, toplam Türkiye benzer mal üretiminin %25’inden az olduğu tespit edildiğinden şikayet sahibi üreticilerce gerçekleştirilen üretim miktarının ilgili mevzuat hükümlerine uygun olarak bir damping soruşturması açılmasını mümkün kılacak destek nispetini sağlamadığı anlaşılmıştır.
+
+## ÜÇÜNCÜ KISIM — Sonuç
+
+Karar
+
+### MADDE 6
+
+(1) Yukarıdaki tespit ve değerlendirmeler ışığında, başvuru sahibi üreticilerce gerçekleştirilen üretim miktarının ilgili mevzuat hükümlerine uygun olarak bir damping soruşturması açılmasını mümkün kılacak destek nispetini sağlamadığı anlaşıldığından İthalatta Haksız Rekabeti Değerlendirme Kurulu’nun kararı ve Bakan’ın onayı ile 2008/26 sayılı Tebliğ ile başlatılan damping soruşturmasının esasa ilişkin bir değerlendirme yapılmaksızın önlemsiz olarak kapatılmasına karar verilmiştir.
+
+### MADDE 7 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+### MADDE 8 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan yürütür.

@@ -1,0 +1,67 @@
+---
+title: "MİLLÎ EMLÂK GENEL TEBLİĞİ (SIRA NO: 315)"
+identifier: "9.5.11600"
+number: "11600"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2007-08-29
+official_gazette_date: 2007-08-29
+official_gazette_number: "26628"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11600&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# MİLLÎ EMLÂK GENEL TEBLİĞİ (SIRA NO: 315)
+
+## MADDE 1 — Kapsam
+
+(1) Bu Genel Tebliğ, Maliye Bakanlığı merkez ve taşra birimlerince yürütülen tahsis işlemlerine ilişkin açıklamaları içermektedir.
+
+## MADDE 2 — Dayanak
+
+(1) Bu Genel Tebliğ, 10/10/2006 tarihli ve 26315 sayılı Resmî Gazete’de yayımlanan Kamu İdarelerine Ait Taşınmazların Tahsis ve Devri Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
+
+(2) Hazinenin özel mülkiyetindeki taşınmazlar ile Devletin hüküm ve tasarrufu altındaki yerlerin tahsis işlemleri, söz konusu yönetmelik hükümlerine uygun olarak yürütülür.
+
+## MADDE 3 — İlköğretim Kurumlarına Tahsis Edilen Yerler
+
+(1) 5/1/1961 tarihli ve 222 sayılı İlköğretim ve Eğitim Kanununun 65’inci maddesine göre; ilköğretim kurumlarınca tahsis, satın alma ve kamulaştırma yoluyla edinilen taşınmazlardan, köylerde olanlar köy tüzel kişiliğine, belediye sınırları içinde olanlar il özel idaresi adına tescil edilir.
+
+(2) 222 sayılı Kanuna, 12/10/1983 tarihli ve 2917 sayılı Kanunla eklenen geçici 7’nci maddeye göre; bu Kanunun yürürlüğe girdiği tarihte Hazinenin mülkiyetinde bulunan ve ilköğretim kurumlarına tahsis edilen taşınmazlar, intifa hakkı Millî Eğitim Bakanlığına ait olmak üzere, bulundukları yere göre bedelsiz olarak köy tüzel kişiliği veya il özel idaresi adına tescil edilir.
+
+(3) Bu hükümler nedeniyle; ilköğretim kurumlarına tahsis edilip de Hazine adına tescilli olan taşınmazlar ile tahsis edilecek olanlar ve ilköğretim kurumları için satın alma ve kamulaştırma yoluyla edinilen taşınmazlar, ilgisine göre köy tüzel kişiliği veya il özel idaresi adına tescil edilir.
+
+(4) 222 sayılı Kanunun geçici 1’inci maddesi ve aynı Kanuna 2917 sayılı Kanunla eklenen geçici 7’nci maddesine göre, ilköğretim kurumlarına tahsis edilen ve köy tüzel kişiliği veya il özel idaresi adına tescil edilen taşınmazlar, Millî Eğitim Bakanlığının izni olmadan satılamaz ve başka hizmetlere tahsis edilemez. Tapu ve Kadastro Genel Müdürlüğünün 9/6/1962 tarihli ve 1367 sayılı Genelgesi hükümleri uyarınca, söz konusu taşınmaz malların tapu kayıtlarına "Millî Eğitim Bakanlığının muvafakati alınmadıkça satılamaz" şerhinin konulması gerekmektedir.
+
+(5) Köyler, belediye statüsünü kazandıklarında köy tüzel kişiliğine ait taşınmazlar, tapuda belediye adına devir ve tescil olmaktadır. Ancak, ilköğretim kurumlarına tahsis ve devir edilmiş taşınmazlardan köy tüzel kişiliğine ait olanların, belediye statüsünü kazanan yerlerde il özel idaresi adına tescil edilmesi gerekmektedir. Belediye tüzel kişiliğinin köy tüzel kişiliğine dönüştürülmesi durumunda ise okul olarak tahsisli taşınmazlar köy tüzel kişiliği adına tescil edilir. Yapılan araştırmalarda bu hükme uyulmadığının tespiti halinde, belediye adına tescil edilmiş yerlerin idari yolla veya hükmen il özel idaresi adına tescilinin sağlanması gerekmektedir.
+
+## MADDE 4 — Hazine Dışındaki İdarelerden Genel Bütçeli İdarelere Tahsis
+
+(1) Genel bütçe kapsamındaki kamu idarelerinin hizmetleri için gerekli olup, mülkiyeti Hazine dışındaki idarelere ait olan taşınmazların tahsis talepleri, ilgili idarelerce doğrudan mal sahibi idareye yapılacak ve bu taşınmazların tahsis işlemleri kendileri tarafından gerçekleştirilecektir.
+
+(2) Maliye Bakanlığı taşra birimleri için gerekli olup, mülkiyeti Hazine dışındaki kamu idarelerine ait taşınmazlarla ilgili tahsis işlemleri ise, malmüdürlükleri, defterdarlıklar ve Gelir İdaresi Başkanlığı taşra birimleri tarafından yürütülecektir. Gelir İdaresi Başkanlığı taşra birimi olmayan yerlerde ise bu işlemler, defterdarlıklar ve malmüdürlüklerince yürütülecektir.
+
+## MADDE 5 — Tapu Kayıtlarındaki İntifa ve Tahsis Şerhleri
+
+(1) Tahsisi yapılan taşınmazın tapu kaydına tahsis edildiğine dair şerh düşülmesine ilişkin talepler yerine getirilmez. Daha önceki uygulamalar nedeniyle tapu kayıtlarında mevcut olan şerhlerin ise, Tapu ve Kadastro Genel Müdürlüğünün 16/9/1955 tarihli ve 1250 sayılı Genelgesi doğrultusunda kaldırılması istenilecektir.
+
+## MADDE 6 — İdarelere Görüş Verme
+
+(1) Kamu İdarelerine Ait Taşınmazların Tahsis ve Devri Hakkında Yönetmeliğin 27’nci maddesine göre; bu Yönetmeliğin uygulanması ile ilgili olarak ortaya çıkacak tereddütlerde, Maliye Bakanlığının görüşü alınır. Bu hüküm uyarınca illerde defterdarlıklar, ilçelerde malmüdürlükleri uygulama hakkında görüş vermeye yetkilidirler. Tereddüt hâlinde, malmüdürlükleri tarafından defterdarlıklardan, defterdarlıklar tarafından da Bakanlıktan görüş istenecektir.
+
+## MADDE 7 — Yürürlükten Kaldırılan Hükümler
+
+(1) Aşağıdaki tebliğler yürürlükten kaldırılmıştır:
+
+a) 4/7/1961 tarihli ve 863 sayılı Millî Emlâk Genel Tebliği.
+
+b) 18/9/1962 tarihli ve 876 sayılı Millî Emlâk Genel Tebliği.
+
+c) 27/6/2002 tarihli ve 261 sayılı Millî Emlâk Genel Tebliği.
+
+Tebliğ olunur.

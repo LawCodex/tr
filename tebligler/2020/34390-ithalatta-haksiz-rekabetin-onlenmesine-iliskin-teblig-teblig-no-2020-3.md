@@ -1,0 +1,155 @@
+---
+title: "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2020/3)"
+identifier: "9.5.34390"
+number: "34390"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2020-03-26
+official_gazette_date: 2020-03-26
+official_gazette_number: "31080"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34390&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2020/3)
+
+## MADDE 1 — Amaç ve kapsam
+
+(1) Bu Tebliğin amacı, yerli üretici Afs Bıçak ve Kalıp San. Dış Tic. Ltd. Şti. tarafından yapılan başvuruya istinaden Çin Halk Cumhuriyeti menşeli 8208.30.00.00.00 gümrük tarife istatistik pozisyonu altında kayıtlı ürünün “yalnız 8509.40 gümrük tarife pozisyonlu, gıda maddelerini öğütücülere, karıştırıcılara ve meyve veya sebze preslerine mahsus bıçak ve kesici ağızlar” ürününe yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin olarak nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
+
+## MADDE 2 — Dayanak
+
+(1) Bu Tebliğ, 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
+
+## MADDE 3 — Tanımlar
+
+(1) Bu Tebliğde geçen;
+
+a) Bakanlık: Ticaret Bakanlığını,
+
+b) ÇHC: Çin Halk Cumhuriyeti’ni,
+
+c) Genel Müdürlük: Bakanlık İthalat Genel Müdürlüğünü,
+
+ç) GTİP: Gümrük tarife istatistik pozisyonunu,
+
+d) KEP: Kayıtlı elektronik posta adresini,
+
+e) NGGS: Nihai gözden geçirme soruşturmasını,
+
+f) TGTC: İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelini,
+
+g) Yönetmelik: 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliği,
+
+ifade eder.
+
+## MADDE 4 — Soruşturma konusu ürün
+
+(1) Soruşturma konusu ürün, 8208.30.00.00.00 GTİP altında kayıtlı “yalnız 8509.40 gümrük tarife pozisyonlu, gıda maddelerini öğütücülere, karıştırıcılara ve meyve veya sebze preslerine mahsus bıçak ve kesici ağızlar”dır.
+
+(2) Bahse konu GTİP, yalnızca bilgi amaçlı verilmiş olup bağlayıcı mahiyette değildir.
+
+(3) Ürünün TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
+
+## MADDE 5 — Başvurunun temsil niteliği
+
+(1) Başvuru aşamasında sunulan delillerden, Yönetmeliğin 20 nci maddesi uyarınca başvuru yeterliliğine sahip Afs Bıçak ve Kalıp San. Dış Tic. Ltd. Şti. firmasının Yönetmeliğin 18 inci maddesi çerçevesinde yerli üretim dalını temsil niteliğini haiz olduğu anlaşılmıştır. Bu kapsamda, adı geçen firma bu Tebliğin ilgili bölümlerinde “yerli üretim dalı” olarak anılacaktır.
+
+## MADDE 6 — Mevcut önlem
+
+(1) 18/6/2009 tarihli ve 27262 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2009/17) ile ÇHC menşeli 8208.30.00.00.00 GTİP altında kayıtlı “yalnız 8509.40 gümrük tarife pozisyonlu gıda maddelerini öğütücüler ve karıştırıcılarda kullanılan kesici, doğrayıcı, öğütücü veya karıştırıcı uçları”nın ithalatında 20,85 ABD Doları/kg olarak dampinge karşı önlem yürürlüğe konulmuştur.
+
+(2) 23/5/2015 tarihli 29364 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/12) ile ÇHC menşeli 8208.30.00.00.00 GTİP altında kayıtlı “yalnız 8509.40 gümrük tarife pozisyonlu gıda maddelerini öğütücüler ve karıştırıcılarda kullanılan kesici, doğrayıcı, öğütücü veya karıştırıcı uçları”nın ithalatında 20,85 ABD Doları/kg olarak dampinge karşı kesin önlem devam ettirilmiştir.
+
+(3) 24/5/2017 tarihli ve 30075 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/12)’de Değişiklik Yapılmasına Dair Tebliğ ile 2015/12 sayılı Tebliğde belirtilen soruşturma konusu 8208.30.00.00.00 GTİP altında kayıtlı ürünün ismi “yalnız 8509.40 gümrük tarife pozisyonlu, gıda maddelerini öğütücülere, karıştırıcılara ve meyve veya sebze preslerine mahsus bıçak ve kesici ağızlar” olarak değiştirilmiştir.
+
+## MADDE 7 — Gerekçe
+
+(1) Yönetmeliğin 35 inci maddesinin ikinci fıkrası hükmünce 28/8/2019 tarihli ve 30872 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/27) vasıtasıyla mevcut önlemin yürürlükten kalkacağı ve ilgili ürünün yerli üreticilerinin mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile NGGS açılması talebinde bulunabilecekleri duyurulmuştur.
+
+(2) Mezkûr ilanı müteakip başvuru sahibi firma tarafından ÇHC menşeli soruşturma konusu ürüne yönelik olarak iletilen başvurunun incelenmesi neticesinde, başvuruda uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir NGGS açılmasını haklı kılacak bilgi, belge ve delillerin mevcut olduğu anlaşılmıştır.
+
+## MADDE 8 — Karar ve işlemler
+
+(1) Yapılan inceleme sonucunda; NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulunun kararı ile ÇHC menşeli 8208.30.00.00.00 GTİP’i altında kayıtlı “yalnız 8509.40 gümrük tarife pozisyonlu, gıda maddelerini öğütücülere, karıştırıcılara ve meyve veya sebze preslerine mahsus bıçak ve kesici ağızlar” ürününe yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
+
+## MADDE 9 — Piyasa ekonomisi değerlendirmesi
+
+(1) ÇHC’de yerleşik soruşturmaya tabi üretici veya üreticilerin soruşturma konusu ürünün üretiminde ve satışında Yönetmeliğin Ek 1 inci maddesindeki ölçütler çerçevesinde piyasa ekonomisi koşullarının geçerli olduğunu 12 nci maddede belirtilen süreler içinde yeterli deliller ile ispat etmesi durumunda bu üretici veya üreticiler için normal değerin tespitinde Yönetmeliğin 5 inci maddesi, aksi takdirde Yönetmeliğin 7 nci maddesi hükümleri uygulanır. Yönetmeliğin 7 nci maddesi hükümlerinin tatbiki halinde adı geçen ülke için piyasa ekonomisi uygulayan emsal ülke olarak Türkiye’nin seçilmesi öngörülür.
+
+## MADDE 10 — İlgili taraflara soruşturma açılışının bildirilmesi
+
+(1) Yönetmeliğin 23 üncü maddesi uyarınca, soruşturma konusu ürünün ihracatçısı, yabancı üreticisi, ithalatçısı, üye çoğunluğu bunlardan oluşan meslek kuruluşları, ihracatçı ülke hükümeti, benzer malın Türkiye’deki üreticisi, üye çoğunluğu benzer malın Türkiye’deki üreticilerinden oluşan meslek kuruluşları ilgili taraflar olarak kabul edilir. Ancak, 12 nci maddede belirtilen süreler içinde soru formlarını cevaplamak veya görüşlerini sunmak suretiyle kendilerini yetkili mercie bildirenler soruşturmada ilgili taraf olarak dikkate alınır.
+
+(2) Soruşturma açılmasını müteakip, soruşturma konusu ülkelerde yerleşik bilinen üretici/ihracatçılara, soruşturmaya konu ülkelerin Ankara’daki Büyükelçiliklerine ve Bakanlıkça tespit edilen soruşturmaya konu ürünün bilinen ithalatçılarına soruşturmanın açılışına ilişkin bildirimde bulunulur.
+
+(3) Bildirimde, soruşturma açılış Tebliği, başvurunun gizli olmayan özeti ve soru formlarına erişim hususunda bilgiye yer verilir.
+
+(4) Bildirim gönderilemeyen veya kendilerine bildirim ulaşmayan diğer ilgili taraflar, soruşturma ile ilgili bilgilere Bakanlığın “https://www.ticaret.gov.tr/ithalat” uzantılı internet sitesinden sırasıyla “Ticaret Politikası Savunma Araçları”, “Damping ve Sübvansiyon”, “Soruşturmalar” sekmelerini takip ederek erişebilir.
+
+## MADDE 11 — Yetkili merci, ilgili tarafların görüş ve cevaplarını sunmaları
+
+(1) Soruşturma, aşağıda iletişim bilgileri yer alan Genel Müdürlük tarafından yürütülür.
+
+T.C. Ticaret Bakanlığı
+
+İthalat Genel Müdürlüğü
+
+Damping ve Sübvansiyon Dairesi
+
+Adres: Söğütözü Mah. 2176. Sok. No:63 Çankaya/ANKARA
+
+E-posta: damping@ticaret.gov.tr
+
+Tel: +90 312 204 75 00
+
+www.ticaret.gov.tr
+
+(2) Soruşturmada “Türkiye’de yerleşik firma, kurum ve kuruluşlar”, soru formlarına cevapları ile resmi görüşlerini kendilerine ait KEP adreslerinden Bakanlığın aşağıda yer alan KEP adresine gönderir.
+
+KEP Adresi: ekonomi@hs01.kep.tr
+
+(3) Soruşturmada “yurt dışında yerleşik firma, kurum ve kuruluşlar”, soru formlarına cevapları ile resmi görüşlerini, fiziki ve elektronik (CD/USB ile) ortamda Bakanlığın posta adresine gönderir.
+
+(4) Soruşturmaya ilişkin yazılı ve sözlü iletişim Türkçe yapılır. Soru formuna yanıtlar hariç olmak üzere, Türkçe dışında bir dilde sunulan hiçbir bilgi, belge, görüş ve talep dikkate alınmaz.
+
+(5) İlgili taraflarca soru formuna verilen cevaplar, soruşturmayla ilgili sunulan diğer bilgi, belge, görüş ve destekleyici deliller aksi belirtilmedikçe yazılı olarak sunulur. Yazılı sunumlarda ilgili tarafların isim ve unvanı, adres bilgileri, elektronik posta adresi, telefon, faks numaraları belirtilir. “Türkiye’de yerleşik firma, kurum ve kuruluşlardan ilgili taraf olmak isteyenler” tarafından yazılı sunumlarda kendilerine ait KEP adresleri de belirtilir.
+
+(6) İlgili taraflar, soru formunda istenilen bilgiler haricinde soruşturmayla ilgili olduğu düşünülen diğer bilgi, belge ve görüşlerini, destekleyici deliller ile birlikte Genel Müdürlüğe yazılı olarak 12 nci maddenin ikinci fıkrasında belirtilen süre içerisinde sunabilir.
+
+(7) Soruşturma süresince Yönetmeliğin 22 nci maddesinin ikinci fıkrası çerçevesinde gizlilik kaydıyla verilen her türlü bilgi, belge ve görüşün gizli olmayan bir özeti sunulur. Gizli olmayan özet, esas bilginin makul ölçüde anlaşılmasına olanak sağlayacak ayrıntıda olur. İlgili taraflar, istisnai hallerde bu bilgilerin özetlenemeyecek nitelikte olduklarını belirtebilir. Bu gibi istisnai durumlarda, bilgilerin özetlenemeyecek nitelikte olmasının nedenlerinin belirtilmesi gerekir.
+
+## MADDE 12 — Süreler
+
+(1) 10 uncu maddenin ikinci fıkrasında belirtilen bildirimin gönderildiği bütün ilgili taraflar için soru formunu cevaplandırma süresi, soruşturmanın açılışına ilişkin bildirimin gönderildiği tarihten itibaren posta süresi dâhil 37 gündür.
+
+(2) 10 uncu maddenin dördüncü fıkrasında yer alan bildirimin gönderilemediği ilgili taraflar soru formuna ilişkin cevaplarını, soru formunda istenilen bilgiler haricinde soruşturmayla ilgili olduğu düşünülen diğer bilgi, belge ve görüşlerini bu Tebliğin yayımı tarihinden itibaren başlayacak 37 günlük süre içerisinde sunabilir.
+
+(3) Soruşturmanın sonucundan etkilenebileceklerini iddia eden 10 uncu maddenin birinci fıkrası dışında kalan diğer ilgili taraflar, soruşturma ile ilgili görüşlerini bu Tebliğin yayımı tarihinden itibaren soruşturmanın akışını etkilemeyecek şekilde soruşturma süreci içerisinde yazılı olarak sunabilir.
+
+## MADDE 13 — İşbirliğine gelinmemesi
+
+(1) Yönetmeliğin 26 ncı maddesi hükmü çerçevesinde, ilgili taraflardan birinin verilen süreler dâhilinde ve istenilen biçimde gerekli bilgi ve belgeleri sağlamaması ya da bu bilgi ve belgelere erişimi reddetmesi veya soruşturmayı engellediğinin anlaşılması veya yanlış ya da yanıltıcı bilgi vermesi hallerinde söz konusu taraf işbirliğine gelmemiş sayılır. Bu gibi hallerde soruşturma kapsamındaki geçici veya nihai belirlemeler, olumlu ya da olumsuz şekilde, mevcut verilere göre yapılır.
+
+(2) İlgili tarafların işbirliğine gelmemesi veya kısmen işbirliğine gelmesi halinde bahse konu taraf için soruşturmanın sonucu işbirliğine gelinmesine nazaran daha az avantajlı olabilir.
+
+## MADDE 14 — Meri önlemin uygulanması
+
+(1) Yönetmeliğin 35 inci maddesinin dördüncü fıkrası uyarınca meri önlem soruşturma sonuçlanıncaya kadar yürürlükte kalmaya devam eder.
+
+## MADDE 15 — Soruşturmanın başlangıç tarihi
+
+(1) Soruşturma, bu Tebliğin yayımı tarihinde başlamış kabul edilir.
+
+## MADDE 16 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## MADDE 17 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Ticaret Bakanı yürütür.

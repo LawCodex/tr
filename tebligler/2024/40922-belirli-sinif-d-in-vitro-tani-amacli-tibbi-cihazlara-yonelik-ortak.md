@@ -1,0 +1,127 @@
+---
+title: "BELİRLİ SINIF D İN VİTRO TANI AMAÇLI TIBBİ CİHAZLARA YÖNELİK ORTAK SPESİFİKASYONLAR HAKKINDA TEBLİĞ"
+identifier: "9.5.40922"
+number: "40922"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2024-08-17
+official_gazette_date: 2024-08-17
+official_gazette_number: "32635"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40922&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BELİRLİ SINIF D İN VİTRO TANI AMAÇLI TIBBİ CİHAZLARA YÖNELİK ORTAK SPESİFİKASYONLAR HAKKINDA TEBLİĞ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Tebliğin amacı; 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliğinin Ek I’inin 9.1 numaralı maddesinin (a) ve (b) bentlerinde, 9.3 numaralı maddesinde ve 9.4 numaralı maddesinin (a) bendinde belirtilen performans karakteristiklerine ilişkin gereklilikler bakımından belirli sınıf D in vitro tanı amaçlı tıbbi cihazlar (in vitro tanı cihazı) için ortak spesifikasyonları belirlemektir.
+
+(2) Ek I’de belirtilen ortak spesifikasyonlar Ek II ilâ Ek XIII kapsamındaki cihazlara uygulanır.
+
+(3) Ek II’de belirtilen ortak spesifikasyonlar; ABO, Rh, Kell, Duffy ve Kidd kan grubu sistemlerinde kan grubu antijenlerinin saptanmasına yönelik tasarlanan cihazlara uygulanır.
+
+(4) Ek III’te belirtilen ortak spesifikasyonlar, insan bağışıklık yetmezliği virüsü (HIV) enfeksiyonu belirteçlerinin (marker) saptanması veya miktar tayinine yönelik tasarlanan cihazlara uygulanır.
+
+(5) Ek IV’te belirtilen ortak spesifikasyonlar, insan T-hücre lenfotropik virüsü (HTLV) enfeksiyonu belirteçlerinin saptanması veya miktar tayinine yönelik tasarlanan cihazlara uygulanır.
+
+(6) Ek V’te belirtilen ortak spesifikasyonlar, hepatit C virüsü (HCV) enfeksiyonu belirteçlerinin saptanması veya miktar tayinine yönelik tasarlanan cihazlara uygulanır.
+
+(7) Ek VI’da belirtilen ortak spesifikasyonlar, hepatit B virüsü (HBV) enfeksiyonu belirteçlerinin saptanması veya miktar tayinine yönelik tasarlanan cihazlara uygulanır.
+
+(8) Ek VII’de belirtilen ortak spesifikasyonlar, hepatit D virüsü (HDV) enfeksiyonu belirteçlerinin saptanması veya miktar tayinine yönelik tasarlanan cihazlara uygulanır.
+
+(9) Ek VIII’de belirtilen ortak spesifikasyonlar, varyant Creutzfeldt-Jakob hastalığı (vCJD) belirteçlerinin saptanmasına yönelik tasarlanan cihazlara uygulanır.
+
+(10) Ek IX’da belirtilen ortak spesifikasyonlar, sitomegalovirüs (CMV) enfeksiyonu belirteçlerinin saptanması veya miktar tayinine yönelik tasarlanan cihazlara uygulanır.
+
+(11) Ek X’da belirtilen ortak spesifikasyonlar, Epstein-Barr virüsü enfeksiyonu (EBV) belirteçlerinin saptanması veya miktar tayinine yönelik tasarlanan cihazlara uygulanır.
+
+(12) Ek XI’de belirtilen ortak spesifikasyonlar, Treponema pallidum enfeksiyonu belirteçlerinin saptanmasına yönelik tasarlanan cihazlara uygulanır.
+
+(13) Ek XII’de belirtilen ortak spesifikasyonlar, Trypanosoma cruzi enfeksiyonu belirteçlerinin saptanması veya miktar tayinine yönelik tasarlanan cihazlara uygulanır.
+
+(14) Ek XIII’te belirtilen ortak spesifikasyonlar, şiddetli akut solunum sendromu koronavirüs 2 (SARS-CoV-2) enfeksiyonu belirteçlerinin saptanması veya miktar tayinine yönelik tasarlanan cihazlara uygulanır.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Tebliğ; 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanununa, 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 508 inci ve 796 ncı maddelerine ve In Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliğine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Tebliğde geçen;
+
+a) % 95 pozitif eşik değeri: Mevcutsa Dünya Sağlık Teşkilatı (WHO) Uluslararası Standardı veya WHO Uluslararası Standardına göre kalibre edilmiş referans materyali gibi bir uluslararası referans materyalinin seri dilüsyonlarının test çalışmalarında %95 pozitif sonuç verdiği durumdaki analit konsantrasyonunu,
+
+b) Çapraz reaktivite: Spesifik olmayan antikorların bir antikor analizinin bir test antijenine bağlanma yeteneği veya hedef olmayan nükleik asitlerin bir NAT analizinde reaktif olma yeteneği gibi hedef olmayan analitlerin veya belirteçlerin benzerlik nedeniyle bir testte yalancı pozitif sonuçlara neden olma yeteneğini,
+
+c) Destekleyici analiz: Başka bir analizin test sonucunun yorumlanması için daha fazla bilgi sağlamak amacıyla kullanılan cihazı,
+
+ç) Doğrulama analizi: Tarama analizinde reaktif bulunan bir sonucun doğrulanması için kullanılan cihazı,
+
+d) Gerçek pozitif: Hedef belirteç için pozitif olduğu bilinen ve cihaz tarafından pozitif tanımlanan numuneyi,
+
+e) Girişim (İnterferans): Birbiriyle ilgisi olmayan maddelerin bir analizdeki sonuçları etkileme yeteneğini,
+
+f) Hızlı test: Otomatik prosedür içermeyen (sonuçların okunması hariç) ve hızlı bir sonuç vermek üzere tasarlanmış olan, tek başına veya küçük serilerde kullanılan, kalitatif veya yarı kantitatif bir in vitro tanı cihazını,
+
+g) NAT sistemi: Nükleik asitlerin ekstraksiyonu, amplifikasyonu ve saptanması için kullanılan cihazların kombinasyonunu,
+
+ğ) Nükleik asit amplifikasyon (çoğaltma) teknikleri (NAT): Bir hedef dizisinin amplifikasyonu, sinyalinin güçlendirilmesi ya da hibridizasyon yoluyla nükleik asitlerin saptanması ve/veya miktarlarının belirlenmesi için kullanılan metotları,
+
+h) Saptama limiti (LOD): Hedef belirtecin saptanabildiği en düşük miktarı,
+
+ı) Tarama analizi: Yalnızca, önceden belirlenmiş bir belirteç veya analiti izlemek için kullanılması amaçlanan cihazlar hariç olmak üzere, bir belirteci veya analiti saptamak için kullanılan ve kullanımının ardından bir doğrulama analizinin kullanılabileceği cihazı,
+
+i) Tutarlılık (robustness): Bir analitik işlemin, yöntem parametrelerinde küçük ama öngörülen değişkenlerden etkilenmeme kapasitesini ve normal kullanım süresince güvenilirliğinin bir göstergesini,
+
+j) Tüm sistem hata oranı: Tüm sürecin imalatçı tarafından belirtilen şekilde gerçekleştirildiğinde ortaya çıkan hata sıklığını,
+
+k) Virüs tiplendirme cihazı: Primer enfeksiyon tanısı veya tarama için kullanılmayan, halihazırda pozitif olduğu bilinen örneklerin tiplendirilmesi için kullanılan cihazı,
+
+l) Yalancı negatif: Hedef belirteç için pozitif olduğu bilinen ancak cihaz tarafından negatif tanımlanan numuneyi,
+
+m) Yalancı pozitif: Hedef belirteç için negatif olduğu bilinen ancak cihaz tarafından pozitif tanımlanan numuneyi,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 4 — Avrupa Birliği mevzuatına uyum
+
+(1) Bu Tebliğ; in vitro tanı amaçlı tıbbi cihazlara ilişkin 5/4/2017 tarihli ve (AB) 2017/746 sayılı Avrupa Parlamentosu ve Konsey Tüzüğü uyarınca belirli sınıf D in vitro tanı amaçlı tıbbi cihazlarına yönelik ortak spesifikasyonları belirleyen 4/7/2022 tarihli ve (AB) 2022/1107 sayılı Komisyon Uygulama Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
+
+### MADDE 5 — Yürürlükten kaldırılan tebliğ
+
+(1) 10/3/2019 tarihli ve 30710 sayılı Resmî Gazete’de yayımlanan Vücut Dışında Kullanılan Tıbbi Tanı Cihazları İçin Ortak Teknik Özellikler Tebliği yürürlükten kaldırılmıştır.
+
+### GEÇİCİ MADDE 1 — Geçiş hükümleri
+
+(1) 5 inci madde ile yürürlükten kaldırılan Tebliğde belirtilen ortak teknik spesifikasyonlara uygun olan cihazların 25/7/2022 tarihinden 25/7/2024 tarihine kadar İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliğinin Ek I’inin 9.1 numaralı maddesinin (a) ve (b) bentlerinde, 9.3 numaralı maddesinde ve 9.4 numaralı maddesinin (a) bendinde belirtilen performans karakteristiklerine ilişkin gerekliliklere uygun olduğu varsayılır.
+
+(2) 25/7/2022 tarihinden 25/7/2024 tarihine kadar 5 inci madde ile yürürlükten kaldırılan Tebliğde belirtilen ortak teknik spesifikasyonlara uygun olmayan cihazların imalatçıları, asgari olarak bunlara eşdeğer bir güvenlilik ve performans düzeyi sağlayan çözümleri kabul ettiklerini usulüne uygun olarak gerekçelendirir.
+
+(3) Bu Tebliğde belirtilen ortak spesifikasyonlara uygun olan cihazların 25/7/2022 tarihinden 25/7/2024 tarihine kadar İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliğinin Ek I’inin 9.1 numaralı maddesinin (a) ve (b) bentlerinde, 9.3 numaralı maddesinde ve 9.4 numaralı maddesinin (a) bendinde belirtilen performans karakteristiklerine ilişkin gerekliliklere uygun olduğu varsayılır.
+
+### MADDE 6 — Yürürlük
+
+(1) Bu Tebliğin;
+
+a) Geçici 1 inci maddesi 25/7/2022 tarihinden geçerli olmak üzere yayımı tarihinde,
+
+b) Diğer hükümleri 25/7/2024 tarihinden geçerli olmak üzere yayımı tarihinde,
+
+yürürlüğe girer.
+
+### MADDE 7 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı yürütür.
+
+**Ekleri için tıklayınız.**

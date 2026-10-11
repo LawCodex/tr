@@ -1,0 +1,47 @@
+---
+title: "2004 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO: 2)"
+identifier: "9.5.6021"
+number: "6021"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2004-01-09
+official_gazette_date: 2004-01-09
+official_gazette_number: "25341"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6021&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# 2004 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO: 2)
+
+**2004 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO: 2)**
+
+1- Bilindiği üzere, 657 sayılı Devlet Memurları Kanununun 212'nci maddesine dayanılarak hazırlanan ve 19.11.1986 tarih ve 11220 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan, Devlet Memurları Yiyecek Yardımı Yönetmeliğinin 4 üncü maddesinde, yemek bedelinin bütçeden karşılanmayan kısmının yemek yiyenlerden alınacağı hükme bağlanmış bulunmaktadır.
+
+2- Bu çerçevede, öğle yemeği servisinden faydalanan memurlardan 16.01.2003-15.01.2004 tarihleri arasında alınacak yemek bedelleri 15.01.2003 tarihli ve 24994 sayılı Resmi Gazetede yayımlanan (2) Sıra No'lu 2003 Mali Yılı Bütçe Uygulama Talimatıyla belirlenmişti. Bu bedellerin yerine, 2004 yılında öğle yemeği servisinden faydalanacak memurlardan en az;
+
+|  | **16.01.2004 tarihinden** <br> **14.01.2005 tarihine kadar** |
+| --- | --- |
+| a) Ek göstergesiz görevlerde bulunanlardan | 525.000 |
+| b) 1100'e kadar (1100 dahil) ek göstergeli görevlerde bulunanlardan | 900.000 |
+| c) 2200'e kadar (2200 dahil) ek göstergeli görevlerde bulunanlardan | 1.075.000 |
+| d) 4800'e kadar (4800 hariç) ek göstergeli görevlerde bulunanlardan | 1.350.000 |
+| e) 4800 ve daha yukarı ek göstergeli görevlerde bulunanlardan | 1.900.000 |
+| f) Aylık brüt sözleşme ücretleri 910.000.000.- liraya kadar olanlardan | 650.000 |
+| g) Aylık brüt sözleşme ücretleri 1.630.000.000.- liraya kadar olanlardan | l .075.000 |
+| h) Aylık brüt sözleşme ücretleri 2.350.000.000.- liraya kadar olanlardan | l .900.000 |
+| ı) Aylık brüt sözleşme ücretleri 2.350.000.000.- liranın üzerinde olanlardan | 2.300.000 |
+
+lira günlük bedel alınması uygun görülmüştür.
+
+3- Bu uygulamaya 16.01.2004 tarihinde başlanacaktır.
+
+4- Kuruluşlar hizmetlerinin özelliği, yemek maliyetleri ve yemek servisinin farklı mahallerde daha iyi şartlarda sunulması gibi hususları dikkate alarak belirtilen miktarların üzerinde de yemek bedeli tespit edebileceklerdir.
+
+5- Bu Talimata, genel bütçeye dahil daireler, katma bütçeli idareler, kamu iktisadi teşebbüsleri, döner sermayeli kuruluşlar ve fonlar ile diğer kamu kurum ve kuruluşları uyacaklardır.
+
+Tebliğ olunur.

@@ -1,0 +1,88 @@
+---
+title: "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/14)"
+identifier: "9.5.38470"
+number: "38470"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2021-03-27
+official_gazette_date: 2021-03-27
+official_gazette_number: "31436"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38470&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/14)
+
+## MADDE 1 — Amaç ve kapsam
+
+(1) Bu Tebliğin amacı, 24/10/2019 tarihli ve 30928 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/29) ile Kore Cumhuriyeti ve Kuzey Makedonya Cumhuriyeti menşeli ve/veya çıkışlı 8302.10 gümrük tarife pozisyonunda tanımlı “menteşeler (sivil hava taşıtlarında kullanılanlar hariç; 8302.10.00.00.12 gümrük tarife istatistik pozisyonunda yer alan nakil vasıtalarına mahsus olanlar hariç)”, 8302.50.00.00.00 gümrük tarife istatistik pozisyonunda tanımlı “sabit askılıklar, şapka askıları, dirsekler, benzeri eşya” ve 8302.42.00.00.00 gümrük tarife istatistik pozisyonunda tanımlı “diğerleri, mobilyalar için olanlar (sivil hava taşıtlarında kullanılanlar ve koltuk amortisörleri hariç)” ithalatına yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen önlemlerin etkisiz kılınmasına karşı soruşturmanın tamamlanması neticesinde alınan kararların yürürlüğe konulmasıdır.
+
+## MADDE 2 — Dayanak
+
+(1) Bu Tebliğ, 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
+
+## MADDE 3 — Tanımlar
+
+(1) Bu Tebliğde geçen;
+
+a) ÇHC: Çin Halk Cumhuriyeti’ni,
+
+b) GTP: Gümrük tarife pozisyonunu,
+
+c) GTİP: Gümrük tarife istatistik pozisyonunu,
+
+ç) Güney Kore: Kore Cumhuriyeti’ni,
+
+d) Kurul: İthalatta Haksız Rekabeti Değerlendirme Kurulunu,
+
+e) Makedonya: Kuzey Makedonya Cumhuriyeti’ni,
+
+f) TGTC: İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelini,
+
+ifade eder.
+
+## MADDE 4 — Yürürlükteki dampinge karşı önlem
+
+(1) 21/12/2016 tarihli ve 29925 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/53) çerçevesinde 8302.10 gümrük tarife pozisyonunda tanımlı “menteşeler (sivil hava taşıtlarında kullanılanlar hariç; 8302.10.00.00.12 pozisyonunda yer alan nakil vasıtalarına mahsus olanlar hariç)”, 8302.50.00.00.00 gümrük tarife istatistik pozisyonunda tanımlı “sabit askılıklar, şapka askıları, dirsekler, benzeri eşya” ve 8302.42.00.00.00 gümrük tarife istatistik pozisyonunda tanımlı “diğerleri, mobilyalar için olanlar (sivil hava taşıtlarında kullanılanlar ve koltuk amortisörleri hariç)” ithalatında dampinge karşı önlem uygulanmaktadır.
+
+(2) Soruşturmanın açılışı sonrasında 8302.42.00.00.00 gümrük tarife istatistik pozisyonu altında sınıflandırılan eşya, 30/12/2020 tarihli ve 3345 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan TGTC’de değişikliğe uğramış olup 8302.42.00.00.11 GTİP altında “koltuk amortisörleri” ve 8302.42.00.00.19 GTİP altında “diğerleri” şeklinde düzenlenmiştir.
+
+## MADDE 5 — Karar
+
+(1) Yürütülen soruşturma sonucunda, Güney Kore’de ve Makedonya’da yerleşik firmaların, yürürlükteki dampinge karşı önlemden kaçınma dışında yeterli bir haklı nedeni veya ekonomik gerekçesi bulunmayan bir uygulama, işlem veya iş sonucunda, ÇHC menşeli soruşturma konusu eşya ithalatında yürürlükte bulunan dampinge karşı önlemi etkisiz kıldığı sonucuna ulaşılmıştır.
+
+(2) Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu Ek’te yer almaktadır.
+
+(3) Bu çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurul tarafından alınan karar ile Güney Kore ve Makedonya menşeli ve/veya çıkışlı olarak yapılan soruşturma konusu eşya ithalatının, İthalatta Haksız Rekabetin Önlenmesine ilişkin Tebliğ (Tebliğ No: 2016/53) uyarınca ÇHC menşeli ithalatta yürürlükte bulunan dampinge karşı önleme tabi olmasına karar verilmiştir.
+
+## MADDE 6 — Uygulama
+
+(1) Gümrük idareleri, İthalatta Haksız Rekabetin Önlenmesine ilişkin Tebliğ (Tebliğ No: 2016/53)’de GTP/GTİP ve tanımı belirtilen eşyanın, diğer mevzuat hükümleri saklı kalmak kaydıyla, Güney Kore ve Makedonya menşeli ve/veya çıkışlı olarak yapılan serbest dolaşıma giriş rejimi kapsamında ithalatında aşağıda yer alan tabloda belirtilen şekilde dampinge karşı kesin önlemi uygular.
+
+<table>
+<tr><td>GTP/GTİP</td><td>Eşyanın Tanımı</td><td>Menşe/Çıkış Ülkesi</td><td>Dampinge Karşı Önlem<br>(ABD Doları/Kg)</td></tr>
+<tr><td>8302.10</td><td>Menteşeler (Sivil hava taşıtlarında kullanılanlar hariç; 8302.10.00.00.12 pozisyonunda yer alan nakil vasıtalarına mahsus olanlar hariç)</td><td rowspan="2">Güney Kore Makedonya</td><td rowspan="2">1,64</td></tr>
+<tr><td>8302.50.00.00.00</td><td>Sabit askılıklar, şapka askıları, dirsekler, benzeri eşya</td></tr>
+<tr><td>8302.42.00.00.19</td><td>Diğerleri (Sivil hava taşıtlarında kullanılanlar hariç)</td><td>Güney Kore Makedonya</td><td>0,75</td></tr>
+</table>
+
+(2) 7/2/2004 tarihli ve 25366 sayılı Resmî Gazete'de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2004/3) ile yürürlüğe konulan ve İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/53) ile son nihai gözden geçirme soruşturması tamamlanan ÇHC menşeli ithalata ilişkin dampinge karşı önlemde İthalatta Haksız Rekabetin Önlenmesi Hakkında Mevzuat hükümleri çerçevesinde yapılacak değişiklikler bu önlem için de geçerlidir.
+
+(3) Bilgilendirme Raporunda soruşturma konusu eşya ile ilgili açıklamalar genel içerikli olup uygulamaya esas olan yürürlükteki TGTC’de yer alan tarife pozisyonu ve eşya tanımıdır.
+
+(4) Önleme tabi eşyanın yürürlükteki TGTC’de yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
+
+## MADDE 7 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## MADDE 8 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Ticaret Bakanı yürütür.
+
+**Eki için tıklayınız.**

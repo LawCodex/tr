@@ -1,0 +1,77 @@
+---
+title: "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2022/1)"
+identifier: "9.5.39339"
+number: "39339"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2022-02-02
+official_gazette_date: 2022-02-02
+official_gazette_number: "31738"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39339&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2022/1)
+
+## MADDE 1 — Amaç ve kapsam
+
+(1) Bu Tebliğin amacı, 12/2/2021 tarihli ve 31393 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2021/7) ile Çin Halk Cumhuriyeti menşeli 8415.83.00.90.00 gümrük tarife istatistik pozisyonu altında kayıtlı “yalnız belirli salon tipi sıcak ve soğuk hava cihazları (fancoil)” ürününün ithalatına yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
+
+## MADDE 2 — Dayanak
+
+(1) Bu Tebliğ, 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
+
+## MADDE 3 — Tanımlar
+
+(1) Bu Tebliğde geçen;
+
+a) CIF: Masraflar, sigorta ve navlun dâhil teslimi,
+
+b) GTİP: Gümrük tarife istatistik pozisyonunu,
+
+c) Kurul: İthalatta Haksız Rekabeti Değerlendirme Kurulunu,
+
+ç) NGGS: Nihai gözden geçirme soruşturmasını,
+
+d) TGTC: İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelini,
+
+e) Yönetmelik: İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliği,
+
+ifade eder.
+
+## MADDE 4 — Karar
+
+(1) Yürütülen soruşturma sonucunda, mevcut önlemin yürürlükten kalkması durumunda dampingin ve zararın devam etmesinin veya yeniden meydana gelmesinin muhtemel olduğu saptanmıştır. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu Ek’te yer almaktadır.
+
+(2) Bu çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun kararı ve Ticaret Bakanının onayı ile 12/2/2016 tarihli ve 29622 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/2) ile yürürlükte olan dampinge karşı önlemin, Yönetmeliğin 42 nci maddesi çerçevesinde aşağıdaki tabloda gösterilen biçimde uygulanmaya devam edilmesine karar verilmiştir.
+
+| **GTİP** | **Eşyanın Tanımı** | **Menşe Ülke** | **Dampinge Karşı Önlem Miktarı** <br> **(CIF Bedelin %)** |
+| --- | --- | --- | --- |
+| 8415.83.00.90.00 | Yalnız belirli salon tipi sıcak ve soğuk hava cihazları (fancoil) | Çin Halk Cumhuriyeti | 56,50 |
+
+## MADDE 5 — Uygulama
+
+(1) Gümrük idareleri, 4 üncü maddede GTİP’i, eşya tanımı ve menşe ülkesi belirtilen eşyanın, diğer mevzuat hükümleri saklı kalmak kaydıyla, serbest dolaşıma giriş rejimi kapsamındaki ithalatında karşısında gösterilen oranda dampinge karşı kesin önlemi tahsil eder.
+
+(2) Bilgilendirme Raporunda soruşturma konusu ürün ve benzer ürün ile ilgili açıklamalar genel içerikli olup uygulamaya esas olan TGTC’de yer alan GTİP ve 4 üncü maddede yer alan tablodaki eşya tanımıdır.
+
+(3) Önleme tabi ürünün TGTC’de yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
+
+(4) Yönetmeliğin 35 inci maddesinin birinci fıkrası uyarınca bu Tebliğ kapsamındaki önlem, yürürlük tarihinden itibaren 5 yıl sonra yürürlükten kalkar.
+
+(5) Yönetmeliğin 35 inci maddesinin dördüncü fıkrası uyarınca bu Tebliğ kapsamındaki önlemin sona erme tarihinden önce bir NGGS başlatıldığı takdirde önlem, soruşturma sonuçlanıncaya kadar yürürlükte kalmaya devam eder.
+
+## MADDE 6 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## MADDE 7 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Ticaret Bakanı yürütür.
+
+**Eki için tıklayınız.**

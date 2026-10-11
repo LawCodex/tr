@@ -1,0 +1,43 @@
+---
+title: "PETROL PİYASASI KANUNUNUN 19 UNCU MADDESİ UYARINCA 1/1/2005 TARİHİNDEN İTİBAREN UYGULANACAK PARA CEZALARI HAKKINDA TEBLİĞ"
+identifier: "9.5.8714"
+number: "8714"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2004-12-31
+official_gazette_date: 2004-12-31
+official_gazette_number: "25687 3.mükerrer"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8714&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# PETROL PİYASASI KANUNUNUN 19 UNCU MADDESİ UYARINCA 1/1/2005 TARİHİNDEN İTİBAREN UYGULANACAK PARA CEZALARI HAKKINDA TEBLİĞ
+
+**PETROL PİYASASI KANUNUNUN 19 UNCU MADDESİ UYARINCA**
+
+**1/1/2005 TARİHİNDEN İTİBAREN UYGULANACAK PARA**
+
+**CEZALARI HAKKINDA TEBLİĞ**
+
+5015 sayılı Petrol Piyasası Kanununun 19 uncu maddesinde muhtelif miktarlarda para cezaları öngörülmüş, aynı maddenin son fıkrasında da "İdari para cezalarının miktarları her yıl bir önceki yıla ilişkin olarak 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi uyarınca belirlenen yeniden değerleme oranında artırılmak suretiyle uygulanır. Bu şekilde yapılacak hesaplamalarda, milyon kesirleri dikkate alınmaz." hükmü yer almaktadır.
+
+Maliye Bakanlığı 20/11/2004 tarihli ve 25646 sayılı Resmi Gazetede yayımlanan 341 sıra nolu Vergi Usul Kanunu Genel Tebliği ile 2004 yılı yeniden değerleme oranını %11,2 olarak tespit ve ilan etmiştir.
+
+Öte yandan, 31/01/2004 tarihli ve 25363 sayılı Resmi Gazete’de yayımlanan 5083 sayılı Türkiye Cumhuriyeti Devletinin Para Birimi Hakkında Kanun ile Türkiye Cumhuriyeti Devletinin para birimi Yeni Türk Lirası (YTL), bunun alt birimi de Yeni Kuruş (YKr) olarak belirlenerek, 01.01.2005 tarihinden geçerli olmak üzere yürürlüğe girmiş bulunmaktadır.
+
+Buna göre, 5015 sayılı Petrol Piyasası Kanununun 19 uncu maddesinde yer alan para cezası miktarları, 1/1/2005 tarihinden itibaren aşağıdaki tabloda gösterildiği gibi uygulanacaktır.
+
+Bayiler için uygulanacak para cezası miktarları, 19 uncu maddenin dördüncü fıkrası uyarınca, aşağıdaki tabloda gösterilen tutarların beşte biri oranında uygulanacaktır.
+
+Tebliğ olunur.
+
+| **İLGİLİ KANUN** <br> **MADDESİ** | **KANUNDA** <br> **ÖNGÖRÜLEN** <br> **PARA CEZALARI** <br> **(TL)** | **2004 YILINDA** <br> **UYGULANAN** <br> **PARA CEZALARI** <br> **(TL)** | **1/1/2005** <br> **TARİHİNDEN İTİBAREN** <br> **UYGULANACAK** <br> **PARA CEZALARI** <br> **(YTL)** |
+| --- | --- | --- | --- |
+| 19 uncu Maddenin İkinci Fıkrasının (a) Bendi | 500.000.000.000 | 642.500.000.000 | 714.460 |
+| 19 uncu Maddenin İkinci Fıkrasının (b) Bendi | 200.000.000.000 | 257.000.000.000 | 285.784 |
+| 19 uncu Maddenin Üçüncü Fıkrası | 50.000.000.000 | 64.250.000.000 | 71.446 |

@@ -1,0 +1,233 @@
+---
+title: "İŞLETMENİN MUHASEBESİYLE İLGİLİ OLMAYAN TİCARİ DEFTERLERİN ELEKTRONİK ORTAMDA TUTULMASI HAKKINDA TEBLİĞ"
+identifier: "9.5.42482"
+number: "42482"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2025-02-14
+official_gazette_date: 2025-02-14
+official_gazette_number: "32813"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42482&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İŞLETMENİN MUHASEBESİYLE İLGİLİ OLMAYAN TİCARİ DEFTERLERİN ELEKTRONİK ORTAMDA TUTULMASI HAKKINDA TEBLİĞ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Tebliğin amacı; 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 64 üncü maddesinin dördüncü fıkrasında sayılan ticari defterleri elektronik ortamda tutmakla yükümlü olan ticaret şirketlerinin belirlenmesi, bu defterlerin elektronik ortamda oluşturulması, tutulması, saklanması ve ibrazı ile bu işlemlerin gerçekleştirileceği Sistemin işleyişine ilişkin usul ve esasların düzenlenmesidir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Tebliğ, pay defteri, yönetim kurulu karar defteri, müdürler kurulu karar defteri ile genel kurul toplantı ve müzakere defterini kapsar.
+
+(2) **(Ek:RG-14/8/2025-32986)** Bankacılık Düzenleme ve Denetleme Kurumunun gözetim ve denetimine tabi olan bankalar, varlık yönetim şirketleri ile finansal kiralama, faktoring, finansman ve tasarruf finansman şirketleri tarafından tutulan yönetim kurulu karar defteri bu Tebliğin kapsamı dışındadır.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Tebliğ, 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 64 üncü maddesinin üçüncü ve dördüncü fıkraları ile 210 uncu maddesinin birinci fıkrasına dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar ve kısaltmalar
+
+(1) Bu Tebliğde geçen;
+
+a) Bakanlık: Ticaret Bakanlığını,
+
+b) Defter: Pay defteri, yönetim kurulu karar defteri, müdürler kurulu karar defteri, genel kurul toplantı ve müzakere defterini,
+
+c) Elektronik defter: Şekil hükümlerinden bağımsız olarak 6102 sayılı Kanuna ve 19/12/2012 tarihli ve 28502 sayılı Resmî Gazete’de yayımlanan Ticari Defterlere İlişkin Tebliğe göre işletmenin muhasebesiyle ilgili olmayan defterlerde yer alması gereken bilgileri kapsayan elektronik kayıtlar bütününü,
+
+ç) Elektronik defter sistemi (Sistem): Ticaret şirketlerinin pay defteri, yönetim kurulu karar defteri, müdürler kurulu karar defteri, genel kurul toplantı ve müzakere defterlerinin ve bu defterlere yapılan kayıtların elektronik ortamda oluşturulmasına, tutulmasına, saklanmasına ve ibrazına imkân sağlayan ve Bakanlık tarafından oluşturulan sistemi,
+
+d) Elektronik kayıt: Elektronik ortamda tutulan, elektronik defter ve belgeleri oluşturan, elektronik yöntemlerle erişimi ve işlenmesi mümkün olan en küçük bilgi ögesini,
+
+e) Genel kurul: Anonim, limited, sermayesi paylara bölünmüş komandit şirketlerde ve kooperatiflerde genel kurulu, kollektif ve komandit şirketlerde ortaklar kurulunu ve gerektiğinde ortakların tümünü,
+
+f) Kanun: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+
+g) Merkezi Sicil Kayıt Sistemi (MERSİS): Ticaret sicili işlemlerinin elektronik ortamda yürütüldüğü, ticaret sicili kayıtları ile tescil ve ilan edilmesi gereken içeriklerin düzenli olarak depolandığı ve elektronik ortamda sunulduğu, Bakanlık ile Türkiye Odalar ve Borsalar Birliği nezdinde oluşturulan ve işletilen merkezi ortak veri tabanını da içeren bilgi sistemini,
+
+ğ) Ortak: Anonim şirketlerin pay sahiplerini, kollektif, komandit, limited, sermayesi paylara bölünmüş komandit şirketlerin ve kooperatiflerin ortaklarını,
+
+h) Sistem kullanıcısı (Kullanıcı): Sistemde işlem yapabilmesi için şirket tarafından yetkilendirilen gerçek kişiyi,
+
+ı) Şirket sözleşmesi: Anonim ve sermayesi paylara bölünmüş komandit şirketlerde esas sözleşmeyi; kollektif, komandit ve limited şirketlerde şirket sözleşmesini; kooperatiflerde anasözleşmeyi,
+
+i) Ticaret şirketi (Şirket): Kollektif, komandit, anonim, sermayesi paylara bölünmüş komandit ve limited şirketler ile kooperatifleri,
+
+j) Yönetici ortak: Kollektif şirketlerde yönetici ortakları, komandit şirketlerde yönetici komandite ortakları,
+
+k) Yönetim organı: Anonim şirketlerde ve kooperatiflerde yönetim kurulunu, sermayesi paylara bölünmüş komandit şirkette yönetici veya yöneticileri, limited şirketlerde müdür veya müdürler kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Defterlerin Elektronik Ortamda Tutulmasına Dair Usul ve Esaslar
+
+### MADDE 5 — Defterlerin elektronik ortamda tutulması
+
+(1) Aşağıda sayılan şirketler bu Tebliğ hükümleri uyarınca **(Ek ibare:RG-20/9/2025-33023)** pay defteri ile genel kurul toplantı ve müzakere defterlerini elektronik ortamda tutmakla yükümlüdür:
+
+a) 1/1/2026 tarihinden itibaren kuruluşu ticaret siciline tescil edilen şirketler.
+
+b) 15/11/2012 tarihli ve 28468 sayılı Resmî Gazete’de yayımlanan Anonim ve Limited Şirketlerin Sermayelerini Yeni Asgari Tutarlara Yükseltmelerine ve Kuruluşu ve Esas Sözleşme Değişikliği İzne Tabi Anonim Şirketlerin Belirlenmesine İlişkin Tebliğin 5 inci maddesinin birinci fıkrasında sayılan anonim şirketler.
+
+(2) Birinci fıkra kapsamında yer almayan şirketler ihtiyari olarak bu Tebliğ kapsamındaki defterlerini elektronik ortamda tutabilir. **(Değişik cümle:RG-20/9/2025-33023)** Bu durumda pay defteri ile genel kurul toplantı ve müzakere defterinin elektronik ortamda tutulması zorunludur.
+
+(3) Bu Tebliğ hükümleri uyarınca defterlerini elektronik ortamda tutmaya başlayan şirketler, her ne sebeple olursa olsun söz konusu defterlerini yeniden fiziki ortamda tutamaz.
+
+(4) Şirketlerin, bu Tebliğde belirlenen usul ve esaslar çerçevesinde tuttukları defterler geçerli kanuni defterler olarak kabul edilir.
+
+(5) Elektronik ortamda tutulan defterler için açılış ve kapanış onayı aranmaz.
+
+(6) **(Ek:RG-14/8/2025-32986)** Savunma sanayii alanında faaliyet gösteren, Savunma Sanayii Başkanlığı ve Türk Silahlı Kuvvetlerini Güçlendirme Vakfının birlikte veya ayrı ayrı doğrudan veya dolaylı bağlı ortaklık ve iştirakleri, Endüstriyel Yetkinlik Değerlendirme Programı (EYDEP) A sertifikasına sahip şirketler ve Savunma Sanayii Başkanlığı projelerinin ana yüklenicisi olan şirketler hakkında birinci ve üçüncü fıkra hükümleri uygulanmaz. Bu fıkra kapsamındaki şirketlerin kapsam dahilinde olduklarını tevsik eden Savunma Sanayii Başkanlığından alınan belgeleri şirketin kuruluşunda ticaret sicili müdürlüğüne vermeleri halinde, fiziki defterlerinin açılış onayları hakkında 19/12/2012 tarihli ve 28502 sayılı Resmî Gazete’de yayımlanan Ticari Defterlere İlişkin Tebliğin 13 üncü maddesi hükümleri uygulanır. Hâlihazırda kurulu olan ve defterlerini elektronik ortamda tutmaya başlayan şirketlerin sonradan bu fıkra kapsamına girmesi ve tevsik eden belgeleri Bakanlığa sunmaları halinde ise bunların elektronik defterleri Sistemde kapatılır ve fiziki defterlerinin açılış onayları kullanılmaya başlanmadan önce noter tarafından yapılır. Defterlerini elektronik ortamda tutma yükümlülüğü kapsamında olan ve birinci cümle uyarınca bu yükümlülükten muaf tutulan şirketler, bu niteliklerini kaybetmeleri halinde takip eden hesap döneminin ikinci ayının sonuna kadar EK-1’deki örneğe uygun düzenlenen bir kararla birlikte notere başvurarak fiziki defterlerin kapanış onayını yaptırır. Kapanış onayı ve elektronik defterlerin aktif hale getirilmesi bakımından 9 uncu maddenin dördüncü fıkrası uygulanır.
+
+### MADDE 6 — Pay defteri
+
+(1) Kuruluştan itibaren elektronik ortamda pay defteri tutacak şirketler yönünden, ortaklık bilgisine ilişkin defterde oluşturulacak ilk kayıt, şirket sözleşmesinde yer verilen bilgilerin MERSİS üzerinden Sisteme aktarılmasıyla oluşturulur. Bu aktarım dışında kalan, ortağa ve ortaklığa ilişkin diğer bilgiler ise Kullanıcı tarafından elektronik pay defterine kaydedilir.
+
+(2) Fiziki olarak defter tutan şirketlerin elektronik ortamda pay defteri tutmaya başlayacağı durumlarda fiziki pay defterinde yer alan güncel durumu gösteren kayıtlar Kullanıcı tarafından elektronik pay defterine aktarılır.
+
+(3) Rehin, intifa hakkı, yargı mercileri tarafından verilen tedbir kararları, haciz ve benzeri takyidatlar Sistemde oluşturulan alana kaydedilir.
+
+(4) Pay devrinin kaydı Kullanıcı tarafından yapılır. Devrin şirketin onayı ile geçerli olacağı durumlarda Kullanıcı tarafından onayı içeren organ kararına ilişkin bilgiler de Sistemde ilgili alana kaydedilir. Miras, mirasın paylaşımı, eşler arasındaki mal rejimi hükümleri, cebri icra ve yargı kararına bağlı pay geçişleri ile şirket onayına bağlı olmayan pay devirlerinde ilgili karar ve belgelerin bilgileri; devrin mevzuat gereği idari merciin iznine tabi olduğu hallerde bu izne ilişkin bilgiler de aynı alanda belirtilir.
+
+(5) Merkezi Kayıt Kuruluşu tarafından kayden izlenen paylara ilişkin 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanunu hükümleri ile diğer düzenlemeler saklıdır.
+
+### MADDE 7 — Yönetim kurulu karar defteri
+
+(1) Yönetim kurulunda alınan kararlar Kullanıcı tarafından yönetim kurulu karar defterine yüklenir. Kanunun 1527 nci maddesi uyarınca Elektronik Toplantı Sistemini kullanan şirketlerde ise kararlar Bakanlıkça sağlanan entegrasyon aracılığıyla Sisteme aktarılır. Kanunun 1527 nci maddesi uyarınca Elektronik Toplantı Sistemini kendileri kuran veya bu konuda destek hizmeti alan şirketler, yönetim kurulu kararlarını kullandıkları Elektronik Toplantı Sisteminde özgülenecek ayrı bir alanda da depolayabilirler. Bu durumda, depolanan kararlara ilişkin Bakanlıkça belirlenen bilgiler, Elektronik Toplantı Sistemi aracılığıyla Sisteme aktarılır. Bu kararlar bakımından Sisteme yükleme veya aktarma zorunluluğu aranmaz. Bu Tebliğin saklama, inceleme, ibraz ve doğrulamaya ilişkin hükümleri Elektronik Toplantı Sisteminde depolanan kararlar hakkında kıyasen uygulanır.
+
+(2) Limited şirketlerde elektronik ortamda, genel kurul toplantı ve müzakere defterinden ayrı olarak müdürler kurulu karar defteri tutulabilir. Bu defter bakımından bu Tebliğin yönetim kurulu karar defterine ilişkin hükümleri uygulanır.
+
+### MADDE 8 — Genel kurul toplantı ve müzakere defteri
+
+(1) Genel kurul toplantı tutanağının sureti ve ekleri Kullanıcı tarafından genel kurul toplantı ve müzakere defterine yüklenir. Kanunun 1527 nci maddesi uyarınca Elektronik Toplantı Sistemini kullanan şirketlerde ise tutanağın sureti ve ekleri Bakanlıkça sağlanan entegrasyon aracılığıyla Sisteme aktarılır.
+
+(2) Kollektif ve komandit şirketlerde yönetimle görevlendirilen ortağın veya ortakların yahut bütün ortakların şirket yönetimi ile ilgili olarak aldığı kararlar hakkında bu Tebliğin genel kurul toplantı ve müzakere defterine ilişkin hükümleri uygulanır.
+
+(3) Limited şirketlerde, 7 nci maddenin ikinci fıkrası uyarınca ayrı bir müdürler kurulu karar defteri tutulmaması halinde, müdür veya müdürler kurulunun şirket yönetimi ile ilgili olarak aldığı kararlar genel kurul toplantı ve müzakere defterine yüklenir.
+
+## ÜÇÜNCÜ BÖLÜM — Başvuru, Defterlerin Oluşturulması ve Sistemin Kullanılması
+
+### MADDE 9 — Başvuru ve defterlerin oluşturulması
+
+(1) Kuruluşundan itibaren defterlerini elektronik ortamda tutacak şirketlerde defterler, şirketin ticaret siciline tescili ile birlikte eş zamanlı olarak Sistemde oluşturularak aktif hale getirilir.
+
+(2) Fiziki olarak defter tutmakta iken elektronik ortamda defter tutma yükümlülüğü kapsamına giren şirketler, yükümlülüğün doğduğu tarihten itibaren en geç **(Değişik ibare:RG-20/9/2025-33023)** altı ay içinde Ek-1’deki örneğe uygun düzenlenen bir kararla birlikte notere başvurarak fiziki defterlerin kapanış onayını yaptırır.
+
+(3) Defterlerini ihtiyari olarak elektronik ortamda tutmak isteyen şirketler Ek-1’deki örneğe uygun düzenlenen bir kararla, kararın alındığı hesap dönemi içinde notere başvurarak fiziki defterlerin kapanış onayını yaptırır. Kapanış onayının ilgili hesap dönemi içinde yaptırılmaması halinde, sonraki hesap dönemlerinde elektronik deftere geçiş amacıyla kapanış onayının yaptırılabilmesi ancak aynı hesap döneminde alınacak yeni bir kararla mümkün olur.
+
+(4) Kapanış onayında noter, kapanışın elektronik deftere geçiş amacıyla yapıldığı bilgisiyle işlemin yapıldığı tarih ve sayıyı fiziki deftere şerh olarak işler. Kullanıcı bilgileri ile defter kapanış bilgilerinin noter tarafından Sisteme tanımlanmasıyla birlikte defterler Sistemde oluşturularak aktif hale getirilir.
+
+### MADDE 10 — Sistem kullanıcısı
+
+(1) Sistemde oluşturulan defterler üzerinde işlem yapma yetkisi, şirket yönetim organı veya yönetici ortaklar tarafından yönetim organı üyeleri, yönetici ortaklar veya üçüncü kişiler arasından belirlenecek sistem kullanıcısına aittir. Sistem kullanıcısı olarak birden fazla kişi belirlenebilir.
+
+(2) Sistem kullanıcısı, şirketin kuruluşunda Ek-2’deki örneğe uygun olarak fiziki ortamda hazırlanan veya MERSİS üzerinden elektronik ortamda oluşturulan ve şirket sözleşmesinde belirlenen yönetim organı üyeleri veya yönetici ortakların tamamı tarafından onaylanan bir formla belirlenir. Kullanıcı MERSİS’e tanımlanır ve form fiziki ortamda oluşturulmuşsa şirketin kuruluşunu tescil edecek ticaret sicili müdürlüğüne kuruluş belgeleri arasında verilir. Defterler, şirketin tescili ile birlikte Kullanıcının erişimine açılır. Şirketin kuruluşundan sonra, defterlerini elektronik ortamda tutmaya başlayan şirketlerde Kullanıcı 9 uncu maddenin dördüncü fıkrası uyarınca yapılacak işlemler sırasında Sisteme tanımlanır.
+
+(3) Sistemde kayıtlı Kullanıcı ile ilgili yapılacak değişiklikler için Ek-2’deki örneğe uygun olarak hazırlanan bir formla notere veya ticaret sicili müdürlüğüne başvurulur. Bu durumda Kullanıcı bilgisi noter veya ticaret sicili müdürlüğü tarafından Sisteme tanımlanır. Kullanıcı ile ilgili yapılacak değişiklikler Bakanlıkça belirlenecek usul ve esaslar çerçevesinde elektronik ortamda da yapılabilir.
+
+(4) Şirkete yönetim kayyımı atanması durumunda Sistemi kullanma yetkisi kayyıma aittir. Kayyım bu yetkisini devredebilir. Kayyımın veya yetki devri yapıldığı hallerde kayyım tarafından belirlenen Kullanıcının Sisteme tanımlanması hususunda üçüncü fıkra hükmü uygulanır.
+
+(5) Şirketler, Kullanıcının Sistem üzerindeki işlemlerini düzenli olarak kontrol etmek ve yetkisiz işlemleri önlemek için gerekli tedbirleri almakla yükümlüdür.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 11 — Elektronik defterlerin muhafazası ve bunlara erişim
+
+(1) Sistem üzerinde oluşturulan defterler şirketlerin kullanımına hazır halde elektronik defter dosyası formatında Bakanlığın bilgi sisteminde muhafaza edilir. Bakanlık elektronik defter dosyalarının güvenli bir şekilde saklanmasını, gizliliğini, değişmezliğini, erişilebilirliğini ve bütünlüğünü, Kullanıcı denetiminin şifre ve diğer güvenlik mekanizmaları ile elektronik ortamda gerçekleştirilmesini, her işleme ait logların kayıt altına alınmasını sağlamakla yükümlüdür.
+
+(2) Bakanlık, belirlenecek format, içerik ve standartlarda olmak üzere Sistemden elektronik defter dosyasının indirilmesine imkan sağlar ve elektronik defter dosyalarının elektronik ortamda görüntülenme, doğrulanma, sorgulanmasını sağlayacak teknik geliştirme ve uygulamaları yapar.
+
+(3) Defterlerde yer alan kayıtlara ancak şirket tarafından yetkilendirilmiş kişilerce erişim sağlanabilir. İlgili kanunlar uyarınca yetkili kılınmış mercilerin bu kayıtlara erişim yetkileri saklıdır.
+
+### MADDE 12 — Sistemde kullanıcı tarafından yapılacak kayıtlar
+
+(1) Sistemde, Kullanıcı tarafından gerçekleştirilen tüm işlemler kayıt tarihlerine göre üzerinde herhangi bir değişiklik yapılamayacak şekilde kayıt altında tutulur.
+
+(2) Elektronik ortamda yapılan işlemlerin tespit ve tevsikinde Sistemde yer alan kayıtlar esas alınır.
+
+(3) Defterlere kayda dayanak fiziki karar tutanakları ve ilgili diğer belgelerin istenildiğinde ibraz edilmek üzere muhafaza edilmesi zorunludur.
+
+(4) Kayıt sırasında yapılan maddi hatalar, Kullanıcı tarafından düzeltilir ve düzeltmenin maddi hata nedeniyle yapıldığı Sistemde ilgili alanda belirtilir.
+
+### MADDE 13 — Defterlerin incelenmesi ve ibrazı
+
+(1) Bu Tebliğ kapsamında elektronik ortamda tutulan defterlerin incelenmesinde ve ibrazında Sistemden indirilen ve doğrulanabilen elektronik defter dosyası esas alınır.
+
+(2) Defterde yer alan kayıt veya kararların ibraz edilmesinin gerektiği hallerde, Kullanıcı Sistem üzerinden kayıt veya kararın doğrulanabilen bir nüshasını oluşturabilir. Bu şekilde oluşturulan ve doğrulama yöntemleriyle muhataplar tarafından Sistem üzerinden teyit edilebilen kayıt veya kararların aslına uygun olduğu kabul edilir.
+
+(3) Sistem üzerinde oluşturulan defterlerin incelemeye sunulması veya yetkili makamlara ibrazına ilişkin sorumluluk şirkete aittir.
+
+### MADDE 14 — Hukuki sorumluluk
+
+(1) Sistemde oluşturulan defterlere yapılan kayıtların doğruluğu ile kayıtlar arasında oluşabilecek farklılıkların meydana getirebileceği zararlardan şirket yönetim organı üyeleri ve yöneticilerin sorumluluğu hakkında Kanunun 553 üncü maddesi uygulanır. Bu kapsamda Bakanlığın herhangi bir sorumluluğu bulunmaz.
+
+(2) Bakanlık tarafından Sistemin yürütülmesi, ilgili defterlerde yer alan kayıtların içerik ve gerçeğe uygunluk denetimi anlamına gelmez ve defterlerin usulüne uygun tutulmasında yönetim organı veya yöneticilerin sorumluluğunu kaldırmaz.
+
+### MADDE 15 — Bakanlığın yetkisi
+
+(1) Bakanlık;
+
+a) Sistem üzerinden tutulan defterlere ilişkin format ve standartlarda değişiklik yapmaya, kayıt oluşturma süreçleri ile veri güvenliğine ilişkin standartlara uyma zorunluluğu getirmeye, Sistemin güvenliğini ve veri bütünlüğünü sağlamak amacıyla gerekli tedbirleri almaya,
+
+b) Sistemde işlemlerin güvenli ve etkin şekilde yapılabilmesi amacıyla 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanununun 4 üncü maddesinde tanımlanan güvenli elektronik imza ile e-Devlet kapısı yöntemlerinden biri veya birkaçını kimlik doğrulama yöntemi olarak belirlemeye, Sisteme giriş ya da şifre oluşturma yöntemlerinde değişiklik yapmaya,
+
+c) Kullanıcıda yapılacak değişikliklerin elektronik ortamda gerçekleştirilmesi amacıyla usul ve esasları belirlemeye,
+
+ç) Sistemde tutulan kayıtların ibrazı için oluşturulan belgelerde yer alacak doğrulama yöntemlerini belirlemeye,
+
+d) Defterlerin kağıt, elektronik, manyetik veya optik araçlar vasıtasıyla eksiksiz ve okunabilir şekilde ibraz edilmesine yönelik önlemleri almaya ve ibraza yönelik farklı usuller belirlemeye,
+
+e) Sistem üzerinden tutulan defterlerin ve kayıtların uzun vadeli saklanması ve arşivlenmesi için gerekli teknik ve idari tedbirleri almaya, Sistem üzerinde tutulan verilerin yedeklenmesi ve felaket kurtarma planlarını oluşturmaya ve uygulamaya,
+
+f) Bu Tebliğ hükümleri kapsamında Sistemin oluşturulması, işletilmesi, kayıtların güvenilirliğinin sağlanması ve doğrulama mekanizmalarının geliştirilmesi amacıyla Sistem ve ilgili diğer bilgi sistemleri arasında entegrasyon çalışmaları yürütmeye,
+
+g) Bu Tebliğin uygulanmasına yönelik rehberler yayımlamaya,
+
+yetkilidir.
+
+(2) Bakanlık, mücbir sebep halleri, bölgesel veya yurt genelini ilgilendiren uzun süreli elektrik veya internet kesintileri, siber saldırı, Sistem veya Bakanlığın ilgili diğer bilgi işlem sistemlerinde oluşan sistemsel ve teknik problemler gibi gerek Bakanlık gerekse şirketler açısından Sistemi kullanılamaz hale getiren koşulların varlığı halinde, belge ve kayıtlarla işlem tesis edilebilmesi ile bahse konu koşulların ortadan kalkmasının ardından söz konusu belge ve kayıtların Sisteme aktarılmasına ilişkin usul ve esasları belirler.
+
+(3) Bu Tebliğ kapsamında belirlenecek usul ve esaslar, rehberler ve duyurular Bakanlığın etds.ticaret.gov.tr internet adresinde yayımlanır.
+
+### MADDE 16 — Uygulanacak hükümler
+
+(1) Bu Tebliğde hüküm bulunmayan hallerde uygun düştüğü ölçüde Ticari Defterlere İlişkin Tebliğ ve ilgili diğer mevzuat hükümleri uygulanır.
+
+### GEÇİCİ MADDE 1 — Geçiş hükümleri
+
+(1) Elektronik genel kurul ve yönetim kurulu sistemleriyle entegrasyon sağlanana ve Bakanlıkça bu hususa ilişkin duyuru yapılıncaya kadar Kanunun 1527 nci maddesi çerçevesinde alınan kararlar Kullanıcı tarafından Sisteme aktarılır.
+
+### GEÇİCİ MADDE 2 — Yönetim kurulu karar defterinin yeniden fiziki ortamda tutulması
+
+**(Ek:RG-20/9/2025-33023)**
+
+(1) Bu maddenin yürürlük tarihinden önce yönetim kurulu karar defterini elektronik ortamda tutmaya başlayan şirketler hakkında 5 inci maddenin üçüncü fıkrası uygulanmaz. Bu şirketlerin yönetim kurulu karar defterlerini yeniden fiziki ortamda tutmak istemeleri ve buna ilişkin yönetim kurulu kararını 1/1/2026 tarihine kadar Bakanlığa sunmaları halinde bu defter Sistemde kapatılır ve fiziki defterin açılış onayı Bakanlık tarafından verilen belge üzerine noter tarafından yapılır.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Tebliğ 1/7/2025 tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Ticaret Bakanı ile Hazine ve Maliye Bakanı birlikte yürütür.
+
+**Ekleri için tıklayınız**
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>14/2/2025</td><td>32813</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1</td><td>14/8/2025</td><td>32986</td></tr>
+<tr><td>2</td><td>20/9/2025</td><td>33023</td></tr>
+</table>

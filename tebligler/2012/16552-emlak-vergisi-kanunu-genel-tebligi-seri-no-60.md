@@ -1,0 +1,35 @@
+---
+title: "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 60)"
+identifier: "9.5.16552"
+number: "16552"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2012-08-28
+official_gazette_date: 2012-08-28
+official_gazette_number: "28395"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16552&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 60)
+
+29/7/1970 tarihli ve 1319 sayılı Emlak Vergisi Kanununun(1) 29 uncu maddesinin birinci fıkrasının (b) bendinde, binalar için vergi değerinin, Maliye ve Bayındırlık ve İskân Bakanlıklarınca müştereken tespit ve ilan edilecek bina metrekare normal inşaat maliyetleri ile aynı maddenin (a) bendinde belirtilen esaslara göre bulunacak arsa veya arsa payı değeri esas alınarak 31 inci madde uyarınca hazırlanmış bulunan tüzük(2) hükümlerinden yararlanmak suretiyle hesaplanan bedel olduğu hükme bağlanmıştır.
+
+Öte yandan, 4/7/2011 tarihli ve 27984 sayılı mükerrer Resmî Gazete’de yayımlanan 29/6/2011 tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 37 nci maddesinin birinci fıkrasında, Bayındırlık ve İskân Bakanlığına yapılan atıfların Çevre ve Şehircilik Bakanlığına yapılmış sayılacağı hüküm altına alınmıştır.
+
+Bu itibarla, emlak vergisine esas olmak üzere 2013 yılında uygulanacak bina metrekare normal inşaat maliyet bedelleri, Maliye Bakanlığı ile Çevre ve Şehircilik Bakanlığınca bu Tebliğ ekinde yer alan cetvelde belirtilen tutarlarda tespit edilmiştir.
+
+Tebliğ olunur.
+
+——————————
+
+(1) 11/8/1970 gün ve 13576 sayılı Resmî Gazete’de yayımlanmıştır.
+
+(2) 15/3/1972 gün ve 14129 sayılı Resmî Gazete’de yayımlanmıştır.
+
+**2013 YILI İÇİN BİNALARIN METREKARE NORMAL İNŞAAT MALİYET BEDELLERİNİ GÖSTERİR CETVELİ görmek için tıklayınız**

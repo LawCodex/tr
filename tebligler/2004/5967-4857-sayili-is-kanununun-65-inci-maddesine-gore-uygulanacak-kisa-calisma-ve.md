@@ -1,0 +1,37 @@
+---
+title: "4857 SAYILI İŞ KANUNUNUN 65 İNCİ MADDESİNE GÖRE UYGULANACAK KISA ÇALIŞMA VE KISA ÇALIŞMA ÖDENEĞİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 1)"
+identifier: "9.5.5967"
+number: "5967"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2004-08-26
+official_gazette_date: 2004-08-26
+official_gazette_number: "25565"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5967&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# 4857 SAYILI İŞ KANUNUNUN 65 İNCİ MADDESİNE GÖRE UYGULANACAK KISA ÇALIŞMA VE KISA ÇALIŞMA ÖDENEĞİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 1)
+
+**4857 SAYILI İŞ KANUNUNUN 65 İNCİ MADDESİNE GÖRE UYGULANACAK KISA ÇALIŞMA VE KISA ÇALIŞMA ÖDENEĞİNE**
+
+**İLİŞKİN TEBLİĞ (TEBLİĞ NO: 1)**
+
+1- Bu Tebliğin amacı; 4857 sayılı İş Kanununun 65 inci maddesine dayanılarak çıkarılan ve 31.03.2004 tarih ve 25419 sayılı Resmi Gazete'de yayımlanan "Kısa Çalışma ve Kısa Çalışma Ödeneğine İlişkin Yönetmelik"in uygulanmasında karşılaşılan tereddütlerin ortadan kaldırılarak, ilgililerin gereksiz başvuru ve işlemlerde bulunmalarını önlemektir.
+
+2- İşverenin yaptığı bildirim, öncelikle Türkiye İş Kurumu tarafından sebep ve şekil yönünden değerlendirilir.
+
+3- Yönetmeliğin 6 ncı maddesi uyarınca, Çalışma ve Sosyal Güvenlik Bakanının genel ekonomik krizin varlığını kabul eden açıklaması bulunmadan, genel ekonomik kriz gerekçesi ile yapılan başvurulara, Türkiye İş Kurumu tarafından, kısa çalışma talebinin uygun bulunmadığı bildirilir.
+
+4- Yönetmeliğin 3 üncü maddesindeki zorlayıcı sebep tanımına girmeyen kısa çalışma, faaliyetin kısmen veya tamamen durdurulma hallerinde işverenin bildirim yükümlülüğü bulunmamaktadır. Bu tür bildirimler 4857 sayılı İş Kanununun 65 nci madde kapsamı dışında kabul edilir.
+
+Zorlayıcı sebeplerle bağdaşmadığı halde, nakit darlığı, ödeme güçlüğü, pazar daralması ve stok artışı gibi işyeri ekonomik kriz sebeplerine dayalı olarak yapılan başvurular için uygunluk tespiti yapılmayacaktır. Bu tür başvurular da Türkiye İş Kurumunca yanıtlanır.
+
+Türkiye İş Kurumu Genel Müdürlüğünce zorlayıcı sebepler içinde değerlendirilen başvurular, uygunluk tespiti için Çalışma ve Sosyal Güvenlik Bakanlığı İş Teftiş Kurulu Başkanlığına intikal ettirilir.
+
+Tebliğ olunur.

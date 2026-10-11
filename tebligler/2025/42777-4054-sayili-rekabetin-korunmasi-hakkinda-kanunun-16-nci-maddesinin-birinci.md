@@ -1,0 +1,31 @@
+---
+title: "4054 SAYILI REKABETİN KORUNMASI HAKKINDA KANUNUN 16 NCI MADDESİNİN BİRİNCİ FIKRASINDA ÖNGÖRÜLEN İDARİ PARA CEZASI ALT SINIRININ 31/12/2026 TARİHİNE KADAR GEÇERLİ OLMAK ÜZERE ARTIRILMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2026/1)"
+identifier: "9.5.42777"
+number: "42777"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2025-12-12
+official_gazette_date: 2025-12-12
+official_gazette_number: "33105"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42777&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# 4054 SAYILI REKABETİN KORUNMASI HAKKINDA KANUNUN 16 NCI MADDESİNİN BİRİNCİ FIKRASINDA ÖNGÖRÜLEN İDARİ PARA CEZASI ALT SINIRININ 31/12/2026 TARİHİNE KADAR GEÇERLİ OLMAK ÜZERE ARTIRILMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2026/1)
+
+## MADDE 1
+
+(1) 7/12/1994 tarihli ve 4054 sayılı Rekabetin Korunması Hakkında Kanunun 16 ncı maddesinin birinci fıkrasında düzenlenmiş olan idari para cezası alt sınırı, 27/11/2025 tarihli ve 33090 sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 585)’nde tespit edilen 2025 yılı için yeniden değerleme oranı olan %25,49 (yirmi beş virgül kırk dokuz) artış esas alınarak, 1/1/2026 tarihinden 31/12/2026 tarihine kadar geçerli olmak üzere 302.484,86 TL (üçyüzikibindörtyüzseksendörtliraseksenaltıkuruş) olarak belirlenmiştir.
+
+## MADDE 2
+
+(1) Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer.
+
+## MADDE 3
+
+(1) Bu Tebliğ hükümlerini Rekabet Kurumu Başkanı yürütür.

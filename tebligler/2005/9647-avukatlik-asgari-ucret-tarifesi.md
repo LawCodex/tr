@@ -1,0 +1,261 @@
+---
+title: "AVUKATLIK ASGARİ ÜCRET TARİFESİ"
+identifier: "9.5.9647"
+number: "9647"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2005-12-04
+official_gazette_date: 2005-12-04
+official_gazette_number: "26013"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9647&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# AVUKATLIK ASGARİ ÜCRET TARİFESİ
+
+**AVUKATLIK ASGARİ ÜCRET TARİFESİ**
+
+**Genel Hükümler**
+
+#### Madde 1 — Konu ve kapsam
+
+Bütün hukuki yardımlarda avukat ile iş sahipleri arasında yazılı ücret sözleşmesi yapılmamış olan veya avukatlık ücretinin kanun gereği karşı tarafa yükletilmesi gereken durumlarda, Avukatlık Kanunu ve bu Tarife hükümleri uygulanır. Bu Tarifede belirlenen ücretlerin altında avukatlık ücreti kararlaştırılamaz. Aksine yapılan sözleşmelerin ücrete ilişkin hükümleri geçersiz olup, ücrete ilişkin olarak bu tarife hükümleri uygulanır.
+
+#### Madde 2 — Avukatlık ücretinin kapsadığı işler
+
+Bu Tarifede yazılı avukatlık ücreti kesin hüküm elde edilinceye kadar olan dava, iş ve işlemler ile uzlaştırıcılık ücreti karşılığıdır. Avukat tarafından takip edilen dava veya işle ilgili olarak düzenlenen dilekçe ve yapılan diğer işlemler ayrı ücreti gerektirmez. Hükümlerin tavzihine ilişkin istemlerin ret veya kabulü halinde de avukatlık ücretine hükmedilemez.
+
+Buna karşılık, icra takipleriyle, Yargıtay, Danıştay, Askeri Yargıtay ve Sayıştay’da temyizen ve bölge idare mahkemelerinde itirazen görülen işlerin duruşmaları ayrı ücreti gerektirir.
+
+#### Madde 3 — Avukatlık ücretinin aidiyeti, sınırları ve ortak veya değişik sebeple davanın reddinde davalıların avukatlık ücreti
+
+Yargı yerlerince avukata ait olmak üzere karşı tarafa yükletilecek avukatlık ücreti, ekli Tarifede yazılı miktardan az ve üç katından çok olamaz. Bu ücretin belirlenmesinde, avukatın emeği, çabası, işin önemi niteliği ve davanın süresi göz önünde tutulur.
+
+Müteselsilen sorumlu olanlar aleyhine açılan davanın reddinde, ret sebebi ortak olan davalılar vekili lehine tek, ret sebebi ayrı olan davalılar vekili lehine ise her ret sebebi için ayrı ayrı avukatlık ücretine hükmolunur.
+
+#### Madde 4 — Birden çok avukat ile temsil
+
+Aynı hukuki yardımın birden çok avukat tarafından yapılması durumunda, karşı tarafa bir avukatlık ücretinden fazlası yükletilemez.
+
+#### Madde 5 — Ücretin tümünü haketme
+
+Hangi aşamada olursa olsun, dava ve icra takibini kabul eden avukat, Tarife hükümleri ile belirlenen ücretin tamamına hak kazanır.
+
+#### Madde 6 — Davanın konusuz kalması, feragat, kabul ve sulhte ücret
+
+Anlaşmazlık, davanın konusuz kalması, feragat, kabul ve sulh nedenleriyle; delillerin toplanmasına ilişkin ara kararı gereğinin yerine getirilmesinden önce giderilirse, Tarife hükümleriyle belirlenen ücretlerin yarısına, karar gereğinin yerine getirilmesinden sonra giderilirse tamamına hükmolunur.
+
+#### Madde 7 — Görevsizlik, yetkisizlik, dava ön şartlarının yokluğu veya husumet nedeniyle davanın reddinde, davanın nakli ve açılmamış sayılmasında ücret
+
+Görevsizlik, yetkisizlik nedeniyle dava dilekçesinin reddine, davanın nakline veya davanın açılmamış sayılmasına; delillerin toplanmasına ilişkin ara kararı gereğinin yerine getirilmesinden önce karar verilmesi durumunda, Tarifede yazılı ücretin yarısına, karar gereğinin yerine getirilmesinden sonraki aşamada ise tamamına hükmolunur.
+
+Şu kadar ki, davanın görüldüğü mahkemeye göre hükmolunacak avukatlık ücreti ikinci kısmın ikinci bölümünde yazılı miktarları geçemez.
+
+Davanın dinlenebilmesi için kanunlarda öngörülen şartının yerine getirilmemiş olması ve husumet nedeniyle davanın reddine karar verilmesinde, davanın görüldüğü mahkemeye göre Tarifenin ikinci kısmının ikinci bölümünde yazılı miktarları geçmemek üzere üçüncü kısımda yazılı avukatlık ücretine hükmolunur.
+
+Kanunlar gereği gönderme, yeni mahkemeler kurulması nedeniyle görevsizlik veya yetkisizlik kararı verilmesi durumunda avukatlık ücretine hükmedilmez.
+
+#### Madde 8 — Karşılık davada, davaların birleştirilmesinde ve ayrılmasında ücret
+
+Bir davanın takibi sırasında karşılık dava açılması, başka bir davanın bu davayla birleştirilmesi veya davaların ayrılması durumunda, her dava için ayrı ücrete hükmolunur.
+
+#### Madde 9 — Nafaka, kira tespiti ve tahliye davalarında ücret
+
+Tahliye davalarında bir yıllık kira bedeli tutarı, kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanın bir yıllık tutarı üzerinden Tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, vekalet ücreti olarak hükmolunur. Bu miktarlar, Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz.
+
+Nafaka davalarında reddedilen kısım için avukatlık ücretine hükmedilemez.
+
+#### Madde 10 — Manevi tazminat davalarında ücret
+
+Manevi tazminat davalarında avukatlık ücreti, hüküm altına alınan miktar üzerinden Tarifenin üçüncü kısmına göre belirlenir.
+
+Davanın kısmen reddi durumunda, karşı taraf vekili yararına Tarifenin üçüncü kısmına göre hükmedilecek ücret, davacı vekili lehine belirlenen ücreti geçemez.
+
+Bu davaların tamamının reddi durumunda avukatlık ücreti, Tarifenin ikinci kısmının ikinci bölümüne göre hükmolunur.
+
+#### Madde 11 — İcra ve iflas müdürlükleri ile icra mahkemelerinde ücret
+
+İcra ve İflas Müdürlüklerindeki hukuki yardımlara ilişkin avukatlık ücreti, takip sonuçlanıncaya kadar yapılan bütün işlemlerin karşılığıdır. Konusu para veya para ile değerlendirilebiliyor ise avukatlık ücreti, bu Tarifenin ikinci kısmının ikinci bölümünde icra dairelerindeki takipler için öngörülen ücretten az olamaz.
+
+Aciz belgesi alınması, takibi sonuçlandıran işlemlerden sayılır.
+
+İcra mahkemelerinde duruşma yapılırsa Tarife gereğince ayrıca avukatlık ücreti hükmedilir. Şu kadar ki bu ücret, Tarifenin ikinci kısmının ikinci bölümünün iki ve üç sıra numaralarında gösterilen iş ve davalarla ilgili hukuki yardımlara ilişkin olup, Tarifenin üçüncü kısmına göre belirlenecek avukatlık ücreti bu sıra numaralarında yazılı miktarları geçemez.
+
+Nafaka ve tahliyeye ilişkin icra takiplerinde, Tarifenin ikinci kısmının ikinci bölümündeki, icra mahkemelerinde açılan istihkak davalarında ise üçüncü kısımdaki ücretlere hükmedilir.
+
+Borçlu itiraz süresi içerisinde borcunu öderse tarifeye göre belirlenecek ücretin dörtte üçü takdir edilir.
+
+#### Madde 12 — Tarifelerin üçüncü kısmına göre ücret
+
+Tarifenin ikinci kısmının ikinci bölümünde gösterilen hukuki yardımların konusu para veya para ile değerlendirilebiliyor ise avukatlık ücreti, Tarifenin üçüncü kısmına göre belirlenir. Belirlenen bu ücret, yedinci maddenin ikinci fıkrası, dokuzuncu maddenin birinci fıkrasının son cümlesi ile onuncu maddenin son fıkrası hükümleri saklı kalmak kaydıyla, bu Tarifenin ikinci kısmının ikinci bölümüne göre tespit edilen ücretten az olamaz.
+
+#### Madde 13 — Ceza davalarında ücret
+
+Kamu davasına katılma üzerine, mahkumiyete karar verilmiş ve şahsi hak isteminin bir bölümü kabul edilmiş ise, ret edilen miktar üzerinden sanık vekili yararına hükmedilecek avukatlık ücreti Tarifenin üçüncü kısmına göre belirlenir.
+
+Ceza hükmü taşıyan özel yasa, tüzük ve kararnamelere göre yalnız para cezasına hükmolunan davalarda tarifeye göre belirlenecek avukatlık ücreti hükmolunan para cezası tutarını geçemez.
+
+CMK 141 ve devamı maddelerine göre tazminat için Ağır Ceza Mahkemelerine yapılan başvurularda, Tarifenin üçüncü kısmı gereğince avukatlık ücretine hükmedilir. Şu kadar ki, hükmedilecek bu ücret ikinci kısmın ikinci bölümünün onuncu sıra numarasındaki ücretten az olamaz.
+
+Davaya katılanın manevi tazminat istemiyle ilgili avukatlık ücretinin tespitinde onuncu madde hükmü uygulanır.
+
+Çocuk mahkemelerinde, suçun vasfına göre; sulh, asliye, ağır ceza mahkemeleri için, bu Tarifenin ikinci kısmının ikinci bölümünde öngörülen maktu ücretlere ilişkin hükümler uygulanır.
+
+#### Madde 14 — Danıştayda, Askeri Yüksek İdare Mahkemesinde, bölge idare, idare ve vergi mahkemelerinde görülen dava ve işlerde ücret
+
+Danıştay’da ilk derecede veya duruşmalı olarak temyiz yoluyla görülen dava ve işlerde, idari ve vergi dava daireleri genel kurulları ile dava dairelerinde, bölge idare, idare ve vergi mahkemelerinde davaya cevap verme sürelerinin bitimine kadar anlaşmazlığın feragat ya da kabul nedenleriyle ortadan kalkması veya bu nedenlerle davanın reddine karar verilmesi durumunda tarifede yazılı ücretin yarısına, diğer durumlarda tamamına hükmedilir.
+
+Şu kadar ki, dilekçelerin görevli mercie gönderilmesine veya dilekçenin reddine karar verilmesi durumunda avukatlık ücretine hükmolunmaz.
+
+Askeri Yüksek İdare Mahkemesinde görülen dava ve işlerde de yukarıdaki fıkralarda belirtilen hükümler uygulanır.
+
+#### Madde 15 — Uzlaşma tutanağının hazırlanmasında ücret
+
+Avukatlık Kanununun 35/A maddesinde sözü edilen uzlaşma tutanağının hazırlanmasında, konusu itibarıyla görevli mahkemeler için, bu Tarifenin ilgili kısımlarında belirlenen ücretin 1/2 si uygulanır.
+
+#### Madde 16 — Tahkimde ücret
+
+Hakem önünde yapılan her türlü hukuki yardımlarda da bu Tarife hükümleri uygulanır.
+
+#### Madde 17 — İş takibinde ücret
+
+Bu tarifeye göre iş takibi; yargı yetkisinin kullanılması ile ilgisi bulunmayan iş ve işlemlerin yapılabilmesi için, iş sahibi veya temsilci tarafından yerine getirilmesi kanunlara göre zorunlu olan iş ve işlemlerdir.
+
+Tarifede yazılı iş takibi ücreti bir veya birden çok resmi daire, kurum veya kuruluşça yapılan çeşitli işlemleri içine alsa bile, o işin sonuçlanmasına kadar yapılan bütün hukuki yardımların karşılığıdır.
+
+#### Madde 18 — Dava vekili eliyle takip olunan işlerde ücret
+
+Dava vekilleri tarafından takip olunan dava ve işlerde de bu Tarife uygulanır.
+
+#### Madde 19 — Tarifede yazılı olmayan işlerde ücret
+
+Tarifede yazılı olmayan hukuki yardımlar için, işin niteliği göz önünde tutularak, Tarifedeki benzeri işlere göre ücret belirlenir.
+
+#### Madde 20 — Uygulanacak tarife
+
+Avukatlık ücretinin takdirinde, hukuki yardımın tamamlandığı veya dava sonunda hüküm verildiği tarihte yürürlükte olan tarife esas alınır.
+
+#### Madde 21 — Yürürlük
+
+Bu Tarife yayımı tarihinde yürürlüğe girer.
+
+**AVUKATLIK ÜCRET TARİFESİ**
+
+## BİRİNCİ KISIM
+
+### BİRİNCİ BÖLÜM
+
+<table>
+<tr><td colspan="2">Dava ve Takiplerin Dışındaki Hukuki Yardımlarda Ödenecek Ücret</td></tr>
+<tr><td>1. Büroda sözlü danışma (ilk bir saate kadar)<br>takip eden her saat için</td><td>100.000.000.TL (100,00 YTL)<br>50.000.000.TL ( 50,00 YTL)</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td>2. Çağrı üzerine gidilen yerde sözlü danışma (ilk bir saate kadar)<br>takip eden her saat için</td><td>200.000.000.TL (200,00 YTL)<br>100.000.000.TL (100,00 YTL)</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td>3. Yazılı danışma için</td><td>200.000.000.TL (200,00 YTL)</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td>4. Her türlü dilekçe yazılması, ihbarname, ihtarname, protesto<br>düzenlenmesinde</td><td>100.000.000.TL (100,00 YTL)</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td>5. Sözleşmeler ve benzeri belgelerin hazırlanması</td><td></td></tr>
+<tr><td>a) Kira sözleşmesi ve benzeri<br>b) Tüzük, yönetmelik, miras sözleşmesi, vasiyetname, vakıf senedi ve benzeri belgelerin hazırlanması<br>c) Şirket ana sözleşmesi, şirketlerin devir ve birleşmesi vb. ticari işlerle ilgili sözleşmeler.</td><td>175.000.000.TL (175,00 YTL)<br>600.000.000.TL (600,00 YTL)<br>600.000.000.TL (600,00 YTL)</td></tr>
+</table>
+
+### İKİNCİ BÖLÜM
+
+<table>
+<tr><td colspan="2">İş Takibi Konusundaki Hukuki Yardımlarda Ödenecek Ücret</td></tr>
+<tr><td>1. Bir durumun belgelendirilmesi, ödeme aşamasındaki paranın tahsili veya bir belgenin örneğinin çıkarılması gibi işlerin takibi için</td><td>140.000.000.TL (140,00 YTL)</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td>2. Bir hakkın doğumu, tespiti, tescili, nakli, değiştirilmesi, sona<br>erdirilmesi veya korunması gibi amaçlarla yapılan işler için</td><td>225.000.000.TL (225,00 YTL)</td></tr>
+<tr><td>3.Tüzel kişi tacirlerin ana sözleşmelerinin onanması, bu tacirlerin çalışma konuları ile ilgili ruhsat ve imtiyazların alınması, devri ve Türk vatandaşlığına kabul edilme gibi işlerin takibi için</td><td>1.000.000.000.TL (1.000,00 YTL)</td></tr>
+<tr><td>4. Vergi uzlaşma komisyonlarında takip edilen işler için<br>5. Uluslararası yargı yerlerinde takip edilen işlerde<br>a) Duruşmasız ise<br>b) Duruşmalı ise<br>c) Konusu para olan işlerde ise ücret Tarifenin üçüncü kısmına göre belirlenir</td><td>400.000.000.TL (400,00 YTL)<br>2.000.000.000.TL (2.000,00 YTL)<br>3.500.000.000.TL (3.500,00 YTL)</td></tr>
+</table>
+
+### ÜÇÜNCÜ BÖLÜM
+
+<table>
+<tr><td colspan="2">Avukatlık Kanununun 35 inci Maddesi Gereğince Bulundurulması Zorunlu Sözleşmeli Avukatlara Aylık Ödenecek Ücret</td></tr>
+<tr><td>1. Yapı kooperatiflerinde</td><td>330.000.000.TL (330,00 YTL)</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td>2. Anonim şirketlerde</td><td>550.000.000.TL (550,00 YTL)</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td colspan="2">Takip edilen dava, takip ve işlerde tarifeye göre hesaplanacak vekalet ücreti yıllık avukatlık ücretinin üzerinde olduğu takdirde aradaki miktar avukata ödenir.</td></tr>
+</table>
+
+### DÖRDÜNCÜ BÖLÜM
+
+<table>
+<tr><td>1- Kamu Kurum ve Kuruluşlarıyla Özel Kişi ve Tüzel Kişilerin Sözleşmeli Avukatlarına Ödeyecekleri Aylık Avukatlık Ücreti</td><td>550.000.000.TL (550,00 YTL)</td></tr>
+<tr><td colspan="2">Takip edilen dava, takip ve işlerde tarifeye göre hesaplanacak vekalet ücreti yıllık avukatlık ücretinin üzerinde olduğu takdirde aradaki miktar avukata ödenir.</td></tr>
+</table>
+
+| 2- Bir avukat yanında aylıklı olarak çalışan avukatın aylık ücreti | 1.000.000.000.TL (1.000,00 YTL) |
+| --- | --- |
+
+### BEŞİNCİ BÖLÜM — Uzlaştırma
+
+| Uzlaştırıcıya (CMK 253) ödenecek ücret | 250.000.000.TL (250,00 YTL) |
+| --- | --- |
+
+## İKİNCİ KISIM
+
+### BİRİNCİ BÖLÜM — Yargı Yerlerinde, İcra ve İflas Dairelerinde Yapılan ve Konusu Para Olsa veya Para ile Değerlendirilebilse Bile Maktu Ücrete Bağlı Hukuki Yardımlara Ödenecek Ücret
+
+| 1. Görülmekte olan bir dava içinde olmamak koşulu ile ihtiyati haciz, ihtiyati tedbir, delillerin tespiti, icranın geri bırakılması, ödeme ve tevdi yeri belirlenmesi işleri için: <br> a) Duruşmasız ise <br> b) Duruşmalı ise <br> Şu kadar ki, duruşmasızlarda (850.000.000.TL) (850,00 YTL) liraya, duruşmalılarda (1.170.000.000.TL) (1.170,00 YTL) liraya kadar istenen ihtiyati haciz ve tedbirler için üçüncü kısma göre avukatlık ücreti uygulanır. | 100.000.000.TL (100,00 YTL) <br> 150.000.000.TL (150,00 YTL) |
+| --- | --- |
+|  |  |
+| 2. Ortaklığın giderilmesi için satış memurluğunda yapılacak <br> işlerin takibi için | 200.000.000.TL (200,00 YTL) |
+|  |  |
+| 3. Ortaklığın giderilmesi ve taksim davaları için | 400.000.000.TL (400,00 YTL) |
+|  |  |
+| 4. Vergi mahkemelerinde takip edilen dava ve işler için <br> a) Duruşmasız ise <br> b) Duruşmalı ise <br> Şu kadar ki, davanın ilişkin bulunduğu vergi miktarı duruşmasızlarda (2.500.000.000.TL) (2.500,00 YTL) liraya, duruşmalılarda (3.300.000.000.TL) (3.300,00 YTL) liraya kadar olan işlerde üçüncü kısma göre avukatlık ücreti uygulanır. | 275.000.000.TL (275,00 YTL) <br> 400.000.000.TL (400,00 YTL) |
+
+### İKİNCİ BÖLÜM — Yargı Yerleri ile İcra ve İflas Dairelerinde Yapılan ve Konusu Para Olmayan veya Para ile Değerlendirilemeyen Hukuki Yardımlara Ödenecek Ücret
+
+| 1. İcra dairelerinde yapılan takipler için | 110.000.000.TL (110,00 YTL) |
+| --- | --- |
+|  |  |
+| 2. İcra Mahkemelerinde takip edilen işler için | 110.000.000.TL (110,00 YTL) |
+|  |  |
+| 3. İcra Mahkemelerinde takip edilen dava ve duruşmalı işler için | 200.000.000.TL (200,00 YTL) |
+|  |  |
+| 4. İcra mahkemelerinde takip edilen ceza işleri için | 110.000.000.TL (110,00 YTL) |
+| 5. Ceza soruşturma evresinde takip edilen işler için | 175.000.000.TL (175,00 YTL) |
+| 6. Sulh mahkemelerinde takip edilen davalar için | 200.000.000.TL (200,00 YTL) |
+|  |  |
+| 7. Asliye mahkemelerinde takip edilen davalar için | 400.000.000.TL (400,00 YTL) |
+| 8.  Tüketici mahkemelerinden takip edilen davalar için (Şu kadarki müddeabihi 1.500.000.000 TL’yi (1.500,00 YTL) geçen işlerde, bu tarifenin üçüncü kısmına göre Avukatlık ücreti belirlenir.) | 180.000.000.TL (180,00 YTL) |
+| 9. Fikri ve sınai haklar mahkemelerinde takip edilen davalar için <br> (Şu kadarki, konusu para ile ölçülebilen işlerde, müddeabihin 10.000.000.000 TL’yi (10.000,00 YTL) geçmesi halinde, bu tarifenin üçüncü kısmına göre Avukatlık ücreti belirlenir) <br> 10- Ağır Ceza Mahkemelerinde takip edilen davalar için | 1.100.000.000.TL (1.100,00 YTL) <br> 900.000.000.TL (900,00 YTL) |
+|  |  |
+| 11-Askeri mahkemelerde takip edilen davalar için | 500.000.000.TL (500,00 YTL) |
+| 12- İdare ve vergi mahkemelerinde takip edilen davalar için <br> (a) Duruşmasız ise <br> (b) Duruşmalı ise | 275.000.000.TL (275,00 YTL) <br> 400.000.000.TL (400,00 YTL) |
+|  |  |
+| 13- Yargıtay’da ilk derecede görülen davalar için | 900.000.000.TL (900,00 YTL) |
+| 14- Danıştay ve Askeri Yüksek İdare Mahkemesinde ilk derecede görülen davalar için <br> (a) Duruşmasız ise <br> (b) Duruşmalı ise | 400.000.000.TL (400,00 YTL) <br> 900.000.000.TL (900,00 YTL) |
+| 15- Yargıtay, Danıştay, Askeri Yargıtay ve Sayıştay’da temyiz <br> yolu ile görülen işlerin duruşması için | 450.000.000.TL (450,00 YTL) |
+| 16- Uyuşmazlık Mahkemesindeki davalar için | 450.000.000.TL (450,00 YTL) |
+| 17- Anayasa Mahkemesinde görülen dava ve işler için <br> a) Yüce Divan sıfatı ile bakılan davalar <br> b) Diğer dava ve işler | 1.500.000.000.TL (1.500,00 YTL) <br> 800.000.000.TL ( 800,00 YTL) |
+
+## ÜÇÜNCÜ KISIM — Yargı Yerleri ile İcra ve İflas Dairelerinde Yapılan ve Konusu Para Olan veya Para ile Değerlendirilebilen Hukuki Yardımlara Ödenecek Ücret
+
+| 1. İlk (6.000.000.000.TL) (6.000,00 YTL) lira için | %12 |
+| --- | --- |
+|  |  |
+| 2. Sonra gelen (12.000.000.000.TL) (12.000,00 YTL) lira için | %10 |
+|  |  |
+| 3. Sonra gelen ( 42.000.000.000.TL) (42.000,00 YTL) lira için | %8 |
+|  |  |
+| 4. Sonra gelen ( 120.000.000.000.TL) (120.000,00 YTL) lira için | % 6 |
+|  |  |
+| 5. Sonra gelen (320.000.000.000.TL) (320.000,00 YTL) lira için | % 4 |
+
+| 6. Sonra gelen (500.000.000.000.TL) (500.000,00 YTL) lira için | % 2 |
+| --- | --- |
+|  |  |
+| 7.Sonra gelen (800.000.000.000.TL) (800.000,00 YTL) lira için | %1 |
+|  |  |
+| 8.1.800.000.000.000.TL (1.800.000,00 YTL) liradan yukarısı için | % 0.1 |

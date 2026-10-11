@@ -1,0 +1,99 @@
+---
+title: "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/3)"
+identifier: "9.5.9906"
+number: "9906"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2006-02-10
+official_gazette_date: 2006-02-10
+official_gazette_number: "26076"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9906&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/3)
+
+İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ
+
+**(TEBLİĞ NO: 2006/3)**
+
+## Madde 1 — Başvuru
+
+3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 30/10/1999 tarihli ve 23861 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde yerli üreticiler BOSSA Ticaret ve Sanayi İşletmeleri T.A.Ş., Güney Mensucat Sanayi ve Ticaret A.Ş., Berdan Tekstil Sanayi ve Ticaret A.Ş., Özbucak Sanayi ve Ticaret A.Ş. ve Mensa Mensucat Sanayi ve Ticaret A.Ş., Çin Halk Cumhuriyeti (ÇHC) menşeli “sentetik ve suni devamsız liflerden dokunmuş mensucat”ın ithalinde halen uygulanmakta olan dampinge karşı önlemin sona ermesinin damping ve zararın devamına veya yeniden tekrarına yol açacağı gerekçesiyle bir nihai gözden geçirme soruşturması açılması istemiyle başvuruda bulunmuşlardır. Başvuru, Akın Tekstil A.Ş. firması tarafından da desteklenmektedir.
+
+Şikayetçi firmalar ile şikayeti destekleyen firmaların toplam Türkiye benzer mal üretiminin %70’ini gerçekleştirdiği anlaşılmıştır.
+
+Başvuru konusu madde
+
+## Madde 2
+
+Başvuru konusu madde 55.13, 55.14, 55.15 ve 55.16 gümrük tarife pozisyonlarında (GTP) yer alan “sentetik veya suni devamsız liflerden dokunmuş mensucat”tır.
+
+## Madde 3 — Mevcut önlem
+
+Halen, 15/02/2001 tarih ve 24319 sayılı Resmi Gazete'de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2001/2 sayılı Tebliğ ile, ÇHC menşeli söz konusu maddenin Türkiye’ye ithalatında CIF değerin %87’si oranında dampinge karşı önlem uygulanmaktadır.
+
+## Madde 4 — Gerekçe
+
+Yapılan incelemede, ÇHC menşeli önleme konu maddenin dampingli ihracatının devam ettiği, mevcut önlemin yürürlükten kaldırılması halinde bu ülkeden önemli miktarlarda dampingli fiyatlı sentetik veya suni devamsız liflerden dokunmuş mensucatın Türkiye’ye ihraç edilebileceği ve dolayısıyla yerli üretim dalında zararın devam edebileceği konusunda yeterli delillerin bulunduğu sonucuna varılmıştır.
+
+## Madde 5 — Karar ve işlemler
+
+Bir nihai gözden geçirme soruşturmasının açılabilmesi için yeterli bilgi, belge ve delillerin mevcut olduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu’nca ÇHC menşeli söz konusu madde için, Yönetmelik'in 35 inci maddesi çerçevesinde nihai gözden geçirme soruşturması açılmasına karar verilmiştir.
+
+Soruşturmaya konu mevcut önlem, Yönetmelik'in 35 inci maddesi gereğince, soruşturma sonuçlanıncaya kadar devam eder.
+
+## Madde 6 — Piyasa ekonomisi değerlendirmesi
+
+Dış Ticaret Müsteşarlığı İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından soruşturma kapsamında normal değer tespitine karar verilmesi halinde; ÇHC’de soruşturmaya tabi üretici veya üreticilerin soruşturma konusu ürünün üretiminde ve satışında Yönetmelik Ek Madde 1 deki ölçütler çerçevesinde piyasa ekonomisi koşullarının geçerli olduğunu Tebliğ’in 8 inci maddesinde belirtilen süre içinde yeterli deliller ile ispat etmesi durumunda Yönetmelik’in 5 inci maddesi, aksi takdirde Yönetmelik’in 7 nci maddesi hükümleri uygulanır. Yönetmelik’in 7 nci maddesi hükümlerinin tatbiki halinde ÇHC için serbest piyasa ekonomisi uygulayan emsal üçüncü ülke olarak Türkiye’nin seçilmesi öngörülmektedir.
+
+## Madde 7 — Soru formları ve bilgilerin toplanması
+
+Soruşturma için gerekli bilgilerin temini amacıyla söz konusu maddenin Genel Müdürlükçe bilinen Türkiye’deki ithalatçılarına, yurt dışındaki üretici ve ihracatçılarına soru formları gönderilecektir. Söz konusu tarafların soru formu gönderi listesinde yer alıp almadıklarını öğrenmek üzere Genel Müdürlük ile temasa geçerek bilgi almaları gerekmektedir. Soru formu gönderi listesinde yer almadığını öğrenen veya makûl bir süre içinde soru formunu alamayan tarafların en geç bu Tebliğ’in yayımı tarihinden itibaren 15 gün içerisinde soru formu talebinde bulunması ve soru formlarını doldurarak 8 inci maddede belirtilen süreler içerisinde Genel Müdürlüğe ulaştırmaları gerekmektedir.
+
+Ayrıca, soru formunun ilgili ülkedeki üretici ve ihracatçılara iletilmesini kolaylaştırmak ve çabuklaştırmak amacıyla, soruşturma konusu ülkenin Türkiye’deki resmi temsilciliğine de soru formu gönderilecektir.
+
+## Madde 8 — Süreler
+
+Soru formlarına cevap verme süresi, soru formlarının gönderildiği tarihten itibaren posta süresi dahil 37 gündür. Tebliğ’in 7 nci maddesinde de belirtilen, sonradan soru formu talebinde bulunan taraflar ise bu Tebliğ’in yayımı tarihinden itibaren işleyecek 37 günlük süre ile bağlıdırlar.
+
+Soruşturmayla ilgili tarafların sundukları diğer her türlü bilgi ve belgenin dikkate alınabilmesi için, Tebliğ’in yayımı tarihinden itibaren en geç 37 gün içerisinde yazılı olarak Genel Müdürlüğe ulaştırılması gerekmektedir.
+
+Soruşturmanın sonucundan etkilenebileceklerini iddia eden ancak 7 nci maddede belirtilmeyen diğer ilgili tarafların da (ürünü girdi olarak kullanan işletmeler, bunların meslek kuruluşları, tüketici dernekleri, üretim dalındaki işçi veya işveren sendikaları, vb.) görüşlerini bu Tebliğ’in yayımı tarihinden itibaren 37 gün içerisinde yazılı olarak Genel Müdürlüğe bildirmeleri gerekmektedir.
+
+## Madde 9 — İşbirliğine gelinmemesi
+
+İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik’in 26 ncı maddesinde belirtildiği üzere, taraflardan birinin belirtilen süreler içinde gerekli bilgiyi sağlamaması veya yanlış bilgi vermesi ya da bilgi vermeyi reddetmesi veya soruşturmayı engellediğinin anlaşılması halinde soruşturmaya ilişkin karar, olumlu veya olumsuz, mevcut verilere göre alınacaktır.
+
+## Madde 10 — Yetkili merci ve adresi
+
+Soruşturmayla ilgili bilgi ve belgeler ile görüşlerin aşağıda belirtilen yetkili mercie iletilmesi gerekmektedir:
+
+Başbakanlık Dış Ticaret Müsteşarlığı
+
+İthalat Genel Müdürlüğü
+
+Damping ve Sübvansiyon Araştırma Dairesi
+
+İnönü Bulvarı, 06510 Emek/ANKARA
+
+Tel: +90 (312) 204 77 26 veya 204 77 05
+
+Faks: +90 (312) 205 09 17
+
+## Madde 11 — Soruşturmanın başlangıç tarihi
+
+Soruşturma, bu Tebliğ’in yayımı tarihinde başlamış kabul edilir.
+
+## Madde 12 — Yürürlük
+
+Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## Madde 13 — Yürütme
+
+Bu Tebliğ hükümlerini Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan yürütür.

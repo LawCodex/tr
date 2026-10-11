@@ -1,0 +1,49 @@
+---
+title: "ETİL ALKOL VE METANOLÜN ÜRETİMİ İLE İÇ VE DIŞ TİCARETİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 25 İNCİ VE 26 NCI MADDELERİNİN UYGULANMASINA DAİR TEBLİĞ (TEBLİĞ NO: 2025/40)"
+identifier: "9.5.42833"
+number: "42833"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2025-12-30
+official_gazette_date: 2025-12-30
+official_gazette_number: "33123"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42833&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ETİL ALKOL VE METANOLÜN ÜRETİMİ İLE İÇ VE DIŞ TİCARETİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 25 İNCİ VE 26 NCI MADDELERİNİN UYGULANMASINA DAİR TEBLİĞ (TEBLİĞ NO: 2025/40)
+
+## MADDE 1
+
+(1) 30/10/2011 tarihli ve 28100 sayılı Resmî Gazete’de yayımlanan Etil Alkol ve Metanolün Üretimi ile İç ve Dış Ticaretine İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 25 inci maddesi gereğince 2026 yılında izin belgesi bedelleri aşağıdaki şekilde belirlenmiştir:
+
+a) Tesis Kurma Uygunluk Belgesi bedeli: Her bin litre proje kapasitesi başına 485,38 TL (Dörtyüzseksenbeş Türk Lirası, otuzsekiz kuruş).
+
+b) Üretim ve Faaliyet Uygunluk Belgesi bedeli: 404.387 TL (Dörtyüzdörtbinüçyüzseksenyedi Türk Lirası).
+
+c) Dağıtım Uygunluk Belgesi bedeli: 404.387 TL (Dörtyüzdörtbinüçyüzseksenyedi Türk Lirası).
+
+ç) Dağıtım Uygunluk Belgesi yenileme bedeli: 48.483 TL (Kırksekizbindörtyüzseksenüç Türk Lirası).
+
+## MADDE 2
+
+(1) Aynı Yönetmeliğin 26 ncı maddesi gereğince alınan hizmet bedelleri aşağıdaki şekilde belirlenmiştir:
+
+a) 20 litre ve daha küçük ambalajlı etil alkol ve alkollü karışımlar: Beher bin litre başına 994,54 TL (Dokuzyüzdoksandört Türk Lirası, ellidört kuruş).
+
+b) 20 litreden büyük ambalajlı ve dökme etil alkoller: Beher bin litre başına 404,49 TL (Dörtyüzdört Türk Lirası, kırkdokuz kuruş).
+
+c) Yakıt biyoetanolü: Beher bin litre başına 169,61 TL (Yüzaltmışdokuz Türk Lirası altmışbir kuruş).
+
+## MADDE 3
+
+(1) Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer.
+
+## MADDE 4
+
+(1) Bu Tebliğ hükümlerini Tarım ve Orman Bakanı yürütür.

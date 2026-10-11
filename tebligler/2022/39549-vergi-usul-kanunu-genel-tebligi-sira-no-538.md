@@ -1,0 +1,171 @@
+---
+title: "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 538)"
+identifier: "9.5.39549"
+number: "39549"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2022-05-31
+official_gazette_date: 2022-05-31
+official_gazette_number: "31852"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39549&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 538)
+
+## MADDE 1 — Amaç ve kapsam
+
+(1) Vergiye uyum düzeyinin ve kayıt dışı ekonomi ile mücadelede etkinliğin artırılmasına hizmet etmek amacıyla vergi kanunları çerçevesinde vergiye tabi olay ve bu olaya ilişkin işlemlerin kavranabilmesi büyük önemi haizdir.
+
+(2) Bu kapsamda, internet ortamında yayımlanan ilanlara yönelik bazı bilgilerin alınmasına ilişkin usul ve esasların belirlenmesi bu Tebliğin amaç ve kapsamını oluşturmaktadır.
+
+## MADDE 2 — Yasal düzenlemeler
+
+(1) 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun;
+
+a) 149 uncu maddesinde, “Kamu idare ve müesseseleri (Kamu hizmeti ifa eden kurum ve kuruluşlar dahil) ile gerçek ve tüzelkişiler vergilendirmeye ilişkin olaylarla ilgili olarak Maliye ve Gümrük Bakanlığı ve vergi dairesince kendilerinden yazı ile istenecek bilgileri belli fasılalarla ve devamlı olarak yazı ile vermeye mecburdurlar.”,
+
+b) Mükerrer 257 nci maddesinin birinci fıkrasında, “Maliye Bakanlığı;
+
+….
+
+4. Bu Kanunun 149 uncu maddesine göre devamlı bilgi vermek zorunda olanlardan istenilen bilgiler ile beyanname, bildirim, yazı, dilekçe, tutanak, rapor ve diğer belgelerin, şifre, elektronik imza veya diğer güvenlik araçları kullanılmak suretiyle internet de dâhil olmak üzere her türlü elektronik bilgi iletişim araç ve ortamında verilmesine, beyanname, bildirim, yazı, dilekçe, tutanak, rapor ve diğer belgelerin yetki verilmiş gerçek veya tüzel kişiler aracı kılınarak gönderilmesi hususlarında izin vermeye, standart belirlemeye veya zorunluluk getirmeye, beyanname, bildirim, yazı, dilekçe, tutanak, rapor ve diğer belgeler ile bilgilerin aktarımında uyulacak format ve standartlar ile uygulamaya ilişkin usul ve esasları tespit etmeye, bu zorunluluk veya standartları beyanname, bildirim, yazı, dilekçe, tutanak, rapor ve diğer belgeler veya bilgi ve işlem çeşitleri, mükellef grupları ve faaliyet konuları itibarıyla ayrı ayrı uygulatmaya ya da belirlemeye, ….
+
+….
+
+**(Değişik ibare:RG-5/9/2026-33361)** 7. Elektronik ticarette ve internet dâhil olmak üzere her türlü dijital ortamın alım, satım, kiralama, ilan ve reklam gibi iktisadi ve ticari amaçlarla kullanıldığı hallerde vergi güvenliğini sağlamak amacıyla elektronik ortamda iktisadi ve ticari faaliyette bulunan gerçek ya da tüzel kişi hizmet sağlayıcılara, elektronik ticaret hizmet sağlayıcılara, başkalarına ait iktisadi ve ticari faaliyetlerin yapılmasına ortam sağlayan gerçek ve tüzel kişi aracı hizmet sağlayıcılara, elektronik ticaret aracı hizmet sağlayıcılara, erişim sağlayıcılara, içerik sağlayıcılara, yer sağlayıcılara ve sosyal ağ sağlayıcılara iktisadi ve ticari faaliyetlerine ilişkin bildirim verme yükümlülüğü getirmeye, bildirimin içerik, format, standart, verilme süresi ve yöntemini belirlemeye, bunlarda değişiklik yapmaya, bildirim verme yükümlülüğünü iş hacmi, sektör, mükellef grupları, alış-satış tutarı, alım, satım, kiralama, ilan ve reklama konu mal ve hizmet türleri itibarıyla belirlemeye, başkalarına ait iktisadi ve ticari faaliyetlerin yapılmasına ilişkin bildirime konu bilgiler ile içerik sağlayıcılar tarafından üretilen ya da sağlanan bilgilerin aracı hizmet sağlayıcıları, elektronik ticaret aracı hizmet sağlayıcıları, erişim sağlayıcılar, yer sağlayıcılar ve/veya sosyal ağ sağlayıcılar tarafından alınması zorunluluğunu getirmeye, bu bent kapsamındaki bilgi ve bildirimlerin elektronik ortamda muhafaza ve ibraz edilmesi yükümlülüğü getirmeye ve uygulamaya ilişkin diğer usul ve esasları belirlemeye,
+
+….
+
+Yetkilidir. …”
+
+hükümleri yer almaktadır.
+
+## MADDE 3 — Tanımlar ve kısaltmalar
+
+(1) Bu Tebliğ uygulamasında;
+
+a) Aracı hizmet sağlayıcı: 23/10/2014 tarihli ve 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanunda tanımlanan başkalarına ait iktisadi ve ticari faaliyetlerin yapılmasına elektronik ticaret ortamını sağlayan gerçek ya da tüzel kişiyi,
+
+b) Banka: 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununa göre faaliyette bulunan bankaları,
+
+c) Başkanlık: Gelir İdaresi Başkanlığını,
+
+ç) BTRANS: Gelir İdaresi Başkanlığı Bilgi Transfer Sistemini,
+
+d) İlan veren: İnternet ortamında kendisine ve/veya üçüncü kişilere yönelik her türlü ilanı veren gerçek ve tüzel kişiyi,
+
+e) Ödeme hizmeti: 5411 sayılı Kanuna göre faaliyette bulunan bankalar aracılığıyla yapılan ödemeler ile 20/6/2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanunun 12 nci maddesinde belirtilen hizmetleri,
+
+f) Ödeme kuruluşu: 6493 sayılı Kanun kapsamında yetkilendirilmiş tüzel kişiyi,
+
+g) Sosyal ağ sağlayıcı: 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanunun 2 nci maddesinde tanımlanan sosyal etkileşim amacıyla kullanıcıların internet ortamında metin, görüntü, ses, konum gibi içerikleri oluşturmalarına, görüntülemelerine veya paylaşmalarına imkân sağlayan gerçek veya tüzel kişileri,
+
+ğ) Taşınır: 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun 762 nci maddesi uyarınca mülkiyete konu olabilen eşyaları,
+
+h) Taşınmaz: 4721 sayılı Kanunun 704 üncü maddesinde sayılan arazi, tapu kütüğünde ayrı sayfaya kaydedilen bağımsız ve sürekli haklar ile kat mülkiyeti kütüğüne kayıtlı bağımsız bölümleri,
+
+ı) TCKN: Türkiye Cumhuriyeti kimlik numarasını,
+
+i) VKN: Vergi kimlik numarasını,
+
+j) Yer sağlayıcı: 5651 sayılı Kanunun 2 nci maddesinde tanımlanan ve hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişileri,
+
+k) YKN: Yabancı kimlik numarasını,
+
+ifade eder.
+
+## MADDE 4 — Sürekli bilgi verme zorunluluğu getirilenler ve bildirilecek bilgiler
+
+(1) Taşınır ve taşınmazlar ile mal ve hizmetlerin alınması, satılması veya kiralanmasının temin edilmesine yönelik olarak verilen ilanların yayımlanmasına aracılık eden aracı hizmet sağlayıcıları, **(Mülga ibare:RG-5/9/2026-33361)** takvim yılının birer aylık süreleri içerisinde gerçekleştirmiş oldukları söz konusu işlemlere ilişkin olarak;
+
+a) Verilen hizmetin sağlandığı internet adres veya adreslerini,
+
+b) Hizmet verilen gerçek ya da tüzel kişilere ait ad soyad/unvan, TCKN/YKN/VKN **(Değişik ibare:RG-5/9/2026-33361)** gibi mükellefiyet tespitine ilişkin bilgileri,
+
+c) Hizmet verilenler adına gerçekleştirilen taşınır, taşınmaz, mal ve hizmet satış/kiralama işlemlerine ilişkin her bir tahsilat veya satış işlemi tutarı ve tarihi ile tahsil edilen tutarların aracılık hizmeti verilenlere ödenmesine ilişkin banka hesap bilgilerini,[^1]
+
+ç) **(Değişik:RG-5/9/2026-33361)** Hizmet verilenler adına gerçekleştirilen taşınır, taşınmaz, mal ve hizmet satış/kiralama işlemlerine ilişkin ilan bilgilerini,
+
+elektronik ortamda bu Tebliğin 5 inci maddesinde açıklanan yöntemle Başkanlık sistemlerine bildirmek zorundadır.
+
+(2) **(Ek:RG-5/9/2026-33361)**[^2] Taşınır ve taşınmazlar ile mal ve hizmetlerin alınması, satılması veya kiralanmasının temin edilmesine yönelik olarak verilen ilanların yayımlanmasına imkân sağlayan yer sağlayıcılar ile sosyal ağ sağlayıcılar takvim yılının birer aylık süreleri içerisinde gerçekleştirmiş oldukları söz konusu işlemlere ilişkin olarak;
+
+a) Verilen hizmetin sağlandığı internet adres veya adreslerini,
+
+b) Hizmet verilen gerçek ya da tüzel kişilere ait ad soyad/unvan, TCKN/YKN/VKN gibi mükellefiyet tespitine ilişkin bilgileri,
+
+c) Hizmet verilenler adına gerçekleştirilen taşınır, taşınmaz, mal ve hizmet satış/kiralama işlemlerine ilişkin ilan bilgilerini,
+
+elektronik ortamda 5 inci maddede açıklanan yöntemle Başkanlık sistemlerine bildirmek zorundadır.
+
+(3) Birinci fıkrada sayılanların, ödemelere ilişkin olarak satıcının/kiralayanın ticari temsilcisi olması sebebiyle ödemeye aracılık etmesi veya ödeme hizmetini bir dış hizmet olarak banka veya ödeme kuruluşundan alması bilgi verme yükümlülüğünü etkilemeyecektir.1
+
+(4) Aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcılar üzerinden ilan verenler, verdikleri ilanlara yönelik olarak söz konusu sağlayıcıların bu madde kapsamında Başkanlığa bildirmek zorunda olduğu bilgileri bunlara vermek zorundadırlar. Verilen ilanın konusu olan taşınır, taşınmaz, mal veya hizmetlerin mülkiyetinin ilan veren dışındaki bir gerçek veya tüzel kişiye ait olması durumunda, mülkiyet sahibine ilişkin bilgilerin de aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcılara bildirilmesi zorunludur.
+
+(5) Aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcılar kendilerine **(Değişik ibare:RG-5/9/2026-33361)** dördüncü fıkra kapsamında bildirimde bulunmayan ilan verenlere ilişkin bilgileri bu Tebliğin 5 inci maddesinde belirtilen yöntemle Başkanlığa bildirecektir.
+
+## MADDE 5 — Verilecek bilgilere ilişkin format ve bilgi verme dönemi
+
+(1) Bu Tebliğin 4 üncü maddesi kapsamında sürekli bilgi verme yükümlülüğü getirilenlerin bildirmesi gereken bilgilere ilişkin veri format ve standardı Başkanlık tarafından BTRANS aracılığıyla duyurulacak ve bilgiler bu Sistem üzerinden Başkanlığa bildirilecektir.
+
+(2) Bu Tebliğ kapsamında bildirilmesi zorunlu olan bilgiler Başkanlığa aylık olarak bildirilecektir. Bir aya ait bilgilerin, takip eden ayın son günü saat 23.59’a kadar bildirilmesi zorunludur.
+
+(3) Başkanlık, bildirilmesi zorunlu olan bilgilerin kapsam ve içeriğinin belirlenmesinde yetkili olup, bunlar ile bunlara ilişkin veri format ve standardında yapılacak değişiklikler BTRANS aracılığıyla duyurulacaktır.
+
+## MADDE 6 — Sorumluluk ve ceza uygulaması
+
+(1) İlan verenler, aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcıların bu Tebliğ kapsamında bildirmek zorunda oldukları bilgileri bunlara temin etmek zorunda olduğu gibi bu bilgilerin doğruluğundan da sorumludurlar.
+
+(2) Aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcılar ilan verenlerin bu Tebliğ gereğince temin etmeleri gereken bilgilerin kendilerine bildirilebilmesi için gerekli olan koşulları yerine getirmek zorundadır.
+
+(3) **(Mülga:RG-5/9/2026-33361)**
+
+(4) Başkanlıkça belirlenen format, standart ve bildirim yöntemi haricinde bildirilen bilgiler kabul edilmeyecek ve bildirim yapılmamış sayılacaktır.
+
+(5) Bilgi verme zorunluluğu getirilenler, Başkanlık sistemine bildirmekle yükümlü oldukları bilgileri 213 sayılı Kanunun defter, kayıt ve belgeler için öngördüğü muhafaza süreleri içerisinde elektronik ortamda saklamak ve istenildiğinde elektronik araçlar ve ortamlar vasıtası ile ibraz etmekle yükümlüdürler.1
+
+(6) Bu Tebliğde yapılan düzenlemeler kapsamında bildirilmesi gereken bilgileri bildirmeyen, eksik veya yanıltıcı bildirimde bulunanlar ile bu Tebliğle getirilen zorunluluklara uymayanlar hakkında 213 sayılı Kanunun ilgili ceza hükümleri tatbik olunur.
+
+## MADDE 7 — Diğer hususlar
+
+(1) Aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcıların ilk kez bildirim yapılacak tarihten önce BTRANS’ın kullanımına ilişkin başvurularını tamamlamaları gerekmektedir.
+
+(2) Aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcılar tarafından, bu Tebliğ ile bildirilmesi zorunlu olan bilgilere yayımlanacak ilanlarda yer verilmesi zorunlu olmayıp, zorunluluk bu bilgilerin Başkanlığa bildirilmesine yöneliktir.
+
+(3) Başkanlık, bu Tebliğde yer alan süreleri uzatmaya, bilgi verme dönemini bildirilecek bilgiler ve/veya mükellef grupları itibarıyla birlikte veya ayrı ayrı belirlemeye ve uygulamaya ilişkin usul ve esasları tespit etmeye yetkilidir.
+
+## GEÇİCİ MADDE 1 — İlk bildirimin yapılması
+
+(1) Bu Tebliğ kapsamında sürekli bilgi verme yükümlülüğü getirilenler, ilk bildirimlerini ilk kez 2022 Haziran ayında verilen ilanlara ilişkin olarak 1/8/2022 tarihine (31/7/2022 tarihinin hafta sonuna isabet etmesi nedeniyle) kadar Başkanlığa yapmak zorundadır. Bu Tebliğ kapsamında sürekli bilgi verme yükümlülüğü getirilenlerin, söz konusu ilanların bu Tebliğin 4 üncü ve 5 inci maddelerince bildirilmesi zorunlu olan bilgileri içerecek şekilde alınması için gerekli olan teknik çalışmaları en kısa sürede tamamlamaları gerekmektedir. Bahse konu ilanların mezkûr maddeler gereğince bu fıkra kapsamında bildirime konu edilebilmesi için ilan verenler tarafından ilanlara ilişkin ilave bilgi verilmesinin gerekmesi halinde bu durum ilan verenlere uygun yöntemlerle duyurulacak ve bu duyuruya rağmen bildirilmesi zorunlu olan bilgilerini tamamlamayanlar Başkanlığa bildirilecektir. 2022 Temmuz ve sonraki aylara ilişkin bildirimler bu Tebliğin 5 inci maddesinde yapılan açıklamalar uyarınca yapılacaktır.
+
+(2) Bu Tebliğ kapsamında sürekli bilgi verme yükümlülüğü getirilenlerin bu Tebliğin yayımlandığı tarih itibarıyla yayında olan ilanlar ile bu Tebliğin yayımlandığı tarihten 31/5/2022 tarihine kadar (bu tarih dâhil) ilk kez verilen ilanlara (bunlardan bu Tebliğin yayımlandığı tarihten 31/5/2022 tarihine kadar yayından kaldırılanlar ile 2022 Haziran ayında yayını devam eden veya yayından kaldırılanlar dâhil) ilişkin bildirimi 31/8/2022 tarihine kadar yapmaları gerekmektedir. Bu bildirimin yapılabilmesi için ilan verenler tarafından ilanlara ilişkin ilave bilgi verilmesinin gerekmesi halinde bu durum ilan verenlere uygun yöntemlerle duyurulacak ve bu duyuruya rağmen bildirilmesi zorunlu olan bilgilerini tamamlamayanlar Başkanlığa bildirilecektir.
+
+## MADDE 8 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## MADDE 9 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Hazine ve Maliye Bakanı yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Tebliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>31/5/2022</td><td>31852</td></tr>
+<tr><td colspan="2">Tebliğde Değişiklik Yapan Tebliğlerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>5/9/2026</td><td>33361</td></tr>
+<tr><td>2.</td><td></td><td></td></tr>
+<tr><td>3.</td><td></td><td></td></tr>
+</table>
+
+---
+
+[^1]: *Danıştay Üçüncü Dairesinin 29/4/2024 tarihli ve E.:2023/3109; K.:2024/2440 sayılı kararı ile bu bentler ve bu fıkralar “yer sağlayıcı” davacı yönünden iptal edilmiştir. Daha sonra VDDK’nın 22/4/2026 tarihli ve E.:2024/990; K.:2026/280 sayılı kararı ile temyiz isteminin reddine karar verilmiş olup, anılan karar kesinleşmiştir.*
+[^2]: *5/9/2026 tarihli ve 33361 sayılı Resmî Gazete’de yayımlanan değişiklik ile maddeye birinci fıkradan sonra gelmek üzere bu fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.*

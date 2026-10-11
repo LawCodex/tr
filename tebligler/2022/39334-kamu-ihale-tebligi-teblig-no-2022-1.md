@@ -1,0 +1,79 @@
+---
+title: "KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2022/1)"
+identifier: "9.5.39334"
+number: "39334"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2022-01-20
+official_gazette_date: 2022-01-20
+official_gazette_number: "31725"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39334&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2022/1)
+
+## MADDE 1 — Amaç ve kapsam
+
+(1) Bu Tebliğin amacı, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununda belirtilen eşik değerlerin ve parasal limitlerin, Türkiye İstatistik Kurumu tarafından açıklanan 2021 yılı Aralık ayı Yurt İçi Üretici Fiyat Endeksi (Yİ-ÜFE) yıllık değişim oranında (%79,89) arttırılarak güncellenmesidir.
+
+## MADDE 2 — Dayanak
+
+(1) Bu Tebliğ, 4734 sayılı Kanunun 67 nci maddesine dayanılarak hazırlanmıştır.
+
+## MADDE 3 — Güncellenen hususlar
+
+(1) Bu Tebliğ ile 1/2/2022 tarihinden itibaren geçerli olmak üzere 4734 sayılı Kanunun;
+
+a) 3 üncü maddesinin birinci fıkrasının (g) bendinde belirtilen 18.619.202,-TL (Onsekizmilyonaltıyüzondokuzbinikiyüziki Türk Lirası) 33.494.082,-TL (Otuzüçmilyondörtyüzdoksandörtbinsekseniki Türk Lirası),
+
+b) 8 inci maddesinin birinci fıkrasının;
+
+1) (a) bendinde belirtilen 2.225.824,-TL (İkimilyonikiyüzyirmibeşbinsekizyüzyirmidört Türk Lirası) 4.004.034,-TL (Dörtmilyondörtbinotuzdört Türk Lirası),
+
+2) (b) bendinde belirtilen 3.709.717,-TL (Üçmilyonyediyüzdokuzbinyediyüzonyedi Türk Lirası) 6.673.409,-TL (Altımilyonaltıyüzyetmişüçbindörtyüzdokuz Türk Lirası),
+
+3) (c) bendinde belirtilen 81.614.303,-TL (Seksenbirmilyonaltıyüzondörtbinüçyüzüç Türk Lirası) 146.815.969,-TL (Yüzkırkaltımilyonsekizyüzonbeşbindokuzyüzaltmışdokuz Türk Lirası),
+
+c) 13 üncü maddesinin birinci fıkrasının (b) bendinin;
+
+1) (1) numaralı alt bendinde belirtilen 242.832,-TL (İkiyüzkırkikibinsekizyüzotuziki Türk Lirası) 436.830,-TL (Dörtyüzotuzaltıbinsekizyüzotuz Türk Lirası), 485.689,-TL (Dörtyüzseksenbeşbinaltıyüzseksendokuz Türk Lirası) 873.705,-TL (Sekizyüzyetmişüçbinyediyüzbeş Türk Lirası),
+
+2) (2) numaralı alt bendinde belirtilen 242.832,-TL (İkiyüzkırkikibinsekizyüzotuziki Türk Lirası) 436.830,-TL (Dörtyüzotuzaltıbinsekizyüzotuz Türk Lirası), 485.689,-TL (Dörtyüzseksenbeşbinaltıyüzseksendokuz Türk Lirası) 873.705,-TL (Sekizyüzyetmişüçbinyediyüzbeş Türk Lirası), 4.047.628,-TL (Dörtmilyonkırkyedibinaltıyüzyirmisekiz Türk Lirası) 7.281.278,-TL (Yedimilyonikiyüzseksenbirbinikiyüzyetmişsekiz Türk Lirası),
+
+3) (3) numaralı alt bendinde belirtilen 485.689,-TL (Dörtyüzseksenbeşbinaltıyüzseksendokuz Türk Lirası) 873.705,-TL (Sekizyüzyetmişüçbinyediyüzbeş Türk Lirası), 4.047.628,-TL (Dörtmilyonkırkyedibinaltıyüzyirmisekiz Türk Lirası) 7.281.278,-TL (Yedimilyonikiyüzseksenbirbinikiyüzyetmişsekiz Türk Lirası),
+
+ç) 21 inci maddesinin birinci fıkrasının (f) bendinde belirtilen 404.732,-TL (Dörtyüzdörtbinyediyüzotuziki Türk Lirası) 728.072,-TL (Yediyüzyirmisekizbinyetmişiki Türk Lirası),
+
+d) 22 nci maddesinin birinci fıkrasının (d) bendinde belirtilen 121.405,-TL (Yüzyirmibirbindörtyüzbeş Türk Lirası) 218.395,-TL (İkiyüzonsekizbinüçyüzdoksanbeş Türk Lirası), 40.443,-TL (Kırkbindörtyüzkırküç Türk Lirası) 72.752,-TL (Yetmişikibinyediyüzelliiki Türk Lirası),
+
+e) 53 üncü maddesinin birinci fıkrasının (j) bendinin;
+
+1) (1) numaralı alt bendinde belirtilen 809.496,-TL (Sekizyüzdokuzbindörtyüzdoksanaltı Türk Lirası) 1.456.202,-TL (Birmilyondörtyüzellialtıbinikiyüziki Türk Lirası),
+
+2) (2) numaralı alt bendinde belirtilen 1.281.438,-TL (Birmilyonikiyüzseksenbirbindörtyüzotuzsekiz Türk Lirası) 2.305.178,-TL (İkimilyonüçyüzbeşbinyüzyetmişsekiz Türk Lirası), 7.682,-TL (Yedibinaltıyüzsekseniki Türk Lirası) 13.819,-TL (Onüçbinsekizyüzondokuz Türk Lirası), 5.125.768,-TL (Beşmilyonyüzyirmibeşbinyediyüzaltmışsekiz Türk Lirası) 9.220.744,-TL (Dokuzmilyonikiyüzyirmibinyediyüzkırkdört Türk Lirası), 15.373,-TL (Onbeşbinüçyüzyetmişüç Türk Lirası) 27.654,-TL (Yirmiyedibinaltıyüzellidört Türk Lirası), 38.443.271,-TL (Otuzsekizmilyondörtyüzkırküçbinikiyüzyetmişbir Türk Lirası) 69.155.600,-TL (Altmışdokuzmilyonyüzellibeşbinaltıyüz Türk Lirası), 23.060,-TL (Yirmiüçbinaltmış Türk Lirası) 41.482,-TL (Kırkbirbindörtyüzsekseniki Türk Lirası), 30.750,-TL (Otuzbinyediyüzelli Türk Lirası) 55.316,-TL (Ellibeşbinüçyüzonaltı Türk Lirası),
+
+f) 62 nci maddesinin birinci fıkrasının (h) bendinde belirtilen 449.259,-TL (Dörtyüzkırkdokuzbinikiyüzellidokuz Türk Lirası) 808.172,-TL (Sekizyüzsekizbinyüzyetmişiki Türk Lirası),
+
+olarak güncellenmiştir.
+
+(2) Yukarıda belirtilen eşik değerler ve parasal limitlere ilişkin olarak, bir önceki dönem ile karşılaştırmalı değerler, ayrıca tablo halinde ekte yer almaktadır.
+
+## MADDE 4 — Önceki bütçe statüleri
+
+(1) İdarelerin tabi oldukları eşik değerler ve parasal limitlerin belirlenmesinde 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun yürürlüğe girmesinden önceki bütçe statüleri göz önünde bulundurulur.
+
+## MADDE 5 — Yürürlük
+
+(1) Bu Tebliğ 1/2/2022 tarihinde yürürlüğe girer.
+
+## MADDE 6 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Kamu İhale Kurumu Başkanı yürütür.
+
+**Eki için tıklayınız.**

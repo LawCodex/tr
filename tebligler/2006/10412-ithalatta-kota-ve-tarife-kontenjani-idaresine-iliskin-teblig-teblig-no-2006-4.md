@@ -1,0 +1,169 @@
+---
+title: "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/4)"
+identifier: "9.5.10412"
+number: "10412"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2006-06-17
+official_gazette_date: 2006-06-17
+official_gazette_number: "26201"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10412&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/4)
+
+**İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ**
+
+**(TEBLİĞ NO: 2006/4)**
+
+## MADDE 1 — Kapsam
+
+(1) Bu Tebliğ 3/6/2005 tarihli ve 25834 sayılı Resmi Gazete'de yayımlanan, İthalatta Korunma Önlemlerine İlişkin 2005/5 sayılı Tebliğ uyarınca uygulanacak miktar kısıtlamasına (kota) ilişkin 2 nci, 3 üncü ve 4 üncü dönem başvuru ve dağıtım ile kullanım usul ve esaslarını içermektedir.
+
+## MADDE 2 — Başvuru usul ve esasları
+
+(1) Bu Tebliğ’in 3 üncü maddesinde belirtilen İran İslam Cumhuriyeti menşeli ürünlere yönelik kota başvurularının değerlendirmeye alınabilmesi için, EK I’de yer alan İthal Lisansı Başvuru Formunun usulüne uygun bir şekilde doldurulması ve EK II ve EK III’de yer alan belgelerle birlikte tam ve eksiksiz bir şekilde yine bu Tebliğin 3 üncü maddesinde belirtilen dönemler için karşılarında yer alan başvuru tarihlerinin son günü mesai bitimine kadar Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğüne (Genel Müdürlük) gönderilmesi gerekmektedir. Belirtilen başvuru tarihlerinden önce veya sonra yapılan başvurular değerlendirmeye tabi tutulmayacaktır. Değerlendirmede genel evrak giriş tarihi esas olup, postadaki gecikmeler dikkate alınmayacaktır.
+
+(2) Müsteşarlık, gerekli görmesi halinde, ek bilgi ve belge isteyebilir.
+
+(3) Bir kotaya, aynı firma tarafından bir kota dönemi içinde birden fazla başvuru yapılamaz.
+
+(4) Bu Tebliğ kapsamında yapılan beyanın doğruluğuyla ve ithal mallarla ilgili incelemeleri yapmaya veya yaptırmaya Müsteşarlık yetkilidir.
+
+## MADDE 3 — Kota miktarı
+
+(1) Kota aşağıda belirtilen dönem ve miktarlar için uygulanır.
+
+<table>
+<tr><td></td><td></td><td colspan="2">2. dönem<br>3/7/2006 - 2/7/2007</td><td colspan="2">3. dönem<br>3/7/2007 - 2/7/2008</td><td colspan="2">4. dönem<br>3/7/2008 - 2/7/2009</td></tr>
+<tr><td>G.T.İ.P</td><td>Eşya tanımı</td><td>Kota miktarı (kg)</td><td>Başvuru tarihi</td><td>Kota miktarı (kg)</td><td>Başvuru tarihi</td><td>Kota miktarı (kg)</td><td>Başvuru tarihi</td></tr>
+<tr><td>7009.91</td><td>Çerçevesiz cam aynalar</td><td>525.000</td><td>19/06/2006-14/07/2006</td><td>551.250</td><td>18/06/2007-13/07/2007</td><td>578.812,5</td><td>16/06/2008-11/07/2008</td></tr>
+</table>
+
+## MADDE 4 — Kotanın dağıtılması
+
+(1) Kota, İthalatta Kota ve Tarife Kontenjanı İdaresi Yönetmeliğinin 4 (d) maddesi çerçevesinde dağıtılacaktır. Bu yöntemde firmaların geçmiş dönem ithalat performanslarının değerlendirilmesinin yanı sıra çalıştırdığı işçi sayısı , vergi durumu ve ticari kazancı da gözönüne alınabilecektir.
+
+## MADDE 5 — İthal lisansına ve ithal lisansı kullanımına ait bilgiler
+
+(1) Bu Tebliğ’in 3 üncü maddesinde belirtilen İran İslam Cumhuriyeti menşeli ürünler Müsteşarlıkça düzenlenecek ithal lisansı ile ithal edilir. İthal lisansı gümrük beyannamesinin tescilinde ilgili gümrük idaresince aranır. İthal lisansının bir örneği gümrük beyannamesine eklenir. Kota konusu maddeler ancak ithal lisansının geçerlilik süresi içerisinde serbest dolaşıma girebilir. İthal lisansları devredilemez. İthal lisansının geçerlilik süresinin bitiminden itibaren 10 (on) iş günü içerisinde Genel Müdürlüğe iadesi zorunludur.
+
+(2) Gümrüklerce tespit ve kabul edilen kıymet veya miktarın, ithal lisansında kayıtlı kıymet veya miktarı, toplam %5'ten (%5 dahil) daha az bir oranda aşması ithalatın yapılmasını engellemez. Ancak, ithalatı gerçekleştirilen fazla miktar ilgili ithalatçının bir sonraki izninden mahsup edilir.
+
+## MADDE 6 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## MADDE 7 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan yürütür.
+
+**EK I**
+
+**İTHAL LİSANSI BAŞVURU FORMU**
+
+**Tarih: .../.../.....**
+
+**T.C BAŞBAKANLIK**
+
+**DIŞ TİCARET MÜSTEŞARLIĞINA**
+
+**İthalat Genel Müdürlüğü**
+
+**İnönü Bulvarı No: 36**
+
+**06510 Emek-ANKARA**
+
+Dilekçe ve Taahhütname
+
+İthalatını gerçekleştirmek istediğimiz aşağıda belirtilen ürünlere ilişkin olarak İthalatta Kota ve Tarife Kontenjanı İdaresine İlişkin 2006/4 sayılı Tebliğ çerçevesinde firmamız adına ithal lisansı düzenlenmesini talep etmekteyiz. İthal lisansı almak için yaptığımız iş bu başvuruda yer alan bilgilerin doğru olduğunu, ithal lisansını üçüncü kişilere devretmeyeceğimizi, ithal lisansı kapsamı maddenin ithalatı ile ilgili belgeleri (ithal lisansının aslı, ayrıca ithalat gerçekleştirilmiş ise ticari fatura ve gümrük beyannamesinin fotokopisi)ithal lisansının geçerlilik süresinin sonundan itibaren 10 (on) işgünü içerisinde İthalat Genel Müdürlüğü’ne ileteceğimizi kabul ve taahhüt ederiz.
+
+Bilgileri ve gereği arz olunur.
+
+**İmza-Kaşe**
+
+**Adı-Soyadı**
+
+**1 - İthalatçının;**
+
+a) Adı/Unvanı :
+
+b) Adresi :
+
+c) Telefon ve faks numaraları ile e-posta adresi :
+
+d) Kayıtlı olduğu vergi dairesinin adı ve vergi numarası :
+
+e) Malın depolanacağı depoya ait bilgiler (deponun kime ait olduğu ve adresi)
+
+**2 - Beyan Sahibinin;**
+
+a) Adı/Unvanı :
+
+b) Adresi :
+
+c) Telefon ve faks numaraları ile e-posta adresi :
+
+d) Kayıtlı olduğu vergi dairesinin adı ve vergi numarası :
+
+**3 - Kota tahsisi istenen maddenin;**
+
+a) Gümrük tarife pozisyonu :
+
+b) Ticari tanımı ve özellikleri :
+
+c) Türkiye’ye ihracı amacıyla sevkıyatının (yüklemenin) yapılacağı ülke:
+
+d) Miktarı (Kg. ve m2 olarak) :
+
+e) Değeri (FOB ve CIF olarak) :
+
+f) İthalatının yapılacağı muhtemel gümrük kapısı ve tarihi :
+
+**4 - Tedarikçi ülkedeki ihracatçının;**
+
+a) Adı/Unvanı :
+
+b) Adresi :
+
+c) Telefon ve faks numaraları ile e-posta adresi :
+
+d) Kayıtlı olduğu vergi idaresinin unvanı ve vergi kayıt tarih ve numarası:
+
+**5 - İhracatçıdan farklı ise, menşe ülkedeki üreticinin;**
+
+a) Adı/Unvanı :
+
+b) Adresi :
+
+c) Telefon ve faks numaraları ile e-posta adresi :
+
+d) Kayıtlı olduğu vergi idaresinin unvanı ve vergi kayıt tarih ve numarası:
+
+**EK II**
+
+Aşağıdaki tablo içinde bulunulan yıldan önceki son iki takvim yılı için doldurulacaktır. Tablo yeminli mali müşavir tarafından mühürlenecektir. Usulüne uygun olarak düzenlenmemiş tablodaki rakamlar değerlendirmeye alınmayacaktır.
+
+<table>
+<tr><td rowspan="2">Tahakkuk eden vergi matrahı (YTL)</td><td>200.</td><td>200.</td><td>YEMİNLİ MALİ MÜŞAVİR MÜHÜR VE İMZASI</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Beyan edilen vergi matrahı (YTL)</td><td></td><td></td><td></td></tr>
+<tr><td>Sigortalı Çalışan Sayısı (Yıllık Ortalama)</td><td></td><td></td><td></td></tr>
+<tr><td>Ticari Kazanç (YTL)</td><td></td><td></td><td></td></tr>
+</table>
+
+**EK III**
+
+İTHAL LİSANSI BAŞVURU FORMUNA EKLENECEK BELGELER:
+
+**1-** Beyan sahibinin imza yetkisini kanıtlayan imza sirkülerinin aslı.
+
+**2-** İthal edilecek maddeye ait proforma fatura/faturanın aslı ve 2 adet fotokopisi (Proforma fatura ya da fatura üzerinde ithal edilecek maddelerin tanımları açıkça belirtilmeli, malın miktarı her bir madde için Kg. ve m2 olarak ayrı ayrı gösterilmeli, FOB birim fiyatı yer almalı ve CIF teslim şekline göre düzenlenmiş faturalarda sigorta ve navlun ücretleri ayrıca belirtilmelidir.)
+
+**3**- Yeminli mali müşavire ait faaliyet belgesi aslı.

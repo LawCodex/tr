@@ -1,0 +1,39 @@
+---
+title: "ALKOL VE ALKOLLÜ İÇKİLERİN İÇ VE DIŞ TİCARETİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 14 ÜNCÜ VE GEÇİCİ 5 İNCİ MADDELERİNİN UYGULANMASINA DAİR TEBLİĞ (TEBLİĞ NO: 2023/57)"
+identifier: "9.5.40540"
+number: "40540"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2023-12-29
+official_gazette_date: 2023-12-29
+official_gazette_number: "32414 (2.Mükerrer)"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40540&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ALKOL VE ALKOLLÜ İÇKİLERİN İÇ VE DIŞ TİCARETİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 14 ÜNCÜ VE GEÇİCİ 5 İNCİ MADDELERİNİN UYGULANMASINA DAİR TEBLİĞ (TEBLİĞ NO: 2023/57)
+
+## MADDE 1
+
+(1) 6/6/2003 tarihli ve 25130 sayılı Resmî Gazete’de yayımlanan Alkol ve Alkollü İçkilerin İç ve Dış Ticaretine İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 14 üncü maddesi gereğince 2024 yılında hizmet bedelleri aşağıdaki şekilde belirlenmiştir:
+
+a) Hizmet bedeli, aynı Yönetmeliğin 15 inci maddesi uyarınca düzenlenen aylık satış raporuna göre beher bin litre başına; bira için 70,32 TL (Yetmiş Türk Lirası otuziki kuruş); şarap, köpüren şarap (2204.10.’da yer alan) ve aromatize şarap için 117,16 TL (Yüzonyedi Türk Lirası onaltı kuruş); aromalı bira, yarı köpüren şarap (2204.21. ve 2204.29.’da yer alan), meyve şarabı, aromatize şarap bazlı içki ve aromatize şarap kokteyli için 421,88 TL (Dörtyüzyirmibir Türk Lirası seksensekiz kuruş); distile alkollü içkiler için 753,35 TL (Yediyüzelliüç Türk Lirası otuzbeş kuruş)’dir.
+
+b) Dağıtım yetki belgesi maktu bedeli; bira için en az 141.946 TL (Yüzkırkbirbindokuzyüzkırkaltı Türk Lirası); aromalı bira için en az 283.889 TL (İkiyüzseksenüçbinsekizyüzseksendokuz Türk Lirası); şarap, köpüren şarap (2204.10.’da yer alan) ve aromatize şarap için 20.000 litre veya daha az faaliyet hacminde en az 37.857 TL (Otuzyedibinsekizyüzelliyedi Türk Lirası) ve 20.000 litreden daha fazla faaliyet hacminde en az 94.625 TL (Doksandörtbinaltıyüzyirmibeş Türk Lirası); yarı köpüren şarap (2204.21. ve 2204.29.’da yer alan) meyve şarabı, aromatize şarap bazlı içki, aromatize şarap kokteyli için en az 236.580 TL (İkiyüzotuzaltıbinbeşyüzseksen Türk Lirası); distile alkollü içkiler için kategori bazında ayrı ayrı en az 339.961 TL (Üçyüzotuzdokuzbindokuzyüzaltmışbir Türk Lirası)’dir.
+
+c) Dağıtım yetki belgesi bedeli; faaliyet hacmi üzerinden beher bin litre başına; bira için 141,90 TL (Yüzkırkbir Türk Lirası doksan kuruş); aromalı bira için 236,50 TL (İkiyüzotuzaltı Türk Lirası elli kuruş); şarap, köpüren şarap (2204.10.’da yer alan) ve aromatize şarap için için 236,50 TL (İkiyüzotuzaltı Türk Lirası elli kuruş); yarı köpüren şarap (2204.21. ve 2204.29.’da yer alan) meyve şarabı, aromatize şarap bazlı içki, aromatize şarap kokteyli için 761,40 TL (Yediyüzaltmışbir Türk Lirası kırk kuruş); distile alkollü içkiler için kategori bazında ayrı ayrı 1.359,84TL (Binüçyüzellidokuz Türk Lirası seksendört kuruş)’dur.
+
+ç) Dağıtım yetki belgesi yenileme bedeli kategori ve alt kategori bazında ayrı ayrı 26.006 TL (Yirmialtıbinaltı Türk Lirası)’dir.
+
+## MADDE 2
+
+(1) Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer.
+
+## MADDE 3
+
+(1) Bu Tebliğ hükümlerini Tarım ve Orman Bakanı yürütür.

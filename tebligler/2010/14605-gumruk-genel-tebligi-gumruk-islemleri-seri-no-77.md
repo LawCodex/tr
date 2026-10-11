@@ -1,0 +1,51 @@
+---
+title: "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO:77)"
+identifier: "9.5.14605"
+number: "14605"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2010-12-31
+official_gazette_date: 2010-12-31
+official_gazette_number: "27802"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14605&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO:77)
+
+12/11/2010 tarihli ve 27757 sayılı Resmî Gazete’de yayımlanan 401 Sıra Numaralı Vergi Usul Kanunu Genel Tebliği ile 2010 yılı için yeniden değerleme oranı % 7,7 (yedi virgül yedi) olarak tespit edilmiş olup bu çerçevede 4458 sayılı Gümrük Kanununun 241 inci maddesi, 7/10/2009 tarihli ve 27369 sayılı Resmî Gazete’de yayımlanan 2009/15481 sayılı 4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Kararın 122 nci maddesi ve 7/10/2009 tarihli ve 27369 Mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin 260, 500, 519 ve 584 üncü maddelerinde yer alan tutarlar yeniden belirlenmiştir.
+
+## MADDE 1
+
+(1) 4458 sayılı Gümrük Kanununun 241 inci maddesinin birinci fıkrasında belirtilen usulsüzlük cezası 65,00 TL olarak uygulanır.
+
+## MADDE 2
+
+(1) 2009/15481 sayılı 4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Kararın 122 nci maddesinin birinci fıkrasının (a) bendinde belirtilen fazla çalışma ücreti ihracat için 5,50 TL, diğer işlemler için 13,20 TL, (b) bendinde belirtilen Türk plakalı kamyonlar için fazla çalışma ücreti kamyon başına ihracat için 13,20 TL, diğer işlemler için 20,90 TL olarak uygulanır.
+
+## MADDE 3
+
+(1) Gümrük Yönetmeliğinin;
+
+a) 260 ıncı maddesinin ikinci fıkrasının (a) bendinin (2) numaralı alt bendinde belirtilen tutar 5.503.470,00 TL,
+
+b) 500 üncü maddesinin birinci fıkrasının (a) bendinde belirtilen tutar 109.000,00 TL, (b) bendinde belirtilen tutar 550.000,00 TL, (c) bendinde belirtilen tutar 550.000,00 TL,
+
+c) 519 uncu maddesinin birinci fıkrasının (a) bendinin (1) numaralı alt bendinde belirtilen tutar 1.100.694,00 TL, (2) numaralı alt bendinde belirtilen tutar 385.242,90 TL, (3) numaralı alt bendinde belirtilen tutar 165.104,10 TL,
+
+d) 584 üncü maddesinde belirtilen usulsüzlük cezası 65, 00 TL
+
+olarak uygulanır.
+
+## MADDE 4
+
+(1) Bu Tebliğ 1/1/2011 tarihinde yürürlüğe girer.
+
+## MADDE 5
+
+(1) Bu Tebliğ hükümlerini Gümrük Müsteşarlığının bağlı olduğu Bakan yürütür.

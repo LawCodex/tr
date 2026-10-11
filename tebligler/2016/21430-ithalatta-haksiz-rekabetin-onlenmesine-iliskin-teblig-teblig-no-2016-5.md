@@ -1,0 +1,65 @@
+---
+title: "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2016/5)"
+identifier: "9.5.21430"
+number: "21430"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2016-02-26
+official_gazette_date: 2016-02-26
+official_gazette_number: "29636"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=21430&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2016/5)
+
+## MADDE 1 — Kapsam
+
+(1) Bu Tebliğ, 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelikten oluşan ithalatta haksız rekabetin önlenmesi hakkında mevzuat hükümleri çerçevesinde, 2016 yılının ikinci yarısında süresi dolacak mevcut dampinge karşı önlemlerin ilanını kapsamaktadır.
+
+## MADDE 2 — Yürürlük süresi sona erecek dampinge karşı önlemler
+
+(1) Aşağıdaki tabloda yer alan dampinge karşı önlemlerin yürürlükte kalma süreleri, 3 üncü maddede belirtilen esaslar çerçevesinde bir nihai gözden geçirme soruşturması açılmaması halinde karşılarında belirtilen tarihlerde sona erecektir.
+
+| **G.T.İ.P.** | **Ürün** | **Menşe veya** <br> **İhracatçı Ülke** | **Önlemin** <br> **Yayımlandığı** <br> **Resmî Gazete Tarih ve Sayısı** | **Tebliğ No** | **Önlemin Bitiş Tarihi** |
+| --- | --- | --- | --- | --- | --- |
+| 7408.11 | Bakır teller, enine kesitinin en geniş yeri 6 mm’yi geçen, rafine edilmiş bakırdan olanlar | Rusya <br> Federasyonu <br> Ukrayna | 28/7/2011/28008 | 2011/14 | 28/7/2016 |
+| 8311.20.00.00.00 | Adi metallerden içi doldurulmuş teller (elektrikli ark kaynağı yapmak için) | Çin Halk <br> Cumhuriyeti | 28/7/2011/28008 | 2011/16 | 28/7/2016 |
+| 2917.32.00.00.00 | Dioktil ortoftalatlar (dioktil ftalat) | Romanya | 29/11/2011/28127 | 2011/21 | 29/11/2016 |
+
+## MADDE 3 — Nihai gözden geçirme başvurusu ve işlemler
+
+(1) İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliğin 35 inci maddesi gereğince, 2 nci maddede belirtilen önlemlerin yürürlük sürelerinin bitiminden önce tabloda yer alan maddelerin yerli üreticilerinin veya yerli üretim dalı adına hareket ettiğini tevsik eden gerçek veya tüzel kişi ya da kuruluşların, ilgili üründeki önlemin sona ermesinin dampingin ve zararın devam etmesine veya yeniden meydana gelmesine yol açacağı iddiasıyla bir nihai gözden geçirme soruşturması açılmasını talep etme hakları mevcuttur. İlgili yerli üreticilerin veya yerli üretim dalı adına hareket ettiğini tevsik eden gerçek veya tüzel kişi ya da kuruluşların başvurularını yeterli delillerle desteklemeleri esastır.
+
+(2) Yeterli deliller ile desteklenmiş yazılı başvuruların, ilgili önlemin sona erme tarihinden en geç üç ay önce;
+
+T.C. Ekonomi Bakanlığı
+
+İthalat Genel Müdürlüğü
+
+Damping ve Sübvansiyon Araştırma Dairesi
+
+İnönü Bulvarı, 06510 Emek/ANKARA
+
+Faks: 0312 204 86 33
+
+adresine ulaştırılması gerekmektedir.
+
+(3) Başvurunun, ilgili mevzuat çerçevesinde geçerli görülmesi halinde “nihai gözden geçirme soruşturması” başlatılır.
+
+(4) Mevcut dampinge karşı önlem, nihai gözden geçirme soruşturması sonuçlanıncaya kadar yürürlükte kalmaya devam eder.
+
+(5) Soruşturma sonucunda, önlemin sona ermesinin dampingin ve zararın devam etmesine veya yeniden meydana gelmesine yol açmasının muhtemel olduğunun tespit edilmesi halinde, mevcut dampinge karşı önlemin miktar veya oranının muhafaza edilerek veya değiştirilerek uygulanmasına devam edilir. Öte yandan, önlemin sona ermesinin dampingin ve zararın devam etmesine veya yeniden meydana gelmesine yol açmasının muhtemel olmadığının tespit edilmesi halinde, mevcut dampinge karşı önlem yürürlükten kaldırılır.
+
+## MADDE 4 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## MADDE 5 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Ekonomi Bakanı yürütür.

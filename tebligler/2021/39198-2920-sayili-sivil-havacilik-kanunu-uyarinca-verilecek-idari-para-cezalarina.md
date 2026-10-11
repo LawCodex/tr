@@ -1,0 +1,31 @@
+---
+title: "2920 SAYILI SİVİL HAVACILIK KANUNU UYARINCA VERİLECEK İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (2022/1)"
+identifier: "9.5.39198"
+number: "39198"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2021-12-31
+official_gazette_date: 2021-12-31
+official_gazette_number: "31706"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39198&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# 2920 SAYILI SİVİL HAVACILIK KANUNU UYARINCA VERİLECEK İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (2022/1)
+
+14/10/1983 tarihli ve 2920 sayılı Türk Sivil Havacılık Kanununun 143 üncü ve 144 üncü maddelerinde, Kanuna aykırı davranışta bulunanlara uygulanacak idari para cezaları belirlenmiştir.
+
+30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 17 nci maddesinin yedinci fıkrasında idari para cezalarının her takvim yılı başından geçerli olmak üzere o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilân edilen yeniden değerleme oranında artırılmak suretiyle uygulanacağı ve bu şekilde yapılacak hesaplamalarda bir Türk Lirasının küsurunun dikkate alınmayacağı hükmü yer almaktadır.
+
+Hazine ve Maliye Bakanlığı tarafından hazırlanarak 27/11/2021 tarihli ve 31672 sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 533) uyarınca 2022 yılı için yeniden değerleme oranı % 36,20 (otuz altı virgül yirmi) olarak tespit ve ilan edilmiştir.
+
+Bu duruma binaen, 2920 sayılı Kanunun 143 üncü ve 144 üncü maddelerinde yer alan para cezaları 1/1/2022 tarihinden itibaren ekte belirtilen miktarlarda uygulanacaktır.
+
+Tebliğ olunur.
+
+**Eki için tıklayınız.**

@@ -1,0 +1,53 @@
+---
+title: "TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 15 İNCİ MADDESİNİN UYGULANMASI İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: 2020/46)"
+identifier: "9.5.36196"
+number: "36196"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2020-12-31
+official_gazette_date: 2020-12-31
+official_gazette_number: "31351 5.Mükerrer"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=36196&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 15 İNCİ MADDESİNİN UYGULANMASI İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: 2020/46)
+
+## MADDE 1
+
+(1) 7/1/2011 tarihli ve 27808 sayılı Resmî Gazete’de yayımlanan Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 15 inci maddesi uyarınca 2021 yılı için uygulanacak satış belgesi ve süre uzatım işlemi bedelleri aşağıdaki şekilde belirlenmiştir:
+
+a) Toptan satış belgeleri: 9.490,00-TL (dokuzbindörtyüzdoksan Türk Lirası),
+
+b) Perakende satış belgeleri:
+
+1) İl merkezlerinde veya büyükşehir belediyesi sınırları içerisinde 490,00-TL (dörtyüzdoksan Türk Lirası),
+
+2) İlçe merkezlerinde 325,00-TL (üçyüzyirmibeş Türk Lirası),
+
+3) Diğer mahallerde 120,00-TL (yüzyirmi Türk Lirası),
+
+c) Açık alkollü içki satış belgeleri:
+
+1) İl merkezlerinde veya büyükşehir belediyesi sınırları içerisinde 2.040,00- TL (ikibinkırk Türk Lirası),
+
+2) Diğer mahallerde 785,00-TL (yediyüzseksenbeş Türk Lirası),
+
+ç) Nargilelik tütün mamulü sunum uygunluk belgeleri:
+
+1) İl merkezlerinde veya büyükşehir belediyesi sınırları içerisinde 5.000,00-TL (beşbin Türk Lirası),
+
+2) Diğer mahallerde 4.560,00-TL (dörtbinbeşyüzaltmış Türk Lirası).
+
+## MADDE 2
+
+(1) Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer.
+
+## MADDE 3
+
+(1) Bu Tebliğ hükümlerini Tarım ve Orman Bakanı yürütür.

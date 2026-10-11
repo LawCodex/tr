@@ -1,0 +1,83 @@
+---
+title: "2019 YILI ARABULUCULUK ASGARİ ÜCRET TARİFESİ"
+identifier: "9.5.31136"
+number: "31136"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2018-12-31
+official_gazette_date: 2018-12-31
+official_gazette_number: "30642 (4.Mükerrer)"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31136&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# 2019 YILI ARABULUCULUK ASGARİ ÜCRET TARİFESİ
+
+## MADDE 1 — Amaç, konu ve kapsam
+
+(1) Özel hukuk uyuşmazlıklarının arabuluculuk yoluyla çözümlenmesinde, arabulucu ile uyuşmazlığın tarafları arasında geçerli bir ücret sözleşmesi yapılmamış olan veya ücret miktarı konusunda arabulucu ile taraflar arasında ihtilaf bulunan durumlarda, 7/6/2012 tarihli ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu, 2/6/2018 tarihli ve 30439 sayılı Resmî Gazete’de yayımlanan Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği ve bu Tarife hükümleri uygulanır.
+
+(2) Bu Tarifede belirlenen ücretlerin altında arabuluculuk ücreti kararlaştırılamaz. Aksine yapılan sözleşmelerin ücrete ilişkin hükümleri geçersiz olup, ücrete ilişkin olarak bu Tarife hükümleri uygulanır.
+
+## MADDE 2 — Arabuluculuk ücretinin kapsadığı işler
+
+(1) Bu Tarifede yazılı arabuluculuk ücreti, uyuşmazlığın arabuluculuk yoluyla çözüme kavuşturulmasını sağlamak amacıyla, arabuluculuk faaliyetini yürüten arabulucular siciline kayıtlı kişiye, sarf ettiği emek ve mesainin karşılığında, uyuşmazlığın taraflarınca yapılan parasal ödemenin karşılığıdır.
+
+(2) Arabuluculuk faaliyeti süresince arabulucu tarafından düzenlenen evrak ve yapılan diğer işlemler ayrı ücreti gerektirmez.
+
+(3) Arabulucu, ihtiyari arabuluculuk süreci başlamadan önce arabuluculuk teklifinde bulunan taraf veya taraflardan ücret ve masraf isteyebilir. Bu fıkra uyarınca alınan ücret arabuluculuk süreci sonunda arabuluculuk ücretinden mahsup edilir. Arabuluculuk sürecinin başlamaması halinde bu ücret ve masraf iade edilmez.
+
+(4) Arabulucu, dava şartı arabuluculuk sürecinde taraflardan masraf isteyemez.
+
+(5) Arabulucu, arabuluculuk sürecine ilişkin olarak belirli kişiler için aracılık yapma veya belirli kişileri tavsiye etmenin karşılığı olarak herhangi bir ücret talep edemez. Bu yasağa aykırı olarak tesis edilen işlemler hükümsüzdür.
+
+## MADDE 3 — Arabuluculuk ücretinin sınırları
+
+(1) Aksi kararlaştırılmadıkça arabuluculuk ücreti taraflarca eşit ödenir.
+
+(2) Aynı uyuşmazlığın çözümüne ilişkin bu Tarifenin eki Arabuluculuk Ücret Tarifesinin birinci kısmında belirtilen hallerde arabuluculuk faaliyetinin birden çok arabulucu tarafından yürütülmesi durumunda, her bir arabulucuya bu Tarifede belirtilen ücret ayrı ayrı ödenir.
+
+(3) Aynı uyuşmazlığın çözümüne ilişkin bu Tarifenin eki Arabuluculuk Ücret Tarifesinin ikinci kısmında belirtilen hallerde arabuluculuk faaliyetinin birden çok arabulucu tarafından yürütülmesi durumunda, bu Tarifede birden fazla arabulucu için belirtilen orandaki ücret her bir arabulucuya eşit bölünerek ödenir.
+
+## MADDE 4 — Ücretin tümünü hak etme
+
+(1) Arabuluculuk faaliyetinin, gerek tarafların uyuşmazlık konusu üzerinde anlaşmaya varmış olması, gerek taraflara danışıldıktan sonra arabuluculuk için daha fazla çaba sarf edilmesinin gereksiz olduğunun arabulucu tarafından tespit edilmesi, gerekse taraflardan birinin karşı tarafa veya arabulucuya, arabuluculuk faaliyetinden çekildiğini bildirmesi veya taraflardan birinin ölümü ya da iflası halinde veya tarafların anlaşarak arabuluculuk faaliyetini sona erdirmesi sebepleriyle sona ermesi hallerinde, arabuluculuk faaliyetini yürütme görevini kabul eden arabulucu, bu Tarife hükümleri ile belirlenen ücretin tamamına hak kazanır.
+
+(2) Arabuluculuk faaliyetine başlandıktan sonra, uyuşmazlığın arabuluculuğa elverişli olmadığı hususu ortaya çıkar ve bu sebeple arabuluculuk faaliyeti sona erdirilir ise, sonradan ortaya çıkan bu durumla ilgili olarak eğer arabulucunun herhangi bir kusuru yoksa, arabuluculuk faaliyetini yürütme görevini kabul eden arabulucu, bu Tarife hükümleri ile belirlenen ücretin tamamına hak kazanır.
+
+## MADDE 5 — Arabuluculuk faaliyetinin konusuz kalması, feragat, kabul ve sulhte ücret
+
+(1) Uyuşmazlık, arabuluculuk faaliyeti devam ederken, arabuluculuk faaliyetinin konusuz kalması, feragat, kabul veya sulh gibi arabuluculuk yolu dışındaki yöntem ve nedenlerle giderilirse ücretin tamamına hak kazanılır.
+
+## MADDE 6 — Yeni bir uyuşmazlık konusunun ortaya çıkmasında ücret
+
+(1) Somut bir uyuşmazlıkla ilgili arabuluculuk faaliyetinin yürütülmesi sırasında, yeni uyuşmazlık konularının ortaya çıkması halinde, her bir uyuşmazlık için ayrı ücrete hak kazanılır.
+
+## MADDE 7 — Arabuluculuk Ücret Tarifesine göre ücret
+
+(1) Konusu para olmayan veya para ile değerlendirilemeyen hukuki uyuşmazlıklarda; arabuluculuk ücreti bu Tarifenin eki Arabuluculuk Ücret Tarifesinin birinci kısmına göre belirlenir.
+
+(2) Konusu para olan veya para ile değerlendirilebilen hukuki uyuşmazlıklarda; arabuluculuk ücreti bu Tarifenin eki Arabuluculuk Ücret Tarifesinin ikinci kısmına göre belirlenir.
+
+(3) Arabuluculuk sürecinin sonunda anlaşma sağlanamaması halinde, arabuluculuğun konusu para olan veya para ile değerlendirilebilen hukuki uyuşmazlık olsa bile arabulucu, arabuluculuk ücretini bu Tarifenin eki Arabuluculuk Ücret Tarifesinin birinci kısmına göre isteyebilir.
+
+(4) Arabuluculuk sürecinin sonunda seri uyuşmazlıklarda anlaşma sağlanması halinde, arabuluculuğun konusu para olan veya para ile değerlendirilebilen hukuki uyuşmazlık olsa bile arabulucu, arabuluculuk ücretini bu Tarifenin eki Arabuluculuk Ücret Tarifesinin Birinci Kısmına göre isteyebilir. Taraflardan birinin aynı olduğu ve bir ay içinde başvurulan en az onbeş uyuşmazlık seri uyuşmazlık olarak kabul edilir.
+
+## MADDE 8 — Arabuluculuk Ücret Tarifesinde yazılı olmayan hallerde ücret
+
+(1) Arabuluculuk Ücret Tarifesinde yazılı olmayan haller için, söz konusu Tarifenin birinci kısmındaki diğer tür uyuşmazlıklar için belirlenen ücret ödenir.
+
+## MADDE 9 — Uygulanacak tarife
+
+(1) Arabuluculuk ücretinin takdirinde, arabuluculuk faaliyetinin sona erdiği tarihte yürürlükte olan tarife esas alınır.
+
+## MADDE 10 — Yürürlük
+
+(1) Bu Tarife 1/1/2019 tarihinde yürürlüğe girer.
+
+**Eki için tıklayınız.**

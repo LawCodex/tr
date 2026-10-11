@@ -1,0 +1,267 @@
+---
+title: "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2012/16)"
+identifier: "9.5.16350"
+number: "16350"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2012-07-10
+official_gazette_date: 2012-07-10
+official_gazette_number: "28349"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16350&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2012/16)
+
+## BİRİNCİ KISIM — Genel Bilgi ve İşlemler
+
+### MADDE 1 — Mevcut önlem ve soruşturma
+
+(1) 20/10/2006 tarihli ve 26325 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2006/28 sayılı Tebliğ ile Çin Halk Cumhuriyeti (ÇHC) menşeli “kontrplak” ithalinde dampinge karşı kesin önlem yürürlüğe konulmuştur.
+
+(2) Bahse konu eşyaya yönelik mevcut önlemin yürürlük süresinin bitiminden önce, 24/12/2010 tarihli ve 27795 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2010/30 sayılı Tebliğ ile yerli üretim dalının önleme konu ürün ve ülkeler kapsamında mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir nihai gözden geçirme soruşturması açılması talebinde bulunabileceği ilan edilmiştir.
+
+(3) Şikâyetçi firmalar Bizon Ağaç San. ve Tic. A.Ş., Ekol Kontrplak -Taşköprü Tarım ve Hayvancılık Orm. Ür. A.Ş., Bayrak Kontrplak Orm. Ür. İnş. Tic. San. Ltd. Şti., Cezmi Akça Kontrplak Fabrikası, Aykonsan -Aydın Kontrplak Orman Ürünleri San. Nak. İç ve Dış Tic. Ltd. Şti., Dastaş Demircioğlu Ağaç San.ve Tic. A.Ş., önlemin uygulamadan kalkması halinde mezkûr üründe dampingin ve zararın devam edeceği veya yeniden oluşacağı hususlarındaki iddialarını ortaya koyarak, Yönetmeliğin 35 inci maddesi temelinde bir “Nihai Gözden Geçirme Soruşturması” açılması talebinde bulunmuştur. Söz konusu başvuru, diğer kontrplak üreticilerinden Kuriş Entegre Ağaç San. ve Tic. A.Ş., Çağ Orman Ür. ve Oto. A.Ş., Anıl Orman Ürün. San.ve İç ve Dış Tic. Ltd. Şti., Pelit Arslan Kon. Fabrikası A.Ş., Yaykın Kontrplak ve Orman Ür. San. İç ve Dış Tic. Ltd. Şti., EKS Erbaa Kaplama San., Bayrak Presli Ağaç San., Panel Kontrplak San.ve Tic. Ltd. Şti., Tunçay Kontrplak Orman Ür. İnş.Tur. Tic. San. Ltd. Şti.,Taner Entegre Ağaç San. ve Tic.A.Ş., Bayrak Ağaç Ür. San. ve Tic. Ltd. Şti., Menta Mobilya Koltuk Malz. Orm. Ür. Nak. San. Tic. Ltd. Şti. tarafından da desteklenmiştir.
+
+(4) 3/9/2011 tarihli ve 28043 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2011/19 sayılı Tebliğ’le (2011/19 sayılı Tebliğ) başlatılan nihai gözden geçirme soruşturması, Ekonomi Bakanlığı (Bakanlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülerek tamamlanmıştır.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Tebliğ; 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) ile 2/5/2002 tarihli ve 24743 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliğe Ek Madde Eklenmesine Dair Yönetmelik hükümleri çerçevesinde yürütülen nihai gözden geçirme soruşturmasının sonuçlarını içermektedir.
+
+### MADDE 3 — Yerli üretim dalının temsil niteliği
+
+(1) Yapılan incelemede, Yönetmeliğin 20 nci maddesi uyarınca, başvurunun yerli üretim dalı (YÜD) adına yapılmış olduğu ve şikayetçi üreticilerin yerli üretim dalını temsil ettiği anlaşılmıştır.
+
+### MADDE 4 — İlgili tarafların bilgilendirilmesi ve bilgilerin değerlendirilmesi
+
+(1) Soruşturma açılmasını müteakip, söz konusu ürünün yerli üreticilerine, Bakanlıkça tespit edilen ithalatçılarına, ÇHC’de yerleşik ürünün bilinen ihracatçılarına ve diğer bütün ihracatçıların da bilgilendirilmesi için ÇHC Ankara Büyükelçiliğine ilgili soru formları, başvurunun gizli olmayan özeti ve soruşturma açılış Tebliği’ne ulaşmalarını temin etmek için soruşturma açılışına ilişkin bildirimde bulunulmuştur.
+
+(2) Taraflara soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmıştır.
+
+(3) Yerli üretim dalı, soruşturma süresi boyunca Bakanlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+
+(4) İthalatçı soru formunu doldurmaları için kendilerine soruşturma açılışına ilişkin bildirimde bulunulan 3 ithalatçı firmanın 2’sinden yanıt alınmıştır. Ancak alınan yanıtlar soruşturmaya ilişkin tespit ve nihai karara etkide bulunacak bilgiler içermemektedir.
+
+(5) ÇHC’de yerleşik üretici/ihracatçı firmalardan soru formlarına yönelik herhangi bir yanıt alınmamıştır.
+
+(6) Soruşturmaya ilişkin tespit ve bilgileri içeren “Nihai Bildirim Raporu” ilgili tarafların bilgisine sunulmuştur. Nihai Bildirim’e ilişkin hiçbir üretici/ihracatçı ve ithalatçı firmadan görüş gelmemiştir.
+
+(7) Tarafların soruşturma boyunca ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, mezkûr görüşlerden mevzuat kapsamında değerlendirilebilecek olanlara bu Tebliğ’in ilgili bölümlerinde değinilmiştir. Ayrıca, ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan nüshaları, talep eden bütün ilgili tarafların bilgisine sunulmak üzere hazır tutulmuştur.
+
+### MADDE 5 — Yerinde doğrulama soruşturması
+
+(1) Yönetmeliğin 21 inci maddesi çerçevesinde yerli üreticilerden Dastaş Demircioğlu Ağaç San. ve Tic. A.Ş., Bizon Ağaç San. ve Tic. A.Ş. ile Bayrak Kontrplak Orman Ürünleri İnş. Tic. San. Ltd. Şti. firmalarının Sakarya’daki üretim tesislerinde yerinde doğrulama soruşturması yapılmıştır.
+
+### MADDE 6 — Gözden geçirme dönemi
+
+(1) Önlemin yürürlükten kalkması durumunda, dampingin ve zararın devamı veya yeniden meydana gelmesinin muhtemel olup olmadığının değerlendirilmesine esas teşkil etmek üzere, 1/1/2008–31/12/2010 tarihleri arası “gözden geçirme dönemi” olarak alınmıştır. Bununla birlikte, önlemin etkisini daha sağlıklı görebilmek amacıyla, ithalat verileri incelenirken önlemin yürürlüğe girdiği 2007 yılını kapsayan 2007-2010 dönemi dikkate alınmıştır.
+
+## İKİNCİ KISIM — Soruşturma Konusu Ürün ve Benzer Ürün
+
+### MADDE 7 — Soruşturma konusu ürün ve benzer ürün
+
+(1) Soruşturma konusu ürün, ÇHC menşeli 4412.10, 4412.31, 4412.32 ve 4412.39 gümrük tarife pozisyonlarında yer alan “kontrplaklar”dır.
+
+(2) Kontrplaklar, temel olarak kütüklerin soyma tekniği ile katmanlara ayrılması ve bu katmanların birbirlerine lif (su) yönleri dik gelecek şekilde yüksek sıcaklık ve basınç altında çapraz yapıştırılmaları ile üretilen ve kullanım alanlarına göre yüzeyleri sert ağaç katmanları, fenolik film, plastik laminat, doyurulmuş kâğıt, fiber takviyeli reçine, boya veya cila ile kaplanabilen ahşap panellerdir.
+
+(3) Kontrplaklar yapılarda beton döküm panelleri, endüstriyel zeminler, yapı panelleri (çatı, duvar, döşeme, cephe kaplama, vb) gibi yük taşıyıcı, kara, deniz ve demiryolu taşıtlarında zemin ve panel, ambalaj sektöründe kargo ambalajı, mobilya ve parke sektöründe ise ara mamul olarak pek çok değişik şekilde kullanılmaktadır. İnşaat sektöründe kullanılan beton kontrplağı, ikame edilebilirlik açısından kalıplık tahta ile çelik beton kalıbı arasında en ekonomik sınıfı teşkil etmektedir.
+
+(4) Önleme tabi ürünün gümrük tarife pozisyonunda meydana gelen değişiklik sonucu, “bambudan olan kontrplaklar” 4412.10 GTP’si altında sınıflandırılmakla birlikte, “bambudan olan kontrplaklar”ın da benzer ürün kapsamında olduğu önleme esas soruşturmada tespit edilmiştir. Önleme konu ürünün GTP’sinde yapılan değişiklikler İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğlerle ilan olmuştur.
+
+(5) Esas soruşturmada, yerli üreticiler tarafından üretilen ürünler ile soruşturmaya konu ülke menşeli ürün arasında fiziksel özellikler, ürün çeşitliliği ve kullanım alanları arasında “benzer ürün” tanımı açısından ayrım yaratan herhangi bir farklılık gözlemlenmemiş olup, Yönetmeliğin 4 üncü maddesi çerçevesinde benzer ürüne yönelik tespiti değiştirecek herhangi bir veri bulunmamıştır.
+
+(6) Soruşturma kapsamında yapılan incelemelerde soruşturma konusu maddenin yukarıda belirtilen gümrük tarife pozisyonları dışında bir sınıflandırma altında ithal edildiğine ilişkin herhangi bir bulguya ulaşılmamıştır. Öte yandan, soruşturma konusu madde haricinde bir maddenin mezkur GTP’ler altında ithal edildiğine dair bir itirazda da bulunulmamıştır.
+
+(7) Soruşturma konusu ürün ile ilgili açıklamalar genel içerikli olup, uygulamaya esas olan GTP ve karşılığı eşya tanımıdır. Bununla beraber, soruşturma konusu eşyanın Türk Gümrük Tarife Cetveli’nde yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına halel getirmez.
+
+## ÜÇÜNCÜ KISIM — Dampingin Varlığı ve Devamı
+
+### MADDE 8 — Genel açıklamalar
+
+(1) Yönetmeliğin 35 inci maddesi çerçevesinde önlemin yürürlükte olduğu dönemde dampingin devam edip etmediği incelenmiştir. Önlemin etkisiyle ithalat diğer ülkelere kaymış olup, bu nedenle damping marjı hesabı yapılmamıştır.
+
+## DÖRDÜNCÜ KISIM — Maddi Zararın Varlığı ve Devamı
+
+### MADDE 9 — Genel açıklamalar
+
+(1) Yönetmeliğin 35 inci maddesi çerçevesinde önlemin yürürlükte olduğu dönemde, yerli üretim dalında zarar durumu ve bu zararın devamına ilişkin incelemeler yapılmıştır.
+
+(2) Soruşturma konusu ürünün Türkiye’ye genel ithalatı ve önleme konu ülkeden yapılan ithalatın incelenmesinde Türkiye İstatistik Kurumu (TÜİK) verileri kullanılmıştır.
+
+### MADDE 10 — Maddenin genel ithalatı
+
+(1) Kontrplakların 2008-2010 döneminde tüm ülkelerden gerçekleşen ithalat rakamları incelendiğinde, 2008’de 106.875 m³ olan ithalatın 2009 yılında 51.491 m³’e gerilediği, 2010 yılında ise 187.376 m³’e yükseldiği görülmektedir.
+
+(2) İthalat istatistiklerine değer olarak bakıldığında ise 2008 yılı sonunda 68.549.251 ABD Doları seviyesinde olan ithalat, 2009 yılında 26.236.545 ABD Dolarına gerilemiş, 2010 yılında ise 177.711.067 ABD Dolarına yükselmiştir.
+
+### MADDE 11 — Maddenin soruşturma konusu ülkeden ithalatı
+
+(1) Soruşturma konusu maddenin ÇHC’den gerçekleşen ithalatı miktar bazında incelendiğinde yürürlükteki önlemin etkili olduğu ve söz konusu ülkeden gerçekleşen ithalatın önemli oranda azaldığı görülmektedir.
+
+(2) Bu çerçevede, ÇHC menşeli kontrplak ithalatı, 2007 yılında 343 m³ iken 2010 yılına gelindiğinde bu miktar 253 m³ seviyesinde gerçekleşmiştir. Maddenin birim fiyatı açısından yapılan incelemede ise 2007 yılında 849 ABD Doları/m³ olan birim fiyatın 2010 yılında 1.093 ABD Doları/m³ seviyesine yükseldiği görülmektedir.
+
+### MADDE 12 — Soruşturma konusu ürün ithalatının tüketime göre değişimi
+
+(1) Soruşturma konusu ithalatın nispi olarak değişimini görebilmek için, söz konusu ithalatın toplam Türkiye benzer mal tüketimi içindeki payı incelenmiştir. Bu bağlamda, öncelikle şikâyetçi firmaların yurt içi satış miktarı ile genel ithalat miktarı toplanarak ilgili yılda Türkiye benzer mal tüketimi elde edilmiştir.
+
+(2) Türkiye benzer mal tüketimi 2008 yılı 100 alındığında, 2009 yılında 57 ve 2010 yılında 159 olarak gerçekleşmiştir. ÇHC’nin pazar payı ise 2008 yılından itibaren, aynı seviyede (%0-1) kalmıştır. Öte yandan, 2008’de 100 olan yerli üretim dalının pazar payı da 2009’da 149’a yükselmişken, 2010’da bu oran 67’ye düşmüştür.
+
+### MADDE 13 — Soruşturma konusu ürün ithalatının fiyatlarının gelişimi
+
+(1) Tüm ülkelerden gerçekleşen ithalatın ortalama birim fiyatı 2007 yılında 656 ABD Doları/m³ iken, bu fiyat 2008-2010 döneminde sırasıyla 641 ABD Doları/m³, 510 ABD Doları/m³ ve son yılda 948 ABD Doları/m³ düzeyinde gerçekleşmiştir.
+
+(2) ÇHC’den ithal edilen soruşturma konusu ürünün birim fiyatları ise 2007-2010 yılları arasında sırasıyla 849 ABD Doları/m³; 529 ABD Doları/m³; 642 ABD Doları/m³; 1.093 ABD Doları/m³ düzeyinde gerçekleşmiştir.
+
+### MADDE 14 — Yerli üretim dalının iç piyasa fiyatları
+
+(1) Yerli üretim dalının birim ticari maliyet-birim satış fiyatı oranına bakıldığında 2008 yılında % 88 olan oranın; 2009 yılında %94; 2010 yılında ise % 93 oranında olduğu görülmüştür. Yerli üretim dalının ticari maliyetlerindeki artışı fiyatlarına yansıtamadığı ve maliyetlerdeki artışa karşın satış fiyatlarının olması gereken seviyede belirlenemediği anlaşılmaktadır.
+
+### MADDE 15 — Yerli üretim dalının ekonomik göstergeleri
+
+(1) Dampingli ithalatın yerli üretim dalı üzerindeki etkisinin belirlenmesinde, şikâyetçi firmaların kontrplağa ilişkin verileri esas alınmıştır. Miktar m³ bazlı değerlendirilmiştir.
+
+(2) Öte yandan, eğilimin sağlıklı bir şekilde incelenmesi amacıyla Türk Lirası bazındaki veriler için TÜİK’in yayımladığı, on iki aylık ortalama Üretici Fiyat Endeksi (ÜFE) kullanılarak enflasyondan arındırılmış reel değerler kullanılmıştır.
+
+a) Üretim, kapasite ve kapasite kullanım oranı (KKO)
+
+1- Yerli üretim dalının soruşturma konusu ürün için 2008 yılında 100 olan m³ bazlı üretim miktar endeksi değeri, 2009 yılında 86’ya düşmüş, 2010 yılında ise 96 olarak gerçekleşmiştir. 2008 yılında 100 olan yerli üretim dalı kapasite endeksi 2009’da 98 ve 2010’da 110 olmuştur. Yerli üretim dalının kapasite kullanım oranı endeksi 2008 yılında 100 iken 2009 ve 2010 yıllarında 88’e düşmüştür.
+
+b) Yurtiçi satışlar
+
+1- 2008 yılında 100 olan yurtiçi satış miktar endeksi, 2009’da 84’e gerilemiş, 2010’da ise 106’ya yükselmiştir. 2008 yılında 100 olan yurtiçi satış hâsılası 2010’da artarak 103’e çıkmıştır.
+
+2- Yerli üreticinin m³ bazında ağırlıklı ortalama birim yurtiçi satış fiyatı 2008 yılında 100 iken, 2010’da 97’ye düşmüştür.
+
+c) Yurtdışı satışlar
+
+1- 2008 yılında 100 olan yurtdışı satış miktar endeksi, 2009’da 37’ye, 2010’da ise 41’e gerilemiştir. 2008 yılında 100 olan yurtdışı satış hâsılası 2010’da gerileyerek 38’e düşmüştür.
+
+2- Yerli üreticinin m³ bazında ağırlıklı ortalama birim yurtdışı satış fiyatı 2008 yılında 100 iken, 2010’da 93’e düşmüştür.
+
+ç) Yerli üretim dalının pazar payı
+
+1- Yurtiçi pazar payı endeksi 2008 yılında 100 iken 2010’da 67’ye düşmüştür.
+
+d) Maliyetler
+
+1- 2008 yılında 100 olan ağırlıklı ortalama birim ticari maliyeti, 2010 yılında 102’ye çıkmıştır.
+
+e) Kârlılık
+
+1- 2008 yılında 100 olan ürün birim kâr endeksi 2010 yılında 56’ya düşmüştür.
+
+f) Stoklar
+
+1- 2008 yılında 100 olan stok miktar endeksi, 2010’da 84’e gerilemiştir. Stok çevrim hızı (satış/stok) ise 2008 yılında 100 iken, stokların azalması ve satışların artması ile 2010’da 122’ye yükselmiştir.
+
+g) İstihdam
+
+1- 2008’de 100 olan direkt işçi sayısı endeksi 2010 yılında 114’e çıkmıştır.
+
+ğ) Ücretler
+
+1- Üretimde çalışan işçilerin aylık ücretleri 2008-2010 döneminde reel olarak 8 puan artmıştır.
+
+h) Verimlilik
+
+1- Üretimde çalışan işçi başına verimlilik endeksi 2008 yılında 100 iken, 2010 yılında 85’e düşmüştür.
+
+ı) Nakit akışı
+
+1- Yerli üretim dalının soruşturma konusu kontrplak satışından elde ettiği nakit akışı endeksi (kâr+amortisman) 2008 yılında 100 iken bu değer 2009 yılında 64’e gerilemiş, 2010 yılında ise 67 olarak gerçekleşmiştir.
+
+i) Büyüme
+
+1- Yerli üretim dalının bütün faaliyetleri ile ilgili olarak, aktif büyüklüğü 2008 yılında 100 iken, 2009 yılında 109 ve 2010’da 115 olarak gerçekleşmiştir.
+
+j)Yatırımların geri dönüşü
+
+1- Yerli üretim dalının bütün faaliyetleri ile ilgili olarak yatırımlarının geri dönüşünü yansıtan kar/öz kaynak oranı 2008 yılında 100 iken, 2009 yılında 76’ya, 2010 yılında ise 67’ye düşmüştür.
+
+k) Damping marjının büyüklüğü
+
+1- Esas soruşturmada 286 ABD $/m³ ile 306 ABD $/m³ arasında değişen oranlarda damping marjı tespit edilmiştir.
+
+### MADDE 16 — Yerli üretim dalının ekonomik göstergelerinin değerlendirilmesi
+
+(1) Yerli üretim dalından temin edilen veriler ışığında yapılan incelemeler sonucunda; 2008-2010 döneminde üretim miktarında, kapasite kullanım oranında, yurt içi satış fiyatlarında, yurt içi pazar payında ve verimlilikte bozulma görülmektedir.
+
+(2) Ayrıca, zarar inceleme döneminde yerli üretim dalının maliyetleri artarken yurt içi satış fiyatları azaldığından ürün kârlılığında ciddi bozulma yaşanmıştır. Yerli üretim dalının kârlılığında görülen bozulmaya bağlı olarak ürün nakit akışında da ciddi bir bozulma görülmüştür.
+
+(3) Öte yandan, zarar inceleme döneminde yerli üretim dalının kurulu kapasitesi, yurtiçi satış miktarı ve hâsılası ile ürün istihdamı artmıştır. Bunların yanında, stok miktarında da azalmalar yaşanmıştır.
+
+(4) Sonuç olarak, yerli üretim dalının ekonomik göstergelerinin bazılarında önlem sonrası dönemin ilk yıllarında düzelme görülmekle birlikte, birçok göstergede kırılganlığın devam ettiği değerlendirilmiştir.
+
+## BEŞİNCİ KISIM — Dampingin ve Zararın Devamı veya Yeniden Oluşma İhtimali
+
+### MADDE 17 — Genel açıklamalar
+
+(1) Yönetmeliğin 35 inci maddesi hükümleri gereğince, bu bölümde önlemin sona ermesi halinde damping ve zararın devamı veya yeniden meydana gelmesinin muhtemel olup olmadığı değerlendirilmiştir.
+
+### MADDE 18 — Soruşturmaya konu ülkedeki yerleşik kapasite
+
+(1) International Trade Center (Uluslararası Ticaret Merkezi-UTM)’den elde edilen istatistiki bilgiler değerlendirildiğinde, 2008-2010 yılları arasında tüm ülkeler tarafından yapılan kontrplak ihracatının değer bazında, 2008, 2009 ve 2010 yıllarında sırasıyla 7, 5, 6, 5 ve 8,1 milyar ABD Doları olduğu, buna karşılık aynı dönemde ÇHC tarafından yapılan ihracatın ise 2,4, 1,8 ve 2,4 milyar ABD Doları olduğu görülmektedir. Bu itibarla, ÇHC’nin ihracat kapasitesinin soruşturma konusu ürünün toplam ihracat değerinin 2008-2010 yıllarında, dünya ihracatı içinde sırasıyla % 32, %28 ve %29 oranında bir paya sahip olduğu, bunun da ciddi bir ihracat kapasitesini gösterdiği anlaşılmaktadır.
+
+(2) AB Pazara Giriş Veritabanı – EU Market Access Database (MADB) verileri incelendiğinde 2008-2011 arası dönemde ÇHC’nin Avrupa Birliği’ne (AB) 4412 GTP’li “kontrplaklar, ahşap kaplamalı levhalar ve benzeri lamine edilmiş ağaçlar” ihracatı incelendiğinde pazarın en büyük ihracatçısı olduğu görülmektedir. Buna göre, AB 2008 yılında 1,5 milyar Avro, 2009 yılında 921 milyon Avro, 2010 yılında 1,2 milyar Avro ve 2011’de ise 1,3 milyar Avro değerinde ithalat yapmıştır. ÇHC’nin AB’ye ihracatı 2008-2011 arası dönemde sırasıyla 396, 206, 305 ve 357 milyon Avro değerindedir. Miktar (ton) bazında bir değerlendirme yapılacak olduğunda ÇHC, AB’nin toplam ithalatı içinde 2008 yılında %27, 2009’da %22, 2010’da %26 ve 2011’de %30’luk bir paya sahiptir. 2010 ve 2011 yıllarına ait miktar verilerine göre ÇHC’den sonra AB’nin ithalatını en çok yaptığı ülkeler, Rusya Federasyonu (% 25- %26) ve Brezilya (%21-%18) olmuştur.
+
+### MADDE 19 — Talebi etkileyen unsurlar
+
+(1) Kontrplaklar yapılarda beton döküm panelleri, endüstriyel zeminler, yapı panelleri (çatı, duvar, döşeme, cephe kaplama, vb) gibi yük taşıyıcı, kara, deniz ve demiryolu taşıtlarında zemin ve panel, ambalaj sektöründe kargo ambalajı, mobilya ve parke sektöründe ise ara mamul olarak pek çok değişik şekilde kullanılmaktadır. İnşaat sektöründe kullanılan beton kontrplak, ikame edilebilirlik açısından kalıplık tahta ile çelik beton kalıbı arasında en ekonomik sınıfı teşkil etmektedir. Bu itibarla, soruşturma konusu ürünün fiyata duyarlı olduğu anlaşılmaktadır. Bu durumda önlemin yürürlükten kalkması halinde ciddi üretim ve ihracat kapasitesi bulunan ÇHC’ye talebin kaymasının muhtemel olduğu değerlendirilmektedir.
+
+### MADDE 20 — Üçüncü ülkelerden ithalat ve diğer hususlar
+
+(1) Soruşturma konusu üründe ÇHC haricindeki ülkelerden yapılan ithalatın, genel ithalat içindeki payının önemli düzeyde olmasının en önemli sebebinin 2006 yılında damping önleminin yürürlüğe girmesi olduğu değerlendirilmektedir. Esas soruşturmada varılan tespitlere göre önlem yürürlüğe konulmadan önce, 2005 yılında ÇHC menşeli kontrplak ithalatı genel ithalat içinde oldukça önemli bir paya sahipken, önlemin yürürlüğe girmesi sonucu ÇHC’den yapılan ithalat büyük oranda düşmüş, diğer ülkelerden yapılan ithalat artmıştır. Ancak, bu hususun soruşturma konusu önlemin yürürlükten kaldırılması halinde dampingin ve zararın tekrar meydana gelebileceğine ilişkin işbu rapordaki tespitleri değiştirecek nitelikte olmadığı değerlendirilmiştir.
+
+### MADDE 21 — Diğer ülkelerce alınan önlemler
+
+(1) Avrupa Birliği, ÇHC menşeli kontrplaklar için yürüttüğü nihai gözden geçirme soruşturmasını 2011 yılının Ocak ayında tamamlamış olup, %6,5 ile %66,7 arasında değişen oranlarda dampinge karşı önlemin uygulanmasına devam etmektedir.
+
+### MADDE 22 — Esas soruşturmada tespit edilen damping marjı
+
+(1) Mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden esas damping soruşturması esnasında tespit edilen damping marjları, soruşturma konusu ülkede yerleşik üretici/ihracatçıların önlemin yürürlükten kalkması halinde muhtemel davranışlarını yansıtacak önemli bir gösterge niteliği taşıdığından dikkate alınmıştır.
+
+(2) Buna göre, 2006 yılında sona eren esas soruşturmada kontrplaklar için damping marjı, Linyi Huadeli firması için CIF ihraç fiyatının %75,2’si, miktar bazında 286 ABD Doları/m³, Linyi Xingang firması için ise CIF ihraç fiyatının %81,9’u, miktar bazında ise 306 ABD Doları/m³ olarak tespit edilmiştir. Söz konusu marjlar önemli düzeydedir.
+
+### MADDE 23 — Değerlendirme
+
+(1) ITC ve MADB ihracat verileri incelendiğinde ÇHC’de önlem konusu ürüne ilişkin üretim ve ihracat kapasitesinin önemli düzeylerde olduğu;
+
+(2) Ürünün girdi olarak kullanılması sebebiyle talepte fiyatın ön plana çıktığı ve ÇHC’deki söz konusu üretim ve ihracat kapasitesinin önlemin yürürlükten kalkması durumunda Türkiye’den oluşabilecek talebi karşılayabilecek durumda olduğu;
+
+(3) Bu itibarla, dampingli ithalatın miktarının önlem sonrası önemli bir düşüş göstererek durma noktasına gelmesiyle birlikte önlemin olmadığı bir durumda Türkiye’deki ithalatçıların ÇHC menşeli dampingli ithalata yeniden yönelmelerinin ve ithalatın miktarının ve birim fiyatının kısa sürede önlem öncesi döneme gelmesinin mümkün olduğu;
+
+(4) Yerli üretim dalının 2008-2010 dönemi yurtiçi satış fiyatının reel olarak yıprandığı;
+
+(5) Yerli üretim dalının incelenen dönem içinde bazı ekonomik göstergelerinde düzelme görüldüğü, ancak sektördeki kırılganlığın devam ettiği görülmektedir. Dünyadaki ihraç payı ve bunu besleyen kapasitesiyle lider olan ÇHC’ye karşı AB’nin de damping önlemi almış olduğu göz önüne alındığında, yürürlükte bulunan önlemin kalkması halinde ithalatın yeniden anılan ülkeye yöneleceği, bunun sonucunda da yerli üretim dalının ekonomik göstergelerindeki bozulmanın artarak devam edeceği; üretimdeki gerilemenin ve maliyetlerdeki artışın süreklilik arz etmesi neticesinde maliyet altı satışların kaçınılmaz hale geleceği ve kârlılıktaki bozulmanın tüm ekonomik göstergeleri olumsuz etkileyeceği ve zararın yeniden meydana geleceği değerlendirilmektedir.
+
+## ALTINCI KISIM — Sonuç
+
+### MADDE 24 — Karar
+
+(1) Soruşturma sonucunda, meri önlemin yürürlükten kaldırılması halinde dampingin ve zararın devamı veya yeniden meydana gelmesinin muhtemel olduğu tespit edildiğinden, İthalatta Haksız Rekabeti Değerlendirme Kurulu’nun kararı ve Bakan’ın onayı ile soruşturma konusu ürün için uygulanmakta olan dampinge karşı önlemin aşağıda belirtilen şekilde aynen uygulanmaya devam edilmesine karar verilmiştir.
+
+<table>
+<tr><td>GTP</td><td>Eşyanın Tanımı</td><td>Menşe Ülke</td><td>Dampinge Karşı<br>Önlem</td></tr>
+<tr><td>4412.10</td><td rowspan="4">Kontrplaklar</td><td rowspan="4">Çin Halk Cumhuriyeti</td><td rowspan="4">240 ABD Doları/m³</td></tr>
+<tr><td>4412.31</td></tr>
+<tr><td>4412.32</td></tr>
+<tr><td>4412.39</td></tr>
+</table>
+
+### MADDE 25 — Uygulama
+
+(1) Gümrük idareleri, Karar maddesinde gümrük tarife pozisyon numarası, tanımı ve menşe ülkesi belirtilen eşyanın, diğer mevzuat hükümleri saklı kalmak kaydıyla, serbest dolaşıma giriş rejimi kapsamındaki ithalatında, karşılarında gösterilen oranda dampinge karşı önlemi tahsil ederler.
+
+### MADDE 26 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+### MADDE 27 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Ekonomi Bakanı yürütür.

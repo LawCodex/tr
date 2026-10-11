@@ -1,0 +1,188 @@
+---
+title: "KÜÇÜK ÖLÇEKLİ BALIKÇILIĞIN DESTEKLENMESİ TEBLİĞİ (TEBLİĞ NO: 2024/27)"
+identifier: "9.5.40954"
+number: "40954"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2024-09-05
+official_gazette_date: 2024-09-05
+official_gazette_number: "32653"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40954&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KÜÇÜK ÖLÇEKLİ BALIKÇILIĞIN DESTEKLENMESİ TEBLİĞİ (TEBLİĞ NO: 2024/27)
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Tebliğin amacı; deniz ve içsularda küçük ölçekli balıkçılığın av, avcılık ve sosyo-ekonomik verilerinin toplanması ve sürdürülebilir yönetiminin sağlanması amacıyla balıkçı gemisi sahiplerine 2025 ve 2026 yıllarında destekleme yapılmasına dair usul ve esasları düzenlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Tebliğ, 25/7/2024 tarihli ve 8760 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 2024-2026 Yıllarında Yapılacak Hayvancılık Desteklemelerine İlişkin Karar kapsamında su ürünleri avcılığı faaliyetinde bulunmak üzere; Su Ürünleri Bilgi Sistemi (SUBİS)’nde kayıtlı ve geçerli bir Balıkçı Gemileri İçin Su Ürünleri Ruhsat Tezkeresine sahip, içsularda faaliyet gösterenlerin tamamı ile denizlerde 12 (on iki) metreden küçük (12 metre hariç) balıkçı gemilerine, 2025 ve 2026 yıllarında yapılacak destekleme ödemelerine dair usul ve esasları kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Tebliğ, 18/4/2006 tarihli ve 5488 sayılı Tarım Kanununun 19 uncu maddesi ile 25/7/2024 tarihli ve 8760 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 2024-2026 Yıllarında Yapılacak Hayvancılık Desteklemelerine İlişkin Kararın 9 uncu maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar ve kısaltmalar
+
+(1) Bu Tebliğde geçen;
+
+a) Bakanlık: Tarım ve Orman Bakanlığını,
+
+b) Balıkçı gemisi: Denizlerde ve içsularda faaliyet gösteren ve geçerli bir su ürünleri ruhsat tezkeresine sahip SUBİS’te kayıtlı balıkçı gemilerini,
+
+c) Balıkçı gemisi sahibi: SUBİS kayıtlarında balıkçı gemisinin sahibi olarak belirtilen gerçek veya tüzel kişileri,
+
+ç) Balıkçı gemisi yetkilisi: Balıkçı gemisinin sahibi olan gerçek ya da tüzel kişiler adına, bu Tebliğ kapsamındaki iş ve işlemleri yürütmek üzere muvafakatname veya noter tasdikli yetki belgesi ile yetkilendirilmiş kişiyi,
+
+d) Banka: T.C. Ziraat Bankası A.Ş. Genel Müdürlüğünü,
+
+e) Boy uzunluğu: Balıkçı gemisinin SUBİS’te yer alan en büyük boy uzunluğunu,
+
+f) EBYS: Bakanlık bünyesinde resmî yazışmaların yürütüldüğü elektronik belge yönetim sistemini,
+
+g) Genel Müdürlük: Balıkçılık ve Su Ürünleri Genel Müdürlüğünü,
+
+ğ) İçsu: Lagünler, göller, göletler, baraj gölleri, akarsular ve hudut oluşturan nehirleri,
+
+h) İl/ilçe müdürlüğü: Bakanlık il/ilçe müdürlüklerini,
+
+ı) Su Ürünleri Bilgi Sistemi (SUBİS): Bakanlık bünyesinde kurulu bulunan su ürünleri ve balıkçı gemilerine ilişkin kayıtların tutulduğu, verilerin toplandığı bilgi sistemini,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Genel Hükümler, Başvuru Şartları ve Müracaat
+
+### MADDE 5 — Genel hükümler
+
+(1) Bu Tebliğde düzenlenen desteklemeden; geçerli bir ruhsata sahip olan, içsularda faaliyet gösteren balıkçı gemilerinin tamamı ile denizlerde faaliyet gösteren 12 (on iki) metreden küçük (12 metre hariç) boylardaki balıkçı gemilerinin sahipleri faydalanabilir.
+
+(2) Destekleme için balıkçı gemisinin başvuru tarihindeki sahibi/sahipleri veya bunlar adına balıkçı gemisi yetkilisi müracaatta bulunur ve o tarihteki SUBİS kayıtlarında yer alan en büyük boy uzunluğu esas alınır.
+
+(3) Aynı balıkçı gemisi ve/veya ruhsat tezkeresi için birden fazla destekleme başvurusu yapılamaz. Destekleme başvurusu kabul edildikten sonra balıkçı gemisi ve/veya ruhsat tezkeresinde yapılacak hiçbir değişiklik, yeni destekleme başvuru hakkı doğurmaz.
+
+(4) Birden fazla balıkçı gemisine sahip olanlar her bir balıkçı gemisi için ayrı ayrı müracaat eder.
+
+(5) Bakanlıkça hazırlanan anket sorularından kendi faaliyet alanı ile ilgili olanları cevaplamayan balıkçı gemi sahipleri destekleme ödemesinden yararlanamaz.
+
+(6) Bu Tebliğdeki iş ve işlemlerin başlangıç ve bitiş tarihleri Genel Müdürlükçe Bakanlık internet sitesinde ilan edilir.
+
+(7) 2025 ve 2026 yılı destekleme dönemi için; desteklemeye başvuru hakkı olup, 8760 sayılı Cumhurbaşkanı Kararının, Resmî Gazete’de yayımlandığı tarihte balıkçı gemisinin sahibi veya ortağı olan kadınlara; desteklemeye başvurduğu tarihte sahiplik veya ortaklığın devam ediyor olması ve şahsı veya ortakları adına desteklemeye bizzat başvuru yapmaları halinde, gemi başına ödenecek birim destekleme tutarının %35 daha fazlası ödenir. Anılan Cumhurbaşkanı Kararının yayımlandığı tarih ve sonrasında balıkçı gemisi ruhsatlarında, kadın sahip ve kadın ortaklar ile ilgili yapılacak değişiklikler ilave %35 destekleme alma hakkı kazandırmaz.
+
+### MADDE 6 — Müracaat
+
+(1) Desteklemeden yararlanmak isteyen balıkçı gemisi sahipleri veya balıkçı gemisi yetkilileri, Genel Müdürlükçe Bakanlık internet sitesinde ilan edilen tarihlerde gemisinin ruhsat tezkeresinin düzenlendiği il/ilçe müdürlüklerine Ek-1’de yer alan dilekçe ve ikinci fıkrada yer alan belgelerle şahsen müracaat eder.
+
+(2) Müracaat dilekçesinin ekinde;
+
+a) Geminin birden fazla kişiye veya tüzel kişiliğe ait olması halinde, bu Tebliğ ve ilgili destekleme dönemi kapsamındaki iş ve işlemleri yürütmek üzere, gemi sahiplerinin tümü tarafından yetkilendirilen kişiye ait Ek-2’de yer alan muvafakatname veya noter tasdikli yetki belgesi,
+
+b) Balıkçı gemisi sahibi tarafından ilgili destekleme dönemine ait, balıkçı gemisinin doğru ve güncel verilerle doldurulmuş Ek-3’te yer alan Küçük Ölçekli Balıkçılık Destekleme Anket Formu,
+
+c) Destekleme başvurusu yapanın Türkiye Cumhuriyeti kimlik fotokopisi,
+
+il/ilçe müdürlüğüne sunulur.
+
+### MADDE 7 — İl/ilçe müdürlüklerince yürütülecek iş ve işlemler
+
+(1) İl/ilçe müdürlüğü tarafından balıkçı gemisinin destekleme müracaatının yapıldığı tarihte;
+
+a) Geçerli bir Su Ürünleri Ruhsat Tezkeresine sahip olduğu,
+
+b) Balıkçı gemisi sahibi ve gemi boyu bilgileri,
+
+il/ilçe müdürlüğü kayıtlarından ve SUBİS’ten kontrol edilir. Kontrol sonucunun uygun olması hâlinde müracaat işleme alınır. Uygun olmayan müracaatlar kabul edilmez.
+
+(2) Balıkçı gemisi sahibi ya da balıkçı gemisi yetkilisi tarafından müracaat dilekçesi ekinde sunulan anket formunun doldurulduğu il/ilçe müdürlüğünce kontrol edilir.
+
+(3) Desteklemeye uygun bulunarak işleme alınan balıkçı gemisinin müracaatı il/ilçe müdürlüğünce SUBİS’e kayıt edilir. SUBİS kaydının çıktısı alınarak müracaat dilekçesine eklenir ve dosyalanır.
+
+(4) Desteklemeye başvuru yapan balıkçı gemilerinin kadın sahipleri veya kadın ortaklarının, 8760 sayılı Cumhurbaşkanı Kararının yayımlandığı tarihteki SUBİS kayıtlarındaki gemi sahipleri listesinde yer alıp almadığı il/ilçe müdürlüğünce kontrol edilir. Bu listede yer alan ve bizzat başvuru yapan balıkçı gemilerinin kadın sahipleri veya kadın ortaklarına, gemi boyuna göre tanımlanan destekleme tutarının %35 daha fazlası verilir.
+
+(5) İl/ilçe müdürlüğünce kabul edilen müracaatlara ait anket formlarındaki bilgiler, icmal askı süresi bitiminden önce SUBİS’e kaydedilir.
+
+(6) İl/ilçe müdürlüğünce kabul edilen ve SUBİS’e kaydedilen müracaatlara ait Ek-4’te yer alan Küçük Ölçekli Balıkçılığın Desteklenmesi Tebliği (Tebliğ No: 2024/27)’ne İlişkin İl/İlçe İcmal-1 Listesi, Genel Müdürlükçe Bakanlık internet sitesinde ilan edilen tarihten sonra il/ilçe müdürlüğü tarafından ilan panosunda beş iş günü süreyle askıya çıkarılır. Askıya çıkarma ve indirme işlemi en az iki görevli tarafından tutanağa bağlanır.
+
+(7) Ek-4’te yer alan listeye itiraz olması halinde, itirazlar askı süresi içerisinde destekleme müracaatının yapıldığı il/ilçe müdürlüğüne yapılır. Yapılan itirazlar askı süresi içerisinde değerlendirilerek il/ilçe müdürlüğü tarafından karara bağlanır. Askı süresi içerisinde herhangi bir itiraz olmaması halinde il/ilçe icmal listesi kesinleşir. Kesinleşen il/ilçe icmal listesine askı süresinden sonra yapılacak itirazlar dikkate alınmaz.
+
+(8) Ek-4’te yer alan liste kesinleştikten sonra ilçe müdürlükleri tarafından, excel formatında EBYS üzerinden il müdürlüğüne gönderilir.
+
+(9) İlçelerden gönderilen listeler il müdürlüğü tarafından birleştirilerek Ek-5’te yer alan Küçük Ölçekli Balıkçılığın Desteklenmesi Tebliği (Tebliğ No: 2024/27)’ne İlişkin İl Genel İcmal Listesi oluşturulur ve excel formatında EBYS üzerinden Genel Müdürlüğe gönderilir.
+
+## ÜÇÜNCÜ BÖLÜM — Yetki, Denetim ve Sorumluluk
+
+### MADDE 8 — Yetki ve denetim
+
+(1) Bu Tebliğde yer almayan hususların çözümünde, 2024-2026 Yıllarında Yapılacak Hayvancılık Desteklemelerine İlişkin Karar ile bu Tebliğde belirtilen hususlara aykırı olmamak koşuluyla il/ilçe müdürlükleri yetkilidir.
+
+(2) Bakanlık, bu Tebliğde belirtilen hususlarda bilgi ve belge isteyebilir ve bunlara ilişkin her türlü denetimi yapar.
+
+### MADDE 9 — Haksız ödemelerin geri alınması ve hak mahrumiyeti
+
+(1) Sahte belge ile idareyi yanıltmak suretiyle müracaat eden balıkçı gemisi sahipleri desteklemeye hak kazanmış olsa dahi bu desteklemeden yararlandırılmazlar.
+
+(2) Bu Tebliğde belirtilen yetkili merciler, yetki alanına giren verilerin kayıt sistemine doğru girilmesinden, kendilerine ibraz edilen belgelerin kontrolünden ve kendi hazırladıkları belgelerden doğrudan sorumludur. Bu yükümlülüğü yerine getirmeyerek haksız yere ödemeye sebep olanlar ile haksız yere ödemelerden yararlanmak üzere sahte veya içeriği itibarıyla gerçek dışı belge düzenleyen ve kullananlar hakkında gerekli idari işlemler yapılarak hukuki ve cezai süreç başlatılır.
+
+(3) Bu Tebliğ ile belirlenen destekleme ödemelerinden, idari hata sonucu düzenlenen belgelerle yapılan ödemeler hariç, haksız yere yararlandığı tespit edilenler beş yıl süreyle Bakanlıkça sağlanan hiçbir destekleme programından yararlandırılmazlar.
+
+(4) Haksız yere yapılan destekleme ödemeleri, ödeme tarihinden itibaren 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde belirtilen gecikme zammı oranları dikkate alınarak hesaplanan kanunî faizi ile birlikte anılan Kanun hükümlerine göre geri alınır. Haksız ödemenin yapılmasında ödemeyi sağlayan, belge veya belgeleri düzenleyen gerçek ve tüzel kişiler, geri alınacak tutarların tahsilinde müştereken sorumlu tutulurlar.
+
+### MADDE 10 — Sorumluluk
+
+(1) Tüm bilgi ve belgelerin doğruluğundan, bilgi ve belge sahibi ile onaylayan kişi ve kuruluşlar doğrudan sorumludur. Destekleme ödemesi yapılan belgeler istendiğinde ibraz edilmek üzere ilgili birimlerin arşivlerinde saklanır.
+
+## DÖRDÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 11 — Finansman ve ödemeler
+
+(1) Desteklemeler bakımından gerekli kaynak, bütçede hayvancılığın desteklenmesi için ilgili yıla ayrılan ödenekten karşılanır ve gerekli paranın aktarılmasını müteakip Bakanlık tarafından Banka aracılığı ile ödenir.
+
+(2) Küçük ölçekli balıkçılık desteği kapsamında 2025 yılı gemi adedi destekleme birim tutarları, 2024-2026 Yıllarında Yapılacak Hayvancılık Desteklemelerine İlişkin Karar hükümlerine göre ödenir.
+
+### MADDE 12 — Bilgi güvenliği
+
+(1) Toplanan veriler küçük ölçekli balıkçılığın yönetilebilmesi ve sürdürülebilirliğinin sağlanması amacı dışında kullanılamaz.
+
+### MADDE 13 — Yürürlükten kaldırılan tebliğ
+
+(1) 13/1/2023 tarihli ve 32072 sayılı Resmî Gazete’de yayımlanan Küçük Ölçekli Balıkçılığın Desteklenmesi Tebliği (Tebliğ No: 2022/56) yürürlükten kaldırılmıştır.
+
+### GEÇİCİ MADDE 1 — Müsilaj oluşumu görülen illerdeki balıkçılara yapılacak ilave ödeme
+
+**(Ek:RG-17/10/2025-33050)**
+
+(1) Müsilaj oluşumu görülen Marmara Denizi’ne kıyısı olan; Balıkesir, Bursa, Çanakkale, İstanbul, Kocaeli, Tekirdağ ve Yalova illerinde geçerli bir su ürünleri ruhsat tezkeresine sahip denizlerde faaliyet gösteren 12 (on iki) metreden küçük (12 metre hariç) balıkçı gemilerine, sadece 2025 yılı için küçük ölçekli balıkçılık desteklemesi 2025 yılı birim destek tutarı kadar ilave ödeme yapılır.
+
+(2) İlave ödemeye ilişkin iş ve işlemlerin başlangıç ve bitiş tarihleri Bakanlık internet sitesinde ilan edilir.
+
+(3) İlave ödemeye ilişkin iş ve işlemler bu Tebliğde yer alan hükümler doğrultusunda gerçekleştirilir.
+
+(4) İlave ödemeye ilişkin olarak yapılacak müracaatta, Ek-3’te yer alan Küçük Ölçekli Balıkçılık Destekleme Anket Formu talep edilmez.
+
+### MADDE 14 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+### MADDE 15 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Tarım ve Orman Bakanı yürütür.
+
+**Ekleri için tıklayınız.**
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>5/9/2024</td><td>32653</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>17/10/2025</td><td>33050</td></tr>
+</table>

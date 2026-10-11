@@ -1,0 +1,187 @@
+---
+title: "MALİ SUÇLARI ARAŞTIRMA KURULU GENEL TEBLİĞİ (SIRA NO: 30)"
+identifier: "9.5.42596"
+number: "42596"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2025-09-09
+official_gazette_date: 2025-09-09
+official_gazette_number: "33012"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42596&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# MALİ SUÇLARI ARAŞTIRMA KURULU GENEL TEBLİĞİ (SIRA NO: 30)
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Tebliğin amacı, yükümlüler nezdinde uyum görevlisi veya uyum görevlisi yardımcısı olarak yetkilendirileceklerin, suç gelirlerinin aklanması ve terörizmin finansmanının önlenmesi ile kitle imha silahlarının yayılmasının finansmanının önlenmesi konularındaki mesleki yeterliliğinin, bilgi ve becerilerinin ölçümü amacıyla yapılacak sınavlara, mesleki eğitim ile lisanslama süreçlerine ve sicile ilişkin usul ve esasları düzenlemektir.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Tebliğ, 11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanunun 5 inci maddesi ile 16/9/2008 tarihli ve 26999 sayılı Resmî Gazete’de yayımlanan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum Programı Hakkında Yönetmeliğin 32/B maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) Bu Tebliğde geçen;
+
+a) Başkanlık: Mali Suçları Araştırma Kurulu Başkanlığını,
+
+b) Sınav Komisyonu: Sınav, lisanslama ve mesleki eğitime dair iş ve işlemler için Başkanlık tarafından görevlendirilen Başkanlık personelinden oluşan komisyonu,
+
+c) Uyum görevlisi: 16/9/2008 tarihli ve 26999 sayılı Resmî Gazete’de yayımlanan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum Programı Hakkında Yönetmeliğin 3 üncü maddesinin birinci fıkrasının (h) bendinde tanımlanan görevliyi,
+
+ç) Uyum Görevlisi Lisansı: Yetkilendirme sınavında başarılı olunması ve 4 üncü maddenin beşinci fıkrasındaki şartların sağlanması halinde Başkanlıkça verilen, uyum görevlisi veya uyum görevlisi yardımcısı olarak çalışmak için aranan mesleki yeterliliği gösterir belgeyi,
+
+d) Uyum Görevlisi Sicili: Uyum Görevlisi Lisansı alanların kayıtlarının tutulduğu elektronik veri tabanını,
+
+e) Yönetmelik: 16/9/2008 tarihli ve 26999 sayılı Resmî Gazete’de yayımlanan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum Programı Hakkında Yönetmeliği,
+
+f) Yükümlü: 10/12/2007 tarihli ve 2007/13012 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmeliğin 4 üncü maddesinde sayılanlar ile bunların şube, acente, temsilci ve ticari vekilleri ile benzeri bağlı birimlerini,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Yetkilendirme Sınavına İlişkin Esaslar
+
+### MADDE 4 — Yetkilendirme sınavı ve başvuru esasları
+
+(1) Yetkilendirme sınavı, Başkanlık tarafından veya Başkanlıkça belirlenen kurum ve kuruluşlarca yapılır.
+
+(2) Yetkilendirme sınavının Başkanlık tarafından yapılması halinde, sınav sürecine dair iş ve işlemler Sınav Komisyonu tarafından bu Tebliğde belirlenen usul ve esaslara göre yürütülür.
+
+(3) Yetkilendirme sınavının, başka kurum ve kuruluşlarca yapılmasına karar verilmesi halinde, uygulama sürecine ilişkin usul ve esaslar, bu Tebliğde yer alan hükümler çerçevesinde Başkanlık ile ilgili kurum ve kuruluş arasında yapılacak protokol ile düzenlenir.
+
+(4) Sınavın kapsamı, yapılacağı yer ve tarih ile sınava başvuru süresine ilişkin bilgiler, Başkanlığın resmî internet sitesinde ilan edilir.
+
+(5) Yetkilendirme sınavına katılacaklarda aşağıdaki şartlar aranır:
+
+a) T.C. vatandaşı olmak.
+
+b) Kamu haklarından mahrum bulunmamak.
+
+c) Taksirli suçlar hariç olmak üzere affa uğramış olsalar bile mülga 1/3/1926 tarihli ve 765 sayılı Türk Ceza Kanunu ve diğer kanunlar uyarınca ağır hapis veya beş yıldan fazla hapis, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu ve diğer kanunlar uyarınca üç yıldan fazla hapis cezasıyla cezalandırılmamış olmak veya mülga 25/4/1985 tarihli ve 3182 sayılı Bankalar Kanunu ve mülga 18/6/1999 tarihli ve 4389 sayılı Bankalar Kanunu ile 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun ve mülga 28/7/1981 tarihli ve 2499 sayılı Sermaye Piyasası Kanunu ile 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununun ve ödünç para verme işleri hakkında mevzuatın hapis cezası gerektiren hükümlerine muhalefet yahut mülga 765 sayılı Kanun, 5237 sayılı Kanun veya diğer kanunlar uyarınca basit veya nitelikli zimmet, zimmet, ihtilas, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlar ile istimal ve istihlâk kaçakçılığı dışında kalan kaçakçılık suçları, resmî ihale ve alım satımlara fesat karıştırma veya Devletin şahsiyetine karşı işlenen suçlar ile Devlet sırlarını açığa vurma, Devletin egemenlik alametlerine ve organlarının saygınlığına karşı suçlar, Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli savunmaya karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk, yabancı devletlerle olan ilişkilere karşı suçlar, vergi kaçakçılığı, suçtan kaynaklanan malvarlığı değerlerini aklama ve terörün finansmanı suçlarından veya bu suçlara iştirakten hüküm giymemiş olmak.
+
+ç) Türkiye'de veya denkliği Yükseköğretim Kurulunca tanınmış olmak kaydıyla yurt dışında en az dört yıllık eğitim veren yükseköğretim kurumlarından mezun olmak.
+
+(6) Sınav başvuruları Başkanlığın veya yetkilendirilen kurum ve kuruluşun resmî internet sitesi üzerinden kabul edilir ve sınav giriş belgeleri adaylar tarafından aynı usulde temin edilir. Sınav başvuru ücretinin ödenmesine ilişkin usul başvuru ilanında belirtilir. Tahsil edilen başvuru ücreti iade edilmez.
+
+(7) Sınav sonuçları Başkanlığın veya yetkilendirilen kurum ve kuruluşun resmî internet sitesinde ilan edilir ve ilan tarihi itibarıyla adaylara tebliğ edilmiş sayılır.
+
+### MADDE 5 — Sınav konuları, yöntemi ve geçme notu
+
+(1) Yetkilendirme sınavında Başkanlığın görev alanına giren konulardan sorular sorulur. Konu başlıkları sınav ilanında belirtilir.
+
+(2) Sınav, çoktan seçmeli olarak elektronik ortamda veya kağıt ortamında yapılabilir.
+
+(3) Sınav, bir veya birden fazla modül halinde yapılabilir.
+
+(4) Sınavın geçme notu 100 üzerinden en az 65’tir.
+
+(5) Sınavın konulara ayrılarak birden fazla modül halinde yapılması durumunda geçme notu, her bir modülden en az 50 puan almak kaydıyla tüm modüllerin ortalaması alınarak hesaplanır.
+
+### MADDE 6 — Sınavın geçersiz sayılması
+
+(1) Sınava katılan adaylardan;
+
+a) Gerçek dışı beyanda bulunduğu veya sınava girme koşullarını taşımadığı sonradan anlaşılanların,
+
+b) Sınavda kopya çekmeye teşebbüs ettiği, kopya çektiği, kopya verdiği veya kopya çekilmesine imkan sağladığı tespit edilenlerin,
+
+c) Başkasının yerine sınava giren veya kendisinin yerine başkasını sınava sokanların,
+
+ç) Sınav kurallarına uymayanların,
+
+sınavları geçersiz sayılır.
+
+(2) Sınavı geçersiz sayılanlar, Başkanlığın veya yetkilendirilen kurum ve kuruluşun resmî internet sitesinde ilan edilir ve ilan tarihi itibarıyla adaylara tebliğ edilmiş sayılır.
+
+(3) Birinci fıkranın (a), (b) ve (c) bentlerinde belirtilen nedenlerle sınavları geçersiz sayılanlar, sınav tarihinden itibaren üç yıl boyunca yetkilendirme sınavına katılamazlar.
+
+### MADDE 7 — İtirazlar
+
+(1) Sınavın geçersiz sayılmasına ve sınav sonuçlarına dair itirazlar, tebliğ tarihinden itibaren yedi gün içinde ilanda belirtilen usul ve esaslara göre yapılır. İtirazlar, başvuru tarihinden itibaren en geç on beş gün içinde sonuçlandırılır.
+
+### MADDE 8 — Sınav Komisyonu
+
+(1) Sınav Komisyonu, Başkanlık tarafından görevlendirilen bir başkan yardımcısının başkanlığında beş asıl ve üç yedek üyeden oluşur. Sınav Komisyonu üye tam sayısı ile toplanır ve oy çokluğu ile karar alır. Asıl üyelerin herhangi bir nedenle komisyon çalışmalarına katılamamaları halinde, yerlerine sırasıyla yedek üyeler komisyona katılır. Yedek üyeler asıl üye yerine katıldıkları çalışmalarda oy kullanma ve karar alma yetkisine sahiptir.
+
+(2) Sınav Komisyonu çalışmalarında gizlilik esastır. Komisyon, sınav sürecinin tüm aşamalarının gizlilik ve güvenlik içerisinde yapılması için gerekli tedbirleri alır.
+
+(3) Sınav Komisyonunun sekretarya hizmetleri Başkanlık tarafından görevlendirilen daire başkanlığı tarafından yürütülür.
+
+## ÜÇÜNCÜ BÖLÜM — Uyum Görevlisi Lisansı Düzenleme, Askıya Alma ve İptal
+
+### MADDE 9 — Uyum Görevlisi Lisansı verilmesi
+
+(1) Sınavı başarıyla tamamlayan adaylar, sınav sonucunun ilanından sonra Uyum Görevlisi Lisansı almak için Başkanlığın resmî internet sitesinde bulunan çevrimiçi başvuru sistemi üzerinden başvuru yapar. Bu adaylardan 4 üncü maddenin beşinci fıkrasındaki şartları sağlayanlara Uyum Görevlisi Lisansı verilir. Lisans verilen kişiler, uyum görevlisi veya uyum görevlisi yardımcısı olarak yetkilendirilmiş sayılır.
+
+(2) Yönetmeliğin 17 nci maddesinin ikinci fıkrasında aranan şartı taşıyanlara sınav şartı aranmaksızın Uyum Görevlisi Lisansı verilir.
+
+(3) Uyum Görevlisi Lisansı, sicile kaydedilir. Lisansın geçerlilik süresi sınav tarihi itibarıyla başlar.
+
+### MADDE 10 — Lisans yenileme eğitimi ve askıya alma
+
+(1) Uyum Görevlisi Lisansı sahipleri, kapsam, usul ve esasları Başkanlık tarafından belirlenen ve Başkanlık veya yetkilendirilen kurum ve kuruluşlar tarafından verilecek lisans yenileme eğitimine her üç yılda bir katılmak ve Uyum Görevlisi Lisansı verilme şartlarını taşıdığına dair belgeleri Başkanlığa elektronik ortamda iletmek zorundadırlar. Üç yıllık sürenin hesabında, başarılı sayılan yetkilendirme sınavı tarihi veya tamamlanılan son yenileme eğitiminin bitiş tarihi esas alınır. Eğitimin başarıyla tamamlandığının kabulü için toplam eğitim süresinin en az %90’ına katılım zorunludur.
+
+(2) Yenileme eğitimini zamanında tamamlamayanlar ile Uyum Görevlisi Lisansı verilme şartlarını taşıdığına dair belgeleri Başkanlığa iletmeyenlerin lisansı askıya alınır ve keyfiyet sicile kaydolunur. Lisansı askıya alınanlar, uyum görevlisi veya uyum görevlisi yardımcısı olarak çalışamazlar. Bunlar, eğitimin tamamlandığını belgelemek ve Uyum Görevlisi Lisansı verilme şartlarını taşıdığına dair belgeleri Başkanlığa iletmek kaydıyla askıya alma işleminin kaldırılması için başvuruda bulunabilir. Ancak bunun için başvurulacak süre her halde başarılı sayılan yetkilendirme sınavı veya tamamlanılan son yenileme eğitimi bitiş tarihinden itibaren beş yılı geçemez.
+
+(3) Yönetmeliğin 17 nci maddesinin ikinci fıkrasında aranan şartı taşıması nedeniyle sınav şartı aranmaksızın Uyum Görevlisi Lisansı verilen kişiler ile sınav yoluyla lisans alan Başkanlık personelinin, Başkanlıkta çalıştıkları sürece yenileme eğitimine katılmaları zorunlu değildir.
+
+### MADDE 11 — Uyum Görevlisi Lisansının iptali ve sicilden çıkarma
+
+(1) Uyum Görevlisi Lisansı sahibinin, 10 uncu maddenin ikinci fıkrasında belirtilen sürede askıya alma işleminin kaldırılması için başvurmaması, lisans için aranan şartları kaybetmesi veya bu şartları haiz olmadığının sonradan anlaşılması yahut mesleğin gerektirdiği dürüstlük ve itibara aykırı nitelikteki fiilleri işlediğinin tespiti halinde Başkanlıkça lisansın iptaline ve lisans sahibinin sicilden çıkarılmasına karar verilir.
+
+(2) Bu madde kapsamında alınacak kararlar lisansı iptal edilen kişinin nezdinde çalıştığı yükümlüye yazıyla veya elektronik tebligat ile bildirilir.
+
+## DÖRDÜNCÜ BÖLÜM — Sicil Kaydı ve Yönetimi
+
+### MADDE 12 — Sicil kaydı ve yönetimi
+
+(1) Uyum Görevlisi Lisansı sahiplerinin bilgileri, Başkanlık tarafından elektronik ortamda tutulan Uyum Görevlisi Siciline kaydedilir.
+
+(2) Sicil kayıtlarında; lisans sahibinin kimlik bilgileri, lisans numarası, lisans yenileme eğitimine dair bilgiler ile sınav tarihi, yeri ve sonuçlarına ilişkin bilgiler yer alır.
+
+(3) Sicil işlemleri Başkanlık tarafından görevlendirilen daire başkanlığınca yürütülür.
+
+(4) Yükümlüler, uyum görevlisi veya uyum görevlisi yardımcısı olarak çalışacak kişilerin sicile kayıtlı olduğunu ve lisansının askıda olmadığını, hizmet akdini imzalamadan önce ve hizmet süresince Uyum Görevlisi Sicilinden kontrol etmek zorundadırlar.
+
+(5) Sicil kayıtları, kişisel verilerin korunmasına ilişkin mevzuata uygun olarak gizli tutulur. Sicil, sorgu yapılmasına imkan tanıyacak şekilde yükümlülere açılabilir.
+
+## BEŞİNCİ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 13 — Sır saklama yükümlülüğü
+
+(1) Sınav, lisanslama ve sicil süreçlerinin herhangi bir aşamasında görev alanlar veya yürüttükleri görev dolayısıyla sürece ilişkin bilgilere vakıf olanlar, görevlerinden ayrılsalar dahi, görevleri dolayısıyla öğrendikleri, ilgililere veya üçüncü kişilere ait her türlü kişisel bilgileri ve sırları, mevzuatla izin verilen haller haricinde, herhangi bir surette açıklayamazlar, doğrudan veya dolaylı olarak kendilerine veya üçüncü kişilere menfaat sağlama yahut başkalarını zarara uğratma amacıyla kullanamazlar.
+
+### MADDE 14 — Ücretler
+
+(1) Sınav başvuru ücreti, sınav sonucuna itiraz ücreti, lisans belgesi ücreti, sicil kayıt ücreti, lisans yenileme eğitimi ücreti ve mevzuatla zorunlu tutulan uygulamalara ilişkin diğer her türlü ücret, Başkanlık veya yetkilendirilen kurum ve kuruluş tarafından belirlenir.
+
+### MADDE 15 — Sınav belgelerinin saklanması
+
+(1) Sınava başvuruda bulunanlar ile sınava katılanların belgeleri en az iki yıl süre ile elektronik ortamda veya fiziki olarak saklanır.
+
+### MADDE 16 — Yasaklar
+
+(1) Sınav Komisyonu üyeleri ile sınav sorularını hazırlamakla görevli kişiler, bu görevleri süresince ve bu görevlerin sona erdiği tarihten itibaren iki yıl boyunca yetkilendirme sınavına katılamazlar.
+
+### GEÇİCİ MADDE 1 — Münhasıran uyum görevlisi olarak çalışanlar
+
+(1) Bu Tebliğin yayımı tarihi itibarıyla Yönetmeliğin 29 uncu maddesine göre uyum görevlisi olarak çalışmakta olanlardan, 4 üncü maddenin beşinci fıkrasının (ç) bendinde yer alan şartı taşımayanlar, çalışmalarının Sosyal Güvenlik Kurumu kayıtlarıyla tevsik edilmesi şartıyla, 25/12/2025 tarihine kadar açılan yetkilendirme sınavlarına katılabilirler. Bu şekilde sınava katılarak başarılı olanlara, diğer şartları da taşımaları halinde Uyum Görevlisi Lisansı verilir.
+
+(2) 25/12/2025 tarihi itibarıyla en az altı ay süreyle Yönetmeliğin 29 uncu maddesine göre uyum görevlisi olarak çalışmakta olanlardan, 4 üncü maddenin beşinci fıkrasının (ç) bendinde yer alan şartı taşımayanlar, çalışmalarının Sosyal Güvenlik Kurumu kayıtlarıyla tevsik edilmesi şartıyla, 25/12/2027 tarihine kadar yetkilendirme sınavlarına katılabilirler. Bu şekilde sınava katılarak başarılı olanlara, diğer şartları da taşımaları halinde Uyum Görevlisi Lisansı verilir.
+
+### MADDE 17 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+### MADDE 18 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Hazine ve Maliye Bakanı yürütür.

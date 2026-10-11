@@ -1,0 +1,97 @@
+---
+title: "YAPI MALZEMELERİ YÖNETMELİĞİ (305/2011/AB) KAPSAMINDA UYGULANACAK UYUMLAŞTIRILMIŞ TEKNİK ŞARTNAMELERİN DUYURULMASI VE EŞVARLIK DÖNEMİNE DAİR TEBLİĞ"
+identifier: "9.5.39501"
+number: "39501"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2022-04-29
+official_gazette_date: 2022-04-29
+official_gazette_number: "31824"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39501&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# YAPI MALZEMELERİ YÖNETMELİĞİ (305/2011/AB) KAPSAMINDA UYGULANACAK UYUMLAŞTIRILMIŞ TEKNİK ŞARTNAMELERİN DUYURULMASI VE EŞVARLIK DÖNEMİNE DAİR TEBLİĞ
+
+## BİRİNCİ BÖLÜM — Başlangıç Hükümleri
+
+### MADDE 1 — Amaç
+
+(1) Bu Tebliğin amacı, 10/7/2013 tarihli ve 28703 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliği (305/2011/AB)’nin 19 uncu maddesinin üçüncü fıkrası ve 24 üncü maddesinin birinci fıkrasında belirtilen uyumlaştırılmış teknik şartnamelerin duyurulmasına ve uyumlaştırılmış standartların eşvarlık dönemine ilişkin usul ve esasları belirlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Tebliğ, Yapı Malzemeleri Yönetmeliği (305/2011/AB) kapsamında, CE işareti iliştirilecek yapı malzemelerine dair uyumlaştırılmış teknik şartnamelerin referans listesinin duyurulması ve eşvarlık dönemine ilişkin usul ve esasları kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Tebliğ, 10/7/2013 tarihli ve 28703 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliğine (305/2011/AB) dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Tebliğde geçen;
+
+a) Avrupa değerlendirme esasları: Avrupa Teknik Değerlendirmelerinin düzenlenmesi amacıyla Avrupa Teknik Değerlendirme Kuruluşları Organizasyonu tarafından kabul edilip onaylanan esasları,
+
+b) Eşvarlık dönemi: İmalatçıların, yapı malzemelerini uyumlaştırılmış teknik şartnamelere göre piyasaya arz edebilecekleri zaman aralığını,
+
+c) Uyumlaştırılmış standart: 3/4/2002 tarihli ve 24715 sayılı Resmî Gazete’de yayımlanan Teknik Mevzuatın ve Standartların Türkiye ile Avrupa Birliği Arasında Bildirimine Dair Yönetmeliğin Ek-1’inde yer alan Avrupa Standardizasyon kuruluşlarından biri tarafından Komisyonun talebi üzerine hazırlanarak kabul edilen standardı,
+
+ç) Ulusal teknik şartname: Ulusal Standart ve Ulusal Teknik Onayı,
+
+d) Uyumlaştırılmış teknik şartname: Uyumlaştırılmış Standartları ve Avrupa Değerlendirme Esaslarını,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Uyumlaştırılmış Teknik Şartnamelerin Duyurulması ve
+
+**Eşvarlık Dönemi ile İlgili Hükümler**
+
+### MADDE 5 — Uyumlaştırılmış teknik şartnamelerin duyurulması
+
+(1) Avrupa Birliği Resmî Gazete’sinde yayımlanan uyumlaştırılmış teknik şartnamelerin referans numaralarını ve isimlerini, yürürlük tarihlerini, eşvarlık dönemi başlangıç ve bitiş tarihlerini kapsayan güncel liste Bakanlık resmi internet sitesinde duyurulur.
+
+(2) Bakanlık resmi internet sitesinde duyurulan listede yer alan uyumlaştırılmış teknik şartnameler kapsamındaki yapı malzemeleri, listede belirtilen eşvarlık dönemi öncesinde CE işareti iliştirilerek piyasaya arz edilemez.
+
+### MADDE 6 — Eşvarlık döneminde yapı malzemelerinin değerlendirme işlemleri ve piyasaya arz edilme esasları
+
+(1) Ulusal bir teknik şartname kapsamındaki bir yapı malzemesi, Bakanlık resmi internet sitesinde duyurulan listedeki bir uyumlaştırılmış standart kapsamına girdiğinde bu yapı malzemesinin performans değişmezliğinin değerlendirilmesi ve doğrulanması işlemleri;
+
+a) İlgili uyumlaştırılmış standardın eşvarlık dönemi başlangıç tarihinden itibaren ya ilgili ulusal standardına ya da ilgili uyumlaştırılmış standardına göre yapılabilir.
+
+b) İlgili uyumlaştırılmış standardın eşvarlık dönemi bitiş tarihinden itibaren, sadece uyumlaştırılmış standarda göre yapılır.
+
+(2) Uyumlaştırılmış bir standardın versiyonunun değişmesi veya mevcut uyumlaştırılmış standardın başka bir uyumlaştırılmış standart kapsamına alınması durumunda ilgili standartlar kapsamındaki yapı malzemesinin performans değişmezliğinin değerlendirilmesi ve doğrulanması işlemleri;
+
+a) Eşvarlık dönemi süresince mevcut uyumlaştırılmış standarda veya kapsamına alındığı standarda veya standardın yeni versiyonuna göre,
+
+b) Eşvarlık dönemi bitiş tarihinden sonra ilgili standardın sadece versiyonunun değişmesi durumunda standardın yeni versiyonuna göre, standardın başka bir standart kapsamına girmesi durumunda ise kapsamına girdiği standarda göre,
+
+yapılır.
+
+(3) Birinci ve ikinci fıkralarda belirtilen işlemlerde Bakanlık resmi internet sitesinde duyurulan listede yer alan uyumlaştırılmış standartlarından adapte edilen uyumlaştırılmış standartlar esas alınır.
+
+(4) Eşvarlık döneminde, ilgili ulusal standardın veya uyumlaştırılmış standardın eski versiyonunun Türk Standartları Enstitüsü tarafından iptal edilmiş olması, bu yapı malzemesi ile ilgili mevcut belgelerin geçerliliğini ve mevcut veya devam eden belgelendirme faaliyetlerinin ulusal standarda veya uyumlaştırılmış standartlara göre yapılmasına engel teşkil etmez.
+
+(5) Eşvarlık dönemi bitiş tarihinden sonra, yapı malzemelerinin performans değişmezliğinin değerlendirilmesi ve doğrulanması işlemleri Bakanlık resmi internet sitesinde duyurulan listedeki ilgili uyumlaştırılmış standarda göre yapılır. Ulusal teknik şartnamelerin bir uyumlaştırılmış teknik şartname ile çelişmesi veya kapsamına girmesi durumunda ulusal teknik şartnamelere dayanılarak düzenlenen tüm onay ve belgelerin geçerliliği, geçerlilik süresine bakılmaksızın sona erer.
+
+(6) Birinci, ikinci, üçüncü, dördüncü ve beşinci fıkralara göre değerlendirme ve doğrulama işlemleri yapılmış yapı malzemeleri, imalatçının ilgili mevzuatla verilmiş yükümlülükleri de yerine getirmesi şartıyla piyasaya arz edilebilir.
+
+## ÜÇÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 7 — Yürürlükten kaldırılan tebliğ
+
+(1) 12/4/2018 tarihli ve 30389 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliği (305/2011/AB) Kapsamında Uygulanacak Teknik Şartnamelerin Yayımlanması Hakkında Tebliğ (Tebliğ No: MHG/2018-02) yürürlükten kaldırılmıştır.
+
+### MADDE 8 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+### MADDE 9 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Çevre, Şehircilik ve İklim Değişikliği Bakanı yürütür.

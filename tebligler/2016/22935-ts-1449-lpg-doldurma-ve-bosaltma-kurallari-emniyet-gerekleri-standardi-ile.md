@@ -1,0 +1,47 @@
+---
+title: "TS 1449 LPG DOLDURMA VE BOŞALTMA KURALLARI – EMNİYET GEREKLERİ STANDARDI İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: MSG-MS-2016/10)"
+identifier: "9.5.22935"
+number: "22935"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2016-10-15
+official_gazette_date: 2016-10-15
+official_gazette_number: "29858"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22935&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TS 1449 LPG DOLDURMA VE BOŞALTMA KURALLARI – EMNİYET GEREKLERİ STANDARDI İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: MSG-MS-2016/10)
+
+## MADDE 1 — Amaç
+
+(1) Bu Tebliğin amacı, TS 1449 (Temmuz 2016) standard tadilinin uygulamaya konulmasına ilişkin hususları belirlemektir.
+
+## MADDE 2 — Dayanak
+
+(1) Bu Tebliğ; 3/6/2011 tarihli ve 635 sayılı Bilim, Sanayi ve Teknoloji Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 10/6/1930 tarihli ve 1705 sayılı Ticarette Tağşişin Men'i ve İhracatın Murakabesi ve Korunması Hakkında Kanun ile 18/11/1960 tarihli ve 132 sayılı Türk Standardları Enstitüsü Kuruluş Kanununa dayanılarak hazırlanmıştır.
+
+## MADDE 3 — Uygulamaya konma
+
+(1) TS 1449 “LPG Doldurma ve Boşaltma Kuralları – Emniyet Gerekleri” standardı ile ilgili Tebliğ Bakanlıkça 30/3/2010 tarihli ve 27537 sayılı Resmî Gazete’de yayımlanarak mecburi uygulamaya konulmuştur. Söz konusu standardın 5.1 ve 5.1.4 maddesi, Haziran 2009 tarihindeki TS 1449 standardı esas alınarak tadil edilmiştir. TSE Teknik Kurulu’nun 11/7/2016 tarihli toplantısında kabul edilerek yayımına karar verilmiş olan tadil metni zorunlu olarak uygulanmaya konulmuştur.
+
+## MADDE 4 — Uyma zorunluluğu
+
+(1) TS 1449/T1 standardı kapsamında faaliyette bulunanların bu Tebliğ hükümlerine uymaları zorunludur.
+
+## MADDE 5 — Temin
+
+(1) TS 1449/T1 standard (Temmuz 2016) tadili, TSE merkez teşkilatından veya il temsilciliklerinden temin edilir. İletişim bilgilerine TSE’nin internet sitesinden ulaşılabilir.
+
+## MADDE 6 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## MADDE 7 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Bilim, Sanayi ve Teknoloji Bakanı yürütür.

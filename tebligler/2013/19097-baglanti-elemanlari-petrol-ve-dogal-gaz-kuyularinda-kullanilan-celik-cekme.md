@@ -1,0 +1,35 @@
+---
+title: "BAĞLANTI ELEMANLARI-PETROL VE DOĞAL GAZ KUYULARINDA KULLANILAN ÇELİK ÇEKME SONDAJ BORULARI İLE İLGİLİ TEBLİĞ (TS 4044) (TEBLİĞ NO: MSG-MS-2013/39)"
+identifier: "9.5.19097"
+number: "19097"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2013-12-08
+official_gazette_date: 2013-12-08
+official_gazette_number: "28845"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19097&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BAĞLANTI ELEMANLARI-PETROL VE DOĞAL GAZ KUYULARINDA KULLANILAN ÇELİK ÇEKME SONDAJ BORULARI İLE İLGİLİ TEBLİĞ (TS 4044) (TEBLİĞ NO: MSG-MS-2013/39)
+
+## MADDE 1
+
+(1) Bu Tebliğ, 3/6/2011 tarihli ve 635 sayılı Bilim, Sanayi ve Teknoloji Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 10/6/1930 tarihli ve 1705 sayılı Ticarette Tağşişin Men'i ve İhracatın Murakabesi ve Korunması Hakkında Kanun ile 18/11/1960 tarihli ve 132 sayılı Türk Standardları Enstitüsü Kuruluş Kanununa dayanılarak hazırlanmıştır.
+
+## MADDE 2
+
+(1) 25/4/1990 tarihli ve 20502 sayılı Resmî Gazete’de yayımlanan (Ölçüler ve Kalite Kontrol Genel Müdürlüğü) (Tebliğ No: Mecburi Standard 89/102-103) Tebliği ile Bakanlıkça mecburi uygulamaya konulan, TS 4044 “Bağlantı Elemanları-Petrol ve Doğal Gaz Kuyularında Kullanılan Çelik Çekme Sondaj Boruları İçin” standardı mecburi uygulamadan kaldırılmıştır.
+
+## MADDE 3
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## MADDE 4
+
+(1) Bu Tebliğ hükümlerini Bilim, Sanayi ve Teknoloji Bakanı yürütür.

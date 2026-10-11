@@ -1,0 +1,77 @@
+---
+title: "ÖĞRENİM VE/VEYA KATKI KREDİSİ BORÇLARININ 5917 SAYILI BÜTÇE KANUNLARINDA YER ALAN BAZI HÜKÜMLERİN İLGİLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERE EKLENMESİ İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN HÜKÜMLERİNE GÖRE YENİDEN YAPILANDIRILMASI VE TAKİBİ İLE İLGİLİ USUL VE ESASLARA İLİŞKİN TEBLİĞ"
+identifier: "9.5.13238"
+number: "13238"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2009-07-21
+official_gazette_date: 2009-07-21
+official_gazette_number: "27295"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13238&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# ÖĞRENİM VE/VEYA KATKI KREDİSİ BORÇLARININ 5917 SAYILI BÜTÇE KANUNLARINDA YER ALAN BAZI HÜKÜMLERİN İLGİLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERE EKLENMESİ İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN HÜKÜMLERİNE GÖRE YENİDEN YAPILANDIRILMASI VE TAKİBİ İLE İLGİLİ USUL VE ESASLARA İLİŞKİN TEBLİĞ
+
+## MADDE 1 — Amaç
+
+(1) Bu Tebliğin amacı; 5917 sayılı Bütçe Kanunlarında Yer Alan Bazı Hükümlerin İlgili Kanun ve Kanun Hükmünde Kararnamelere Eklenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına İlişkin Kanun’un 15 inci maddesi ile 351 sayılı Yüksek Öğrenim Kredi ve Yurtlar Kurumu Kanununa eklenen geçici 4 üncü maddesinin verdiği yetkiye istinaden anılan maddenin uygulamasına ilişkin usul ve esasları belirlemektir.
+
+## MADDE 2 — Yasal düzenleme
+
+(1) 10 Temmuz 2009 tarih ve 27284 sayılı Resmî Gazete’de yayımlanan 5917 sayılı Bütçe Kanunlarında Yer Alan Bazı Hükümlerin İlgili Kanun ve Kanun Hükmünde Kararnamelere Eklenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına İlişkin Kanun’un 15 inci maddesi ile 351 sayılı Yüksek Öğrenim Kredi ve Yurtlar Kurumu Kanununa eklenen geçici 4 üncü maddede;
+
+“Bu Kanun ile 2547 sayılı Yükseköğretim Kanunundan doğan ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre bu maddenin yürürlüğe girdiği tarihten önce takibe alınmış olan borcunu üç ay içerisinde Kuruma başvurarak ödeme taahhüdünde bulunanların, borcunun tamamını;
+
+a) Başvuru süresi içinde defaten ödemesi durumunda bu maddenin yürürlüğe girdiği tarihe kadar hesaplanan gecikme zammının yüzde yetmişbeşi,
+
+b) Oniki ay içinde aylık eşit taksitler halinde ödemesi durumunda bu maddenin yürürlüğe girdiği tarihe kadar hesaplanan gecikme zammının yüzde ellisi,
+
+c) Yirmidört ay içinde aylık eşit taksitler halinde ödemesi durumunda bu maddenin yürürlüğe girdiği tarihe kadar hesaplanan gecikme zammının yüzde yirmibeşi,
+
+ç) Otuzaltı ay içinde aylık eşit taksitler halinde ödemesi durumunda bu maddenin yürürlüğe girdiği tarihe kadar hesaplanan gecikme zammının yüzde onu,
+
+terkin edilir.
+
+Taksitli ödemeler başvuru tarihini takip eden aydan itibaren başlar. Aylık taksitlerin aksatılmadan ödenmesi halinde bu maddenin yürürlük tarihinden itibaren gecikme zammı uygulanmaz. Aylık taksitlerin süresinde ödenmemesi halinde bu madde hükümleri uygulanmaz. Bu maddenin yürürlüğe girdiği tarihten önce ödenen tutarlar red ve iade edilmez. Bu madde kapsamına giren alacaklara karşılık yapılmış hacizler ödemeler nispetinde kaldırılır. Uygulamaya ilişkin usul ve esaslar Maliye Bakanlığının görüşü alınarak Kurum tarafından belirlenir.”
+
+hükmü yer almaktadır.
+
+## MADDE 3 — Kapsam
+
+(1) 5917 sayılı Kanunun 15 inci maddesi ile 351 sayılı Kanuna eklenen geçici 4 üncü madde kapsamına, 351 sayılı Yüksek Öğrenim Kredi ve Yurtlar Kurumu Kanunu ile 2547 sayılı Yükseköğretim Kanunundan doğan ve 5917 sayılı Kanunun yürürlüğe girdiği 10 Temmuz 2009 tarihinden önce 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunu hükümlerine göre takibe alınmış ve bu tarih itibarıyla tahsil edilmemiş Kurum alacakları girmektedir.
+
+## MADDE 4 — Başvuru
+
+(1) Kredi borçları 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun hükümlerine göre takip edilen borçluların geçici 4 üncü madde hükümlerinden yararlanmak istemeleri halinde, 5917 sayılı Kanunun yayımlandığı 10 Temmuz 2009 tarihinden itibaren Yüksek Öğrenim Kredi ve Yurtlar Kurumuna (Kurum) üç ay içinde başvurmaları gerekmektedir.
+
+(2) Kanun hükmünden yararlanmak isteyen borçlular tarafından Kurumun www.kyk.gov.tr internet adresinden elektronik ortamda başvuruda bulunulabileceği gibi dilekçe ile de en son 12 Ekim 2009 tarihi mesai saati bitimine kadar Kuruma bizzat ya da posta yoluyla başvurulması gerekmektedir. Başvurularda kimlik ve adres bilgileri ile kredi numarasının yer alması zorunludur. Başvuruların taahhütlü posta veya APS ile yapılması halinde dilekçenin postaya verildiği tarih, adi posta ile yapılması halinde ise, dilekçenin Kurum kayıtlarına giriş tarihi başvuru tarihi olarak kabul edilecektir.
+
+## MADDE 5 — Borcun belirlenmesi ve ödeme seçenekleri
+
+(1) 5917 sayılı Kanunun 15 inci maddesi ile 351 sayılı Kanuna eklenen geçici 4 üncü madde kapsamında ödeme talebinde bulunan borçlular öğrenim ve/veya katkı kredisi borçlarına, vade tarihinden anılan Kanunun yayımlandığı tarihe kadar hesaplanan gecikme zamları esas alınarak Kurumca hazırlanan ödeme planlarından; peşin ödeme, oniki ay eşit taksitle ödeme, yirmidört ay eşit taksitle ödeme ve otuzaltı ay eşit taksitle ödeme planlarından birini tercih ederek ödeme taahhüdünde bulunacaklardır. Katkı kredisi ve öğrenim kredisinin herikisinden borcu olanlar farklı ödeme seçenekleri ile tercih yapabileceklerdir. Tercih edilen ödeme planının sonradan değiştirilmesi mümkün olmayacaktır. Anılan maddeden yararlanmak üzere başvuruda bulunan borçlular hakkında takip işlemlerinin durdurulması için durum Kurum tarafından Maliye Bakanlığına bildirilecektir. Ayrıca anılan madde hükmünden yararlanarak borçlarını tamamen ödeyen borçlular hakkında da gerekli bildirim yapılacaktır.
+
+## MADDE 6 — Peşin ödeme
+
+(1) 5917 sayılı Kanunun 15 inci maddesi ile 351 sayılı Kanuna eklenen geçici 4 üncü maddeden peşin ödeme seçeneği ile yararlanmak isteyen borçluların 5917 sayılı Kanunun yayımlandığı tarihten itibaren üç ay içinde (en son 12 Ekim 2009 tarihi mesai saati bitimine kadar) peşin ödeme hükmüne göre hesaplanan borçlarını defaten ödemeleri gerekmekte olup bu takdirde gecikme zammının yüzde yetmiş beşi terkin edilecektir. Peşin ödeme T.C. Ziraat Bankası Şubelerinden kredi numarası belirtilmek suretiyle yapılacaktır.
+
+## MADDE 7 — Taksitle ödeme
+
+(1) 5917 sayılı Kanunun 15 inci maddesi ile 351 sayılı Kanuna eklenen geçici 4 üncü maddeden taksitli ödeme seçeklerinden birini tercih ederek yararlanmak isteyen borçluların tercih ettikleri seçeneğe göre borçları hesaplanacak ve ilk taksit başvuru tarihini takip eden aydan başlamak üzere aylık eşit taksitler halinde ödenecek tutarlar belirtilecektir. Borçluların hesaplanan borçlarını ödeme planında belirlenen aylık eşit taksitler halinde ödemeleri halinde tercih ettikleri seçeneğe göre gecikme zamlarının belirli bir yüzdesinin tahsilinden vazgeçilecektir. Ödeme planlarında yer alan taksitlerin, ait olduğu ayın son iş günü mesai bitimine kadar ödenmesi gerekmektedir. Taksitli ödemeler T.C. Ziraat Bankası Şubelerinden kredi numarası belirtilmek suretiyle yapılacaktır.
+
+## MADDE 8 — Taksitlerin aksatılması
+
+(1) Taksitlerin süresinde ödenmemesi veya eksik ödenmesi halinde borçlu 5917 sayılı Kanunun 15 inci maddesi ile 351 sayılı Kanuna eklenen geçici 4 üncü madde hükümlerinden yararlanamayacaktır. Bu durumda olanlarla ilgili olarak gerekli takibatın yapılması için Kurum tarafından Maliye Bakanlığının ilgili birimlerine gerekli bildirimde bulunulacaktır.
+
+## MADDE 9 — Yürürlük
+
+(1) Bu Tebliğ hükümleri 10/7/2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+
+## MADDE 10 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürü yürütür.

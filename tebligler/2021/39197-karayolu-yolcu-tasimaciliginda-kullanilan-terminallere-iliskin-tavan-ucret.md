@@ -1,0 +1,105 @@
+---
+title: "KARAYOLU YOLCU TAŞIMACILIĞINDA KULLANILAN TERMİNALLERE İLİŞKİN TAVAN ÜCRET TARİFELERİ HAKKINDA TEBLİĞ"
+identifier: "9.5.39197"
+number: "39197"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2021-12-31
+official_gazette_date: 2021-12-31
+official_gazette_number: "31706"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39197&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# KARAYOLU YOLCU TAŞIMACILIĞINDA KULLANILAN TERMİNALLERE İLİŞKİN TAVAN ÜCRET TARİFELERİ HAKKINDA TEBLİĞ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç
+
+(1) Bu Tebliğin amacı; Dünya Sağlık Örgütü tarafından pandemi ilan edilen COVID-19 salgını nedeniyle uygulanan tedbirler sonucunda karayoluyla yolcu taşımacılığı yapan firmaların üstlenmek zorunda kaldıkları ilave maliyetler dikkate alınarak, karayolu yolcu taşımacılığı alanında terminal işletmeciliği yapmaya yetkili olan T1 ve T2 yetki belgesi sahibi işletmecilerin, terminallerden çıkış yapan taşıtlar ile terminal alanı içerisinde bulunan otoparkları kullanan taşıtlardan alabilecekleri tavan ücretlerini belirlemektir.
+
+### MADDE 2 — Kapsam
+
+(1) Bu Tebliğ, karayolu yolcu taşımacılığı alanında terminal işletmeciliği yapmaya yetkili olan T1 ve T2 yetki belgesi sahibi işletmecileri kapsar.
+
+### MADDE 3 — Dayanak
+
+(1) Bu Tebliğ, 10/7/2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanununun 11 inci maddesi ile 8/1/2018 tarihli ve 30295 sayılı Resmî Gazete’de yayımlanan Karayolu Taşıma Yönetmeliğinin 11 inci maddesine dayanılarak hazırlanmıştır.
+
+### MADDE 4 — Tanımlar
+
+(1) Bu Tebliğde geçen;
+
+a) Otobüs: Yapısı itibarıyla insan taşımak için imal edilmiş ve şoförü dâhil 9 kişiden fazla yolcu taşımaya uygun olan motorlu taşıtı,
+
+b) Otomobil: Yapısı itibarıyla şoförü dâhil en fazla 9 adet oturma yeri olan ve insan taşımak için imal edilmiş motorlu taşıtı,
+
+c) Otopark: Yolcu terminali içerisinde bulunan ve otobüs veya otomobil cinsi taşıtların kullanımına açık özel ve genel park alanlarını,
+
+ç) Özel otomobil: Ticari otomobil dışında kalan hususi veya resmi plakalı otomobili,
+
+d) Ticari otomobil (Taksi): Şehir içinde taksimetre kullanarak insan taşımak üzere yetkilendirilmiş ticari plakalı otomobili,
+
+e) Transit kullanım: Taşımanın yapıldığı kalkış ve varış yeri terminalleri hariç, kalkış ve varış yerleri arasındaki terminallerin ara durak olarak kullanılmasını,
+
+f) Yolcu terminali: Karayolu Taşıma Yönetmeliğinin 14 üncü maddesinde belirtilen özellikleri haiz, yolcu taşımacılığında kullanılan taşıtların kalkış, varış ve ara durak olarak kullandıkları yapıları,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Usul ve Esaslar
+
+### MADDE 5 — Tavan ücret tarifeleri
+
+(1) Tavan ücret tarifeleri; 1/1/2022 tarihinden itibaren 6 ay süreyle uygulanmak üzere Ek-1’de yer almaktadır.
+
+(2) Bu Tebliğ ile belirlenen tavan ücret tarifelerine Katma Değer Vergisi (KDV) dâhildir.
+
+(3) Ek-1’de yer alan tavan ücret tarifeleri en son yapılan nüfus sayımına göre terminalin bulunduğu ilin nüfusu ile bulunduğu ilçenin il merkezine olan uzaklığı da esas alınarak uygulanır. Buna göre, terminal işletmecileri;
+
+a) İl nüfusu 100.000 ve altında olan yerlerde tavan ücretlerinin %40’ını,
+
+b) İl nüfusu 100.001-150.000 arasında olan yerlerde tavan ücretlerinin %45’ini,
+
+c) İl nüfusu 150.001-300.000 arasında olan yerlerde tavan ücretlerinin %50’sini,
+
+ç) İl nüfusu 300.001-500.000 arasında olan yerlerde tavan ücretlerinin %55’ini,
+
+d) İl nüfusu 500.001-1.000.000 arasında olan yerlerde tavan ücretlerinin %60’ını,
+
+e) İl nüfusu 1.000.001-2.000.000 arasında olan yerlerde tavan ücretlerinin %65’ini,
+
+f) İl nüfusu 2.000.001-4.000.000 arasında olan yerlerde tavan ücretlerinin %75’ini,
+
+g) İl nüfusu 4.000.001-7.000.000 arasında olan yerlerde tavan ücretlerinin %85’ini,
+
+ğ) İl nüfusu 7.000.001-10.000.000 arasında olan yerlerde tavan ücretlerinin %95’ini,
+
+h) İl nüfusu 10.000.001 ve üzeri olan yerlerde tavan ücretlerinin %100’ünü,
+
+aşmamak kaydıyla kendi ücret tarifelerini belirlerler. Ancak terminalin bulunduğu ilçenin il merkezine olan uzaklığının büyükşehir olan illerde 50 kilometreden fazla, diğer illerde ise merkez ilçenin dışında olması halinde; belirlenen ücret tarifeleri ayrıca %25 ilave indirim yapılarak uygulanır.
+
+(4) Uyguladıkları ücret tarifeleri, bu Tebliğ ile getirilen tavan ücret tarifelerinden yüksek olan terminal işletmecileri, bu Tebliğin yayımı tarihinden itibaren Bakanlığa başvurarak en geç 1 hafta içerisinde her türlü iş ve işlemlerini tamamlayarak bu Tebliğe uygun ücret tarifelerini alır ve uygularlar.
+
+(5) Terminal işletmecileri, bu ücret tarifelerini herkesin kolayca görebileceği şekilde terminal ve otopark girişlerine asmak suretiyle ilan ederler.
+
+## ÜÇÜNCÜ BÖLÜM — Çeşitli ve Son Hükümler
+
+### MADDE 6 — Hüküm bulunmayan haller
+
+(1) Bu Tebliğde hüküm bulunmayan hallerde Karayolu Taşıma Yönetmeliğinin 56 ncı maddesindeki hükümler uygulanır.
+
+### MADDE 7 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+### MADDE 8 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Ulaştırma ve Altyapı Bakanı yürütür.
+
+**Eki için tıklayınız.**

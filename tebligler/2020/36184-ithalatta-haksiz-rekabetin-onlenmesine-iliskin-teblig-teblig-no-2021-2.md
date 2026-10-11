@@ -1,0 +1,77 @@
+---
+title: "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/2)"
+identifier: "9.5.36184"
+number: "36184"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2020-12-31
+official_gazette_date: 2020-12-31
+official_gazette_number: "31351 5.Mükerrer"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=36184&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/2)
+
+## MADDE 1 — Amaç ve kapsam
+
+(1) Bu Tebliğin amacı, 4/1/2020 tarihli ve 30998 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/38) ile Malezya menşeli ve/veya çıkışlı 54.07 gümrük tarife pozisyonu altında muhtelif gümrük tarife istatistik pozisyonlarında kayıtlı “sentetik filament iplikten dokunmuş mensucat (giyim için olanlar)” ithalatına yönelik başlatılan ve T.C. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen önlemlerin etkisiz kılınmasına karşı soruşturmanın tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
+
+## MADDE 2 — Dayanak
+
+(1) Bu Tebliğ, 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
+
+## MADDE 3 — Tanımlar
+
+(1) Bu Tebliğde geçen;
+
+a) ÇHC: Çin Halk Cumhuriyeti’ni,
+
+b) GTİP: Gümrük tarife istatistik pozisyonunu,
+
+c) GTP: Gümrük tarife pozisyonunu,
+
+ç) Kurul: İthalatta Haksız Rekabeti Değerlendirme Kurulunu,
+
+d) TGTC: İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelini,
+
+ifade eder.
+
+## MADDE 4 — Yürürlükteki dampinge karşı önlem
+
+(1) 21/1/2015 tarihli ve 29243 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/3) çerçevesinde ÇHC, Kore Cumhuriyeti, Tayland Krallığı, Malezya ve Çin Tayvanı menşeli 54.07 GTP altında muhtelif GTİP’lerde sınıflandırılan “sentetik filament iplikten dokunmuş mensucat (giyim için olanlar)” ithalatında ülke ve firma bazında değişen oranlarda dampinge karşı önlem yürürlüktedir.
+
+## MADDE 5 — Karar
+
+(1) Yürütülen soruşturma sonucunda, iş birliğinde bulunan Malezya’da yerleşik Recron Sdn Bhd ve Innotech Textile Sdn Bhd firmalarının ÇHC menşeli soruşturma konusu eşya ithalatında yürürlükte bulunan dampinge karşı önlemi etkisiz kılma faaliyetinde bulunmadığı sonucuna ulaşılmıştır.
+
+(2) Malezya’da yerleşik diğer firmaların, yürürlükteki dampinge karşı önlemden kaçınma dışında yeterli bir haklı nedeni veya ekonomik gerekçesi bulunmayan bir uygulama, işlem veya iş sonucunda, ÇHC menşeli soruşturma konusu eşya ithalatında yürürlükte bulunan dampinge karşı önlemi etkisiz kıldığı sonucuna ulaşılmıştır.
+
+(3) T.C. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu ekte yer almaktadır.
+
+(4) Bu çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun kararı ile, Recron Sdn Bhd ve Innotech Textile Sdn Bhd firmaları dışında kalan firmalardan Malezya menşeli ve/veya çıkışlı olarak yapılan soruşturma konusu eşya ithalatının, İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/3) uyarınca ÇHC menşeli ithalatta yürürlükte bulunan dampinge karşı önlem oranlarına tabi olmasına karar verilmiştir.
+
+## MADDE 6 — Uygulama
+
+(1) Gümrük idareleri, İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/3)’in ekinde GTİP ve tanımı belirtilen eşyanın, diğer mevzuat hükümleri saklı kalmak kaydıyla, Malezya menşeli ve/veya çıkışlı olarak yapılan serbest dolaşıma giriş rejimi kapsamında ithalatında, Recron Sdn Bhd ve Innotech Textile Sdn Bhd firmaları dışında kalan firmalar için, anılan Tebliğde ÇHC menşeli “Tüm üretici/ihracatçılar” için uygulanan, 110 gr/m² ağırlığının üstü için CIF bedelin %70,44’ü; 110 gr/m² ağırlığının altı için CIF bedelin %21,13’ü oranındaki dampinge karşı kesin önlemi uygular.
+
+(2) 13/2/2002 tarihli ve 24670 sayılı Resmî Gazete'de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2002/2) ile yürürlüğe konulan ve İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/3) ile son nihai gözden geçirme soruşturması tamamlanan ÇHC menşeli ithalata ilişkin dampinge karşı önlemde İthalatta Haksız Rekabetin Önlenmesi Hakkında Mevzuat hükümleri çerçevesinde yapılacak değişiklikler bu önlem için de geçerlidir.
+
+(3) Bilgilendirme Raporunda soruşturma konusu eşya ile ilgili açıklamalar genel içerikli olup uygulamaya esas olan yürürlükteki TGTC’de yer alan GTİP ve eşya tanımıdır.
+
+(4) Önleme tabi eşyanın yürürlükteki TGTC’de yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
+
+## MADDE 7 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+## MADDE 8 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Ticaret Bakanı yürütür.
+
+**Eki için tıklayınız.**

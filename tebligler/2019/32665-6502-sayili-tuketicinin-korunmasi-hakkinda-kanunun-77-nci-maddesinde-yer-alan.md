@@ -1,0 +1,83 @@
+---
+title: "6502 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUNUN 77 NCİ MADDESİNDE YER ALAN GAYRİSAFİ GELİRİN TESPİTİNE İLİŞKİN TEBLİĞ"
+identifier: "9.5.32665"
+number: "32665"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2019-07-16
+official_gazette_date: 2019-07-16
+official_gazette_number: "30833"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32665&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# 6502 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUNUN 77 NCİ MADDESİNDE YER ALAN GAYRİSAFİ GELİRİN TESPİTİNE İLİŞKİN TEBLİĞ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### MADDE 1 — Amaç ve kapsam
+
+(1) Bu Tebliğin amacı, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 77 nci maddesinde yer alan gayrisafi gelirin tespitine ilişkin usul ve esasları belirlemektir.
+
+### MADDE 2 — Dayanak
+
+(1) Bu Tebliğ, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 77 nci maddesinin yirminci fıkrası ve 84 üncü maddesinin birinci fıkrasına dayanılarak hazırlanmıştır.
+
+### MADDE 3 — Tanımlar
+
+(1) 6502 sayılı Kanunda ve bu Kanuna dayanılarak hazırlanan ikincil düzenlemelerde yer alan tanımlara ek olarak, bu Tebliğde geçen;
+
+a) Bakanlık: Ticaret Bakanlığını,
+
+b) Gayrisafi gelir: Kanunda öngörülen aykırılıklara ilişkin olarak uygulanabilecek idari para cezasının hesaplanmasında bu Tebliğ hükümlerine göre idarece belirlenen tutarı,
+
+c) Kanun: 6502 sayılı Kanunu,
+
+ç) Proje: Ön bilgilendirme formunda, sözleşmesinde, ticari reklam ve ilanında veya yapılan tanıtımında yer verilen bağımsız bölümler ve varsa bu bağımsız bölümler ile bir bütün oluşturan ortak kullanım alanları, sosyal tesisler ve çevre düzenlemesi ile bunlardan yararlanmaya ilişkin unsurları oluşturan birbirleriyle bağlantılı tüm yapıları,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Gayrisafi Gelirin Tespitine İlişkin Esaslar
+
+### MADDE 4 — Gayrisafi gelirin tespiti
+
+(1) Gayrisafi gelir;
+
+a) Bilanço esasına göre defter tutanlar için net satış hasılatıdır.
+
+b) İşletme hesabı esasına göre defter tutan işletmeler için dönem içinde elde edilen hasılat ve diğer gelirler gelir kalemlerinin toplamıdır.
+
+c) Serbest meslek kazanç defteri tutanlar için indirimlerden sonraki kazancı içeren net hasılattır.
+
+(2) Ön ödemeli konut ve ön ödemeli devre tatil satışlarında, gayrisafi gelirin hesabı için satıcı veya sağlayıcının sınıfı ve defter türüne bağlı olarak bu maddenin birinci fıkrasında yer alan tutarların yanı sıra bilgi ve belge talep edilen proje veya projeler kapsamında akdedilen sözleşmelere istinaden tahsil edilip alınan sipariş avansları hesabına kaydedilen veya kaydedilmesi gereken tutarlara ilişkin bilgileri içerir yeminli mali müşavir veya serbest muhasebeci mali müşavir raporu ve ekleri istenir. Söz konusu rapor ve eklerinin yedi gün içinde bilgiyi talep eden birime yazılı olarak iletilmemesi halinde, satıcı veya sağlayıcının finansal tablolarında yer alan alınan sipariş avanslarına kayıtlı tutar ile akdedilen sözleşmeler için tahsil edilen ancak alınan sipariş avansları hesaplarına kaydedilmesi gerekirken başka hesaplarda muhasebeleştirilen tutarların tamamı dikkate alınarak gayrisafi gelir tespit edilir.
+
+(3) İş ortaklığı ve adi ortaklıklar için gayrisafi gelir, ortaklığın iş ve işlemleri için hazırlanan finansal tablolarda yer alan ve faaliyet alanına göre bu maddede belirtilen tutar veya tutarlar toplamıdır. Ortaklık iş ve işlemlerine ilişkin olarak ortaklık için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu hükümleri uyarınca defter tutulmaması ve finansal tabloların hazırlanmaması durumlarında, ortaklığı oluşturan satıcı veya sağlayıcıların ortaklık kapsamında gerçekleştirdikleri faaliyetleri için kendi defterlerine kaydettikleri ve bu maddede belirtilen tutarları oluşturan değerler toplamıdır.
+
+(4) Sigorta şirketleri için gayrisafi gelir, aykırılığın tespit edildiği sigorta branşına bağlı olarak konsolideolmayan gelir tablosunda yer alan hayat branşı için hayat teknik gelir hesap grubunda bulunan yazılan primler (reasürör payı düşülmüş olarak) hesabında; hayat dışı branşı için hayat dışı teknik gelir hesap grubunda bulunan yazılan primler (reasürör payı düşülmüş olarak) hesabında; emeklilik branşı için ise emeklilik teknik gelirleri hesap grubunda yer alan tutar veya tutarlar toplamıdır.
+
+(5) Bankalar, kredi veren finansal kuruluşlar ve kart çıkaran kuruluşlara ilişkin olarak Kanunun 77 nci maddesinin on beşinci fıkrası kapsamında gayrisafi gelirin hesabında;
+
+a) Bankalar için 27/8/2013 tarihli ve 28748 sayılı Resmî Gazete’de yayımlanan Bankacılık Düzenleme ve Denetleme Kurulunun 5491 sayılı Kurul Kararında yer alan Bankalarca Tüketici İlişkileri Koordinasyon Görevlisi Atanması Hakkında Usul ve Esaslar uyarınca Bankacılık Düzenleme ve Denetleme Kurumuna raporlanan ve Kanun kapsamında tüketicilerden elde edilen faiz/kar payı gelirleri ile ücret ve komisyon gelirleri toplamı dikkate alınır. Söz konusu tutarlara ilişkin öncelikle Bankacılık Düzenleme ve Denetleme Kurumundan; Bankacılık Düzenleme ve Denetleme Kurumunda talep konusu bilginin bulunmaması durumunda da muhatap bankadan bilgi talep edilir. Bankanın yedi gün içinde talep edilen bilgiyi ilgili birime yazılı olarak iletmemesi halinde, konsolide olmayan gelir tablosunda (kar ve zarar cetvelinde) yer alan net faiz/kar payı gelirleri ile net ücret ve komisyon gelirleri toplamı gayrisafi gelir olarak dikkate alınır.
+
+b) Finansal kiralama şirketleri için konsolide olmayan gelir tablosunda (kar ve zarar cetvelinde) yer alan kiralama gelirlerinden finansman giderlerinin indirilmesi sonucu bulunan tutar dikkate alınır.
+
+c) Finansman şirketleri için konsolide olmayan gelir tablosunda (kar ve zarar cetvelinde) yer alan finansman kredilerinden gelirlerden finansman giderlerinin indirilmesi sonucu bulunan tutar dikkate alınır.
+
+(6) Bankalar, kredi veren finansal kuruluşlar ve kart çıkaran kuruluşlar için Kanunun 77 nci maddesinin on dokuzuncu fıkrasının (b) bendi uyarınca uygulanabilecek ceza üst sınırının belirlenmesinde konsolide olmayan finansal durum tablosunda (bilançosunda) yer alan öz kaynak tutarı dikkate alınır.
+
+(7) Gayrisafi gelirin tespit edilmesine ilişkin olarak görevlendirilen Bakanlık müfettişi veya personel, satıcı veya sağlayıcının gayrisafi gelirini Kanun kapsamında bu Tebliğde belirtilen hususları da dikkate alarak belirlemeye yetkilidir.
+
+## ÜÇÜNCÜ BÖLÜM — Son Hükümler
+
+### MADDE 5 — Yürürlük
+
+(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+
+### MADDE 6 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Ticaret Bakanı yürütür.

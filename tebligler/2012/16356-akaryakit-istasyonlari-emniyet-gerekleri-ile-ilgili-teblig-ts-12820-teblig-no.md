@@ -1,0 +1,45 @@
+---
+title: "AKARYAKIT İSTASYONLARI-EMNİYET GEREKLERİ İLE İLGİLİ TEBLİĞ (TS 12820) (TEBLİĞ NO: MSG-MS-2012/17)"
+identifier: "9.5.16356"
+number: "16356"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2012-07-11
+official_gazette_date: 2012-07-11
+official_gazette_number: "28350"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16356&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# AKARYAKIT İSTASYONLARI-EMNİYET GEREKLERİ İLE İLGİLİ TEBLİĞ (TS 12820) (TEBLİĞ NO: MSG-MS-2012/17)
+
+## MADDE 1
+
+(1) Bu Tebliğ, 3/6/2011 tarihli ve 635 sayılı Bilim, Sanayi ve Teknoloji Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 10/6/1930 tarihli ve 1705 sayılı Ticarette Tağşişin Men'i ve İhracatın Murakabesi ve Korunması Hakkında Kanun ile 18/11/1960 tarihli ve 132 sayılı Türk Standardları Enstitüsü Kuruluş Kanununa dayanılarak hazırlanmıştır.
+
+## MADDE 2
+
+(1) 20/5/2007 tarihli ve 26527 sayılı Resmî Gazete’de yayımlanan Mecburi Standard Tebliğ (Tebliğ No: ÖSG-2007/09) ile mecburi uygulamaya konulan TS 12820 “Akaryakıt İstasyonları - Emniyet Gerekleri” standardının; 2 nci maddesi, 4.1 inci maddesi, 4.2.1 inci maddesi, 4.2.5 inci maddesi, 4.2.5.2 nci maddesi, 4.2.6.6 ncı maddesi, 4.12 nci maddesi ve 4.12.3 üncü maddesi Türk Standardları Enstitüsü tarafından tadil edilmiştir. Mecburi Standard Tebliğinin (Tebliğ No: ÖSG-2007/09), Türk Standardları Enstitüsü tarafından tadil edilen maddeleri, akaryakıt istasyonu lisans sahiplerince zorunlu olarak uygulanacaktır.
+
+## MADDE 3
+
+(1) TS 12820 standardı, motorlu kara ve deniz taşıtlarına akaryakıt ikmalinin yapıldığı sabit istasyonlar ile ilgili emniyet gereklerini kapsar.
+
+(2) Akaryakıt istasyonu lisans sahiplerinin, TS 12820 standardı kapsamına giren hususları belirten bu Tebliğ hükümlerine uymaları zorunludur.
+
+## MADDE 4
+
+(1) Söz konusu Standard tadilleri, TSE’nin merkez teşkilatından veya il temsilciliklerinden temin edilir. TSE’nin ve il temsilciliklerinin iletişim bilgilerine TSE’nin internet sayfasından ulaşılır.
+
+## MADDE 5
+
+(1) Bu Tebliğ yayımı tarihinden itibaren onbeş gün sonra yürürlüğe girer.
+
+## MADDE 6
+
+(1) Bu Tebliğ hükümlerini Bilim, Sanayi ve Teknoloji Bakanı yürütür.

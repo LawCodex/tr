@@ -1,0 +1,71 @@
+---
+title: "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 53)"
+identifier: "9.5.10843"
+number: "10843"
+type: communique
+category: "Tebliğ"
+jurisdiction: tr
+language: tr
+date: 2006-12-09
+official_gazette_date: 2006-12-09
+official_gazette_number: "26371"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10843&MevzuatTur=9&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 53)
+
+**GÜMRÜK GENEL TEBLİĞİ**
+
+**(GÜMRÜK İŞLEMLERİ)**
+
+**(SERİ NO: 53)**
+
+Bilindiği üzere, 28/11/2006 tarihli ve 26360 sayılı Resmî Gazete’de yayımlanan 363 Sıra Numaralı “Vergi Usul Kanunu Genel Tebliği” ile 2006 yılı için yeniden değerleme oranı % 7,8 (yedi virgül sekiz) olarak tespit edilmiştir.
+
+4458 sayılı Gümrük Kanununun 241 inci maddesi ile 31/5/2002 tarihli ve 24771 mükerrer sayılı Resmî Gazete’de yayımlanan “Gümrük Yönetmeliği”nin 665, 683, 738 ve 748 inci maddelerinde yer alan ceza, kıymet, tutar ve fazla çalışma ücretlerinin her yıl yeniden değerleme oranına göre belirleneceği hüküm altına alınmıştır.
+
+## MADDE 1
+
+(1) 4458 sayılı Gümrük Kanununun 241 inci maddesinin 1 inci fıkrasında belirtilen usulsüzlük cezası 185.- YTL olarak uygulanır.
+
+## MADDE 2
+
+(1) Gümrük Yönetmeliğinin;
+
+a) 665 inci maddesinin 1 inci fıkrasının;
+
+i) (a) bendinde belirtilen tutar 64.267.- YTL.
+
+ii) (b) bendinde belirtilen tutar 321.348.- YTL.
+
+iii) (c) bendinde belirtilen tutar 321.348.- YTL.
+
+b) 683 üncü maddesinin
+
+i) (a) fıkrasında belirtilen fazla çalışma ücreti 14.- YTL.
+
+(ihracat için 7.- YTL.)
+
+ii) (b) fıkrasında Türk plakalı kamyonlar için fazla çalışma ücreti 22.- YTL.
+
+(ihracat eşyası için çıkış yapan Türk plakalı kamyonlar için 14.- YTL.)
+
+c) 738 inci maddesinin (a) fıkrasında belirtilen usulsüzlük cezası 185.- YTL.
+
+ç) 748 inci maddesi uyarınca ikinci tahlil gerektiren her bir örnek
+
+için alınacak tahlil ücreti 477.- YTL.
+
+olarak uygulanır.
+
+## MADDE 3 — Yürürlük
+
+(1) Bu Tebliğ 1/1/2007 tarihinde yürürlüğe girer.
+
+## MADDE 4 — Yürütme
+
+(1) Bu Tebliğ hükümlerini Gümrük Müsteşarlığının bağlı olduğu Bakan yürütür.
