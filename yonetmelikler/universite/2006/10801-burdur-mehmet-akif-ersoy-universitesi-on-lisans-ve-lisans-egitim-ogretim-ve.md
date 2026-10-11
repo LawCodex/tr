@@ -559,7 +559,7 @@ c) (b) bendinde belirtilen hafta içerisinde ağır hastalık, kaza, birinci der
 
 ### MADDE 35 — Yaz okulu
 
-***(Değişik:RG-14/4/2016-29684)***
+**(Değişik:RG-14/4/2016-29684)***
 
 (1) Yaz okulundan yararlanmak isteyen öğrenciler Senato tarafından belirlenen esaslar doğrultusunda ders alabilirler.
 
