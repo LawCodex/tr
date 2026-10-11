@@ -598,6 +598,11 @@ def strip_label(md, label_plain):
     rest = rest.strip()
     if re.fullmatch(r"\**", rest):
         return ""
+    m = re.match(r"^\*{3,}", rest)
+    if m:  # collapse runs of stray emphasis markers left by the label removal
+        rest = rest[m.end():]
+        if rest.count("**") % 2 == 1:
+            rest = "**" + rest
     return rest
 
 
@@ -660,9 +665,8 @@ def convert_one(args):
     try:
         if os.path.exists(hp) and os.path.getsize(hp) > 0:
             html = gzip.open(hp).read().decode("utf-8", "replace")
-            if len(html) > 6000:
-                body_lines, notes, title_fns, ctx = convert_html(html, title)
-                images = ctx.images
+            body_lines, notes, title_fns, ctx = convert_html(html, title)
+            images = ctx.images
         if not body_lines and os.path.exists(pp):
             body_lines = pdf_text(pp)
             src = "pdf"

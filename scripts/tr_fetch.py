@@ -17,6 +17,7 @@ import gzip
 import json
 import os
 import random
+import re
 import sys
 import threading
 import time
@@ -121,8 +122,10 @@ def fetch_doc(raw, it):
     r = req("GET", url)
     time.sleep(0.5)
     text = r.content if r.status_code == 200 else b""
-    # an empty rendering is ~2-4 KB of boilerplate (styles + scripts)
-    if len(text) > 6000 and (b"<p" in text or b"<table" in text or b"<P" in text):
+    # an empty rendering is only the viewer boilerplate (styles + scripts, ~4.5 KB)
+    body_txt = re.sub(rb"<script.*?</script>|<style.*?</style>|<[^>]+>|&nbsp;|\s", b"",
+                      text, flags=re.S)
+    if len(body_txt) > 50:
         with gzip.open(hp + ".tmp", "wb") as f:
             f.write(text)
         os.replace(hp + ".tmp", hp)
