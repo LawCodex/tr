@@ -120,8 +120,8 @@ DIV_RE = re.compile(r"^" + ORD + r"\s+(KİTAP|KITAP|KISIM|BAP|BÖLÜM|AYIRIM|KES
                     r"(?:\s*\[\^?\d+\]?)*\s*$")
 MADDE_RE = re.compile(
     r"^((?:(?:Ek|EK|Geçici|GEÇİCİ|Mükerrer|MÜKERRER|Ek\s+Geçici|EK\s+GEÇİCİ|Geçici\s+Ek|GEÇİCİ\s+EK)\s+)?"
-    r"(?:Madde|MADDE)\s+\d+(?:\s*/\s*[A-ZÇĞİÖŞÜa-z]+|\s*\(?[A-Z]\)?(?=\s*[–—-])|\s+[a-zçğıöşü](?=\s*[–—-]))?)"
-    r"\s*(?:[–—-]|\.(?=\s)|$)\s*")
+    r"(?:Madde|MADDE)\s+\d+(?:\s*/\s*[A-ZÇĞİÖŞÜa-z]+|\s*\(?[A-Z]\)?(?=\s*[-‐‑‒–—―−])|\s+[a-zçğıöşü](?=\s*[-‐‑‒–—―−]))?)"
+    r"\s*(?:[-‐‑‒–—―−]|\.(?=\s)|$)\s*")
 META_RE = re.compile(
     r"^(?:Kanun\s+Numarası|Kabul\s+Tarihi|Yayımlandığı|Yayımlandığı|Yetki\s+Kanun|Dayandığı|"
     r"Kanun\s+Hükmünde\s+Kararnamenin|Cumhurbaşkanlığı\s+Kararnamesinin|Bakanlar\s+Kurulu\s+Kararının|"
@@ -191,7 +191,13 @@ def inline(el, ctx, plain=False):
                 if ch.name in INLINE_SKIP:
                     if ch.name == "img":
                         ctx.images += 1
-                        runs.append(("[görsel]", False, False, "img"))
+                        src = (ch.get("src") or "").strip()
+                        if src and not src.startswith(("http:", "https:", "data:")):
+                            src = BASE + "/MevzuatMetin/" + src.lstrip("/")
+                        if src.startswith("http"):
+                            runs.append((f"[görsel]({src.replace(' ', '%20')})", False, False, "img"))
+                        else:
+                            runs.append(("[görsel]", False, False, "img"))
                     continue
                 if ch.name == "br":
                     runs.append(("\n", False, False, "br"))
@@ -334,8 +340,18 @@ def html_table(tbl, ctx):
 
 def blocks_of(body):
     """Yield top-level content blocks (p/h*/li/table) in document order, excluding footnotes."""
+    layout = {}
+
+    def is_layout(t):
+        if id(t) not in layout:
+            rows = [tr for tr in t.find_all("tr") if tr.find_parent("table") is t]
+            layout[id(t)] = len(rows) == 1 and len(rows[0].find_all(["td", "th"], recursive=False)) == 1
+        return layout[id(t)]
+
     for el in body.find_all(["p", "h1", "h2", "h3", "h4", "h5", "h6", "table", "li", "pre"]):
-        if el.find_parent("table") is not None:
+        if el.name == "table" and is_layout(el):
+            continue
+        if any(not is_layout(t) for t in el.find_parents("table")):
             continue
         if el.find_parent(["p", "li"]) is not None and el.name != "table":
             continue
@@ -407,6 +423,12 @@ def convert_html(html, title):
                 title_fns += re.findall(r"\[(\d+)\]", txt[:600])
                 start = idx + 1
                 seen_meta = True
+                continue
+            tn = re.sub(r"\[\d+\]", "", txt)
+            tn = re.sub(r"[^A-ZÇĞİÖŞÜ0-9]", "", tn.upper())
+            if idx <= 3 and tn and tn in title_norm:
+                title_fns += re.findall(r"\[(\d+)\]", txt[:600])
+                start = idx + 1
                 continue
             break
         plain = norm_ws(it[2]).strip()

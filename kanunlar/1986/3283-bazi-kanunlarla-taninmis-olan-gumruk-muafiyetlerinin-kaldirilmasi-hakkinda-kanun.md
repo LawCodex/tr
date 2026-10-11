@@ -1,0 +1,74 @@
+---
+title: "BAZI KANUNLARLA TANINMIŞ OLAN GÜMRÜK MUAFİYETLERİNİN KALDIRILMASI HAKKINDA KANUN"
+identifier: "1.5.3283"
+number: "3283"
+type: act
+category: "Kanun"
+jurisdiction: tr
+language: tr
+date: 1986-05-06
+official_gazette_date: 1986-05-13
+official_gazette_number: "19106"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3283&MevzuatTur=1&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BAZI KANUNLARLA TANINMIŞ OLAN GÜMRÜK MUAFİYETLERİNİN KALDIRILMASI HAKKINDA KANUN
+
+BAZI KANUNLARLA TANINMlŞ OLAN GÜMRÜK
+
+MUAFiYETLERİNİN KALDIRILMASI HAKKlNDA KANUN
+
+Kanun Numarası : 3283
+
+Kabul Tarihi : 6/5/1986
+
+Yayımlandığı Resmî Gazete : Tarih : 13/5/1986 Sayı : 19106
+
+Yayımlandığı Düstur : Tertip : 5 Cilt : 25 Sayfa : 196
+
+## Madde 1
+
+Kuruluş kanunları veya başka kanunlar ile kamu kurum ve kuruluşları (belediyeler dahil), kamu iktisadi teşebbüsleri, bunların bağlı ortaklıkları ve müesseseleri ile özel kuruluşlar ve gerçek veya tüzelkişilere tanınan ithalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri yürürlükten kaldırılmıştır.
+
+7/3/1954 tarihli ve 6326 sayılı, 19/7/1972 tarihli ve 1615 sayılı, 14/1/1982 tarihli ve 2581 sayılı, 1/11/1983 tarihli ve 2937 sayılı kanunlar hakkında birinci fıkra hükmü uygulanmaz.
+
+27/6/1963 tarihli ve 261 sayılı, 14/5/1964 tarihli ve 474 sayılı, 28/7/1967 tarihli ve 933 sayılı kanunlarla, muafiyet kapsam ve şartlarının tayininde Cumhurbaşkanına yetki veren diğer kanun hükümleri saklıdır.[^1]
+
+## Madde 2
+
+Birinci maddede belirtilen, kurum, kuruluş, teşebbüs, bağlı ortaklık ve müesseseler için gümrük vergisi ile ithalde alınan diğer vergi, resim ve harçlardan muafiyet tanımaya Cumhurbaşkanı yetkilidir.[^2]
+
+## Geçici Madde 1
+
+Bu Kanunun yürürlüğe girdiği tarihe kadar gümrüklere gelmiş, dış krediye bağlanmış, müsaade belgesi veya ithal müsaadesi alınmış, mal bedeli transfer edilmiş bulunan ithal mallarına bu Kanun uygulanmaz.
+
+## Geçici Madde 2
+
+Bu Kanunun yürürlüğe girdiği tarihe kadar milletlerarası anlaşmalar ve resmi dış kredi anlaşmalarına istinaden çıkarılan kanunlar, 1 inci maddenin birinci fıkrası hükmünün dışındadır.
+
+## Madde 3
+
+Bu Kanun yayımı tarihinden bir ay sonra yürürlüğe girer.
+
+## Madde 4
+
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+**3283 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA**
+
+**ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ**
+
+**TARİHLERİNİ GÖSTERİR TABLO**
+
+| **Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası** | **3283 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri** | **Yürürlüğe Giriş Tarihi** |
+| --- | --- | --- |
+| KHK/700 | 1,2 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte |
+
+---
+
+[^1]: *2/7/2018 tarihli ve 700 sayılı KHK’nin 101 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kuruluna” ibaresi “Cumhurbaşkanına” şeklinde değiştirilmiştir.*
+[^2]: *2/7/2018 tarihli ve 700 sayılı KHK’nin 101 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.*

@@ -1,0 +1,93 @@
+---
+title: "TÜRK SİLAHLI KUVVETLERİ GİYECEK VE TEÇHİZATI KANUNU"
+identifier: "1.3.7471"
+number: "7471"
+type: act
+category: "Kanun"
+jurisdiction: tr
+language: tr
+date: 1960-05-06
+official_gazette_date: 1960-05-13
+official_gazette_number: "10504"
+dustur_tertip: "3"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7471&MevzuatTur=1&MevzuatTertip=3"
+retrieved: 2026-10-12
+---
+
+# TÜRK SİLAHLI KUVVETLERİ GİYECEK VE TEÇHİZATI KANUNU[^1][^2][^3][^4]
+
+## Madde 1
+
+**(Değişik: 22/1/2015-6586/18 md.)**
+
+Bu Kanunun amacı, Türk Silahlı Kuvvetleri mensubu askeri personele ilk nasıp istihkakı hariç istihkak olarak verilecek veya tahsis edilecek giyecek ve teçhizatına ilişkin hususları belirlemektir.
+
+Bu Kanun; Türk Silahlı Kuvvetleri mensubu askeri personeli ve bu personele giyecek ile teçhizatını istihkak olarak verecek veya tahsis edecek birlik, karargâh ve kurumları kapsar.
+
+Bu Kanunun uygulanmasında;
+
+a) Türk Silahlı Kuvvetleri: Kara, Deniz ve Hava Kuvvetleri Komutanlıkları ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığını,
+
+b) Askeri personel: Subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman jandarma, uzman erbaş, askeri öğrenci, sözleşmeli erbaş ve erler ile bunların adayları, erbaş ve erler ile yedek personeli,
+
+c) İstihkak: Askeri personel tarafından kullanılmasına ve ilgili mevzuatı kapsamında sarfına yetki verilen giyecek ve teçhizatının cins ve miktarını,
+
+ç) Tahsis: Askeri personel tarafından bir hizmetin ifası amacıyla veya hizmetin devamı süresince kullanılmasına ve ilgili mevzuatı kapsamında sarfına yetki verilen giyecek ve teçhizatının cins ve miktarını,
+
+ifade eder.
+
+## Madde 2
+
+**(Değişik: 22/1/2015-6586/19 md.)**
+
+Askeri personele, yönetmelikle tespit edilen giyecek ve teçhizatı istihkak olarak; hizmetin özelliğine göre, ihtiyaç duyulan giyecek ve teçhizatı ise tahsis olarak verilir.
+
+İstihkak veya tahsis olarak kullanılmak üzere verilecek giyecek ve teçhizatının cins, miktar ve miadını gösteren istihkak veya tahsis listelerini belirlemeye; tespit edilen giyecek ve teçhizatına yenilerini ilave etmeye veya ihtiyaç kalmayanları iptal etmeye, miktar ve miatlarında değişiklik yapmaya Genelkurmay Başkanlığının teklifi üzerine ilgisine göre Millî Savunma Bakanlığı veya İçişleri Bakanlığı yetkilidir.
+
+## Madde 3
+
+**(Mülga: 22/1/2015-6586/110 md.)**
+
+## Madde 4
+
+**(Mülga: 22/1/2015-6586/110 md.)**
+
+## Geçici Madde 1
+
+**(6/5/1960 tarih ve 7471 sayılı Kanunun kendi numarasız muvakkat maddesi olup, teselsül için numaralandırılmıştır.)**
+
+Muhtelif sebepler ile 6801 sayılı kanun gereğince subay sınıfına geçmiyen askeri memurlar ile 6744 sayılı kanunda tasrih edilen astsubaylıktan subay muadilliğine geçirilen bando öğretmenleri ve gedikli subaylar da yukarıdaki maddelere göre eğitim ve hizmet giyeceğinden faydalanırlar.
+
+## Madde 5
+
+4108 sayılı kanunla 5802 sayılı kanunun bu kanuna muhalif hükümleri kaldırılmıştır.
+
+## Madde 6
+
+Bu kanun 1 Mart 1960 tarihinde mer'iyete girer.
+
+## Madde 7
+
+Bu kanunun hükümlerini icraya Milli Müdafaa ve Dahiliye Vekilleri memurdur.
+
+**7471** **SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+| **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası** | **7471 sayılı Kanunun değişen veya iptal edilen maddeleri** | **Yürürlüğe Giriş Tarihi** |
+| --- | --- | --- |
+| KHK/336 | – | 5/8/1988 |
+| KHK/346 | – | 25/10/1988 |
+| 5144 | 2 | 28/4/2004 |
+| 6586 | Kanunun Adı, 1, 2, 3, 4 | 3/2/2015 |
+
+---
+
+[^1]: Bu Kanunda geçen erat tabiri, 4/1/1961 tarih ve 211 sayılı Kanunun 118 inci maddesi ile "Erbaş ve Er" olarak değiştirilmiştir.
+[^2]: Bu Kanunda yer alan "kıyafet kararnamesi" ibaresi, 22/11/1990 tarih ve 3683 sayılı Kanunun 10 uncu maddesiyle "kıyafet yönetmeliği" şeklinde değiştirilmiştir.
+[^3]: Bu Kanunun adı, “Türkiye Cumhuriyeti Ordusu Subay, Askeri Memur ve Muadilleriyle Astsubayların Giyeceğine Dair Kanun” iken, 21/4/2004 tarihli ve 5144 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[^4]: Bu Kanunun adı, “Türkiye Cumhuriyeti Ordusu Subay ve Astsubayların Giyecek ve Teçhizatına Dair Kanun” iken, 22/1/2015 tarihli ve 6586 sayılı Kanunun 17 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
