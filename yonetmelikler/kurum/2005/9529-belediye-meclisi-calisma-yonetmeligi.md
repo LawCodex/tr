@@ -1,0 +1,324 @@
+---
+title: "BELEDİYE MECLİSİ ÇALIŞMA YÖNETMELİĞİ"
+identifier: "7.5.9529"
+number: "9529"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2005-10-09
+official_gazette_date: 2005-10-09
+official_gazette_number: "25961"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9529&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# BELEDİYE MECLİSİ ÇALIŞMA YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### Madde 1 — Amaç
+
+Bu Yönetmeliğin amacı; belediye meclisinin çalışma usul ve esaslarını düzenlemektir.
+
+### Madde 2 — Kapsam
+
+Bu Yönetmelik belediye meclisinin, meclis başkanlık divanının, meclis ihtisas ve denetim komisyonlarının çalışma usul ve esaslarını kapsar.
+
+### Madde 3 — Dayanak
+
+Bu Yönetmelik, **(Ek ibare:RG-27/11/2014-29188)** 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 12, 13, 14 ve 15 inci maddeleri ile 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 19 uncu maddesine dayanılarak hazırlanmıştır.
+
+### Madde 4 — Tanımlar
+
+Yönetmelikte geçen;
+
+Kanun: 5393 sayılı Belediye Kanunu,
+
+Meclis: Belediye meclisini,
+
+Encümen: Belediye encümenini,
+
+Başkan: Belediye meclisi başkanını,
+
+Başkanlık divanı: Meclis başkanı, meclis birinci ve ikinci başkan vekilleri ile katip üyeleri,
+
+Komisyon: İhtisas komisyonlarını ve denetim komisyonunu,
+
+Dönem: Belediye meclisinin 1 Ocak ile 31 Aralık tarihleri arasını kapsayan bir yıllık çalışma süresini,
+
+Toplantı: Meclisin bir ay içinde yaptığı birleşimlerin tamamını,
+
+Birleşim: Meclisin bir gün içinde yaptığı oturumların tamamını,
+
+Oturum: Bir birleşimin ara ile bölünen kısımlardan her birini,
+
+Salt çoğunluk: **(Değişik:RG-29/4/2021-31469)** Belli sayının yarısından fazla olan çoğunluğu,
+
+Nisbî çoğunluk: Aynı yöndeki oyların, diğer oy topluluklarından fazla olması durumunu,
+
+Nitelikli çoğunluk: Kanunun belli durumlarda aradığı üçte iki veya dörtte üç gibi belirli bir çoğunluğu,
+
+Oybirliği: Meclis toplantısında bütün oyların aynı yönde olması durumunu,
+
+Oyçokluğu: Meclis toplantısında oyların aynı yönde olmaması durumunu
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Toplantı Usul ve Esasları
+
+### Madde 5 — Meclisin ilk toplantısı
+
+Meclis, mahalli idareler seçim sonuçlarının ilânını takip eden beşinci gün belediye başkanının başkanlığında kendiliğinden toplanır. **(Değişik cümle:RG-21/8/2014-29095)** Başkanın toplantıya katılamaması durumunda en yaşlı üye toplantıya başkanlık eder. Başkan tarafından meclisin en genç iki üyesi geçici kâtip olarak davet olunur. Başkanlıkça yoklama yapılarak salt çoğunluğun mevcut olduğu tespit edildikten sonra meclis, birinci ve ikinci başkan vekillerini, en az iki kâtip üyeyi seçer. Kâtip üyeler seçildikten sonra en genç iki üye yerlerini seçilmiş kâtip üyelere bırakırlar.
+
+**(Değişik ikinci fıkra:RG-27/11/2014-29188)** Ayrıca, bu toplantıda encümene üye seçimi, il ve ilçe belediyeleri ile nüfusu 10.000’in üzerindeki belediyelerde plan ve bütçe komisyonuyla imar ve bayındırlık komisyonu, büyükşehir belediyelerinde ise plan ve bütçe, imar ve bayındırlık, çevre ve sağlık, eğitim, kültür, gençlik ve spor komisyonu ile ulaşım komisyonlarına ve gerekli görülmesi halinde diğer komisyonlara üye seçimi yapılır.
+
+### Madde 6 — Meclis toplantıları
+
+Meclis toplantısı her ayın ilk haftası başlatılır ve ara verilmeden tamamlanır. Ancak ilk haftanın tamamının resmi tatile rastlaması halinde takip eden ilk çalışma günü toplantı günü olarak belirlenebilir. Resmi tatile rastlayan günlerde çalışmaya ara verilebilir.
+
+Meclis, toplantıların haftanın hangi günü yapılacağını genel olarak belirleyebileceği gibi, her toplantının sonunda gelecek ay toplantısının hangi gün yapılacağını da kararlaştırabilir. Meclisin bu konuda karar almaması halinde toplantı günü başkan tarafından tayin edilir.
+
+Büyükşehir belediye meclisi her ayın ikinci haftası toplanır. İlçe **(Değişik ibare:RG-21/8/2014-29095)** (…) belediye meclisi toplantıları büyükşehir belediye meclisi toplantısından önce bitirilecek şekilde düzenlenir.
+
+Meclis, başkanlık divanı, encümen ve denetim komisyonu üyeliği seçiminin yapılacağı, faaliyet raporu, bütçe ve kesin hesabı ile belli bir ayda görüşülmesi zorunlu olan konuların görüşüleceği ayların dışında bir ay tatil kararı alabilir.
+
+Toplantı süresi bütçenin görüşüldüğü toplantılarda yirmi, diğer toplantılarda beş günü aşamaz. Bu süreler uzatılamayacağı gibi **(Ek ibare:RG-27/11/2014-29188)** , bu maddenin son fıkrasında belirtilen usul dışında olağanüstü toplantı da yapılamaz.
+
+Görüşülecek konu bulunmadığı takdirde meclis gündemsiz olarak toplantıya çağırılır. Birleşim açıldıktan sonra üyeler tarafından da gündem konusu önerilmediği takdirde toplantı kapatılır. Bu gün için de meclis üyelerine huzur hakkı ödenir.
+
+**(Ek fıkra:RG-21/8/2014-29095)** Belediye başkanı, acil durumlarda lüzum görmesi halinde belediye meclisini bir yılda üç defadan fazla olmamak ve her toplantı bir birleşimi geçmemek üzere toplantıya çağırır. Olağanüstü toplantı çağrısı ve gündem en az üç gün önceden meclis üyelerine yazılı olarak duyurulur ve ayrıca mutat usullerle ilan edilir. Olağanüstü toplantılarda çağrıyı gerektiren konuların dışında hiçbir konu görüşülemez.
+
+### Madde 7 — Toplantı yeri
+
+Meclis toplantıları meclis toplantı salonu olarak belirlenen yerde yapılır. Toplantının bu yer dışında yapılmasının zorunlu olduğu durumlarda, toplantı gününden en az üç gün önceden üyelere bildirilmek ve belediye sınırları içerisinde olmak kaydıyla başkanın belirlediği yerde toplantı yapılabilir. Bu şekildeki toplantının yeri ve zamanı gündemin duyurulmasındaki usullerle belde halkına duyurulur.
+
+### Madde 7/A — Başkan ve meclis üyelerinin görüşmelere katılamayacağı durumlar
+
+**(Ek:RG-27/11/2014-29188)**
+
+Belediye başkanı ve meclis üyeleri, münhasıran kendileri, ikinci derece kan ve kayın hısımları ve evlatlıkları ile ilgili işlerin görüşüldüğü meclis toplantılarına katılamazlar.
+
+### Madde 8 — Toplantı gündemi ve duyurulması
+
+Gündem, belediye başkanı tarafından belirlenir ve toplantı günü de belirtilerek üyelere en az üç gün önceden bildirilir. Üç günün hesabında duyuru günü ile toplantı günü hesaba katılmaz. Meclis üyelerine bildirim, imza karşılığı gündemin teslimi, taahhütlü posta, telefon, faks, belediye web sitesinde yayımlama, elektronik posta gibi ispat edici yöntemlerden biri veya birkaçı kullanılarak yapılır. Telefonla bildirimde, bildirimin hangi numaralı telefonla, ne zaman ve kimin tarafından yapıldığı hususunda bildirimi yapan kişi tarafından imzalanmış bir belge düzenlenir.
+
+Gündem, çeşitli yollarla halka da duyurulur. Bu duyuru, meclis toplantı salonunun girişine ve belediye ilân panosuna veya halkın yoğun olarak bulunduğu ve gelip geçtiği yerlere ilân asılarak; gazete, hoparlör, internet, radyo ve televizyon yayını gibi yöntemlerden biri veya birkaçı kullanılarak yapılır.
+
+Meclis toplantılarının ilk gününde belediye başkanı ve üyeler **(Mülga ibare:RG-27/11/2014-29188)** (…) **(Değişik ibare:RG-27/11/2014-29188)** belediyeye ait işlerle ilgili konuların gündeme alınmasını önerebilir. Öneri, toplantıya katılanların salt çoğunluğunun kabulü ile gündeme alınır.
+
+## ÜÇÜNCÜ BÖLÜM — Meclis Çalışmaları
+
+### Madde 9 — Başkanlık divanı
+
+Meclise, belediye başkanı başkanlık eder. Belediye başkanının bulunmadığı durumlarda meclis birinci başkan vekili, onun da olmadığı durumda ikinci başkan vekili meclise başkanlık eder. Belediye başkanı toplantının herhangi bir safhasında da yerini meclis başkan vekiline bırakarak toplantıdan ayrılabilir. Ancak, yıllık faaliyet raporunun görüşüldüğü oturuma, meclis başkan vekili başkanlık yapar.
+
+Meclis birinci ve ikinci başkan vekilinin de bulunmaması durumunda, varsa katip üyeler, yoksa en genç iki meclis üyesi tarafından imzalanmış tutanakla durum tespit edilerek toplantı yapılmaksızın meclis kapatılır.
+
+Başkanlık divanında boşalma olması durumunda kalan süreyi tamamlamak üzere yenisi seçilir.
+
+### Madde 9/A — Meclis üyeliğinin sona ermesi
+
+**(Ek:RG-27/11/2014-29188)**
+
+Meclis üyeliği, ölüm ve istifa durumunda kendiliğinden sona erer. Meclis üyeliğinden istifa dilekçesi belediye başkanlığına verilir ve başkan tarafından meclisin bilgisine sunulur.
+
+Özürsüz veya izinsiz olarak arka arkaya üç birleşim günü veya bir yıl içinde yapılan toplantıların yarısına katılmayan üyenin üyeliğinin düşmesine, savunması alındıktan sonra üye tam sayısının salt çoğunluğuyla karar verilir.
+
+### Madde 10 — Toplantı ve karar yeter sayısı
+
+Meclis, üye tam sayısının salt çoğunluğu ile toplanır ve katılanların salt çoğunluğu ile karar alır. Ancak karar yeter sayısı üye tam sayısının dörtte birinden az olamaz. Belediye başkanı, meclis üye tam sayısına dâhildir. Oyların eşitliği halinde başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+
+Birleşime ilişkin karar tutanakları bir sonraki birleşimden önce üyelere dağıtılır.
+
+Meclisin toplanması için gerekli çoğunluğun sağlanamaması veya görüşmeler sırasında başkan veya üyelerden birinin talebi üzerine yapılacak yoklamada karar yeter sayısının bulunmadığının anlaşılması durumunda, meclis başkanı gün ve saatini tayin ederek en geç üç gün içinde toplanmak üzere meclisi tatil eder. Bu toplantının günü ve saati üyelere bildirilir ve gündemin duyurulmasındaki usullerle ilân edilir.
+
+Gelecek toplantı, üye tam sayısının dörtte birinden az olmayan üye ile yapılabilir. Bu toplantıda da yeter sayı bulunamaz ise meclis tatil edilir ve o ay içinde başka bir toplantı çağrısı yapılmaz.
+
+Toplantı ve karar yeter sayılarının hesabında kesirli sayılar tam sayıya yükseltilir.
+
+### Madde 11 — Görüşmeler ve yönetim
+
+Başkanlık divanı yerini aldıktan sonra başkan yoklama yaptırır; toplantı yeter sayısının olduğu anlaşıldığı takdirde birleşimi açar. Gündeme geçilmeden bir önceki birleşimde alınan kararlara ilişkin tutanakta maddi hata bulunması durumunda, hata meclis kararı ile düzeltilerek başkanlık divanınca imzalanır.
+
+Başkan gündeme geçilmeden önce meclise sunulacak konular varsa bildirir, meclis başkanlığına hitaben verilmiş olan dilekçeleri kabul eder ve meclise sunar.
+
+Üyelerin gündem dışı konuşma isteği yazılı olarak başkana bildirilir. Söz verip vermemek ve söz verildiğinde süresini ve zamanını belirlemek yetkisi başkana aittir.
+
+Gündem konusunda ve usul hakkında leh ve aleyhte olmak üzere birer üyeye söz verilir. Yapılacak konuşmalar en fazla on dakika ile sınırlıdır.
+
+Daha sonra gündem maddeleri sırası ile okunur ve görüşülür. Gündem sırasında değişiklik yapılmasına, başkan veya üyeler tarafından yapılan teklifler üzerine gündeme madde ilave edilmesine meclisçe karar verilir. Ancak ilçe **(Mülga ibare:RG-21/8/2014-29095)** (…) belediye meclislerinden gelen kararlar ile belediyenin birimlerinden ve bağlı kuruluşlarından gelen talepler toplantı sırasında başkan tarafından gündeme eklenir.
+
+Görüşmelerde konuşmak için önceden başkanlıktan söz istenir. İhtisas komisyonuna ve siyasi parti gruplarına söz almada öncelik tanınır. Siyasi parti gruplarına üye sayısı en çok olandan başlamak suretiyle; üyelere söz isteme sırasına göre söz verilir. Bütçe görüşmesinde komisyon raporu okunduktan sonra üyelere söz verilir.
+
+Meclisteki konuşmalar başkana hitaben yapılır. Başkan her zaman söz hakkına sahiptir.
+
+İhtisas komisyonları ve siyasi parti grupları adına yapılacak konuşmalar 20 şer dakika, üyelerin konuşmaları ise 10 dakika ile sınırlıdır. Bütçe ve program görüşmelerinde parti grupları için bu süreler iki kat olarak uygulanır. Meclis, bu sürelerin değiştirilmesine karar verebilir. Görüşmelerin yeterli olduğu meclisçe kabul edildiği takdirde başka üyeye söz verilmez.
+
+Meclis toplantıları halka açıktır. Meclis başkanı veya üyelerden herhangi birinin gerekçeli teklifi üzerine kapalı oturum yapılmasına karar verilebilir. Kapalı oturumda başkan ve üyeler dışında gerektiğinde meclis kararıyla görevli bulundurulabilir.
+
+### Madde 12 — Mecliste düzenin sağlanması
+
+Meclis başkanı, meclis çalışmalarında düzeni sağlamakla yükümlüdür. Meclis görüşmeleri sırasında söz alan üyenin konu dışına çıkması, kişiliğe dokunur söz söylemesi, diğer üyelerin hatibin sözünü kesmesi ve meclisin düzenini bozacak davranışta bulunması yasaktır. Buna aykırı davranan üyeler, başkan tarafından uyarılır, buna rağmen davranışlarında ısrar eden üye başkanın talimatıyla görevliler tarafından meclisten çıkarılır.
+
+Meclis görüşmeleri sırasında sükûnetin bozulması durumunda başkan tarafından ilgililere ihtarda bulunulur. Görüşmelere devam edilemeyeceğinin anlaşılması halinde başkan oturuma ara verebileceği gibi görüşmeleri bir sonraki birleşime erteleyebilir.
+
+## DÖRDÜNCÜ BÖLÜM — Oylama Usulleri ve Kararlar
+
+### Madde 13 — Oylama usulleri
+
+Mecliste oylama usulleri gizli, işaretle ve açık oylama olmak üzere üç türlüdür. Üyeler oylarını bizzat kullanırlar. Ancak, gizli oy kullanmaya fiziki bakımdan engelli olanlar tayin edecekleri kişiler eliyle oy kullanabilirler.
+
+a) Gizli oylama : Meclis üyelerinin oy pusulasına seçeceği kişi veya kişilerin adlarını ya da bir teklif hakkında kabul, çekimser veya ret yazıp, tanıtıcı hiçbir işaret koymadan sandığa atmasıdır.
+
+Gizli oylamalarda kullanılacak oy pusulaları zarfla birlikte başkanlıkça mühürlü şekilde düzenlenir. Oylama bittikten sonra katip üyeler tarafından sandıktan çıkan zarflar sayılır ve üye sayısından fazla olmadığı tespit edildikten sonra açılır. Oy pusulaları sayıldıktan sonra, başkanlık divanı tarafından sonuç açıklanır. Oylarda eşitlik halinde oylama bir defa daha tekrarlanır; yine eşitlik olursa meclis başkanınca kuraya başvurulur. Kura çekimi, birbirinin aynı olan ve üzerinde adlar yazılı bulunan kağıtlar bir torbaya konularak meclis başkanı tarafından çekilmek suretiyle yapılır. Torbadan çekilen isim kazanmış olur.
+
+Başkanlık divanı, encümen üyeliği ve denetim komisyonu üyeliği seçimleri gizli oylama ile yapılır. Meclis kararı ile başka konularda da gizli oylama yapılabilir.
+
+b) İşaretle oylama: Meclis üyesinin elini yukarı kaldırarak veya ayağa kalkarak kabul, çekimser veya ret şeklinde oyunu açıklamasıdır.
+
+İşaretle oylamada oyları tespit etmek başkanlık divanına aittir. Çoğunluk olup olmadığı hususunda tereddüt olursa, bir defa daha oylama yapılır. Tereddüt giderilemediği takdirde ad okunmak suretiyle açık oylamaya başvurulur.
+
+c) Açık oylama: Üzerinde üyelerin ad ve soyadları yazılı oy pusulalarının sandığa atılması veya varsa elektronik oylama mekanizmasının çalıştırılması ya da üyelerin adlarının okunması üzerine, adı okunan üyenin ayağa kalkarak kabul, çekimser veya ret demesi suretiyle yapılan oylamadır.
+
+Sandık kullanılarak yapılan oylamada, sandık katip üyeler tarafından meclis önünde açılır. Oy pusulaları sayılır ve oy çeşitleri tutanağa ayrı ayrı geçirildikten sonra başkanlık divanı tarafından sonuç açıklanır.
+
+İşaretle ve açık oylamalarda eşitlik olması halinde, başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+
+### Madde 14 — Mecliste görüşülen konuların kabul veya reddedilmesi
+
+Mecliste görüşülen konular; mahiyetine göre salt çoğunluk, nisbî çoğunluk, nitelikli çoğunluk, oyçokluğu veya oybirliği ile kabul veya reddedilir.
+
+Mecliste bütçe ve kesin hesap tümüyle reddedilemez. Ancak, değişiklik yapılmak suretiyle kabul edilebilir.
+
+Reddedilen bir konu meclisin aynı toplantısında yeniden gündeme alınıp görüşülmez.
+
+### Madde 14/A — Meclisin feshi
+
+**(Ek:RG-27/11/2014-29188)**
+
+Belediye meclisi, kendisine Kanunla verilen görevleri süresi içinde yapmayı ihmal eder ve bu durum belediyeye ait işleri sekteye uğratırsa ya da görev alanına girmeyen siyasi konularda karar alırsa, belediye meclisinin feshi için Kanunun 30 uncu maddesinde yer alan hüküm doğrultusunda işlem yapılır.
+
+### Madde 15 — Oturuma ara verilmesi ve birleşime son verilmesi
+
+Oturuma ara ve birleşime son verme yetkisi başkana aittir. Oturuma ara verilirken gelecek oturumun saati ile birleşime son verilirken gelecek birleşimin günü ve saati başkan tarafından üyelere duyurulur ve meclis salonunun uygun bir yerine asılır.
+
+### Madde 16 — Tutanak düzenlenmesi ve kararların yazılması
+
+Meclis görüşmeleri katip üyeler veya divanın sorumluluğundaki görevlilerce tutanağa geçirilir ve başkanlık divanı tarafından imzalanır. Toplantılar, meclisin kararıyla sesli veya görüntülü cihazlarla da kaydedilebilir.
+
+Kararlar, tutanaklara dayalı olarak yazılır, başkan ve katip üyelerce imzalanır. Meclis kararlarına her yıl birden başlamak üzere birbirini izleyen karar numarası verilir. Belediye başkanı tarafından geri gönderildiği için yeniden görüşülen kararlara yeniden karar numarası verilir. Kararlar, bir sonraki toplantıda üyelere dağıtılır. Ayrıca, kararların aslı bir dosyada muhafaza edilir.
+
+Kapalı oturumlarda içeri görevli alınmamış ise tutanak ve kararlar katip üyeler tarafından yazılır.
+
+### Madde 17 — Meclis kararlarının kesinleşmesi
+
+Belediye başkanı hukuka aykırı gördüğü meclis kararlarını büyükşehir belediyelerinde yedi, diğer belediyelerde beş gün içinde gerekçesini de belirterek yeniden görüşülmek üzere meclise geri gönderebilir. Meclis üye tam sayısının salt çoğunluğuyla kararında ısrar ederse karar kesinleşir. **(Ek cümle:RG-27/11/2014-29188)** Belediye başkanı, meclisin ısrarı ile kesinleşen kararlar aleyhine 10 gün içinde idari yargıya başvurabilir. **(Mülga cümle:RG-27/11/2014-29188)** (…) meclis kararının kesinleşme tarihi, ikinci kararın tarihidir. Belediye başkanı belirtilen süreyi beklemeksizin meclis kararını mülki idare amirine gönderirse gönderme tarihinde, bu süre zarfında meclise göndermez ve herhangi bir işlem de yapmazsa geri gönderme süresinin sonunda karar kesinleşir.
+
+**(Mülga ikinci fıkra:RG-27/11/2014-29188)**
+
+**(Değişik üçüncü fıkra:RG-27/11/2014-29188)** Büyükşehir ilçe belediye meclisleri tarafından alınan imara ilişkin kararlar, kararın gelişinden itibaren üç ay içinde büyükşehir belediye meclisi tarafından nazım imar plânına uygunluğu yönünden incelenerek aynen veya değiştirilerek kabul edildikten sonra büyükşehir belediye başkanına gönderilir. Üç ay içinde büyükşehir belediye meclisinde görüşülmeyen kararlar onaylanmış sayılır.
+
+İlçe **(Mülga ibare:RG-21/8/2014-29095)** (…) belediye meclisinin bütçeye ilişkin kararları büyükşehir belediye meclisinde kabul edildikten sonra kesinleşir. Büyükşehir belediye meclisi ilçe **(Mülga ibare:RG-21/8/2014-29095)** (…) belediye bütçelerinde 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununda öngörülenlerin dışında değişiklik yapamaz.
+
+Meclis kararlarının kesinleşmesi hususunda Kanunda öngörülen özel hükümler saklıdır.
+
+### Madde 18 — Meclis kararlarının yürürlüğe girmesi
+
+Meclisin almış olduğu kararların tam metni, kararın kesinleştiği tarihten itibaren en geç yedi gün içinde belediye başkanı tarafından il merkezi belediyeler ile merkez ilçeye bağlı olan belediyelerde valiye, ilçe merkezi ve ilçeye bağlı belediyelerde kaymakama gönderilir ve uygun araçlarla halka duyurulur. Vali veya kaymakama gönderilmeyen kararlar yürürlüğe girmez.
+
+Meclis kararları iki suret olarak mülki idare amirliğine gönderilir. **(Mülga cümle:RG-27/11/2014-29188)** (…)
+
+Valilik, kaymakamlık ve büyükşehir belediye başkanlığınca, teslim alınan kararın son sayfasına, karar tarihi, teslim alındığı tarih ve kayıt numarası yazıldıktan sonra kararın bir sureti belediyeye iade edilir. Bu şekilde kayıtları tamamlanan karar teslim alan makam tarafından dosyasında saklanır. Bu kararları kaydetmek üzere ilgili idareler tarafından bir defter tutulur.
+
+## BEŞİNCİ BÖLÜM — Seçimler
+
+### Madde 19 — Başkan vekilleri ve katip üyelerin seçimi
+
+Meclis, mahalli idareler seçiminden sonraki ilk toplantısında, üyeleri arasından ve gizli oyla meclis birinci ve ikinci başkan vekillerini, ikisi yedek olmak üzere en az dört kâtip üyeyi iki yıl görev yapmak üzere seçer. İki yıldan sonra seçilecek başkanlık divanı, yapılacak ilk mahalli idareler seçimlerine kadar görev yapar.
+
+Meclis başkanlık divanı seçimi üç gün içinde tamamlanır. Başkanlık divanı seçimi bu süre içinde tamamlanmaz ise Kanunun 30 uncu maddesi uyarınca işlem yapılır.
+
+Başkan vekilleri ve katip üye seçiminde fazladan isim yazılmış olması halinde oy pusulası geçersiz sayılır.
+
+Başkanlık divanında boşalma olması durumunda, yapılacak ilk toplantının ilk birleşiminde, kalan süreyi tamamlamak üzere yenisi seçilir.
+
+İki yılın hesabında başkanlık divanının seçildiği ay esas alınır ve ikinci yılın sonunda aynı ayda ikinci dönem başkanlık divanı seçimi yapılır. Meclis tatilde ise başkanlık divanı seçimi izleyen ayın toplantısında yapılır.
+
+### Madde 20 — Encümene üye seçimi
+
+Meclis, mahalli idareler seçiminden sonraki ilk toplantısında, üyeleri arasından gizli oyla Kanunda belirtilen sayıda encümen üyesini seçer. Seçilen bu üyeler gelecek yılın aynı ayına kadar görev yapar ve her yıl o ayda encümen seçimleri yenilenir. Süresi dolan üyeler yeniden seçilebilir.
+
+Encümene üye seçimi nisbî çoğunluk ile yapılır. Seçimde oy pusulalarına seçilecek üye sayısından fazla isim yazılması halinde oy pusulası geçersiz sayılır. Oylarda eşitlik halinde ad çekmeye başvurulur.
+
+Encümenin seçilmiş üyeliklerinde herhangi bir nedenle boşalma olması halinde, meclisin yapılacak ilk toplantısının ilk birleşiminde kalan süreyi tamamlamak üzere yenisi seçilir.
+
+### Madde 21 — İhtisas komisyonlarının oluşumu
+
+Meclis, görev süresi bir yılı geçmemek üzere, nisbî çoğunlukla en az üç, en çok beş üyeden oluşan ihtisas komisyonları kurabilir. Büyükşehir belediyelerinde bu komisyonlar en az beş en çok dokuz üyeden oluşturulur. Meclis, komisyonlara üye seçiminden önce kurulacak komisyonu ve üye sayısını belirler. İl ve ilçe belediyeleri ile nüfusu 10.000 in üzerinde olan belediyelerde plan ve bütçe komisyonu ile imar komisyonunun **(Ek ibare:RG-27/11/2014-29188)** , büyükşehir belediyelerinde ise plan ve bütçe, imar ve bayındırlık, çevre ve sağlık, eğitim, kültür, gençlik ve spor ile ulaşım komisyonunun kurulması zorunludur.
+
+Komisyonlar, her siyasî parti grubunun ve bağımsız üyelerin meclisteki üye sayısının meclis üye tam sayısına oranlanması suretiyle oluşturulur. İhtisas komisyonlarına siyasi parti grupları aday gösterebileceği gibi, üyeler de o partiden aday olabilir. Birden fazla komisyonda görev almak mümkündür. **(Ek cümle:RG-27/11/2014-29188) (Mülga cümle:RG-8/1/2015-29230)**
+
+Komisyonların toplam üye sayısının meclis üye tam sayısından fazla olduğu durumlarda komisyona üye veremeyen siyasi partilerin üyeleri ile bağımsız üyeler meclis kararıyla komisyonlarda görev alabilirler.
+
+Komisyon üyeliklerinde eksilme olduğu takdirde süreyi tamamlamak üzere yeni üye seçilir. Komisyon toplantılarına üst üste üç defa mazeretsiz olarak katılmayan üyenin üyeliği meclis kararı ile düşürülebilir. **(Ek cümle:RG-21/8/2014-29095)** Bağlı olduğu partiden istifa eden komisyon üyesinin komisyon üyeliği de sona erer. **(Ek cümle:RG-21/8/2014-29095)** Süreyi tamamlamak üzere ilk toplantıda aynı partiden yeni üye seçimi yapılır.
+
+İmar ve bütçeye ilişkin konular hakkında meclis tarafından karar alınmadan önce ilgili komisyonlarda görüşülmesi zorunludur.
+
+İhtisas komisyonları toplantılarını, meclisin toplantı süresinde veya müteakip günlerde yapar. İmar ve bayındırlık komisyonu en fazla on iş günü, diğer komisyonlar ise beş iş günü toplanarak kendisine havale edilen işleri sonuçlandırır ve raporunu meclise sunar. Rapor Kanunda öngörülen sürenin sonunda meclise sunulmadığı takdirde, konu meclis başkanı tarafından doğrudan gündeme alınır.
+
+İhtisas komisyonları toplantılarına Kanunda belirtilen kişi, kurum ve kuruluşların katılımına ilişkin usul ve esaslar hakkında meclis önceden genel bir karar alabileceği gibi herhangi bir komisyon toplantısı için ayrıca bir karar da alabilir. Meclisin bir karar almadığı durumlarda komisyon uygun gördüğü takdirde katılım için gerekli tedbirleri alır.
+
+Komisyonlar üyeleri arasından bir başkan ve bir başkan vekili seçer. İhtisas komisyonları üye tam sayısının salt çoğunluğu ile toplanır ve katılanların salt çoğunluğu ile karar alır. Komisyonlar çalışmalarında uzman kişilerden de yararlanabilir.
+
+Komisyon raporları alenîdir, çeşitli yollarla halka duyurulur ve isteyenlere belediye meclisi tarafından belirlenecek bedel karşılığında verilir.
+
+Gerektiğinde bir konu meclis başkanınca birden fazla komisyona havale edilebilir.
+
+### Madde 22 — Denetim komisyonunun oluşumu
+
+İl ve ilçe belediyeleri ile nüfusu 10.000’in üzerindeki belediyelerde, her yılın Ocak ayı toplantısında meclis, üyeleri arasından gizli oyla üye sayısı üçten az, beşten çok olmamak üzere bir denetim komisyonu oluşturur.
+
+Denetim komisyonu, her siyasî parti grubunun ve bağımsız üyelerin meclisteki üye sayısının meclis üye tam sayısına oranlanması suretiyle oluşur. Komisyona üye seçiminde ihtisas komisyonlarına üye seçimindeki usul ve esaslar uygulanır.
+
+Denetim komisyonu kendi arasından bir başkan, bir başkan vekili seçer. Denetim komisyonu üye tam sayısının salt çoğunluğu ile toplanır ve katılanların salt çoğunluğu ile karar alır.
+
+Denetim komisyonu, belediye binası içinde belediye başkanı tarafından belirlenen yerde çalışır ve çalışmalarında uzman kişi ve kuruluşlardan yararlanabileceği gibi kamu kuruluşları personelinden de yararlanabilir. Komisyon tarafından istenen bilgi ve belgelerin iade edilmek üzere verilmesi zorunludur.
+
+Komisyon, çalışmasını kırk beş işgünü içinde tamamlar ve buna ilişkin raporunu, Mart ayının sonuna kadar meclis başkanlığına sunar. Başkan, Nisan ayı meclis toplantısında denetim raporunu okutmak suretiyle meclise bilgi verir.
+
+Konusu suç teşkil eden hususlarla ilgili olarak meclis başkanlığı tarafından yetkili mercilere suç duyurusunda bulunulur.
+
+### Madde 23 — Komisyonlarda çalıştırılacak uzman kişiler
+
+Denetim komisyonu çalışmalarında görevlendirilecek kişilerde aşağıdaki şartlar aranır:
+
+a) Kamu kurum ve kuruluşlarından görevlendirilecek kişilerde; kamu kurum ve kuruluşlarında denetim elemanı veya en az beş yıl kurumlarının gelir, gider veya bunlara ilişkin hesap kayıt ve işlemlerinin yürütüldüğü birimde çalışıyor olması gerekir.
+
+b) Kamu personeli dışındaki kişilerde; kamu kurum ve kuruluşlarının gelir, gider veya bunlara ilişkin hesap kayıt ve işlemlerinin yürütülmesinde en az beş yıl çalışmış olmak ya da maliye, muhasebe, işletme, iktisat, kamu yönetimi veya benzer alanlarda en az lisans düzeyinde eğitim almış ve denetim yapabilecek bilgi ve tecrübeye sahip olması gerekir.
+
+Siyasi partilerin genel merkez, il, ilçe ve belde teşkilatlarında halen görevli olan kişiler, denetim komisyonlarında uzman olarak görevlendirilemez.
+
+## ALTINCI BÖLÜM — Son Hükümler
+
+### Madde 24 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### Madde 25 — Yürütme
+
+Bu Yönetmelik hükümlerini **(Değişik ibare:RG-23/5/2019-30782)** Çevre ve Şehircilik Bakanı yürütür.
+
+<table>
+<tr><td rowspan="5"></td><td colspan="2">Yönetmeliğin Yayımlandığı Resmî Gazete’nin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>19/10/2005</td><td>25961</td></tr>
+<tr><td colspan="2">Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin</td></tr>
+<tr><td>Tarihi</td><td>Sayısı</td></tr>
+<tr><td>1.</td><td>27/11/2014</td><td>29188</td></tr>
+<tr><td>2.</td><td>23/5/2019</td><td>30782</td></tr>
+<tr><td></td><td>29/4/2021</td><td>31469</td></tr>
+</table>

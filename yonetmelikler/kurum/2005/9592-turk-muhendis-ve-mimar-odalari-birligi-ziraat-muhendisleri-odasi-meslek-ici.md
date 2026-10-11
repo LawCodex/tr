@@ -1,0 +1,161 @@
+---
+title: "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ZİRAAT MÜHENDİSLERİ ODASI MESLEK İÇİ EĞİTİM, UZMANLIK VE BELGELENDİRME YÖNETMELİĞİ"
+identifier: "7.5.9592"
+number: "9592"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2005-11-08
+official_gazette_date: 2005-11-08
+official_gazette_number: "25987"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9592&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ZİRAAT MÜHENDİSLERİ ODASI MESLEK İÇİ EĞİTİM, UZMANLIK VE BELGELENDİRME YÖNETMELİĞİ
+
+## Madde 1 — Amaç
+
+Bu Yönetmeliğin amacı, kamu yararı, meslek uygulama etiği ve meslek alanının geliştirilmesi doğrultusunda, mesleki disiplinler gözetilerek meslek alanları ile ilgili uygulama ve denetimin yapılabilmesi için; uzmanlık alanı ve tanımı, yetkili üyeliğin tanımlanması, yetkili üyelerin mesleki ve bilimsel çalışmaları, yaptıkları işler ile tamamlayıcı eğitimlerine dayanan uzmanlıklarının belirlenmesi, belgelendirilmesi ve gerektiğinde kamuoyuna önerilmesiyle ilgili usul ve esasları düzenlemektir.
+
+## Madde 2 — Kapsam
+
+Bu Yönetmelik, mesleki disiplinler kapsamında Oda üyelerinin meslek alanlarına yönelik, toplumun gereksinimlerini karşılamak doğrultusunda araştırma, inceleme, planlama, projelendirme, tasarım, raporlama, bilirkişilik, denetim, danışmanlık, eğitim, uygulama ve teknik sorumluluğu üstlenme işlevleri kapsamında olan ve uzmanlık gerektiren hizmetler için yetkili üyelerin saptanması, eğitimi ve belgelendirilmesi esaslarını kapsar.
+
+## Madde 3 — Dayanak
+
+Bu Yönetmelik, 17/6/1938 tarihli ve 3458 sayılı Mühendislik ve Mimarlık Hakkında Kanun, 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanunu, 6/5/1960 tarihli ve 7472 sayılı Ziraat Yüksek Mühendisliği Hakkında Kanun ve 18/12/1991 tarihli ve 91/2526 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ziraat Mühendislerinin Görev ve Yetkilerine İlişkin Tüzük hükümlerine dayanılarak hazırlanmıştır.
+
+## Madde 4 — Tanımlar
+
+Bu Yönetmelikte geçen;
+
+Oda: Türk Mühendis ve Mimar Odaları Birliği Ziraat Mühendisleri Odasını,
+
+Üye: Oda üyesini,
+
+MİEM: Oda bünyesinde oluşturulan Meslek İçi Eğitim Merkezini,
+
+Uzmanlık: Belli bir iş için gerekli özel bilgi, deneyim veya beceriyi,
+
+Uzmanlık alanı: Odanın, öğrenim programları, uygulama alanları, mesleki ve bilimsel gelişmeler, ülkenin teknolojik durumu, kamuoyunun ve üyelerinin istemlerini dikkate alarak belirleyeceği mesleki uzmanlık konularını,
+
+Yetkili üye: Uzmanlık gerektiren hizmetlerde çalışan ve Oda tarafından belgelendirilen ve çalışmalarını meslek etiği kurallarından ayrılmadan sürdüren üyeyi,
+
+Belge: Yetkili mühendis belgesini,
+
+OYK: Oda Yönetim Kurulunu,
+
+Şube: Ziraat Mühendisleri Odasının şube başkanlıklarını,
+
+ifade eder.
+
+## Madde 5 — Uzmanlık konularının belirlenmesi
+
+Oda, Ziraat Mühendislerinin Görev ve Yetkilerine İlişkin Tüzüğün belirlediği çalışma alanlarına uygun olarak ve bilimsel gelişmeleri değerlendirerek meslek uygulama alanlarını belirler. Uzmanlığın hangi disiplin ve konuları kapsayacağı ve belgelendirmenin ne tür koşullara dayandırılacağı, Oda tarafından belirlenir ve üyelere duyurulur.
+
+## Madde 6 — Ziraat mühendisliği uzmanlık alanları
+
+Ziraat Mühendislerinin tek başına tasarlamaya, uygulamaya, kabule ve imzaya yetkili ve sorumlu olduğu uzmanlık alanları şunlardır:
+
+a) Toprak etüt ve haritalama,
+
+b) Bitkisel üretim ve ıslah,
+
+c) Hayvansal üretim ve ıslah,
+
+ç) Tohumculuk,
+
+d) Kimyasal gübreler ve gübreleme,
+
+e) Zirai mücadele,
+
+f) Zirai karantina,
+
+g) Tarım ilaçları,
+
+h) Yem sanayi ve yem kontrolü,
+
+ı) Tarım işletmelerinin planlanması ve projelendirilmesi,
+
+i) Tarımsal araştırma ve yayım,
+
+j) Tarla içi geliştirme hizmetleri,
+
+k) Tapu, kadastro ve haritacılık hariç olma üzere arazi toplulaştırması hizmetleri,
+
+l) Tarımsal yapılar,
+
+m) Tarımsal kooperatifçilik,
+
+n) Tarımsal kredilendirme,
+
+o) Tarım sigortası,
+
+ö) Su ürünleri,
+
+p) Çevre koruma,
+
+r) Tarım alet ve makineleri ile tarımsal enerji,
+
+s) Peyzaj ve çevre düzenleme,
+
+ş) Gıda sanayii ve gıda kontrolü hizmetlerine ilişkin alt uzmanlık alanları,
+
+t) Kapalı alan ilaçlama hizmetleri,
+
+u) Sulama ve drenaj,
+
+ü) Laboratuar kurma ve işletme,
+
+Yukarıda (l), (p), (r), (s), (ş), (t), (u), (ü) bentlerinde sayılan uzmanlık alanlarında öğrenim gören ziraat mühendisleri ve ilgili diğer meslek disiplinlerine ait eğitim alan üyeler için Oda tarafından birlikte veya ayrı olarak eğitim ve yetki belgesi verilebilir.
+
+## Madde 7 — Belgelendirme
+
+Oda tarafından, belirlenen bu uzmanlık alanlarına göre lisans öğrenimi dikkate alınarak hazırlanan eğitim programları sonucunda gerçekleştirilecek sınavlarda başarılı olan üyelerle OYK tarafından mesleki birikim ve deneyime göre yeterliliği saptanan üyelere yetki belgesi verilir. Yetki belgesi, ziraat mühendisliği uzmanlık alanlarında hizmet alacak kişi ve girişimciler için referans niteliğini taşır.
+
+## Madde 8 — Belgelendirme ve belgelerin iptaline ilişkin esaslar
+
+Belgelendirme ve iptalle ilgili esaslar aşağıda belirtilmiştir:
+
+a) Oda tarafından belirlenen uzmanlık konularında belge alma koşullarını sağlayan üyelere ilgili uzmanlık konusunda belge verilir.
+
+b) Belge alma koşulları her uzmanlık konusu için ayrı olmak üzere Oda tarafından belirlenir.
+
+c) Belge sahibi, belgenin kullanımında Odanın alacağı kararlara uymak zorundadır.
+
+ç) Belge ücretleri OYK tarafından belirlenir.
+
+d) Oda Yönetim Kurulu oybirliği ile, hakkında herhangi bir nedenle soruşturma açılan belge sahibinin belgesini kullanmayı soruşturma sonuçlanıncaya kadar geçici olarak durdurabilir.
+
+e) Belge iptalinde 6/4/2005 tarihli ve 25778 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Ziraat Mühendisleri Odası Ana Yönetmeliğinin 42 nci maddesindeki hükümler uygulanır.
+
+f) Oda merkezinde her uzmanlık konusu için ayrı olmak üzere belge sicil dosyası açılarak mühendislerin sicilleri tutulur, vizeleri işlenir.
+
+## Madde 9 — Meslek içi eğitim merkezi
+
+Meslek içi eğitim ve sınavları aşağıdaki esaslara göre yapılır.
+
+a) Uzmanlık konuları ile ilgili olarak verilecek meslek içi eğitimler ve sınavlar, MİEM tarafından gerçekleştirilir.
+
+b) MİEM sorumlusu OYK tarafından belirlenir.
+
+c) Her uzmanlık konusu için ayrı olmak üzere eğitim ve sınav programları ile takvimi gerektiğinde Şubelerin görüş ve önerileri alınarak MİEM tarafından hazırlanır ve OYK nın onayına sunulur.
+
+ç) OYK nın onayladığı eğitim ve sınav programları ile takvimi Oda tarafından üyelere duyurulur.
+
+d) Eğitim ve sınavların kimler tarafından gerçekleştirileceği, sınavın yapılacağı yerler, eğitmenler ile sınav komisyonlarına ödenecek ücretler ve eğitimlere katılım ücreti OYK tarafından belirlenir.
+
+e) Her eğitim ve sınava katılanların adı, soyadı, Oda sicil numarası, mesleği ve sınav sonuçlarını gösterir liste Oda arşivlerinde saklanır.
+
+## Madde 10 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+## Madde 11 — Yürütme
+
+Bu Yönetmelik hükümlerini Türk Mühendis ve Mimar Odaları Birliği Ziraat Mühendisleri Odası Yönetim Kurulu yürütür.

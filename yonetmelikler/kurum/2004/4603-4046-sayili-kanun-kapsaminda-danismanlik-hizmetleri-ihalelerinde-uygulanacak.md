@@ -1,0 +1,637 @@
+---
+title: "4046 SAYILI KANUN KAPSAMINDA DANIŞMANLIK HİZMETLERİ İHALELERİNDE UYGULANACAK ESAS VE USULLERE İLİŞKİN YÖNETMELİK"
+identifier: "7.5.4603"
+number: "4603"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2004-05-28
+official_gazette_date: 2004-05-28
+official_gazette_number: "25475"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4603&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# 4046 SAYILI KANUN KAPSAMINDA DANIŞMANLIK HİZMETLERİ İHALELERİNDE UYGULANACAK ESAS VE USULLERE İLİŞKİN YÖNETMELİK
+
+## Madde 1 — Amaç ve Kapsam
+
+Bu Yönetmeliğin amacı, özelleştirme uygulamaları için, 4046 sayılı Kanun ve özel kanunlar ile İdare’ye verilmiş olan yetki çerçevesinde yapılacak danışmanlık hizmet alımı ihalelerinde uygulanacak esas ve usulleri düzenlemektir.
+
+## Madde 2 — Dayanak
+
+Bu Yönetmelik, 4734 sayılı Kamu İhale Kanununun değişik 3 üncü maddesinin (c ) bendine 27/4/2004 tarihli ve 5148 sayılı Kanunla eklenen ibare ile 4046 sayılı Özelleştirme Uygulamalarının Düzenlenmesine Dair Kanunun 37 nci maddesinin 5148 sayılı Kanunla değişik (b) bendi uyarınca hazırlanmıştır.
+
+## Madde 3 — Tanımlar
+
+Bu Yönetmelikte adı geçen;
+
+a) **(Değişik:RG-29/5/2022-31850)** Kanun: 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanunu,
+
+b) Kurul: Özelleştirme Yüksek Kurulunu,
+
+c) İdare: Özelleştirme İdaresi Başkanlığını,
+
+d) Başkan: Özelleştirme İdaresi Başkanını,
+
+e) İhale: Bu Yönetmelik hükümlerine göre Davet veya ilan ile başlayıp, İhale Şartnamesi çerçevesinde gerçekleştirilen ve Başkan’ın onayını müteakip sözleşme imzalanması ile tamamlanan işlemleri,
+
+f) İhale Dokümanı: İhale konusu Danışmanlık Hizmet alımlarında; istekli ve/veya adaylara talimatları da içeren İhale Şartnamesi ile İş Tanımı, Sözleşme Taslağı ve gerekli diğer bilgi ve belgeleri,
+
+g) Danışmanlık Hizmeti: Özelleştirme uygulamalarına yardımcı olmak üzere gerekli olan, 4046 sayılı Kanun çerçevesinde ve bu yönetmelik kapsamında alınan her türlü araştırma, proje işleri, reklam, tanıtım, halkla ilişkiler, mali denetim, stratejik, çevresel, hukuki, idari, mali ve teknik değerleme, gayrimenkul ekspertizi, halka arz, borsada satış gibi sermaye piyasalarında yapılacak her türlü işlemlere aracılık ve yüklenim, depo (hisse senedi saklama) bankacılığı vb. hizmetleri,
+
+h) Danışman: Danışmanlık hizmetini veren hizmet sunucularını,
+
+i) Alt Danışman: Danışman’ın, hizmetin niteliği gereği, hizmetin gerçekleştirilmesi sırasında ihtiyaç duyduğu, İdare’nin onayı ile çalışan ve yaptığı işten Danışman’ın İdare’ye karşı sorumlu olduğu diğer danışmanları.
+
+j)İhale Şartnamesi: İhale konusu işin genel ve özel şartlarına ilişkin belgeyi,
+
+k)İhale Komisyonu: Özelleştirme işlemlerine yönelik danışmanlık hizmet alımı ihale işlemlerini gerçekleştirmek amacıyla oluşturulan komisyonu veya komisyonları
+
+l)Teklif Sahibi: İhalelere aday veya istekli sıfatıyla katılan gerçek ve tüzel kişiler ile ortak girişimleri,
+
+m) Ortak girişim: İhaleye katılmak üzere birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşma ile oluşturulan iş ortaklığı veya konsorsiyumları,
+
+n) İlgili Birim: İhtiyaç duyulan Danışmanlık Hizmetini doğrudan veya değer tespit ve/veya ihale komisyonları aracılığı ile talep eden ilgili Başkan Yardımcılığı, Proje Grup Başkanlığı, Daire Başkanlığı, veya diğer idari birimleri,
+
+İfade eder.
+
+## Madde 4 — Temel İlkeler
+
+İdare, yapacağı danışmanlık hizmet alımı ihalelerinde saydamlığı, rekabeti, eşit muameleyi, güvenirliği, gizliliği, kamuoyu denetimini, ihtiyaçların uygun şartlarla ve zamanında karşılanmasını ve kaynakların verimli kullanılmasını sağlamakla sorumludur.
+
+Özelleştirme işlemleri danışmanlık hizmet alımlarına ilişkin uygulamalarda; ceza ve ihalelerden yasaklama hükümleri hususunda 4734 sayılı Kamu İhale Kanunu hükümleri, diğer tüm hususlarda ise bu Yönetmelik hükümleri uygulanır.
+
+Her bütçe yılı için öngörülen danışmanlık hizmet alımları ödeneği, Özelleştirme Fonu Bütçesi’nde gösterilir.
+
+## Madde 5 — İş Tanımının Belirlenmesi
+
+İdare’nin Danışmanlık hizmetine ihtiyaç duyan ilgili birimi, danışmanlık hizmeti alınmak üzere işin tanımını hazırlar. İş tanımı, hizmetin amacını, kapsamını, ulaşılmak istenen sonuçları ve ilgili mevcut çalışmalar ve temel bilgiler de dahil olmak üzere hizmetin geçmişine ilişkin çalışmaları da açıkça ve anlaşılır bir biçimde ifade eder.
+
+İşin niteliğine göre gerek görülmesi halinde iş tanımında; hizmetin yürütülmesi için daha önce tamamlanmış hizmet ve araştırmaların listesi verilir ve bunların sonucunda danışmandan rapor, tanıtım kitapçığı, sektör analizi, veri, veri odası hazırlanması, araştırma, ihale dokümanı hazırlanması gibi hangi hizmetlerin beklendiği belirtilir. Danışmanların özgün metodolojilerini önerebilmeleri amacıyla, iş tanımı çok detaylı olmamalı, İdare’nin ve danışmanın sorumlulukları açık ve net bir şekilde belirtilmelidir.
+
+İş tanımında aşağıda belirtilen bilgilerden gerekli olanlar verilir.
+
+a) Projenin amaç ve hedefleri,
+
+b) Alınması planlanan hizmetin kapsamı,
+
+c) Danışman’a İdarece sağlanabilecek destek bilgiler (mevcut çalışmaların listesi, veriler vb.) ve kolaylıklar,
+
+d) Bilgi transferi koşulları,
+
+e) Eğitim gereksinmesi,
+
+f) İstenilen hizmet ve araştırmaların listesi,
+
+g) Beklenen çıktılar (rapor, tanıtım kitapçığı, sektör analizi, harita, tasarım, vb.),
+
+h) Danışmanlık hizmetinin aşamaları,
+
+i) Ödemeye esas ana çıktılar ve/veya aşamalar,
+
+j) Hizmet süresi ve/veya takvim,
+
+k) İdare ve Danışmanın birbirlerine karşı sorumlulukları,
+
+l) Danışmanlık hizmetine konu olan işin (varsa) devamının olup olmayacağı.
+
+## Madde 6 — İhale Komisyonu
+
+Danışman seçimine ilişkin ihale komisyonu; **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığının bağlı olduğu Başkan Yardımcısının başkanlığında, **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanı, bu dairede görevli bir uzman, danışmanlık hizmetine konu olan projeden sorumlu Grup Başkanı veya Daire Başkanı veya bu birimlerde görevli bir uzman ve Hukuk Müşavirliğinde görevli avukat olmak üzere beş üyeden oluşur. Komisyonda aynı sayıda ve aynı usulle yedek üye görevlendirilir. Bu komisyon Başkan’ın onayı ile göreve başlar.
+
+İhale işlemi sonucunda ihale komisyonunca verilen karar Başkan’ın onayına sunulur ve sonuç Başkan’ın onayını müteakip kesinleşir.
+
+## Madde 7 — Danışman Seçimine İlişkin İhale Usulü ve Esasları
+
+**7.1.**İhale Usulü: İhale işin niteliği ve sektörün özelliğine göre İdarece yapılan araştırmalar sonucu deneyim ve nitelikleri de dikkate alınarak tespit edilen, en az üç istekliden yazılı teklif alınarak teknik ve mali teklifler üzerinde görüşmeler yapmak suretiyle gerçekleştirilir. Alınan teklifler teknik ve mali yönlerden değerlendirilerek, teknik ve mali puanların ağırlıklandırılması sonucu birinci gelen teklif sahibine ihale yapılır.
+
+Danışmanlık hizmeti alımı ihalelerinde işin niteliğine göre, davet edilecek adayların belirlenmesi amacıyla ön yeterlik değerlendirmesi yapılmasının gerekli görüldüğü hallerde isteklilere ilan yoluyla çağrıda bulunulabilir.
+
+**7.2. Esaslar ve uygulanacak yöntem**:
+
+**7.2.1**.Bu ihalelerde hizmetin gerektirdiği işlerin Danışman görevlendirilmesine ilişkin ilgili birimin talebi, hangi konularda danışmana ihtiyaç bulunduğuna ilişkin açıklama ve bu Yönetmelik çerçevesinde hazırlanan ve tüm teknik şartları da içeren (zamanlama, personel nitelikleri vb.) detaylı iş tanımı ile birlikte bu birimlerin bağlı bulunduğu Başkan Yardımcılığı kanalı ile **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığının bağlı bulunduğu Başkan Yardımcılığına bildirilir.
+
+**7.2.2.**Danışman seçimine ilişkin olarak yapılan bildirim üzerine, işin konusuna, niteliğine ve sektörün özelliğine göre **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığınca gerekli araştırma yapılarak oluşturulmuş veri bankasındaki bilgilerden yararlanılarak ilgili birim yetkilileri ile birlikte danışman listesi belirlenir.
+
+**7.2.3.** İlgili Birimin talebi üzerine, **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığınca Başkan’dan ihale onayı alınır.
+
+İhale onayı şunları içerir:
+
+1) Komisyon asil, yedek üyeleri ve komisyon ile ilgili diğer bilgiler
+
+2) İhaleye davet edileceklerin listesi veya İşin özelliğine göre ihaleye davet edileceklerin, yapılacak ilan sonucu ön yeterlik değerlendirmesi ile kısa liste oluşturulmak suretiyle belirlenmesinin öngörülmesi durumunda bu husus
+
+3) Varsa ilan metni
+
+4) Ön yeterlik yapılması durumunda, **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığının ilgili birim ile birlikte hazırladığı ön yeterlik kriterlerini içeren ön yeterlik şartnamesi,
+
+5) Davet Mektubu,
+
+6) **(Değişik:RG-08/11/2005-25987)** İhale Şartnamesi ve standart formlar, asgari teknik puan ile teknik ve mali puan ağırlık katsayıları
+
+7) Sözleşme Taslağı,
+
+8) Varsa diğer bilgi ve belgeler.
+
+**7.2.4.**Başkanlık Makamından alınan ihale onayı üzerine adayların doğrudan davet edilmesinin öngörülmesi halinde, **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığının bağlı bulunduğu Başkan Yardımcılığı tarafından listede yer alan adaylara, ihale konusu işin nevi, niteliği, detaylı iş tanımı, ihalenin usulü, son teklif verme süresi ve ihale ile ilgili olarak gerekli görülen diğer hususları belirtir davet mektubu gönderilir.
+
+İlan yapılması durumunda, davet edilecek adaylar, ilanda ve ön yeterlik dokümanında belirtilen değerlendirme kriterleri çerçevesinde yeterlik değerlendirilmesine tabi tutulmak suretiyle belirlenir. Bu durumda ihaleye yeterli görülen istekliler davet edilerek devam olunur.
+
+**7.2.5 (Ek:RG-08/11/2005-25987)**
+
+Doğrudan Alım
+
+İdare, 4734 sayılı Kamu İhale Kanununun 22 nci maddesinin doğrudan temin başlıklı (d) bendinde yer alan limiti aşmaması kaydıyla, Başkanlık Onayı ile görevlendirilecek kişi veya kişiler tarafından gerekli araştırma yapılmak suretiyle alanında uzmanlaşmış gerçek veya tüzel kişilerden görüş alınması ve benzeri konularda doğrudan danışmanlık hizmeti almak üzere sözleşme yapabilir.
+
+## Madde 8 — İhaleye Katılamayacak Olanlar, Yasak Fiil ve Davranışlar
+
+**(Başlığıyla birlikte değişik:RG-08/11/2005-25987)**
+
+4734 sayılı Kamu İhale Kanununun 11 inci maddesi kapsamında sayılanlar doğrudan, dolaylı veya alt danışman olarak kendileri veya başkaları adına hiçbir şekilde ihalelere katılamazlar.
+
+Bu yasaklara rağmen ihaleye katılan istekliler ihale dışı bırakılarak geçici teminatları gelir kaydedilir. Ayrıca, bu durumun tekliflerin değerlendirmesi aşamasında tespit edilememesi nedeniyle bunlardan biri üzerine ihale yapılmışsa, kesin teminatı gelir kaydedilerek sözleşme İdarece feshedilir.
+
+Teklif sahipleri 4734 sayılı Kamu İhale Kanununun 17 nci maddesinde belirtilen yasak fiil ve davranışlarda bulunamazlar. Aksi davranışın tesbiti halinde adı geçen kanunun dördüncü kısmında belirtilen yasaklar ve cezalar uygulanır.
+
+## Madde 9 — Ortak Girişimler
+
+Ortak girişimler birden fazla gerçek veya tüzel kişi tarafından iş ortaklığı veya konsorsiyum olarak iki türlü oluşturulabilir. İş ortaklığı üyeleri, hak ve sorumluluklarıyla işin tümünü birlikte yapmak üzere, konsorsiyum üyeleri ise, hak ve sorumluluklarını ayırarak işin kendi uzmanlık alanlarıyla ilgili kısımlarını yapmak üzere ortaklık yaparlar. İş ortaklığı her türlü
+
+ihaleye teklif verebilir. Ancak İdare, işin farklı uzmanlıklar gerektirmesi durumunda, ihaleye konsorsiyumların teklif verip veremeyeceğini İhale Şartnamesinde belirtir. İhale aşamasında ortak girişimden kendi aralarında bir iş ortaklığı veya konsorsiyum yaptıklarına dair anlaşma istenir. İş ortaklığı anlaşmalarında pilot ortak, konsorsiyum anlaşmalarında ise koordinatör ortak belirtilir. İhalenin iş ortaklığı veya konsorsiyum üzerinde kalması halinde, sözleşme imzalanmadan önce noter tasdikli iş ortaklığı veya konsorsiyum sözleşmesinin verilmesi gerekir. İş ortaklığı anlaşma ve sözleşmesinde, iş ortaklığını oluşturan, gerçek veya tüzel kişilerin taahhüdün yerine getirilmesinde müştereken ve müteselsilen sorumlu oldukları, konsorsiyum anlaşma ve sözleşmesinde ise, konsorsiyumu oluşturan gerçek veya tüzel kişilerin, işin hangi kısmını taahhüt ettikleri ve taahhüdün yerine getirilmesinde koordinatör ortak aracılığıyla aralarındaki koordinasyonu sağlayacakları belirtilir.
+
+## Madde 10 — Alt Danışmanlar
+
+**(Değişik:RG-08/11/2005-25987)**
+
+İhale konusu işin özelliği nedeniyle ihtiyaç görülmesi halinde, ihale aşamasında adaylardan alt danışmanlarını, bunlara yaptıracakları işleri belirtmeleri ve İdarenin onayına sunmaları istenebilir. Bu durumda, alt danışmanların yaptıkları işlerle ilgili sorumluluğu danışmanın sorumluluğunu ortadan kaldırmaz.
+
+## Madde 11 — İhale İçin Ön Yeterlik İlanı
+
+Alınan ihale onayında davet edilecek adayların belirlenmesi için ön yeterlik yapılmasının öngörüldüğü hallerde, ön yeterliğe ilişkin ilan yurt içinde tirajı yüksek en az bir gazetede veya Kamu İhale Kurumu tarafından çıkarılan Kamu İhale Bülteni’nde son başvuru gününden en az 10 (on) gün önce yayımlanır. İlanın yurt dışında yapılması durumunda bu süre en az 15 (on beş) gündür. Başvuru süresi, İdarece ilan süresi içerisinde aynı usulle yapılacak duyuru ile uzatılabilir.
+
+## Madde 12 — İlan Metni
+
+İlan metni,
+
+a) İhale konusu işin nevi, niteliği, son başvuru süresi,
+
+b) İhaleye davet edilebilmek için İdarece tespit edilmiş olan ön yeterlik kriterleri,
+
+c) İhaleye davet edilebilmek için tespit edilen ön yeterlik kriterlerinin bir ön yeterlik şartnamesi ile belirlendiği durumlarda, bu şartnamenin alınmasının zorunlu olduğu ve bedeli,
+
+d) İhalenin, ceza ve ihalelerden yasaklanma hükümleri hariç, 4734 sayılı Kamu İhale Kanunu’na tabi olmadığı,
+
+e) İdarenin ön yeterliği/ihaleyi yapıp yapmamakta serbest olduğu ve gerektiğinde teklif verme süresinin uzatılabileceği,
+
+f) İhale Dokümanı’nın görülmesi ve teminine ilişkin hususları,
+
+g) İhale ile ilgili olarak gerekli görülen diğer hususları,
+
+kapsar.
+
+## Madde 13 — İhalenin Başvuru/Son Teklif Verme Saatinden Önce İptal Edilmesi
+
+İdare, gerekli gördüğü veya ihale dokümanında yer alan belgelerde ihalenin yapılmasına engel olan ve düzeltilmesi mümkün olmayan hususların bulunduğunun tespit edildiği hallerde, ihale saatinden önce ihaleyi iptal edebilir.
+
+Bu durumda iptal nedeni belirtilmek suretiyle, ihalenin iptal edildiği adaylara hemen duyurulur. İlan yapılmasının öngörüldüğü durumlarda ihalenin iptali ayrıca ilan ile de duyurulur. İhalenin ihale saatinden önce iptal edilmesi halinde varsa verilmiş olan tüm başvurular veya teklifler reddedilmiş sayılarak açılmadan isteklilere iade edilir. İptal nedeniyle adaylar İdare’den herhangi bir hak talebinde bulunamazlar. İhalenin iptal edilmesi durumunda, iptal nedenleri gözden geçirilerek yeniden ihaleye çıkılabilir.
+
+## Madde 14 — Ön Yeterlik
+
+İhaleye davet edilecek adayları belirlemek için bir ön yeterlik yapılmasına ihtiyaç olduğunun belirlenmesi durumunda, **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığı, ilgili birim ile koordineli olarak, ihaleye davet edilebilmek için gerekli olan ön yeterlik kriterlerini belirler. Bu durumda ön yeterlik şartnamesi de hazırlanır. Ön yeterlik kriterleri, işin özelliğine göre İdare tarafından belirlenen, isteklinin ekonomik ve mali yeterlik ile mesleki ve teknik yeterliliklerine ilişkin kriterlerdir. Bu kriterlere ilişkin standart formlar İdare tarafından hazırlanır. İsteklilerden, işin özelliğine göre, isteklilerin mali durumlarını gösteren belgeler (bankalardan istenilecek belgeler, bilançolar veya eşdeğer belgeleri vb.) ile mesleki durumları (organizasyon şeması, personel yapısı, vb.) ve teknik yeterliğe ilişkin belgeler (iş deneyimleri vb.) istenilebilir. İşin özelliğine göre hangi belgelerin istenileceğine İdare karar verir.
+
+## Madde 15 — Davet Mektubu
+
+İdarece yapılacak araştırmalar sonucunda ihale onayı alındıktan sonra doğrudan davet edilecek adaylara veya ilan ile ön yeterlik yapılmasının öngörülmesi durumunda, ön yeterlik değerlendirmesi sonucu oluşan kısa listede bulunan adaylara, **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığının bağlı bulunduğu Başkan Yardımcılığı tarafından, ihale konusu işin niteliğini, İhale Şartnamesini, İş Tanımını ve Sözleşme Taslağını içeren Davet Mektubu gönderilir.
+
+## Madde 16 — İhale Şartnamesi
+
+Danışmanlık hizmet alımının konusu ve usulüne ilişkin esasları belirleyen ve ilgili birim tarafından gönderilen İş Tanımını da içeren İhale Şartnamesi hazırlanır. İhale Şartnamesi **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığı tarafından, gerektiğinde ilgili birim ile koordineli olarak hazırlanır.
+
+İhale Şartnamesinin Türkçe hazırlanması esastır. Yurt dışından alınacak danışmanlık hizmetlerinde ise İhale Şartnamesi Türkçe ve gerekiyorsa yabancı dilde de düzenlenebilir. Uyuşmazlık halinde Türkçe metin esas alınır. Varsa **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığı tarafından hazırlanan standart formlar bu şartnameye eklenir. Gerek duyulduğu takdirde, Tip İhale Şartnamesi hazırlanabilir.
+
+İhale Şartnamesi, aşağıdaki hususların tamamını veya ilgili olanını içerir.
+
+**a)** Danışmanlık hizmetinin konusu ve niteliği,
+
+**b)** Teklif mektuplarının düzenleniş şekli ile tekliflerin ne zamana kadar, nereye ve nasıl verileceği,
+
+**c)** Tekliflerin geçerlilik süresi,
+
+**d)** İşin süresi ile gecikme halinde alınacak cezalar,
+
+**e)** İhale konusu danışmanlık hizmetinin süresi teslim alma şekil ve şartları,
+
+**f**) İlgili birim ve **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığı ile birlikte tespit edilen asgari teknik puan ile mali ve teknik tekliflerin ağırlık katsayıları ile varsa mali teklifi oluşturan danışmanlık bedeli ile komisyon oranının mali teklif puanını nasıl etkileyeceği,
+
+**g**) Sözleşme süresi,
+
+**h)** Gizlilik ve çıkar çatışmasına ilişkin şartlar,
+
+**i)** Ödeme koşulları, avans verilip verilmeyeceği, avans verilecekse koşulları ve miktarı,
+
+**j)** Geçici ve kesin teminat, avans teminatı verilip verilmeyeceği, verilecekse teminat olarak kabul edilebilecek değerler ve bunların iade koşulları,
+
+**k)** İhale dokümanının tamamen okunup, incelendiği ve bütün hükümlerinin kabul edildiğinin teklif mektubu içeriğinde istekli tarafından beyan edileceği,
+
+**l)** İhale saatinden sonra indirim veya artırım talebinde bulunulamayacağı,
+
+**m)** İhale kesinleştikten sonra ilgililere tebliğ şekli, varsa geçici teminatın kesin teminata dönüştürülmesi, sözleşme imzalanması ve sözleşmeye ilişkin vergi, resim ve harç, noter masrafları, vb. ile diğer giderlerin taraflardan hangisine ait olduğu ile sözleşmeyi imzadan kaçınma durumunun sonuçları, uyuşmazlıkların çözüm şekli, yetkili mahkeme ve icra daireleri, yurt dışından yapılacak danışmanlık hizmeti alımlarında yetkili hukuk ve varsa geçici teminatın hangi hallerde gelir kaydedileceği,
+
+**n)** İdarenin belirtilen işlerle ilgili olarak ihaleyi yapıp yapmamakta, kısmen veya dilediğine yapmakta, artırma ve eksiltmelerde uygun bedeli saptamakta serbest olduğu ve ceza ve ihaleden yasaklanma hükümleri hariç 4734 sayılı Kamu İhale Kanunu'na tabi olmadığı,
+
+**o)** İhale dokümanında belirtilen esaslarda İdarece istendiği takdirde ihale gününe kadar tüm katılacaklara yazılı bildirimde bulunmak kaydıyla değişiklik yapılabileceği,
+
+**p)** İdarenin gerekli gördüğü veya ihale dokümanında yer alan belgelerde ihalenin yapılmasına engel olan veya düzeltilmesi mümkün olmayan hususların bulunduğunun tespit edildiği hallerde, ihale saatinden önce ihalenin iptal edilebileceği,
+
+**r)** Gerek görüldüğü durumlarda adayların mali durumları, teknik kapasiteleri, iş deneyimleri, personel durumları ve organizasyon yapılarına ilişkin kriterlerin neler olacağı,
+
+**s)** Adayların proje yaklaşımları, projenin veya hizmetin yerine getirilmesi sırasında uygulayacakları metodoloji, iş planı ve takvim, önerdikleri personelin teknik tekliflerinde bulunmasının zorunlu olduğu ve İdarece gerekli görüldüğünde adaylardan, belirlenecek bir program dahilinde, teknik tekliflerine açıklık getirmek amacıyla bir sunum istenebileceği,
+
+**t**) İhaleye ortak girişimlerin (iş ortaklığı – konsorsiyum) teklif verip veremeyeceği ve şartları,
+
+**u**) İhaleye alt danışmanların katılıp katılamayacağı,
+
+**v)** Gerekli görülen diğer hususlar.
+
+## Madde 17 — Teklif Mektuplarının Şekli ve İçeriği
+
+Teklif mektubunun:
+
+a) Yazılı olması,
+
+b) İhale dokümanının tamamen okunup kabul edildiğinin belirtilmesi,
+
+c) Teklif edilen bedelin rakam ve yazı ile birbirine uygun olarak açıkça yazılması,
+
+d) Üzerinde kazıntı, silinti, düzeltme bulunmaması,
+
+e) Ad, soyad veya ticaret unvanı yazılmak suretiyle yetkili kişilerce imzalanmış olması.
+
+f) Ortak girişim olarak teklif veren isteklilerin teklif mektuplarının, ortakların tamamı tarafından veya yetki verdikleri kişilerce imzalanması
+
+gerekir.
+
+Sunulan teklif mektuplarının şekil ve içerik bakımından yukarıda belirtilen niteliklere uygun olmaması teklifin esasını değiştirecek nitelikte bir eksiklik olarak kabul edilir.
+
+## Madde 18 — Tekliflerin Geçerlilik Süresi
+
+Tekliflerin geçerlilik süresi ihale dokümanında belirtilir. İdarece ihtiyaç duyulması halinde bu süre, teklif ve sözleşme koşulları değiştirilmemek ve isteklinin kabulü kaydıyla, en fazla ihale dokümanında belirtilen teklif geçerlilik süresi kadar uzatılabilir.
+
+## Madde 19 — Tekliflerin Sunulma Şekli
+
+İhale konusu danışmanlık hizmeti için teklif edilen bedelin yer aldığı teklif mektubu ile varsa geçici teminat isteklinin mali teklifini oluşturur. Bu teklif, üzerine **“Mali Tekliftir”** ibaresi yazılmak suretiyle bir zarfa konulur.
+
+Teknik değerlendirme için ihale dokümanında istenilen, adaylarca önerilen yaklaşımları içeren metodoloji, iş planı, takvim, personel ve organizasyon yapısı ile diğer tüm belgeler, isteklinin teknik teklifini oluşturur ve bu teklif, üzerine **“Teknik Tekliftir”** yazılmak suretiyle ayrı bir zarfa veya pakete konulur. Teknik Teklif, İdarece, İhale Şartnamesinde belirtilmek şartı ile birden fazla nüsha halinde istenebilir.
+
+İstekli tarafından mali ve teknik teklif zarflarının üzerine adı, soyadı veya ticaret unvanı, teklifin hangi işe ait olduğu yazılır ve zarfların yapıştırılan yerleri imzalanır ve/veya kaşelenir.
+
+Mali teklife ilişkin zarf ve teknik teklife ilişkin zarf veya paket, bir araya getirilerek ayrı bir zarf veya paketin içine konulur. İstekli tarafından, bu zarf veya paketin üzerine adı, soyadı veya ticaret unvanı, tebligata esas açık adresi, teklifin hangi işe ait olduğuna ilişkin “ GİZLİ- ……………….Danışmanlık İhalesi için tekliftir” ibaresi ve İdare’nin açık adresi yazılır. Zarfın veya paketin yapıştırılan yeri istekli tarafından imzalanır ve/veya kaşelenir.
+
+## Madde 20 — Başvuruların / Tekliflerin İdare Tarafından Teslim Alınması ve Açılması
+
+İdare tarafından yetkilendirilmiş olan birim veya personelce, davet mektubu ve ihale dokümanında belirtilen yere, son başvuru/teklif verme saatine kadar ulaşan teklifler teslim alınır. Teslim alınan teklifler alınış sırasına göre hazırlanan tutanağa kaydedilerek son başvuru/teklif verme saatinde bu formla birlikte ihale komisyonuna teslim edilir. Başvuru / İhale saatinden sonra verilen teklifler kabul edilemez ve açılmadan iade edilir. İadeli taahhütlü mektupla gönderilen tekliflerin ihale dokümanında belirtilen son başvuru/teklif verme saatine kadar İdare’ye ulaşması gerekir. Son başvuru/teklif verme saatinden sonra gelen teklifler komisyonca değerlendirmeye alınamaz. Yapılan başvurular/verilen teklifler ihale komisyonunca hazır bulunanlara duyurulur.
+
+Bu Yönetmelikte belirtilen şekle uygun hazırlanmayan zarflar tespit edilip, açılmaksızın, düzenlenecek bir tutanağa kaydedilir ve ihalenin sonuçlandırılmasına kadar ihale komisyonu tarafından muhafaza edilir. Komisyon tarafından, uygun olarak hazırlanan başvuru/teklif zarfları alınış sırasına göre hazır bulunanlar huzurunda açılır ve teklifler dahilinde verilen belgeler kontrol edilir. Bu aşamada hiçbir başvurunun/teklifin reddine veya kabulüne karar verilmez. Başvurular/teklifler ihale komisyonunca değerlendirilmek üzere oturum kapatılır.
+
+Yukarıda belirtilen esaslara uygun olarak teslim edilmeyen başvuru / teklif mektuplarından dolayı İdare hiçbir şekilde sorumlu tutulamaz. İstekliler/adaylar tarafından verilen teklifler, İdarece zeyilname düzenlenmesi durumu hariç, herhangi bir sebeple geri alınamaz ve değiştirilemez.
+
+## Madde 21 — Teknik ve Mali Tekliflerin Değerlendirilmesi
+
+Teknik ve mali tekliflerin değerlendirilmesinde öncelikle ihale komisyonunca isteklilerin teknik değerlendirmeye esas bütün belgelerinin ihale dokümanında istenilen şartlara uygun olarak düzenlenip düzenlenmediğini incelenir. Belgeleri eksik olan veya istenilen şartlara uygun olmadığı tespit edilen isteklilerin teklifleri değerlendirme dışı bırakılır. Ancak, teklifin esasını değiştirecek nitelikte olmaması kaydıyla, belgelerin eksik olması veya belgelerde önemsiz bilgi eksikliği bulunması halinde, İdarece belirlenen sürede isteklilerden bu eksik belge veya bilgilerin tamamlanması yazılı olarak istenir. Belirlenen bu sürede de eksik belge veya bilgileri tamamlamayan istekliler değerlendirme dışı bırakılır.
+
+Tekliflerin değerlendirilmesi ilk aşamada teknik değerlendirme, ikinci aşamada ise mali değerlendirme olmak üzere iki aşamada yapılır. Her iki değerlendirme sonrasında isteklilerin almış oldukları puanlar, teknik ve mali puan ağırlık katsayıları ile çarpılıp toplanmak suretiyle isteklilerin toplam puanı belirlenir.
+
+## Madde 22 — Teknik ve Mali Puan Ağırlık Katsayılarının Belirlenmesi
+
+**(Değişik:RG-08/11/2005-25987)**
+
+Teknik ve mali puan ağırlık katsayıları, alınacak hizmetin niteliği göz önüne alınarak teknik puan ağırlığının en az %51, en fazla %80 olması kaydıyla İdarece belirlenir ve İhale Şartnamesinde gösterilir.
+
+## Madde 23 — Teknik Değerlendirmede Dikkate Alınacak Kriterler
+
+Danışmanlık hizmet alımı ihalelerinde kullanılacak teknik değerlendirme kriterleri, benzer nitelik ve ölçekteki sözleşmeleri yerine getirme deneyimi, iş için önerilen yöntem, metodoloji, iş planı, takvim, organizasyon yapısı, yönetici kadrosu ile işi yürütecek teknik (kilit) personelin eğitim seviyesi ve mesleki nitelikleri esas alınarak tespit edilir.
+
+Teknik değerlendirme için, danışmanlık hizmeti alınacak işin kapsamı, karmaşıklığı ve önem derecesi dikkate alınarak tam puanlar İdarece belirlenir. İşin özelliğine göre, İdarece hangi kriterlere ve alt kriterlere ne şekilde puan verileceği ile puanlama yöntemi İhale Şartnamesinde somut ve anlaşılabilir olarak açıklanır.
+
+## Madde 24 — Teknik Puanlama
+
+Teknik puanlamanın yapılmasında aşağıda belirtilen süreç izlenir:
+
+Adayların teknik teklifleri her üye tarafından ayrı ayrı incelenerek İhale Şartnamesinde belirtilen kriterlere göre her istekliye ayrı ayrı puan verilir ve bu teknik puanlar Teknik Teklif Üye Değerlendirme Formuna yazılarak imzalanır.
+
+Üyelerin doldurduğu formlar biraraya getirilerek verilen puanlar Teknik Teklif Komisyon Değerlendirme Formuna geçirilir. İstekli bazında komisyon üyelerinin verdiği puanlar toplanarak üye sayısına bölünmek suretiyle isteklilerin teknik puanları bulunur. Teknik puanı İhale Şartnamesinde belirtilen asgari puanın altında kalan istekliler değerlendirme dışında bırakılır.
+
+Asgari puan şartını sağlayan isteklilerin puanları, en yüksek teknik puana sahip isteklinin puanına bölünüp 100’le çarpılarak isteklilerin itibari teknik değerlendirme puanı bulunur.
+
+(PTİ=100 x PT/PTmax ).
+
+Bu formülde;
+
+PTİ = İtibari teknik puanı,
+
+PT = Komisyon tarafından istekliye verilmiş asgari puanın üzerindeki ham teknik puanı,
+
+PTmax = Komisyon tarafından isteklilere verilen ham teknik puanların en yükseğini,
+
+İfade eder.
+
+## Madde 25 — Mali Tekliflerin Açılması ve Puanlama
+
+Belgeleri eksik olan veya istenilen şartlara uygun olmadığı tespit edilen ya da asgari teknik puanın altında puan alan isteklilerin teklifleri değerlendirme dışı bırakılır ve mali teklifleri açılmaksızın, kendilerine iade edilir. Asgari teknik puan ve üzerinde puan alan isteklilerin mali teklifleri açılır.
+
+İsteklilerin teklif ettikleri tutarlar (M), Mali Teklif Komisyon Değerlendirme Formuna kaydedilir.
+
+İstekliye ait mali teklif, işin özelliğine ve İhale Şartnamesinde belirtilmesi şartı ile tek bir toplam danışmanlık hizmet bedeli üzerinden yapılabileceği gibi, sabit bir bedelin yanında veya tek başına bir komisyon oranı veya başarı priminden de oluşabilir. Bu durumda mali teklif puanı, danışmanlık hizmet bedeli ile komisyon oranı için verilen ve İhale Şartnamesinde belirtilen katsayılar ile ağırlıklandırılarak hesaplanır.
+
+İstekliler arasında teklif edilen en düşük teklif fiyatı (Mmin) isteklilerin mali teklif fiyatına bölünüp yüzle (100) çarpılması sonucu her isteklinin mali teklif puanı (PM) bulunur.
+
+(PM= 100 x Mmin/M ).
+
+Bu formülde;
+
+PM = Mali teklif puanını,
+
+Mmin = İstekliler arasında teklif edilen en düşük fiyatı,
+
+M = İsteklinin teklif ettiği fiyatı,
+
+İfade eder.
+
+Ön yeterlik yapılmasının öngörüldüğü durumlarda, ihaleye davet edilecek adaylardan oluşan kısa liste en az üç adaydan oluşmalıdır.
+
+## Madde 26 — Toplam Puanların Belirlenmesi ve İhalenin Karara Bağlanması
+
+Teknik ve mali değerlendirmeye tabi tutulan isteklilere ait teknik ve mali puanlar ihale dokümanında belirlenen ağırlık katsayıları ile çarpılarak toplanır ve toplam puanlar tespit edilerek Teklif Genel Değerlendirme Formuna kaydedilir. İşin niteliğine göre toplam puanı en yüksek olan aday, iş tanımı, sözleşme şartları, personel ve mali teklifle ilgili görüşme yapmak üzere davet edilebilir. Ancak bu görüşme, ihale dokümanında yer alan şartları önemli ölçüde değiştirecek nitelikte olamaz. Bu görüşmede işin nasıl yapılacağı, kullanılacak personel, İdare’nin katkılarının neler olacağı, Sözleşmede gerekli ilave açıklamalar gibi hususlar görüşülür ve gerekirse bunlar üzerinde esasa ilişkin olmayan değişiklikler yapılabilir. Mali teklif üzerinde yapılan görüşmenin kapsamı sadece ödeme koşulları ve planı vb. gibi İdare lehine düzenlenmesine yönelik olabilir. Önerilen kilit personel zorunlu olmadıkça değiştirilemez. Böyle bir gereksinimin ortaya çıkması halinde önerilen personelin teklifte sunulanın dengi veya daha niteliklisi olması gereklidir.
+
+Görüşme sonucunda şartların netleştirilerek anlaşmaya varılması halinde, toplam puanı en yüksek olan bu istekli üzerine ihale yapılır.
+
+İhale komisyonunun ihaleye ilişkin kararı ihale yetkilisinin onayına sunularak üzerine ihale yapılan istekli sözleşme imzalamaya çağırılır.
+
+## Madde 27 — Bütün Tekliflerin Reddedilmesi ve İhalenin İptali
+
+İhale komisyonunun kararı üzerine İdare, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir.
+
+İhalenin iptal edilmesi halinde durum bütün isteklilere derhal bildirilir.
+
+İdare bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak, İdare isteklilerin/adayların talepte bulunması halinde, iptal edilme gerekçelerini talep eden isteklilere/adaylara bildirir.
+
+## Madde 28 — Kesinleşen İhale Kararının Bildirilmesi
+
+İhale sonucu, kararın Başkan tarafından onaylanmasından sonra, ihale üzerinde bırakılan dahil ihaleye teklif veren bütün isteklilere tebliğ edilir. Mektubun postaya verilmesini takip eden yedinci gün kararın istekliye tebliği tarihi sayılır.
+
+İhale kararlarının ihale yetkilisi tarafından iptal edilmesi durumunda ihalenin iptal edildiği isteklilere bildirilir.
+
+## Madde 29 — Sözleşmeye Davet
+
+İdarece aksi öngörülmedikçe, ihale üzerinde kalan istekli, tebliğ tarihini izleyen 10 (on) gün içinde kesin teminatı yatırmak suretiyle sözleşmeyi imzalamak durumundadır.
+
+## Madde 30 — İhalenin Sözleşmeye Bağlanması
+
+Danışmanlık hizmet ihalesine ilişkin sözleşme, ihale dokümanında belirtilen şartlara uygun olarak İdare tarafından hazırlanır. Bu sözleşme, ihale yetkilisi ile danışmanlık hizmet sunucusu tarafından imzalanır. İsteklinin ortak girişim olması halinde sözleşme ortak girişimin bütün ortakları tarafından imzalanacaktır.
+
+## Madde 31 — İsteklinin Sözleşme İmzalamaması
+
+**(Değişik:RG-08/11/2005-25987)**
+
+İhale üzerinde kalan isteklinin İdarece kendisine verilen süre içerisinde İhale Dokümanında yer alan şartları önemli ölçüde değiştirecek değişiklik talep ederek veya neden göstermeksizin, sözleşme imzalama yükümlülüğünü yerine getirmemesi halinde, protesto çekmeye ve hüküm almaya gerek kalmaksızın İdarece isteklinin varsa geçici teminatı İdareye gelir kaydedilir. Bu durumda, teklif fiyatının Başkan tarafından uygun görülmesi kaydıyla, ikinci en yüksek toplam puana sahip istekli ile görüşme yapılarak sözleşme imzalanabilir.
+
+İkinci en yüksek toplam puana sahip isteklinin de sözleşme imzalama yükümlülüğünü yerine getirmemesi halinde İdarece geçici teminatı gelir kaydedilir ve ihale iptal edilir.
+
+## Madde 32 — Sözleşme
+
+Sözleşmelerin hazırlanması, imzalanması, uygulanması, ödemeler ile diğer işlemler konusunda aşağıdaki hususlara uyulur:
+
+**1.** Danışmanlık hizmetleri ile ilgili işlerin, yapılan ihale sonucunda, Başkan’ın onayı ile alınacak karar gereğince yerine getirilmesi için yapılacak sözleşmeler, gerektiğinde konuya ilişkin ilgili birimin de görüşü alınmak suretiyle **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığınca hazırlanır.
+
+**2.** Gerek duyulduğu takdirde, tip sözleşme hazırlanabilir.
+
+**3.** Yurt dışından temin edilecek Danışmanlık hizmet alımlarında sözleşmeler Türkçe ve gerekiyorsa yabancı dilde de düzenlenebilir. Uyuşmazlık halinde Türkçe metnin geçerli olacağına dair sözleşmeye hüküm konulur.
+
+**4.** Sözleşme süreleri, piyasa şartlarının oluşmaması, uygulamadaki gecikmeler, özelleştirme programındaki değişiklikler, vb. gibi nedenlerle hizmetin bir kısmının veya tamamının alınamaması durumunda uzatılabilir. **(Mülga ikinci cümle:RG-08/11/2005-25987)**
+
+**5.** **(Değişik ilk cümle:RG-08/11/2005-25987)** Yapılacak sözleşmelerde alınacak hizmetin niteliğine uygun olarak aşağıdakilerden gerekli görülenler belirtilir:
+
+a) İşin adı, niteliği ve tanımı,
+
+b) İdarenin, ilgili birimin adı ve adresi,
+
+c) Danışman’ın adı veya ticaret unvanı, tebligata esas adresi,
+
+d) Ortak girişim olması halinde ortak girişimlere ve varsa alt danışmanlara ilişkin bilgiler ve sorumlulukları,
+
+e) Sözleşmenin bedeli ve süresi,
+
+f) Ödeme yeri ve şartlarıyla avans verilip verilmeyeceği, verilecekse şartları ve miktarı,
+
+g) Ulaşım, sigorta, vergi, resim ve harç giderlerinden hangisinin sözleşme bedeline dahil olacağı,
+
+h) Vergi, resim ve harçlar ile sözleşmeyle ilgili diğer giderlerin kimin tarafından ödeneceği,
+
+i) İdare tarafından gerekli görüldüğü takdirde eğitim v.b. destek hizmetlerine ait şartlar.
+
+j) Kesin teminat miktarı ile kesin teminatın iadesine ait şartlar.
+
+k) İşin yapılma yeri, teslim etme ve teslim alma şekil ve şartları.
+
+l) Gecikme halinde alınacak cezalar.
+
+m) Mücbir sebepler
+
+n) Süre uzatımı verilebilme şartları, sözleşme kapsamında yaptırılacak iş artışları ile iş eksilişi durumunda karşılıklı yükümlülükler.
+
+o) İşin kabul işlemlerine ilişkin şartlar.
+
+p) Gizlilik ilkeleri ve çıkar çatışmasına ilişkin hükümler.
+
+r) Sözleşmede değişiklik yapılma şartları.
+
+s) Sözleşmenin feshine ilişkin şartlar.
+
+t) Danışmanın sözleşme konusu iş ile ilgili çalıştıracağı personele ilişkin sorumlulukları.
+
+u) Varsa fikri ve sınai haklar ile ilgili hususlar.
+
+v) İhale dokümanında yer alan bütün belgelerin sözleşmenin eki olduğu.
+
+y) Anlaşmazlıkların çözümü.
+
+z) **(Ek:RG-08/11/2005-25987)** Diğer Hususlar/Özel Hükümler
+
+Yukarıda belirtilenler dışında temin edilecek danışmanlık hizmetinin özelliği ve niteliğine göre ihtiyaç duyulacak başka hükümlere de yer verilebilir.
+
+## Madde 33 — Teminatlar
+
+İhaleye giren isteklilerin tekliflerinin sonuçlarının garantisi olarak ve kendisine ihale yapılan yüklenicinin sözleşmeyi imzadan kaçınması veya taahhüdünü kısmen ya da tamamen imza ettiği sözleşmede belirtilen koşullara uygun bir biçimde yerine getirmemesi yahut aldığı avansı geri ödememesi durumunda, İdare’nin uğrayacağı zarara ve danışmanın borcuna mahsup edilmeksizin tamamen gelir yazılmak üzere cezai şart niteliğinde aşağıda yazılı teminatlar alınır.
+
+**Geçici teminat:** İdare tarafından talep edilmesi ve İhale Şartnamesinde yazılması durumunda, ihaleye giren adayların tekliflerinin ve bu tekliflerin sonuçlarının garantisi olmak üzere İhale Şartnamesinde gösterilen miktar ve oran üzerinden alınan teminattır. Geçici teminat oranı (varsa), teklif tutarının %3'ünden az olamaz. Komisyon oranı üzerinden yapılan ihalelerde ise, geçici teminat (varsa), İdare tarafından maktu olarak İhale Şartnamesinde belirtilir. İhale için verilen geçici teminatlardan, teminat mektubu şeklinde olanları teklif zarfının içinde komisyona sunulur. Teminat mektupları dışındaki teminatlar İdarenin göstereceği banka hesabına yatırılarak buna ilişkin makbuzlar teklif zarfına konulur. Dolayısıyla teminat mektupları dışındaki teminatlar komisyonlarca doğrudan teslim alınamaz.
+
+**Kesin teminat:** Kendisine ihale yapılan danışmanın taahhüdünü sözleşme ve İhale Şartnamesi hükümlerine uygun olarak yerine getirmesini sağlamak amacıyla yükleniciden alınan teminattır. Kesin teminat sözleşme bedelinin %6'sından az olamaz. Komisyon oranı üzerinden yapılan sözleşmelerde ise kesin teminat tutarı, İdare tarafından maktu olarak İhale Şartnamesinde belirtilir. Üzerine ihale yapılan Danışman ihale kararının kendisine tebliğinden itibaren İdare tarafından verilen süre içerisinde varsa geçici teminatını kesin teminata çevirmeye veya kesin teminat getirmeye çağrılır.
+
+**Avans teminatı:** Yapılacak Danışmanlık hizmeti alımı işleri için avans verilmesi uygun görülmüş ise, verilecek avans tutarı kadar avans teminatı alınır.
+
+## Madde 34 — Teminat Olarak Kabul Edilebilecek Değerler
+
+Teminat olarak kabul edilebilecek değerler aşağıda belirtilmiştir.
+
+**a)** Tedavüldeki Türk parası,
+
+**b)**İdarece belirlenecek döviz cinsi,
+
+**c)** Bankalar ve özel finans kurumları tarafından verilen teminat mektupları, bu tür teminat mektuplarının danışman ile hiç bir ilişkisi olmayan bir bankadan alınması gereklidir.
+
+**d)** Hazine Müsteşarlığınca ihraç edilen Devlet İç Borçlanma Senetleri ve bu senetler yerine düzenlenen belgeler,
+
+**e)** İlgili mevzuatına göre Türkiye'de faaliyette bulunmasına izin verilen yabancı bankaların düzenleyecekleri teminat mektupları,
+
+**f)** Türkiye dışında faaliyette bulunan banka veya benzeri kredi kuruluşlarının kontrgarantisi üzerine Türkiye'de faaliyette bulunan bankaların veya özel finans kurumlarının düzenleyecekleri teminat mektupları.
+
+(d) bendinde belirtilen senetler ve bu senetler yerine düzenlenen belgelerden nominal değere faiz dahil edilerek ihraç edilenler, anaparaya tekabül eden satış değeri üzerinden teminat olarak kabul edilir.
+
+Verilen teminatlar, teminat olarak kabul edilen diğer değerlerle değiştirilebilir. Her ne suretle olursa olsun İdarece alınan teminatlar haczedilemez ve üzerine ihtiyati tedbir konulamaz.
+
+Bu Yönetmelik kapsamında alınacak Teminat Mektubunun kapsam ve şekli İdarece belirlenir.
+
+## Madde 35 — Teminatların Gelir Kaydedilmesi
+
+Aşağıdaki hallerin varlığında teminatlar gelir kaydedilir.
+
+a) İhaleye katılmak üzere teklif veren istekli her ne nedenle olursa olsun, ihale yapılmadan önce ihaleden vazgeçtiği takdirde yatırmış olduğu geçici teminatı,
+
+b) Bu Yönetmeliğin 8 inci maddesi gereğince ihaleye katılamayacaklar arasında olduğu halde ihaleye katılan isteklinin geçici teminatı,
+
+c) İhaleyi kazanmış olan isteklinin, İdare tarafından verilen süre içinde, sözleşmeyi imzalamaktan imtina etmesi durumunda yatırdığı geçici teminatı,
+
+d) Kendisi ile sözleşme yapılan yüklenicinin sözleşmede belirtilen süre içinde işe başlamaması, acze düşmesi, iflas etmesi veya işi, iş programına göre yürütmemesi, bu Yönetmeliğin 8 inci maddesinde belirtilen ihaleye katılamayacaklar arasında olduğunun ortaya çıkması gibi hallerde sözleşme feshedilmesi üzerine kesin teminatı,
+
+e) Aldığı avansla ilgili işi hiç veya zamanında yapmayan, yahut da aldığı avansı zamanında kapatmayan yüklenicinin avans teminatının tamamı veya ilgili kısmı,
+
+İdare’nin zararına ve yüklenicinin borcuna mahsup edilmeksizin ve protesto çekmeye veya mahkemelerden hüküm almaya gerek olmaksızın İdare’ce gelir kaydedilir.
+
+## Madde 36 — Teminatların İadesi
+
+Danışmanlık hizmet alımı işini sonuçlandıran komisyonların kararına göre, en uygun teklifi veren ilk iki sıradaki firmanın dışında kalan firmaların geçici teminatları ihaleden hemen sonra iade edilebilir. Üzerine ihale yapılan firmanın geçici teminatı kesin teminatın alınmasından ve sözleşmenin imzalanmasından sonra, ikinci sıradaki firmanın geçici teminatı ise ihale üzerinde kalan firma ile sözleşme imzalanmasından sonra; kesin teminatlar, danışmanlık hizmetinin sağlam ve eksiksiz olarak tamamen teslim alınması veya tamamlanması, danışmanın bu işten dolayı İdarece herhangi bir borcunun veya yükümlülüğünün kalmadığının tespit edilmesinden sonra; avans teminatları ise verilen avansın tamamen kapatılmasından sonra, iade edilir.
+
+## Madde 37 — Süre Uzatımı Verilebilecek Haller ve Şartları
+
+**1) Mücbir Sebepler;**
+
+Mücbir sebep olarak kabul edilebilecek haller aşağıda belirtilmiştir:
+
+**a)** Doğal afetler.
+
+**b)** Kanuni grev.
+
+**c)** Genel salgın hastalık.
+
+**d)** Kısmî veya genel seferberlik ilânı.
+
+**e)** Gerektiğinde İdare tarafından belirlenecek benzeri diğer haller.
+
+Danışman’dan kaynaklanan bir kusurdan ileri gelmemiş ve taahhüdün yerine getirilmesinde engel nitelikte olan ve Danışman’ın bu engeli kaldırmaya gücünün yetmediği haller olan mücbir sebep hallerinde, engel halin meydana geldiği tarihi izleyen 20 (yirmi) gün içinde Danışman’ın İdare’ye yazılı olarak bildirimde bulunması ve bu durumun yetkili merciler tarafından kabul edilmesi kaydıyla sözleşme süresi gerektiği kadar uzatılabilir.
+
+Danışman süre uzatımı gerektiren nedenlerin ortaya çıkışından başlamak üzere yirmi gün içinde olayların ayrıntılarını, sonuçlarını ve iş süresinin ne kadar uzatılması gerektiğini, uzatılacak sürenin belirlenmesi o anda mümkün değilse nedenlerini belirten bir yazı ile İdare’ye başvuracak ve durumun açıklık kazanmasından sonra istediği süre uzatımını da derhal bildirecektir.
+
+**2) (Değişik:RG-08/11/2005-25987) İdare’den Kaynaklanan Sebepler;**
+
+İdarenin, sözleşmenin ifasına ilişkin olarak bu sözleşmede yer alan yükümlülüklerini Danışmanın kusuru olmaksızın öngörülen süreler içinde yerine getirememesi (özelleştirme programındaki değişiklikler, yer tesliminin, projelerin ve iş programının onaylanmasının, izin, ruhsat ve olurların gecikmesi, ödenek yetersizliği gibi) ve bu sebeple işin sözleşme süresi içinde bitirilmesinin mümkün olmaması halinde, taraflarca mutabakata varılarak sözleşme, en fazla **(Değişik ibare:RG-15/12/2009-27433)** 5 (beş) takvim yılına kadar, her seferinde en fazla bir takvim yılı uzatılabilecektir.
+
+## Madde 38 — İş Tanımında ve/veya Sözleşmede Değişiklik Yapılması
+
+Sözleşme imzalandıktan sonra, sözleşme bedelinin aşılmaması ve İdare ile Danışman’ın karşılıklı olarak anlaşması kaydıyla, sözleşme hükümleri ve/veya İş Tanımında; ödeme koşulları, iş programı ve işin kapsamı hususlarında değişiklik yapılabilir.
+
+## Madde 39 — Yasak Fiil ve Davranışlar
+
+Sözleşme hiçbir koşulda başkasına devredilemez. Sözleşmenin uygulanması sırasında aşağıda belirtilen fiil veya davranışlarda bulunmak yasaktır:
+
+**a)** Hile, vaat, tehdit, nüfuz kullanma, çıkar sağlama, anlaşma, irtikap, rüşvet suretiyle veya başka yollarla sözleşmeye ilişkin işlemlere fesat karıştırmak veya buna teşebbüs etmek.
+
+**b)** Sahte belge düzenlemek, kullanmak veya bunlara teşebbüs etmek.
+
+**c)** Sözleşme konusu işin yapılması veya teslimi sırasında hileli usuller kullanmak, kurallara aykırı, eksik, hatalı veya kusurlu işlem yapmak.
+
+**d)** Taahhüdünü yerine getirirken İdareye zarar vermek.
+
+**e)** Bilgi ve deneyimini İdarenin zararına kullanmak veya gizlilik hükümlerine aykırı hareket etmek.
+
+**f)** Mücbir sebepler dışında, ihale dokümanı ve sözleşme hükümlerine uygun olarak taahhüdünü yerine getirmemek.
+
+## Madde 40 — Danışmanın Sorumlulukları
+
+Danışmanın sorumlulukları aşağıda belirtilmiştir;
+
+**a)** Danışman, sözleşme çerçevesinde haksız rekabete yol açacak bir konumda olamaz.
+
+**b)** Danışman, teklif mektubunda hizmet için tahsis edeceğini beyan ettiği elemanlarını bu projede görevlendirir. İdare tarafından belirlenen hizmetlerin tamamı alınmadan, projede görevlendirilen eleman/elemanları İdare’nin onayını almadan değiştiremez ve yapılacak çalışmalarda ve raporların hazırlanmasında gerekli profesyonel özeni gösterir.
+
+**c)** Danışman, (varsa) teklif mektubunda belirttiği alt danışmanlar ile birlikte çalışacağını ve görevin tatminkar bir biçimde yerine getirilmesinde İdare’ye karşı tüm sorumluluğun (birlikte çalışmayı taahhüt ettiği, alt danışmanların mali yükümlülükleri de dahil olmak üzere) ve proje koordinasyonun kendisine ait olduğunu kabul eder.
+
+**d)** Danışman, İdare’ye sunmuş olduğu teklifinde yer alan, firmalara ait personel de dahil olmak üzere, “Projede Görev Alacak Personel Listesi”nde belirtilen ekip elemanlarında, İdare’nin onayı olmadan değişiklik yapamaz.
+
+**e)** Danışman, sözleşmede yer alan teklifleri doğrultusunda, proje ile ilgili çalışma planını içeren “Proje Zaman Çizelgesi” çerçevesinde hizmet verir. İdare, projenin gelişimi esnasında olabilecek gelişmeler ve doğabilecek ihtiyaçlar doğrultusunda “Çalışma Planı”nda değişiklik yapma hakkını saklı tutar.
+
+**f)** **(Değişik:RG-08/11/2005-25987)** Danışman, sözleşme çerçevesinde kendi kusurundan kaynaklanan
+
+- uygulama yanlışlığı,
+
+- koordinasyon ve denetim eksikliği,
+
+- işlerin, varsa kendi mevzuatlarındaki yükümlülükler dahil, yürürlükteki mevzuata uygun olarak yapılmaması,
+
+- meslek ahlakına uygun davranılmaması,
+
+- bilgi ve deneyimin İdare yararına kullanılmaması, varsa kendi mevzuatlarındaki sınırlamalar ve özel durumlar hariç,
+
+- hazırladığı tüm dokümanlarda yer alan bilgilerdeki hata ve noksanlıklardan ve benzeri nedenlerle meydana gelen zarar ve ziyandan doğrudan sorumludur ve İdarenin uğrayacağı maddi ve manevi zararları tazminle yükümlüdür.
+
+**g)** Danışman, herhangi bir sebepten dolayı Sözleşme’nin feshedilmesi durumunda, o tarihe kadar yapmış olduğu çalışmalarını kapsayan bilgileri içeren raporları, elektronik kopyalarını içeren bilgisayar disketleri ile birlikte İdare’ye verir.
+
+## Madde 41 — Bilgi ve Belgeleri Açıklama Yasağı
+
+Danışman, sözleşmenin ifası sırasında herhangi bir bilgi veya raporu, kamuoyuna, basına ve üçüncü sahıslara İdare’nin önceden yazılı izni olmadan veremez ve açıklama yapamaz. Bu taahhüde uyulmaması halinde sözleşme hiçbir ihbar ve ihtara gerek olmaksızın İdare tarafından tek taraflı olarak fesih edilir ve İdare’nin uğradığı kayıplar Danışman tarafından tazmin edilir. İdare bu konuda her türlü hukuki yola başvurma hakkını saklı tutar.
+
+## Madde 42 — Sözleşmenin Feshi
+
+Sözleşme aşağıdaki şartlarla fesh edilebilir.
+
+**a)** İdare’nin ihbarı ile;
+
+- Danışman’ın Sözleşme’de yerine getirmekle mükellef olduğu danışmanlık hizmetlerini, İdarece kabul edilebilir şekilde ve Sözleşme’de belirtilen şekil, şartlar ve süre içinde yerine getirmemesi (mücbir sebep halleri hariç tutulmak kaydıyla) ve İdare’nin en az yirmi gün süreli ihtarına rağmen aynı durumun devam etmesi,
+
+- Sözleşmenin uygulanması sırasında Danışman’ın 39 uncu maddede sayılan yasak fiil veya davranışlarda bulunduğunun tespit edilmesi,
+
+hallerinde, sözleşme feshedilebilir. Bu durumda ayrıca protesto çekmeye gerek kalmaksızın kesin teminat gelir kaydedilir.
+
+**b)** Danışman’ın ihbarı ile;
+
+Danışman, mücbir sebepler dışında İdare’den kaynaklanan kendi kontrolü dışındaki olaylar sebebi ile danışmanlık hizmetlerini yerine getirmezse bu durumu 5 (beş) gün içinde İdare’ye bildirir. İdare bu durumu 20 (yirmi) gün içinde gidermediği takdirde Danışman, Sözleşmeyi feshedebilecektir. Bu durumda, Danışman’ın fesih tarihine kadar hak etmiş olduğu danışmanlık hizmet bedeli, İdare’nin kabul etmesi suretiyle Danışman’a ödenecektir.
+
+## Madde 43 — Anlaşmazlıkların Çözümü
+
+Bu esaslar kapsamında yapılan ihalelerdeki anlaşmazlıkların çözümlenmesinde 4734 sayılı Kamu İhale Kanunu ile oluşturulan Kamu İhale Kurulu’na başvurulamaz. Anlaşmazlıkların çözümünde, Sözleşmede aksine bir hüküm bulunmadıkça Ankara mahkemeleri ve icra daireleri yetkilidir.
+
+## Madde 44 — Hizmetin Kabulü ve Ödemeye İlişkin İşlemler
+
+**(Değişik:RG-08/11/2005-25987)**
+
+Danışman tarafından verilen hizmetin, Sözleşme hükümlerine uygun olarak yapılması ve ödemeye esas hizmetlerin ifası, hizmeti alan İlgili Birim'in denetimi ve koordinasyonunda gerçekleşir. Danışman tarafından gönderilen ödeme talepleri İlgili Birim tarafından değerlendirilerek, hizmetin tam veya kısmi kabulü halinde faturalar, İlgili Birimce hizmetin alındığına ve ödemenin yapılmasının uygun olduğuna dair görüş ile birlikte ödeme yapılmak üzere **(Değişik ibare:RG-29/5/2022-31850)** Finansman Fon Yönetimi ve Sermaye Piyasaları Daire Başkanlığına gönderilir. Ödemeye ilişkin tüm işlemler **(Değişik ibare:RG-29/5/2022-31850)** Finansman Fon Yönetimi ve Sermaye Piyasaları Daire Başkanlığınca gerçekleştirilir. **(Değişik ibare:RG-29/5/2022-31850)** İhale ve Danışmanlık Hizmetleri Daire Başkanlığı, alınan hizmetlerin kapsamı ile gerçekleştirilen ödemeler hakkında ilgisine göre İlgili Birim ve/veya **(Değişik ibare:RG-29/5/2022-31850)** Finansman Fon Yönetimi ve Sermaye Piyasaları Daire Başkanlığınca bilgilendirilir.
+
+## Madde 45 — Yürürlükten Kaldırılan Hükümler
+
+29/11/2003 tarihli ve 25301 sayılı Resmi Gazete’de yayımlanan “Özelleştirme Uygulamalarında Değer Tespiti ve İhale Yönetmeliği”nin 14 üncü maddesi yürürlükten kaldırılmıştır.
+
+## Madde 46
+
+Bu Yönetmelikte hüküm bulunmayan hallerde 4046 sayılı Kanun hükümleri uygulanır.
+
+## Madde 47 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+## Madde 48 — Yürütme
+
+Bu Yönetmelik hükümlerini Özelleştirme İdaresi Başkanı yürütür.

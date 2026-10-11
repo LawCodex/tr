@@ -1,0 +1,209 @@
+---
+title: "MAKİNA VE KİMYA ENDÜSTRİSİ KURUMU YURTİÇİ SATIŞ YÖNETMELİĞİ"
+identifier: "7.5.4909"
+number: "4909"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2004-11-20
+official_gazette_date: 2004-11-20
+official_gazette_number: "25646"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4909&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# MAKİNA VE KİMYA ENDÜSTRİSİ KURUMU YURTİÇİ SATIŞ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak, Tanımlar, İlkeler ve Esaslar
+
+### Madde 1 — Amaç
+
+Bu Yönetmeliğin amacı, Kurum merkez ve fabrikalarının yurtiçi satış işlemlerini düzenlemektir.
+
+### Madde 2 — Kapsam
+
+Bu Yönetmelik hükümleri, Kurumun yurtiçi satış işlemleri için uygulanır. Kurumun bünyesi içindeki yardımcı siparişler, Türk Silahlı Kuvvetleri ve İçişleri Bakanlığı birimlerine yapılan satışlar ile kampanyalı satışlar, irsalat ve hurda satışları bu yönetmeliğin kapsamına girmez.
+
+### Madde 3 — Dayanak
+
+Bu Yönetmelik, 233 Sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname ile Makina ve Kimya Endüstrisi Kurumu Ana Statüsüne dayanılarak hazırlanmıştır.
+
+### Madde 4 — Tanımlar
+
+Bu Yönetmelikte geçen;
+
+a) MKE/Kurum/Teşekkül: Makina ve Kimya Endüstrisi Kurumu Genel Müdürlüğü merkez ve taşra teşkilatını,
+
+b) Yönetim Kurulu: Kurum Yönetim Kurulunu,
+
+c) Genel Müdür: Kurum Genel Müdürünü,
+
+d) Merkez Teşkilatı: Kurum merkezindeki birimleri,
+
+e) Taşra Teşkilatı: Kurum merkezi dışındaki işletme/fabrika müdürlükleri ile Bölge Müdürlüğünü,
+
+f) Birim: Belirli hizmetleri bünyesinde toplayıp yürüten ve/veya uygulayan teknik ve idari ihtisas bölümlerini,
+
+g) Sözleşme : Bir malın satışı ve/veya bir hizmetin yerine getirilmesine ilişkin olarak, Kurum ile alıcılar arasında imzalanan yazılı anlaşmayı,
+
+h) Stok için üretim : Müşterisi belli olmayan üretimi,
+
+ı) Sipariş üzerine üretim : Kurum ile müşteri arasında yapılan sözleşmeye göre imal edilen ürünleri,
+
+i) Ürün : Gerek stok için gerekse sipariş üzerine imal edilen mal ve/veya hizmetleri,
+
+j) Bayi : Kurum mamullerini tespit edilen esaslar dahilinde yapılacak bir özel anlaşmaya dayanarak satma yetkisine sahip gerçek veya tüzel kişiyi,
+
+k) Müşteri : Kurum ürünlerini ve/veya hizmetlerini satın alan gerçek veya tüzel kişileri,.
+
+l) Teminat : Alacağın garantisi için kapsam ve şekli 4734 sayılı Kamu İhale Kanununun 34 üncü maddesinde belirtilen ve borçlunun Kuruma verdiği değerleri,
+
+m) Pazar araştırması : Kurum ürünlerinin pazarlanması ile ilgili üretim ve talep ilişkisinde etkin olacak verilerin sistematik bir şekilde toplanması, kaydedilmesi ve analizini,
+
+ifade eder.
+
+### Madde 5 — İlkeler
+
+Kurumun ilgili birimleri, yapılacak satışlarda saydamlığı, eşit muameleyi, güvenilirliği, gerektiğinde gizliliği, satışların uygun koşullarda ve zamanında yapılmasını ve kaynakların verimli kullanılmasını sağlamakla sorumludur.
+
+### Madde 6 — Sorumluluk, Kontrol ve Rapor Verme Esasları
+
+Bu Yönetmelik hükümlerinin uygulanmasından tüm birim amirleri, uygulamanın izlenmesinden ise Pazarlama ve İhracat Dairesi Başkanlığı ile fabrika müdürlükleri sorumludur.
+
+Yönetmelik hükümlerinin gereğince uygulanıp uygulanmadığı, Teftiş Kurulu Başkanlığınca denetlenir ve gerektiğinde Genel Müdüre sunulmak üzere rapor düzenlenir.
+
+### Madde 7 — Değişiklik Esasları
+
+Bu Yönetmelikte, mevzuattaki değişiklikler, teknik gelişmeler, uygulamada ortaya çıkan noksanlıklar ve ihtiyaçlar gözönüne alınarak, Müfettişler ile uygulamadan sorumlu Daire Başkanlığının Yönetmeliğin geliştirilmesine yönelik raporlandırılmış teklifleri üzerine, Personel ve Organizasyon Dairesi Başkanlığı tarafından gerekli değişiklik işlemleri yerine getirilir.
+
+## İKİNCİ BÖLÜM — Özel Hükümler
+
+### Madde 8 — Satış Organları
+
+MKE satış organları şunlardır:
+
+a) Pazarlama ve İhracat Dairesi Başkanlığı,
+
+b) Fabrika Müdürlükleri,
+
+c) Kırıkkale Bölge Müdürlüğü,
+
+d) İstanbul Pazarlama Şube Müdürlüğü.
+
+### Madde 9 — Satış Planlarının Düzenlenmesi
+
+Satış Planları, Genel Müdürlük iç düzenlemelerine uygun olarak yapılır.
+
+### Madde 10 — Müşteri ve Bayi Siparişleri
+
+Kurum işletme bütçesinde yer alan mamuller ile fabrikaların imal ve üretim imkanları gözönünde tutulmak suretiyle müşteri ve bayi siparişlerinin kabul veya reddine Pazarlama ve İhracat Dairesi Başkanlığı ve fabrika müdürlükleri yetkilidir.
+
+Pazarlama ve İhracat Dairesi Başkanlığı ve ilgili fabrika müdürlüğü satış konusu malları imal ettirmek veya satın almak isteyen müşterilere ve bayilere malın ,
+
+a) Nitelikleri,
+
+b) Fiyat ve ödeme şartları,
+
+c) Teslim süresi ve şartları,
+
+d) Tesellüm yeri ve şartları,
+
+e) Müşterinin ileri sürdüğü şartların kabul edilip edilmeyeceği,
+
+f) Özel şartlar,
+
+g) Genel satış şartları,
+
+h) Sigorta şekil ve masrafları,
+
+ı) Muayene şekli ve reklamasyon süresi,
+
+i)Ambalajı,
+
+j) Mücbir sebepleri,
+
+k) Opsiyon,
+
+ve siparişin gerektirdiği diğer hususları en kısa zamanda bildirir.
+
+### Madde 11 — Siparişlerin Fabrikalara Gönderilmesi
+
+Siparişin kesinleşmesi halinde, Pazarlama ve İhracat Dairesi Başkanlığı ilgili şube müdürlükleri kanalı ile siparişlerin fabrikalara noksansız ve zamanında iletilmesini sağlayacak bütün önlemleri alır, bunun için gerekli her türlü formülleri hazırlar ve kullanır.
+
+Alınan siparişlerde herhangi bir olağanüstülük ve mücbir sebep (zorlayıcı neden) olmadıkça müşteriler ve bayilerle mutabakata varılan hususlara uyulmamasından ilgililer sorumludur.
+
+### Madde 12 — Yıllık Üretim Planı Dışında Ek Stok Siparişi Açılması
+
+Kurum işletme bütçesinin Yönetim Kurulunca onayından sonra bütçedeki miktarlar üzerinden fabrikalara stok siparişi olarak intikal ettirilen mamuller için ek stok siparişi verilmesine veya mevcut stok siparişinin azaltılmasına gerek görüldüğü durumlarda fabrika müdürünün talebi ve Genel Müdürlüğün onayı gerekir.
+
+### Madde 13 — Ürün Geliştirme ve Etüt İşleri :
+
+Pazarlama ve İhracat Dairesi Başkanlığınca ve fabrika müdürlüğünce yapılan piyasa etütlerinden Kurum üretim programında olmayan yeni bir ürünün imali söz konusu olduğunda konu, AR-GE Dairesi Başkanlığına, bu başkanlıkça gerekli çalışma yapıldıktan sonra da ilgili fabrikaya iletilir.
+
+Mevcut ürünlerin müşteri talepleri veya ihtiyaçları doğrultusunda geliştirilmesi işlemleri fabrika müdürlüklerince yürütülür. Gerek görüldüğü taktirde resmi veya özel kuruluşlarla Ar-Ge çalışmaları için işbirliği yapılabilir.
+
+Ürün geliştirilmesi tamamlanıp, etütler olumlu neticelendiği takdirde ilgili fabrika, sipariş alınması için Pazarlama ve İhracat Dairesi Başkanlığından talepte bulunur.
+
+### Madde 14 — Satış Programının İzlenmesi
+
+Fabrikalar aylık, satış, teslimat ve stok durumlarını, bir sonraki ayın 10 uncu gününe kadar Mali İşler Dairesi Başkanlığına ve Pazarlama ve İhracat Dairesi Başkanlığına ticaret müdürlükleri kanalı ile gönderir.
+
+### Madde 15 — Satış Fiyatlarının Tespiti
+
+Satış fiyatları aşağıda belirtildiği gibi tespit edilir.
+
+a) Afişe satış fiyatları, 233 sayılı Kamu İktisadi Teşebbüsleri Hakkındaki Kanun Hükmünde Kararnamenin 35 inci maddesi gereğince fabrika müdürlüklerinin önerisi, Pazarlama ve İhracat Dairesi Başkanlığının uygun görüşü ve Genel Müdürün onayı ile yürürlüğe konulur.Afişe satış fiyatları ve şartlarında yapılacak genel değişikliklerde de aynı yöntem uygulanır.
+
+b) Fabrika Müdürleri, Genel Müdürlük genelgeleri çerçevesinde afişe fiyatı olmayan ürünlerin satış fiyatlarının tespitinde yetkilidir.
+
+### Madde 16 — Satış Şartları
+
+Satışlar, yönetmelik hükümleri çerçevesinde ticari usullere uygun ve ticari basiretle hareket edilerek Pazarlama ve İhracat Dairesi Başkanlığı ve fabrika müdürlüklerince yapılır. Bu satışlarda uygulanacak genel ve özel satış şartları Pazarlama ve İhracat Dairesi Başkanlığı ile fabrika müdürlüklerince birlikte saptanır ve satış organlarınca müşterilere duyurulur.
+
+### Madde 17 — Satış Şekilleri :
+
+Satış şekilleri aşağıda belirtilmiştir.
+
+a) Peşin Satışlarda : Ödemenin teslimden önce yapılması şarttır. Ancak Resmi kurum ve kuruluşlara yapılacak satışlarda, bu kurum ve kuruluşların mevzuatı da gözönüne alınmak suretiyle satış akdi yapılır. Bu kurum ve kuruluşlara yapılan satışlar peşin satış olarak kabul edilir.
+
+b) Kredili Satışlarda: Piyasa şartları gereği veya herhangi bir istek karşısında, Pazarlama ve İhracat Dairesi Başkanlığınca ve fabrika müdürlüklerince Kurum satış politikası gözönünde bulundurularak 121 gün vadeye kadar kredili satış yapılabilir. Piyasa durumu ve ürünün özelliği gözönüne alınarak daha uzun vadeli satış yapmaya Yönetim Kurulunca saptanan ilkeler içinde Genel Müdürlük yetkilidir. Yapılacak kredili satışlarda özel sektör ve gerçek kişilerden kurum alacağının garanti ve tahsilinin temini için 4734 Sayılı Kamu İhale Kanununda belirtilen teminatlardan birisinin alınması şarttır.
+
+Kredili satışlar için uygulanacak şartlar ve gider karşılığı normal satış fiyatlarına eklenecek vade farklarının oranı, Fabrika Müdürlüklerinin talebi, Pazarlama ve İhracat Dairesi Başkanlığının teklifi ve Genel Müdürlüğünün onayı ile saptanır.
+
+c) Kademeli Satışlarda: Fabrika Müdürlüklerince lüzum görüldüğü hallerde, Kurumdan belli bir miktar veya bedel tutarının üzerinde alım yapan müşterilere, 4736 sayılı “Kamu Kurum ve Kuruluşlarının Ürettikleri Mal ve Hizmet Tarifeleri ile Bazı Kanunlarda Değişiklik Yapılması Hakkındaki Kanun” dahilinde Genel Müdürlüğün Oluru ile kademeli fiyatla satış yapılabilir.
+
+d) İhaleye iştirak suretiyle satışlarda: İhtiyaçlarını 4734 sayılı Kamu İhale Kanunu ile 4735 sayılı Kamu İhale Sözleşmeleri Kanununa göre temin eden resmi kurum ve kuruluşları ile özel firmaların yapacakları ihalelere, Pazarlama ve İhracat Dairesi Başkanlığı ile birlikte fabrika müdürlükleri iştirak eder. Pazarlama ve İhracat Dairesi Başkanlığı ihale gereği istenen teminatı Mali İşler Dairesi Başkanlığı kanalı ile yatırmaya ve gerekli masrafları yapmaya yetkilidir.
+
+### Madde 18 — Zorunlu Değişiklikler
+
+Müşterilerle mutabakata esas olacak şartların, olağanüstü hallerde değişmesi gerektiğinde fabrika müdürlükleri, muhtemel üretim ve teslimat gecikmeleriyle diğer değişiklikleri, zamanında ve zorunlu sebeplerle birlikte Pazarlama ve İhracat Dairesi Başkanlığına bildirmekle yükümlüdürler.
+
+### Madde 19 — Satışla İlgili Her Türlü Tahsilat İşlemleri
+
+Satışla ilgili tahsilat, ihbar ve alacakların takibi ve gerekli mahsup işlemleri, fabrika müdürlüklerine bağlı mali işler müdürlüklerince, Genel Müdürlükte ise Mali İşler Dairesi Başkanlığına bağlı Alacakları Takip Şubesi Müdürlüğünce yapılır.
+
+### Madde 20 — Pazarlama Faaliyetleri
+
+Pazarlama faaliyetleri Pazarlama ve İhracat Dairesi Başkanlığı ve fabrika müdürlüklerince yürütülür.
+
+### Madde 21 — Çeşitli Hükümler
+
+Kurum mensubu olanlar hiçbir surette Kurum satış ihalelerine katılamazlar, Kurumla ticaret amacıyla ilişkide bulunamazlar ve herhangi bir şekilde Kurumdan ayrılan mensuplar, en az üç yıl süreyle Kurumla ticari amaçla temasta bulunamazlar.
+
+## ÜÇÜNCÜ BÖLÜM — Son Hükümler
+
+### Geçici Madde 1
+
+Bu Yönetmeliğin yürürlüğe girdiği tarihten önce başlanılmış işler, mevcut protokol ve sözleşmelere göre sonuçlandırılır.
+
+### Madde 22 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### Madde 23
+
+Bu Yönetmelik hükümlerini Makina ve Kimya Endüstrisi Kurumu Genel Müdürü yürütür.

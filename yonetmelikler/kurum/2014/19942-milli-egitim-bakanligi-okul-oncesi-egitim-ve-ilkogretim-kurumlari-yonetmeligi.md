@@ -686,7 +686,7 @@ yapılır.
 
 ### MADDE 47 — Okul rehberlik öğretmeni
 
-***(Başlığı ile Birlikte Değişik:RG-16/6/2016-29744) (3)***
+**(Başlığı ile Birlikte Değişik:RG-16/6/2016-29744) (3)***
 
 *(1) Okul öncesi eğitim ve ilköğretim kurumlarında oluşturulan rehberlik* ***(Mülga ibare:RG-10/7/2019-30827)*** (…) *servislerinde görev yapan rehberlik öğretmenleri, ilgili mevzuat hükümleri doğrultusunda görev ve sorumluluklarını yerine getirir.*
 

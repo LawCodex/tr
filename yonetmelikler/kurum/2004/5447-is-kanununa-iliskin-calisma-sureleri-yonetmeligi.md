@@ -1,0 +1,105 @@
+---
+title: "İŞ KANUNUNA İLİŞKİN ÇALIŞMA SÜRELERİ YÖNETMELİĞİ"
+identifier: "7.5.5447"
+number: "5447"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2004-04-06
+official_gazette_date: 2004-04-06
+official_gazette_number: "25425"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5447&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# İŞ KANUNUNA İLİŞKİN ÇALIŞMA SÜRELERİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam ve Dayanak
+
+### Madde 1 — Amaç ve Kapsam
+
+Bu Yönetmeliğin amacı, çalışma sürelerinin uygulanmasına ilişkin esasları düzenlemektir.
+
+### Madde 2 — Dayanak
+
+Bu Yönetmelik, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 63 üncü maddesine dayanılarak hazırlanmıştır.
+
+## İKİNCİ BÖLÜM — Genel Hükümler
+
+### Madde 3 — Çalışma Süresi
+
+Çalışma süresi, işçinin çalıştırıldığı işte geçirdiği süredir. İş Kanununun 66 ncı maddesinin birinci fıkrasında yazılı süreler de çalışma süresinden sayılır. Aynı Kanunun 68 inci maddesi uyarınca verilen ara dinlenmeleri ise, çalışma süresinden sayılmaz.
+
+Ara dinlenmeleri, iklim, mevsim, yöredeki gelenekler ve işin niteliği göz önünde tutularak, yirmidört saat içinde kesintisiz oniki saat dinlenme süresi dikkate alınarak düzenlenir. 4857 sayılı İş Kanununun 69 uncu maddesinin son fıkrası hükmü saklıdır.
+
+### Madde 4 — Haftalık Normal Çalışma Süresi
+
+Genel bakımdan çalışma süresi haftada en çok kırkbeş saattir. Aksi kararlaştırılmamışsa bu süre, işyerlerinde haftanın çalışılan günlerine eşit ölçüde bölünerek uygulanır.
+
+Haftanın iş günlerinden birinde kısmen çalışılan işyerlerinde, bu süre haftalık çalışma süresinden düşüldükten sonra, çalışılan sürenin çalışılan gün sayısına bölünmesi suretiyle günlük çalışma süreleri belirlenir.
+
+Günlük çalışma süresi her ne şekilde olursa olsun 11 saati aşamaz.
+
+Bir işçinin bu sınırları aşan sürelerle çalıştırılmasında;
+
+a) 4857 sayılı İş Kanununun 41, 42 ve 43 üncü maddeleri,
+
+b) 79 sayılı Milli Korunma Suçlarının Affına, Milli Korunma Teşkilat, Sermaye ve Fon Hesaplarının Tasfiyesine ve Bazı Hükümler İhdasına Dair Kanunun 6 ncı maddesi
+
+hükümleri uygulanır.
+
+**(Ek fıkra:RG-25/8/2017-30165)** Yer altı maden işlerinde çalışan işçilerin çalışma süresi; günde en çok yedi buçuk, haftada en çok otuz yedi buçuk saattir.
+
+### Madde 5 — Denkleştirme Esasına Göre Çalışma
+
+Tarafların yazılı anlaşması ile haftalık normal çalışma süresi, işyerinde haftanın çalışılan günlerine günde onbir saati aşmamak koşuluyla farklı şekilde dağıtılabilir. Bu halde, yoğunlaştırılmış iş haftası veya haftalarından sonraki dönemde işçinin daha az sürelerle çalıştırılması suretiyle, toplam çalışma süresi, çalışması gereken toplam normal süreyi geçmeyecek şekilde denkleştirilir.
+
+Denkleştirme iki aylık süre içinde tamamlanacak, bu süre toplu iş sözleşmeleri ile dört aya kadar artırılabilecektir. **(Ek cümle:RG-25/8/2017-30165)** Turizm sektöründe dört aylık süre içinde işçinin haftalık ortalama çalışma süresi, normal haftalık çalışma süresini aşamaz; denkleştirme süresi toplu iş sözleşmeleri ile altı aya kadar artırılabilir.
+
+Parça başına, akort veya götürü gibi yapılan iş tutarına göre ücret ödenen işlerde de bu Yönetmeliğin denkleştirmeye ilişkin hükümleri uygulanır.
+
+Denkleştirme dönemi içinde günlük ve haftalık çalışma süreleri ile denkleştirme süresi uygulamasının başlangıç ve bitiş tarihleri işverence belirlenir.
+
+### Madde 6 — Kısmi Süreli Çalışma
+
+İşyerinde tam süreli iş sözleşmesi ile yapılan emsal çalışmanın üçte ikisi oranına kadar yapılan çalışma kısmi süreli çalışmadır.
+
+### Madde 7 — Telafi Çalışması
+
+Zorunlu nedenlerle işin durması, ulusal bayram ve genel tatillerden önce veya sonra işyerinin tatil edilmesi veya benzer nedenlerle işyerinde normal çalışma sürelerinin önemli ölçüde altında çalışılması veya tamamen tatil edilmesi ya da işçinin talebi ile kendisine 4857 sayılı İş Kanunu, iş sözleşmeleri ve toplu iş sözleşmeleri ile öngörülen yasal izinleri dışında izin verilmesi hallerinde, işçinin çalışmadığı bu sürelerin telafisi için işçiye yaptırılacak çalışma, telafi çalışmasıdır.
+
+Telafi çalışması yaptıracak işveren; bu çalışmanın 4857 sayılı İş Kanununun 64 üncü maddesinde sayılan nedenlerden hangisine dayandığını açık olarak belirtmek, hangi tarihte çalışmaya başlanacağını, ilgili işçilere bildirmek zorundadır.
+
+Telafi çalışması, kaynağını oluşturan zorunlu nedenin ortadan kalkması ve işyerinin normal çalışma dönemine başlamasını takip eden 2 ay içerisinde yaptırılır. Telafi çalışması, günlük en çok çalışma süresi olan 11 saati aşmamak koşulu ile günde 3 saatten fazla olamaz. Telafi çalışması, tatil günlerinde yaptırılamaz.
+
+### Madde 8 — Günlük Çalışma Süresinin Duyurulması
+
+Günlük çalışmanın başlama ve bitiş saatleri ile dinlenme saatleri işyerlerinde işçilere uygun araçlarla duyurulur.
+
+Yapılan işlerin niteliğine göre, işin başlama ve bitiş saatleri işçiler için farklı şekilde düzenlenebilir.
+
+### Madde 9 — Çalışma Süresinin Belgelenmesi
+
+İşveren, işçilerin çalışma sürelerini uygun araçlarla belgelemek zorundadır.
+
+### Madde 10 — Günlük Çalışma Süresinden Daha Az Çalışılacak İşler
+
+**(Mülga:RG-25/8/2017-30165)**
+
+### Madde 11 — Sınırlandırma
+
+Çalışma süreleriyle ilgili olarak öngörülen sınırlamalar, işyerleri ya da yürütülen işlere değil, işçilerin şahıslarına ilişkindir.
+
+## ÜÇÜNCÜ BÖLÜM — Yürürlük ve Yürütme
+
+### Madde 12 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### Madde 13 — Yürütme
+
+Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.

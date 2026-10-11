@@ -1,0 +1,159 @@
+---
+title: "TÜRKİYE ESNAF VE SANATKARLAR SİCİL GAZETESİ YÖNETMELİĞİ"
+identifier: "7.5.9431"
+number: "9431"
+type: regulation
+category: "Kurum ve Kuruluş Yönetmeliği"
+jurisdiction: tr
+language: tr
+date: 2005-09-16
+official_gazette_date: 2005-09-16
+official_gazette_number: "25938"
+dustur_tertip: "5"
+status: in_force
+consolidated: true
+source: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9431&MevzuatTur=7&MevzuatTertip=5"
+retrieved: 2026-10-12
+---
+
+# TÜRKİYE ESNAF VE SANATKARLAR SİCİL GAZETESİ YÖNETMELİĞİ
+
+## BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### Madde 1 — Amaç
+
+Bu Yönetmeliğin amacı; Türkiye Esnaf ve Sanatkârlar Sicil Gazetesinin yayımlanması ve idare şekli, giderlerinin karşılanması, gelirlerinin tahsili ve sarfı, ilan tarifesi, kayıtlarının tutulması, muamelat ve muhasebe işlemlerinin yürütülmesi usul ve esasları ile gazetenin çıkarılmasına ait esasları tespit, yayım işlemlerini gözetmek, denetlemek ve Bakanlık ile Konfederasyon arasındaki müşterek çalışmaları koordine etmek üzere kurulan komitenin çalışma usul ve esaslarını düzenlemektir.
+
+### Madde 2 — Kapsam
+
+Bu Yönetmelik, 7/6/2005 tarihli ve 5362 sayılı Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununun 70 inci maddesine dayanılarak Sanayi ve Ticaret Bakanlığının gözetim ve denetimi altında, Türkiye Esnaf ve Sanatkârlar Konfederasyonu tarafından Bakanlık e-esnaf ve sanatkar veritabanı kullanılarak Internet ortamında yayımlanacak Türkiye Esnaf ve Sanatkârlar Sicil Gazetesini kapsar.
+
+### Madde 3 — Dayanak
+
+Bu Yönetmelik, 5362 sayılı Kanunun 70 ve 75 inci maddelerine dayanılarak hazırlanmıştır.
+
+### Madde 4 — Tanımlar
+
+Bu Yönetmelikte geçen;
+
+Bakanlık: Sanayi ve Ticaret Bakanlığını,
+
+Gazete: Türkiye Esnaf ve Sanatkârlar Sicil Gazetesini,
+
+Konfederasyon: Türkiye Esnaf ve Sanatkârlar Konfederasyonunu,
+
+Sicil: Esnaf ve Sanatkar Sicil Müdürlüklerini,
+
+Müdürlük: Türkiye Esnaf ve Sanatkârlar Sicil Gazetesi Müdürlüğünü,
+
+Bakanlık e-esnaf ve sanatkâr veri tabanı: Esnaf ve sanatkâr meslek kuruluşlarının işlemlerinin ve verilecek hizmetlerin elektronik ortamda yapılmasını sağlayan sistemi,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM — Gazetenin Yönetimi
+
+### Madde 5 — Gazetenin yayımlanması ve denetimi
+
+Sicile kayıt edilen ve ilanı gereken hususlar, Bakanlığın gözetim ve denetimi altında Konfederasyon tarafından Bakanlık e-esnaf ve sanatkâr veri tabanı kullanılarak elektronik ortamda Türkiye Esnaf ve Sanatkârlar Sicil Gazetesinde yayımlanır.
+
+### Madde 6 — Komite
+
+Gazetesinin çıkarılmasına ilişkin esasları tespit, yayım işlerini sevk ve idare etmek ve Bakanlık ile Konfederasyon arasındaki çalışmaları koordine etmek üzere Sicil Gazetesi komitesi kurulmuştur.
+
+Komite, Bakanlık Müsteşarının başkanlığında, ilgili müsteşar yardımcısı, Esnaf ve Sanatkârlar Genel Müdürü ve genel müdür yardımcıları ile Konfederasyon genel sekreteri, genel sekreter yardımcısı ve Sicil Gazetesi müdüründen oluşur. Komite ayda en az bir defa veya başkanın çağrısı üzerine her zaman toplanabilir.
+
+Kararlar, toplantıya katılanların oy çokluğu ile alınır. Oylarda eşitlik halinde başkanın bulunduğu taraf çoğunluğu sağlamış sayılır. Toplantılarda çekimser oy kullanılamaz. Müsteşarın bulunmadığı toplantılarda, müsteşar yardımcısı, onun da bulunmaması halinde genel müdür toplantıya başkanlık eder.
+
+Komite üyelerine, gazete gelirlerinden karşılanmak üzere huzur hakkı verilir. Huzur haklarının net aylık miktarı, onaltı yaşından büyükler için uygulanan aylık asgari ücretin brüt tutarıdır.
+
+### Madde 7 — Gazete müdürlüğü
+
+Gazetenin basımı, yayımı, dağıtımı, arşivlenmesi, gazetede yayımlanan bilgilerin ve diğer lüzumlu kayıtların tutulması ve gazete ile ilgili her türlü işin yönetimi ve takibi Gazete Müdürlüğünün sorumluluğundadır.
+
+Müdürlük; Komite tarafından alınan kararların eksiksiz olarak uygulanmasıyla görevlidir ve bünyesinde hizmetlerin gerektirdiği sayıda personel istihdam edilir.
+
+Müdürlük, faaliyetine ilişkin konulardaki resmi makamlar ile gerçek ve tüzel kişilerle yazışmalarını Konfederasyon vasıtasıyla yapabilir.
+
+Konfederasyon gazetenin yayımlanması ile ilgili hizmetlerin bir kısmını veya tamamını kendisi yapar veya yaptırır.
+
+## ÜÇÜNCÜ BÖLÜM — Gazetenin Gelir ve Giderleri
+
+### Madde 8 — Gazetenin gelirleri
+
+Gazetenin gelirleri, gazetede yayımlanacak ilanların ücreti ile gazetenin satış bedelinden meydana gelir.
+
+Gazetenin satış bedeli ile gazetede yayımlanacak ilan ücretleri, Komitenin teklifi ve Bakanlığın onayı ile yürürlüğe girecek bir tarife ile belirlenir. Tarifede yapılacak değişiklikler, tarifenin gazetede yayımlandığı tarihten ongün (10) gün sonra yürürlüğe girer.
+
+Gazete ilan ücretleri sicil müdürü tarafından elektronik ortamda tahsil edilir ve gazete hesabına elektronik ortamda aktarılır.
+
+Sicil müdürü tarafından öldüğü belirlenen ve varisleri tespit edilemeyen esnaf ve sanatkârların sicil kayıtlarının silinmesi ve bu hususun Sicil Gazetesinde ilanı doğrudan ve ücretsiz olarak yapılır.
+
+### Madde 9 — Gazetenin giderleri
+
+Gazetenin giderleri, gazetenin yayımlanması için yapılan harcamalar ve gazetenin yayımlanıp arşivlendiği Bakanlık e-esnaf ve sanatkâr veri tabanı giderleri ile Komite üyelerine ödenen huzur hakları, komite kararıyla yapılacak eğitim, araştırma, inceleme giderleri, personel ve diğer idare masraflarından oluşur.
+
+### Madde 10 — Muhasebe
+
+Gazetenin muhasebesi Konfederasyon Bütçe ve Muhasebe Yönetmeliği hükümlerine göre Konfederasyon Muhasebe Müdürlüğünce ayrı bir hesapta tutulur.
+
+Gazetenin mali sorumluluğu, kâr ve zararı Konfederasyona aittir.
+
+## DÖRDÜNCÜ BÖLÜM — İlanlar
+
+### Madde 11 — İlanların yayımı ve muhtevası
+
+Gazetede, mevzuatın sicile tescilini zorunlu kıldığı hususlar yayımlanır.
+
+Gazetede yayımlanacak ilanlar, sicil tarafından gazetenin internet ortamında Bakanlık e-esnaf ve sanatkâr veritabanındaki modülüne elektronik ortamda gönderilir. Bu husustaki düzenlemeler Bakanlık tarafından yapılır.
+
+Yayımlanması zorunlu olmayan ilanlar ile özel ilanlar, yayımlanması zorunlu olan ilanlardan sonra gelmek şartıyla, ücreti ödenmek kaydıyla ve Komite tarafından belirlenecek koşullar çerçevesinde gazetede yayımlanabilir.
+
+İlan bedelleri ve gazete ücretleri sicil tarafından işlemin yapıldığı anda gazetenin banka hesabına aktarılır. Bu husustaki düzenlemeler Bakanlık tarafından yapılır.
+
+Bedeli tam olarak ödenmeyen ilanlar yayımlanmaz ve ilgililere iade olunur.
+
+### Madde 12 — İlanların yayımlanma süresi
+
+Gazete müdürlüğüne gönderilen ilanlar geldiği andan itibaren en geç iki gün içinde gazetede yayımlanır.
+
+İlanın yayımlanmaması müdürlüğün ihmal ve kusurundan doğmuşsa ilgililerin kanıtlanmış zararı sorumlulara rücu edilmek kaydıyla Konfederasyonca ödenir.
+
+## BEŞİNCİ BÖLÜM — Gazetenin Arşivlenmesi ve Dağıtımı
+
+### Madde 13 — Gazetenin arşivlenmesi
+
+Müdürlük, gazetenin her sayısını, görüntü olarak erişebilmeye ve aslına uygun olarak çoğaltmaya imkan tanıyan sistemle elektronik ortamda arşivler.
+
+Arşivlenen gazeteler, resmi dairelerin ve gazete müdürlüğünce ilgisi olduğu kanısına varılan diğer ilgililerin tetkikine açık tutulur.
+
+Sicil Gazetesinin elektronik ortamda yayımlanmaya başlanmasından önce yayımlanmış nüshaları Bakanlık ve Konfederasyonun gözetim ve işbirliğinde elektronik ortama aktarılır.
+
+Mahkemeler, resmi makamlar ve ilgililerce istenen nüshalar Müdürlükçe veya Müdürlüğün yetkili kılacağı ve kendisine elektronik iletişim ağları veya diskler vasıtasıyla iletilmiş bulunan sicil tarafından onaylanarak istek sahiplerine verilir.
+
+### Madde 14 — Gazetenin dağıtımı
+
+Gazetenin ilgili sayfaları, talep eden resmi makamlara il düzeyinde sicil, ülke genelinde ise müdürlük tarafından ücretsiz olarak verilir.
+
+Gazetenin ilgili sayfası, ilan sahiplerine ve Bakanlığın lüzum göstereceği makam ve mercilere sicil tarafından bedelsiz olarak verilir.
+
+İlan sahibi iki nüshadan fazla talepte bulunursa, bedelini sicile ödemek suretiyle sicilden alabilir.
+
+Sicil bu nüshaları elektronik ortamda alır ve onaylamak suretiyle ilgililerine verir.
+
+## ALTINCI BÖLÜM — Çeşitli ve Son Hükümler
+
+### Madde 15 — Gelen ve giden evrak
+
+Müdürlükçe, gelen ve giden evrak defteri ile gerekli görülen diğer yardımcı defterler tutulur. Bu defterlerin elektronik ortamda tutulması halinde, bunlara ilişkin kayıtlar yedeklenerek saklanır.
+
+### Madde 16 — Yürürlükten kaldırılan yönetmelik
+
+24/11/1983 tarihli ve 18231 sayılı Resmî Gazete’de yayımlanan Türkiye Esnaf ve Sanatkârlar Sicil Gazetesi Yönetmeliği yürürlükten kaldırılmıştır.
+
+### Madde 17 — Yürürlük
+
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+### Madde 18 — Yürütme
+
+Bu Yönetmelik hükümlerini Sanayi ve Ticaret Bakanı yürütür.

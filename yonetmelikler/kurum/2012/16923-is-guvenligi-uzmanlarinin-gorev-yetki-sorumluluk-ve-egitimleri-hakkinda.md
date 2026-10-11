@@ -672,7 +672,7 @@ c) Kurum ve kuruluşlarda personel istihdamı zorunluluğu.
 
 ### GEÇİCİ MADDE 2 — Sınıflar arası yükselme(3)(6)
 
-***(Ek: RG-31/1/2013-28545)(1) (Başlığıyla birlikte değişik: RG-11/10/2013-28792)(5)***
+**(Ek: RG-31/1/2013-28545)(1) (Başlığıyla birlikte değişik: RG-11/10/2013-28792)(5)***
 
 *(1) (C) sınıfı iş güvenliği uzmanlığı belgesine sahip olanlardan;*
 
